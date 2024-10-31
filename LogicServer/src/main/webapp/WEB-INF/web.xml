@@ -1,0 +1,12 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+
+<web-app>
+    <servlet>
+        <servlet-name>TestHttpServlet</servlet-name>
+        <servlet-class>com.gameengine.system.web.TestHttpServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TestHttpServlet</servlet-name>
+        <url-pattern>/test</url-pattern>
+    </servlet-mapping>
+</web-app>

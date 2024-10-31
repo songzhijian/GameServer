@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <environments default="1">
+        <environment id="${local.jdbc.environmentId}">
+            <transactionManager type="JDBC" />
+            <dataSource type="UNPOOLED">
+                <property name="driver" value="${local.jdbc.driver}" />
+                <property name="url" value="${local.jdbc.url}" />
+                <property name="username" value="${local.jdbc.user}" />
+                <property name="password" value="${local.jdbc.password}" />
+            </dataSource>
+        </environment>
+</configuration>

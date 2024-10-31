@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <plugins>
+        <plugin interceptor="com.im30.ls.utils.sql.SqlStatIntercepter"></plugin>
+    </plugins>
+
+   <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="com.im30.ls.utils.BoneCPDataSourceFactory">
+                <property name="driverClass" value="${local.jdbc.driver}"/>
+                <property name="jdbcUrl" value="${local.jdbc.url}"/>
+                <property name="username" value="${local.jdbc.user}"/>
+                <property name="password" value="${local.jdbc.password}"/>
+                <property name="partitionCount" value="${bonecp.partitionCount}"/>
+                <property name="maxConnectionsPerPartition" value="${bonecp.maxConnectionsPerPartition}"/>
+                <property name="minConnectionsPerPartition" value="${bonecp.minConnectionsPerPartition}"/>
+                <property name="acquireIncrement" value="${bonecp.acquireIncrement}"/>
+                <property name="disableConnectionTracking" value="true"/>
+                <property name="poolName" value="${bonecp.poolName}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+</configuration>
