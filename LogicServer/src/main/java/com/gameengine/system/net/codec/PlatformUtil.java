@@ -35,8 +35,6 @@ public class PlatformUtil {
     }
 
     public static boolean useEpoll() {
-        return (isLinuxPlatform() && Epoll.isAvailable()) || (isMacPlatform() && KQueue.isAvailable())
-//
-                ;
+        return (isLinuxPlatform() && Epoll.isAvailable()) || (isMacPlatform() && KQueue.isAvailable());
     }
 }

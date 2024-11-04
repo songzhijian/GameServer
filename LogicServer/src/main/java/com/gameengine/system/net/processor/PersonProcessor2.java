@@ -1,19 +1,19 @@
 package com.gameengine.system.net.processor;
 
-import com.dreamfun.opg.message.Student2;
+import com.dreamfun.opg.message.GameMsg;
 import com.gameengine.system.net.session.GameSession;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class PersonProcessor2 extends MsgProcessor<Student2>{
+public class PersonProcessor2 extends MsgProcessor<GameMsg.Student2>{
     @Override
-    public void process(GameSession session, Student2 msg) throws Exception {
+    public void process(GameSession session, GameMsg.Student2 msg) throws Exception {
         int age = msg.getAge();
         String name = msg.getName();
         List<String> hobbiesList = msg.getHobbiesList();
 
-        Student2.Builder sendMsg = Student2.newBuilder();
+        GameMsg.Student2.Builder sendMsg = GameMsg.Student2.newBuilder();
         sendMsg.setAge(18);
         sendMsg.setName("齐天大圣");
         List<String> list = new ArrayList<>();

@@ -56,4 +56,6 @@ dependencies {
 
     //redis
     implementation 'org.redisson:redisson:3.16.0'
+
+    implementation group: 'commons-configuration', name: 'commons-configuration', version: '1.10'
 }

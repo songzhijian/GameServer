@@ -8,7 +8,7 @@ public class OpenWorld {
 
     public static void main(String[] args) {
         try {
-            GameServer.getInstance().startup();
+            GameServer.getInstance().start();
         }catch (Exception e){
             e.printStackTrace();
             GameServer.getInstance().shutdown();

@@ -1,10 +1,9 @@
 package com.gameengine.system.net.server;
 
-import com.dreamfun.opg.utils.EventLoopGroupUtil;
+import com.gameengine.system.AbstractGameCoreService;
+import com.gameengine.system.GameCoreServiceType;
 import com.gameengine.system.net.codec.PlatformUtil;
-import com.google.common.base.Joiner;
 import io.netty.bootstrap.ServerBootstrap;
-import io.netty.buffer.PooledByteBufAllocator;
 import io.netty.channel.*;
 import io.netty.channel.epoll.EpollEventLoopGroup;
 import io.netty.channel.epoll.EpollServerSocketChannel;
@@ -13,14 +12,25 @@ import io.netty.channel.kqueue.KQueueServerSocketChannel;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
 import io.netty.util.concurrent.DefaultThreadFactory;
-import java.util.ArrayList;
-import java.util.List;
 
-public class NettyServerService {
+public class ServerNettyService extends AbstractGameCoreService {
     private EventLoopGroup bossGroup;
     private EventLoopGroup workerGroup;
+    private Channel channel;
+    private static final ServerNettyService instance = new ServerNettyService();
+    public ServerNettyService() {
+        super(GameCoreServiceType.NETWORK);
+    }
+    public static ServerNettyService getInstance() {
+        return instance;
+    }
+    @Override
+    protected void initService() throws Exception {
 
-    public void startService(int port) {
+    }
+
+    @Override
+    protected void startService() throws Exception {
         boolean useEpoll = PlatformUtil.useEpoll();
         if (useEpoll) {
             if (PlatformUtil.isLinuxPlatform()) {
@@ -34,25 +44,34 @@ public class NettyServerService {
             bossGroup = new NioEventLoopGroup(new DefaultThreadFactory("GateNettyService-bossGroup"));
             workerGroup = new NioEventLoopGroup(new DefaultThreadFactory("GateNettyService-workerGroup"));
         }
-
         try {
             ServerBootstrap b = new ServerBootstrap();
             b.group(bossGroup, workerGroup)
-                    .channel(EventLoopGroupUtil.getServerSocketChannelClass())
+                    .childHandler(new GameServerInitializer())
+                    .channel(useEpoll ? PlatformUtil.isLinuxPlatform() ?
+                            EpollServerSocketChannel.class : KQueueServerSocketChannel.class : NioServerSocketChannel.class)
                     .option(ChannelOption.SO_REUSEADDR, true)
                     .option(ChannelOption.SO_RCVBUF, 10240)
                     .option(ChannelOption.SO_BACKLOG, 6000)
                     .childOption(ChannelOption.SO_KEEPALIVE, true)
                     .childOption(ChannelOption.TCP_NODELAY, true)
                     .childOption(ChannelOption.SO_LINGER, 0)
-                    .childOption(ChannelOption.SO_SNDBUF, 20480)
-                    .childHandler(new GameServerInitializer());
+                    .childOption(ChannelOption.SO_SNDBUF, 20480);
 
-            Channel f = b.bind(port).sync().channel();
-
+            channel = b.bind(9091).sync().channel();
         } catch (Exception ex) {
             System.exit(1);
         }
+    }
 
+    @Override
+    protected void stopService() throws Exception {
+        try {
+            ChannelFuture f = channel.close();
+            f.awaitUninterruptibly();
+        } finally {
+            this.workerGroup.shutdownGracefully();
+            this.bossGroup.shutdownGracefully();
+        }
     }
 }

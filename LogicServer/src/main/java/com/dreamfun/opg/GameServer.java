@@ -3,17 +3,13 @@ package com.dreamfun.opg;
 import com.dreamfun.opg.game.OPServerShutdownHook;
 import com.dreamfun.opg.manager.GameSessionManager;
 import com.dreamfun.opg.utils.AsciiUtil;
-import com.dreamfun.opg.xml.GameConfigService;
-import com.gameengine.system.mybatis.MybatisUtils;
+import com.gameengine.system.GameCoreServiceManager;
 import com.gameengine.system.net.scan.MessageProcessorScanner;
 import com.gameengine.system.net.scan.MessageScanner;
-import com.gameengine.system.net.server.NetterServer;
 
-import com.gameengine.system.net.server.NettyServerService;
-import com.gameengine.system.redis.RedisService;
+import com.gameengine.system.net.server.ServerNettyService;
 import com.dreamfun.opg.utils.GameLoggerFactory;
-import com.dreamfun.opg.utils.NetUtil;
-import com.gameengine.system.zookeeper.service.ZookeeperService;
+import org.apache.commons.configuration.*;
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 
@@ -27,9 +23,12 @@ import java.util.Properties;
 public class GameServer {
     private final Logger logger = GameLoggerFactory.getLogger(GameServer.class);
 
-    private static GameServer instance;
+    private static final GameServer instance = new GameServer();
 
+    private GameCoreServiceManager coreServiceManager = new GameCoreServiceManager();
     public Properties configProperties;
+
+    private CompositeConfiguration configuration;
 
     public int serverId = 1;
 
@@ -41,17 +40,18 @@ public class GameServer {
         return configProperties;
     }
 
+    public Configuration getConfiguration() {
+        return this.configuration;
+    }
+
     public static GameServer getInstance() {
-        if(instance == null) {
-            instance = new GameServer();
-        }
         return instance;
     }
 
     // TODO 游戏核心manager 后期优化点
     private GameSessionManager sessionManager;
 
-    private NettyServerService netterServer;
+    private ServerNettyService netterServer;
 
     /**
      * 消息扫描
@@ -63,27 +63,13 @@ public class GameServer {
      */
     private MessageProcessorScanner processorScanner;
 
-    public MessageScanner getMsgScanner() {
-        return msgScanner;
-    }
-
-    public MessageProcessorScanner getProcessorScanner() {
-        return processorScanner;
-    }
-
-
-    private void loadCustomConfigFile(String fileName) throws IOException {
-        this.configProperties = new Properties();
-        this.configProperties.load(new FileInputStream(fileName));
-    }
-
     /**
      * 游戏服务初始化
      */
-    public void startup() throws Exception{
+    public void start() throws Exception{
         long beginTime = System.currentTimeMillis();
-        System.out.print("begin start game server");
-
+        this.logger.info("Server starting...");
+        this.loadConfiguration();
         //zk节点注册
 //        String pathName = String.format("gs-%d-%s", serverId,NetUtil.getHostIp(""));
 //        ZookeeperService.getInstance().start(pathName);
@@ -100,8 +86,12 @@ public class GameServer {
         }
         this.msgScanner = msgScanner;
         this.processorScanner = processorScanner;
-        netterServer = new NettyServerService();
-        netterServer.startService(9091);
+
+        this.coreServiceManager.init();
+        this.coreServiceManager.start();
+
+//        netterServer = new ServerNettyService();
+//        netterServer.startService(9091);
 
 //        RedisService.instance.init();
 
@@ -113,12 +103,32 @@ public class GameServer {
         //启动完毕
         String asciiMessage = AsciiUtil.getAsciiMessage("startup.txt");
         if(StringUtils.isNotEmpty(asciiMessage)) {
-            System.out.println(asciiMessage);
+            logger.info(asciiMessage);
         }
     }
 
     public boolean isWindows() {
         return System.getProperties().getProperty("os.name").toUpperCase().contains("WINDOWS");
+    }
+
+    public MessageScanner getMsgScanner() {
+        return msgScanner;
+    }
+
+    public MessageProcessorScanner getProcessorScanner() {
+        return processorScanner;
+    }
+
+
+    private void loadCustomConfigFile(String fileName) throws IOException {
+        this.configProperties = new Properties();
+        this.configProperties.load(new FileInputStream(fileName));
+    }
+
+    public void loadConfiguration() throws ConfigurationException {
+        this.configuration = new CompositeConfiguration();
+        this.configuration.addConfiguration(new SystemConfiguration());
+//        this.configuration.addConfiguration(new PropertiesConfiguration("gameconfig/core.properties")); //TODO
     }
 
     public int getServerId() {

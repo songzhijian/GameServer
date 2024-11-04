@@ -1,28 +1,35 @@
 package com.gameengine.system.net.handler;
 
+import com.dreamfun.opg.GameServer;
+import com.gameengine.system.RequestHandlerService;
+import com.gameengine.system.execution.Request;
 import com.gameengine.system.net.codec.ClientReq;
+import com.gameengine.system.net.session.ISession;
+import com.gameengine.system.net.session.Session;
+import com.gameengine.system.net.session.SessionService;
 import io.netty.channel.ChannelDuplexHandler;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.socket.SocketChannel;
-import com.google.protobuf.Message;
-import io.netty.handler.timeout.IdleState;
-import io.netty.handler.timeout.IdleStateEvent;
-import org.apache.commons.lang3.StringUtils;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class ServerHandler extends ChannelDuplexHandler {
 
-    public static final ServerHandler INSTANCE = new ServerHandler();
+    private Logger logger = LoggerFactory.getLogger(ServerHandler.class);
 
     @Override
     public void channelActive(ChannelHandlerContext ctx) {
-//        SocketChannel channel = (SocketChannel) ctx.channel();
-//        Session session = new Session(channel);
-//        SessionGateManager.INSTANCE.addSession(session);
-//        LogUtils.logger.info("session created, id:{}, ip:{}, type: SOCKET", session.getSessionId(), channel.remoteAddress().toString());
+        SocketChannel channel = (SocketChannel)ctx.channel();
+        Session session = new Session(channel);
+        SessionService.getInstance().addSession(session);
+        logger.info("session created, id {}, ip {}, type: SOCKET", Integer.valueOf(session.getSessionId()), channel.remoteAddress().toString());
     }
+
 
     @Override
     public void channelInactive(ChannelHandlerContext ctx) throws Exception {
+        logger.info("ServerHandler channelInactive success");
+
 //        ISession session = SessionGateManager.INSTANCE.removeSession(ctx.channel());
 //        if (session == null) {
 //            return;
@@ -35,6 +42,15 @@ public class ServerHandler extends ChannelDuplexHandler {
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) {
         ClientReq clientReq = (ClientReq) msg;
+        logger.info("ServerHandler channelRead success : {}", clientReq.getMessageId());
+
+        SocketChannel channel = (SocketChannel)ctx.channel();
+        ISession session = SessionService.getInstance().getSession(channel);
+        session.updateLastReadTime();
+
+        Request request = new Request(session, clientReq);
+        RequestHandlerService.getInstance().enqueueRequest(request);
+
 //        ISession session = SessionGateManager.INSTANCE.getSessionByChannel(ctx.channel());
 //        final int messageId = clientReq.getMessageId();
 //        // 正在绑定中，不能接收请求，以免避免客户端拼命发登录请求，造成发出多次token获取、绑定请求

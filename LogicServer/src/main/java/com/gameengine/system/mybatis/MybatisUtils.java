@@ -162,14 +162,11 @@ public class MybatisUtils {
      * @return
      */
     public SqlSession getSession() {
-
         SqlSession session = newConnectionFromEnvironment(localEnvironment, ExecutorType.SIMPLE, false);
-
         if(useProxy){
             session = (SqlSession) Proxy.newProxyInstance(SqlSessionInvocationHandler.class.getClassLoader(),
                     session.getClass().getInterfaces(), new SqlSessionInvocationHandler(session));
         }
-
         return session;
     }
 
@@ -185,7 +182,6 @@ public class MybatisUtils {
             session = (SqlSession) Proxy.newProxyInstance(SqlSessionInvocationHandler.class.getClassLoader(),
                     session.getClass().getInterfaces(), new SqlSessionInvocationHandler(session));
         }
-
         return session;
     }
 
@@ -211,10 +207,8 @@ public class MybatisUtils {
         else {
             session = getSession(serverId).get();
         }
-
         session = (SqlSession) Proxy.newProxyInstance(SqlSessionOnlyReadInvocationHandler.class.getClassLoader(),
                 session.getClass().getInterfaces(), new   SqlSessionOnlyReadInvocationHandler(session));
-
         return session;
 
     }
@@ -253,9 +247,7 @@ public class MybatisUtils {
                 session = (SqlSession) Proxy.newProxyInstance(SqlSessionInvocationHandler.class.getClassLoader(),
                         session.getClass().getInterfaces(), new SqlSessionInvocationHandler(session));
             }
-
         }
-
         return Optional.fromNullable(session);
     }
 
