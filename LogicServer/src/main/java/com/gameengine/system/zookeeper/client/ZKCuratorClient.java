@@ -1,6 +1,6 @@
 package com.gameengine.system.zookeeper.client;
 
-import com.dreamfun.opg.utils.GameLoggerFactory;
+import com.gameengine.system.utils.GameLoggerFactory;
 import org.apache.curator.RetryPolicy;
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;

@@ -1,7 +1,7 @@
 package com.gameengine.system.rpc;
 
-import com.dreamfun.opg.GameServer;
-import com.dreamfun.opg.utils.GameLoggerFactory;
+import com.jx.logic.GameServer;
+import com.gameengine.system.utils.GameLoggerFactory;
 import org.apache.dubbo.config.MethodConfig;
 import org.apache.dubbo.config.ProtocolConfig;
 import org.apache.dubbo.config.ReferenceConfig;

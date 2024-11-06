@@ -13,16 +13,10 @@ import java.net.InetSocketAddress;
 
 public class GameSession {
     public static final AttributeKey<GameSession> SESSION_KEY = AttributeKey.newInstance("GAME_SESSION");
-
-
     private ChannelHandlerContext ctx;
-
     private int id;
-
     private String remoteIp="";
-
     private long createTime;
-
     private String str;
 
     public ChannelHandlerContext getCtx() {
@@ -87,31 +81,4 @@ public class GameSession {
         Attribute<GameSession> attr = ctx.channel().attr(SESSION_KEY);
         return attr.get();
     }
-
-
-    public void sendMsg(MessageLiteOrBuilder msg) {
-        if (ctx != null) {
-            ChannelFuture future = ctx.write(msg, ctx.voidPromise());
-            if (!future.isVoid()) {
-                final String cname = msg.getClass().getSimpleName();
-                future.addListener(new ChannelFutureListener() {
-                    @Override
-                    public void operationComplete(ChannelFuture future) throws Exception {
-                        if (!future.isSuccess()) {
-                            future.cause().printStackTrace();
-                        }
-                    }
-                });
-            }
-        }
-    }
-
-    public void flushMsg() {
-        if (ctx != null) {
-            ctx.flush();
-        }
-    }
-
-
-
 }

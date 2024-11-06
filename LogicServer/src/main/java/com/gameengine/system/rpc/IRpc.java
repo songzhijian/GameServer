@@ -1,6 +1,6 @@
 package com.gameengine.system.rpc;
 
-import com.dreamfun.opg.utils.GameLoggerFactory;
+import com.gameengine.system.utils.GameLoggerFactory;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.dubbo.config.ReferenceConfig;
 import org.slf4j.Logger;

@@ -1,5 +1,6 @@
 package com.gameengine.system.redis;
 
+import com.gameengine.system.utils.GameLoggerFactory;
 import org.redisson.Redisson;
 import org.redisson.api.RedissonClient;
 import org.redisson.config.Config;
@@ -18,7 +19,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public enum RedisService {
     instance;
 
-    private final Logger logger = LoggerFactory.getLogger(RedisService.class);
+    private static final Logger logger = GameLoggerFactory.getLogger(RedisService.class);
 
     public static final int POOL_TYPE = 0;
     public static final int SENTINEL_POOL_TYPE = 1;

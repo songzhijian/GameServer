@@ -1,12 +1,13 @@
 package com.gameengine.system.redis;
 
+import com.gameengine.system.utils.GameLoggerFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.*;
 
 public class RedisTest {
-    private final static Logger logger = LoggerFactory.getLogger(RedisTest.class);
+    private static final Logger logger = GameLoggerFactory.getLogger(RedisTest.class);
 
     public static void main(String[] args) throws InterruptedException {
         init();

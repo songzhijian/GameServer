@@ -1,11 +1,9 @@
 package com.gameengine.system.net.client;
 
 
-import com.dreamfun.opg.message.GameMsg;
+import com.gameengine.system.utils.GameLoggerFactory;
+import com.jx.message.GameMsg;
 import com.gameengine.system.net.codec.*;
-import com.gameengine.system.net.handler.ServerHandler;
-import com.gameengine.system.net.scan.MessageMapper;
-import com.gameengine.system.net.scan.MessageScanner;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
@@ -15,8 +13,6 @@ import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioSocketChannel;
 import io.netty.handler.codec.LengthFieldBasedFrameDecoder;
 import io.netty.handler.codec.LengthFieldPrepender;
-import io.netty.handler.codec.string.StringDecoder;
-import io.netty.handler.codec.string.StringEncoder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -24,16 +20,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Client {
-    private Logger logger = LoggerFactory.getLogger(Client.class);
-
-    private MessageMapper mapper;
+    private static final Logger logger = GameLoggerFactory.getLogger(Client.class);
     private ChannelFuture f;
 
 
-    public Client(MessageScanner msgScanner){
-
-        this.mapper = msgScanner;
-
+    public Client(){
         // 创建EventLoopGroup
         EventLoopGroup group = new NioEventLoopGroup();
 
@@ -52,29 +43,13 @@ public class Client {
                         }
                     }); // 设置Channel初始化器
 
-
             // 连接到服务器
             f = b.connect("127.0.0.1", 9091).sync();
-
-//            Thread.sleep(10000);
-
-//            f.channel().writeAndFlush("person.build()!");
-
-            GameMsg.Person1.Builder person = GameMsg.Person1.newBuilder();
-            person.setAge(20);
-            person.setName("唐僧");
-            List<String> list = new ArrayList<>();
-            list.add("念紧箍咒");
-            list.add("取西经");
-            person.addAllHobbies(list);
-//            f.channel().writeAndFlush(person.build());
-
-            GameToGatePush push = GameToGatePush.of(1, 1, 0, person.build().toByteArray());
+            GameMsg.LoginReq.Builder login = GameMsg.LoginReq.newBuilder();
+            login.setToken("test token string ");
+            GameToGatePush push = GameToGatePush.of(1, 1, 0, login.build().toByteArray());
             f.channel().writeAndFlush(push);
-
-
             logger.info("--------------- writeAndFlush END ----------------");
-
             // 等待连接关闭
 //            f.channel().closeFuture().sync();
         } catch (Exception e) {
@@ -82,7 +57,7 @@ public class Client {
             throw new RuntimeException(e);
         } finally {
             // 优雅退出，释放所有资源
-            group.shutdownGracefully();
+//            group.shutdownGracefully();
         }
     }
 }

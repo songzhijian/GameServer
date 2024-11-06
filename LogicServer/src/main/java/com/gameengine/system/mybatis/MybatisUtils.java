@@ -1,7 +1,7 @@
 package com.gameengine.system.mybatis;
 
-import com.Common.serializable.SerializerUtils;
-import com.dreamfun.opg.GameServer;
+import com.gameengine.system.serializable.SerializerUtils;
+import com.jx.logic.GameServer;
 import com.gameengine.system.zookeeper.client.ZKCuratorClient;
 import com.gameengine.system.zookeeper.conf.ZookeeperConfig;
 import com.gameengine.system.zookeeper.service.ZookeeperService;

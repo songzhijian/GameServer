@@ -4,7 +4,7 @@ import "google/protobuf/descriptor.proto";
 
 option java_multiple_files=false;
 
-option java_package = "com.dreamfun.opg.message";
+option java_package = "com.jx.message";
 option java_outer_classname = "Options";
 
 extend google.protobuf.MessageOptions {

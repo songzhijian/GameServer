@@ -1,7 +1,7 @@
 package com.gameengine.system.mybatis.sql_stat;
 
-import com.dreamfun.opg.GameServer;
-import com.dreamfun.opg.utils.GameLoggerFactory;
+import com.jx.logic.GameServer;
+import com.gameengine.system.utils.GameLoggerFactory;
 import com.gameengine.system.mybatis.MybatisUtils;
 import com.jolbox.bonecp.BoneCP;
 import org.slf4j.Logger;

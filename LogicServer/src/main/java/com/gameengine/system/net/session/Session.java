@@ -1,5 +1,6 @@
 package com.gameengine.system.net.session;
 
+import com.gameengine.system.utils.GameLoggerFactory;
 import io.netty.channel.socket.SocketChannel;
 import com.google.common.base.Optional;
 import io.netty.channel.Channel;
@@ -8,7 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class Session extends AbstractSession {
-    private static Logger logger = LoggerFactory.getLogger(Session.class);
+    private static final Logger logger = GameLoggerFactory.getLogger(Session.class);
     private SocketChannel channel;
 
     private volatile TokenModel tokenModel;

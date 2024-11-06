@@ -1,6 +1,6 @@
 package com.gameengine.system.mybatis;
 
-import com.dreamfun.opg.GameServer;
+import com.jx.logic.GameServer;
 import org.apache.curator.framework.CuratorFramework;
 
 public class DbInfoRegisterBuilder {

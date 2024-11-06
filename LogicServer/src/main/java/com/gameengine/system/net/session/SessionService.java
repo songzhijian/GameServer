@@ -1,7 +1,7 @@
 package com.gameengine.system.net.session;
 
-import com.gameengine.system.AbstractGameCoreService;
-import com.gameengine.system.GameCoreServiceType;
+import com.gameengine.system.service.AbstractGameCoreService;
+import com.gameengine.system.service.GameCoreServiceType;
 import com.gameengine.system.execution.ActionQueue;
 import com.gameengine.system.execution.Executor;
 import com.gameengine.system.execution.OrderedActionQueue;

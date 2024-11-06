@@ -1,7 +1,7 @@
 package com.gameengine.system.web;
 
 
-import com.dreamfun.opg.utils.GameLoggerFactory;
+import com.gameengine.system.utils.GameLoggerFactory;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.util.resource.Resource;
 import org.eclipse.jetty.webapp.WebAppContext;

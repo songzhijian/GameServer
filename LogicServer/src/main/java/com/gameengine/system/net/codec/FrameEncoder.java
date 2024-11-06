@@ -1,14 +1,12 @@
 package com.gameengine.system.net.codec;
 
-import com.gameengine.system.net.server.FrameCompressor;
-import com.gameengine.system.net.server.GameFrameCompressor;
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.handler.codec.MessageToByteEncoder;
 public class FrameEncoder extends MessageToByteEncoder<GameToGatePush> {
 
-    private static final FrameCompressor compressor = new GameFrameCompressor();
+//    private static final FrameCompressor compressor = new GameFrameCompressor();
 
     protected void encode(ChannelHandlerContext ctx, GameToGatePush msg, ByteBuf out) throws Exception {
         out.writeShort(0);

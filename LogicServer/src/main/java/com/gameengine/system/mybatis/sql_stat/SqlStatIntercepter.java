@@ -1,6 +1,6 @@
 package com.gameengine.system.mybatis.sql_stat;
 
-import com.dreamfun.opg.utils.GameLoggerFactory;
+import com.gameengine.system.utils.GameLoggerFactory;
 import com.jolbox.bonecp.BoneCP;
 import com.jolbox.bonecp.BoneCPDataSource;
 import org.apache.commons.lang3.StringUtils;

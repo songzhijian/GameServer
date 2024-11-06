@@ -1,6 +1,6 @@
 package com.gameengine.system.mybatis;
 
-import com.Common.serializable.SerializerUtils;
+import com.gameengine.system.serializable.SerializerUtils;
 import org.apache.curator.framework.CuratorFramework;
 
 public class DbInfoRegister {

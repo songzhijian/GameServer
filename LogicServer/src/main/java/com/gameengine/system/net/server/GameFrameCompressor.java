@@ -1,6 +1,6 @@
 package com.gameengine.system.net.server;
 
-import com.gameengine.system.util.ByteUtils;
+import com.gameengine.system.utils.ByteUtils;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

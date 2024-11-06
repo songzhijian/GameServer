@@ -1,7 +1,7 @@
 package com.gameengine.system.net.server;
 
-import com.gameengine.system.AbstractGameCoreService;
-import com.gameengine.system.GameCoreServiceType;
+import com.gameengine.system.service.AbstractGameCoreService;
+import com.gameengine.system.service.GameCoreServiceType;
 import com.gameengine.system.net.codec.PlatformUtil;
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.*;

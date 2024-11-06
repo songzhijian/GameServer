@@ -1,13 +1,13 @@
 package com.gameengine.system.zookeeper.node;
 
-import com.dreamfun.opg.utils.GameLoggerFactory;
+import com.gameengine.system.utils.GameLoggerFactory;
 import org.slf4j.Logger;
 
 /**
  * zk node
  */
 public class Node{
-    Logger logger = GameLoggerFactory.getLogger(Node.class);
+    private static final Logger logger = GameLoggerFactory.getLogger(Node.class);
 
     //节点路径
     private String path;

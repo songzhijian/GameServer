@@ -1,7 +1,7 @@
 package com.gameengine.system.zookeeper.example;
 
 
-import com.dreamfun.opg.utils.NetUtil;
+import com.gameengine.system.utils.NetUtil;
 
 /**
  * zk curator 示例

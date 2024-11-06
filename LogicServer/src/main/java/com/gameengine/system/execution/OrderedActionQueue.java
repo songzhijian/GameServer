@@ -1,5 +1,6 @@
 package com.gameengine.system.execution;
 
+import com.gameengine.system.utils.GameLoggerFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -7,7 +8,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class OrderedActionQueue implements ActionQueue {
-    private static final Logger logger = LoggerFactory.getLogger(OrderedActionQueue.class);
+    private static final Logger logger = GameLoggerFactory.getLogger(OrderedActionQueue.class);
     private Queue queue;
     private Executor executor;
 

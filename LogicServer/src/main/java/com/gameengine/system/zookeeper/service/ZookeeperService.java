@@ -1,6 +1,6 @@
 package com.gameengine.system.zookeeper.service;
 
-import com.dreamfun.opg.utils.GameLoggerFactory;
+import com.gameengine.system.utils.GameLoggerFactory;
 import com.gameengine.system.mybatis.MybatisUtils;
 import com.gameengine.system.zookeeper.client.ZKCuratorClient;
 import com.gameengine.system.zookeeper.conf.ZookeeperConfig;
@@ -15,7 +15,7 @@ import java.util.List;
  * zookeeper服务
  */
 public class ZookeeperService {
-    private final Logger logger = GameLoggerFactory.getLogger(ZookeeperService.class);
+    private static final Logger logger = GameLoggerFactory.getLogger(ZookeeperService.class);
 
     private static ZookeeperService instance;
     private static ZKCuratorClient zkClient;
