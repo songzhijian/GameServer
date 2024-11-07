@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="11000" type="0" room="11" step="0" nextIds="[11010,11011]"  />
+    <ItemSpec id="11010" type="4" room="11" step="1" nextIds="[11020,11021]" reward="[[2,105,700]]"  />
+    <ItemSpec id="11011" type="6" room="11" step="1" nextIds="[11021,11022]"  />
+    <ItemSpec id="11020" type="4" room="11" step="2" nextIds="[11030]" reward="[[2,105,725]]"  />
+    <ItemSpec id="11021" type="6" room="11" step="2" nextIds="[11030,11031]"  />
+    <ItemSpec id="11022" type="4" room="11" step="2" nextIds="[11031]" reward="[[2,105,725]]"  />
+    <ItemSpec id="11030" type="4" room="11" step="3" nextIds="[11040,11041]" reward="[[2,105,750]]"  />
+    <ItemSpec id="11031" type="4" room="11" step="3" nextIds="[11041,11042]" reward="[[2,105,750]]"  />
+    <ItemSpec id="11040" type="1" room="11" step="4" nextIds="[11050]" reward="[[2,105,775]]"  />
+    <ItemSpec id="11041" type="1" room="11" step="4" nextIds="[11050,11051]" reward="[[2,105,775]]"  />
+    <ItemSpec id="11042" type="1" room="11" step="4" nextIds="[11051]" reward="[[2,105,775]]"  />
+    <ItemSpec id="11050" type="5" room="11" step="5" nextIds="[11060,11061]"  />
+    <ItemSpec id="11051" type="3" room="11" step="5" nextIds="[11061,11062]"  />
+    <ItemSpec id="11060" type="4" room="11" step="6" nextIds="[11070]" reward="[[2,105,800]]"  />
+    <ItemSpec id="11061" type="4" room="11" step="6" nextIds="[11070,11071]" reward="[[2,105,800]]"  />
+    <ItemSpec id="11062" type="5" room="11" step="6" nextIds="[11071]"  />
+    <ItemSpec id="11070" type="1" room="11" step="7" nextIds="[11080,11081]" reward="[[2,105,825]]"  />
+    <ItemSpec id="11071" type="1" room="11" step="7" nextIds="[11081,11082]" reward="[[2,105,825]]"  />
+    <ItemSpec id="11080" type="7" room="11" step="8" nextIds="[11090]"  />
+    <ItemSpec id="11081" type="4" room="11" step="8" nextIds="[11090,11091]" reward="[[2,105,850]]"  />
+    <ItemSpec id="11082" type="6" room="11" step="8" nextIds="[11091]"  />
+    <ItemSpec id="11090" type="5" room="11" step="9" nextIds="[11100]"  />
+    <ItemSpec id="11091" type="3" room="11" step="9" nextIds="[11100]"  />
+    <ItemSpec id="11100" type="2" room="11" step="10" reward="[[2,105,875]]"  />
+    <ItemSpec id="12000" type="0" room="12" step="0" nextIds="[12010,12011]"  />
+    <ItemSpec id="12010" type="6" room="12" step="1" nextIds="[12020,12021]"  />
+    <ItemSpec id="12011" type="4" room="12" step="1" nextIds="[12021,12022]" reward="[[2,105,700]]"  />
+    <ItemSpec id="12020" type="4" room="12" step="2" nextIds="[12030]" reward="[[2,105,725]]"  />
+    <ItemSpec id="12021" type="6" room="12" step="2" nextIds="[12030,12031]"  />
+    <ItemSpec id="12022" type="4" room="12" step="2" nextIds="[12031]" reward="[[2,105,725]]"  />
+    <ItemSpec id="12030" type="4" room="12" step="3" nextIds="[12040,12041]" reward="[[2,105,750]]"  />
+    <ItemSpec id="12031" type="4" room="12" step="3" nextIds="[12041,12042]" reward="[[2,105,750]]"  />
+    <ItemSpec id="12040" type="1" room="12" step="4" nextIds="[12050]" reward="[[2,105,775]]"  />
+    <ItemSpec id="12041" type="1" room="12" step="4" nextIds="[12050,12051]" reward="[[2,105,775]]"  />
+    <ItemSpec id="12042" type="1" room="12" step="4" nextIds="[12051]" reward="[[2,105,775]]"  />
+    <ItemSpec id="12050" type="3" room="12" step="5" nextIds="[12060,12061]"  />
+    <ItemSpec id="12051" type="5" room="12" step="5" nextIds="[12061,12062]"  />
+    <ItemSpec id="12060" type="5" room="12" step="6" nextIds="[12070]"  />
+    <ItemSpec id="12061" type="4" room="12" step="6" nextIds="[12070,12071]" reward="[[2,105,800]]"  />
+    <ItemSpec id="12062" type="4" room="12" step="6" nextIds="[12071]" reward="[[2,105,800]]"  />
+    <ItemSpec id="12070" type="1" room="12" step="7" nextIds="[12080,12081]" reward="[[2,105,825]]"  />
+    <ItemSpec id="12071" type="1" room="12" step="7" nextIds="[12081,12082]" reward="[[2,105,825]]"  />
+    <ItemSpec id="12080" type="4" room="12" step="8" nextIds="[12090]" reward="[[2,105,850]]"  />
+    <ItemSpec id="12081" type="6" room="12" step="8" nextIds="[12090,12091]"  />
+    <ItemSpec id="12082" type="7" room="12" step="8" nextIds="[12091]"  />
+    <ItemSpec id="12090" type="5" room="12" step="9" nextIds="[12100]"  />
+    <ItemSpec id="12091" type="3" room="12" step="9" nextIds="[12100]"  />
+    <ItemSpec id="12100" type="2" room="12" step="10" reward="[[2,105,875]]"  />
+    <ItemSpec id="13000" type="0" room="13" step="0" nextIds="[13010,13011]"  />
+    <ItemSpec id="13010" type="4" room="13" step="1" nextIds="[13020,13021]" reward="[[2,105,700]]"  />
+    <ItemSpec id="13011" type="6" room="13" step="1" nextIds="[13021,13022]"  />
+    <ItemSpec id="13020" type="4" room="13" step="2" nextIds="[13030]" reward="[[2,105,725]]"  />
+    <ItemSpec id="13021" type="6" room="13" step="2" nextIds="[13030,13031]"  />
+    <ItemSpec id="13022" type="4" room="13" step="2" nextIds="[13031]" reward="[[2,105,725]]"  />
+    <ItemSpec id="13030" type="4" room="13" step="3" nextIds="[13040,13041]" reward="[[2,105,750]]"  />
+    <ItemSpec id="13031" type="4" room="13" step="3" nextIds="[13041,13042]" reward="[[2,105,750]]"  />
+    <ItemSpec id="13040" type="1" room="13" step="4" nextIds="[13050]" reward="[[2,105,775]]"  />
+    <ItemSpec id="13041" type="1" room="13" step="4" nextIds="[13050,13051]" reward="[[2,105,775]]"  />
+    <ItemSpec id="13042" type="1" room="13" step="4" nextIds="[13051]" reward="[[2,105,775]]"  />
+    <ItemSpec id="13050" type="3" room="13" step="5" nextIds="[13060,13061]"  />
+    <ItemSpec id="13051" type="5" room="13" step="5" nextIds="[13061,13062]"  />
+    <ItemSpec id="13060" type="4" room="13" step="6" nextIds="[13070]" reward="[[2,105,800]]"  />
+    <ItemSpec id="13061" type="4" room="13" step="6" nextIds="[13070,13071]" reward="[[2,105,800]]"  />
+    <ItemSpec id="13062" type="5" room="13" step="6" nextIds="[13071]"  />
+    <ItemSpec id="13070" type="1" room="13" step="7" nextIds="[13080,13081]" reward="[[2,105,825]]"  />
+    <ItemSpec id="13071" type="1" room="13" step="7" nextIds="[13081,13082]" reward="[[2,105,825]]"  />
+    <ItemSpec id="13080" type="7" room="13" step="8" nextIds="[13090]"  />
+    <ItemSpec id="13081" type="4" room="13" step="8" nextIds="[13090,13091]" reward="[[2,105,850]]"  />
+    <ItemSpec id="13082" type="6" room="13" step="8" nextIds="[13091]"  />
+    <ItemSpec id="13090" type="3" room="13" step="9" nextIds="[13100]"  />
+    <ItemSpec id="13091" type="5" room="13" step="9" nextIds="[13100]"  />
+    <ItemSpec id="13100" type="2" room="13" step="10" reward="[[2,105,875]]"  />
+    <ItemSpec id="14000" type="0" room="14" step="0" nextIds="[14010,14011]"  />
+    <ItemSpec id="14010" type="6" room="14" step="1" nextIds="[14020,14021]"  />
+    <ItemSpec id="14011" type="4" room="14" step="1" nextIds="[14021,14022]" reward="[[2,105,700]]"  />
+    <ItemSpec id="14020" type="4" room="14" step="2" nextIds="[14030]" reward="[[2,105,725]]"  />
+    <ItemSpec id="14021" type="6" room="14" step="2" nextIds="[14030,14031]"  />
+    <ItemSpec id="14022" type="4" room="14" step="2" nextIds="[14031]" reward="[[2,105,725]]"  />
+    <ItemSpec id="14030" type="4" room="14" step="3" nextIds="[14040,14041]" reward="[[2,105,750]]"  />
+    <ItemSpec id="14031" type="4" room="14" step="3" nextIds="[14041,14042]" reward="[[2,105,750]]"  />
+    <ItemSpec id="14040" type="1" room="14" step="4" nextIds="[14050]" reward="[[2,105,775]]"  />
+    <ItemSpec id="14041" type="1" room="14" step="4" nextIds="[14050,14051]" reward="[[2,105,775]]"  />
+    <ItemSpec id="14042" type="1" room="14" step="4" nextIds="[14051]" reward="[[2,105,775]]"  />
+    <ItemSpec id="14050" type="5" room="14" step="5" nextIds="[14060,14061]"  />
+    <ItemSpec id="14051" type="3" room="14" step="5" nextIds="[14061,14062]"  />
+    <ItemSpec id="14060" type="5" room="14" step="6" nextIds="[14070]"  />
+    <ItemSpec id="14061" type="4" room="14" step="6" nextIds="[14070,14071]" reward="[[2,105,800]]"  />
+    <ItemSpec id="14062" type="4" room="14" step="6" nextIds="[14071]" reward="[[2,105,800]]"  />
+    <ItemSpec id="14070" type="1" room="14" step="7" nextIds="[14080,14081]" reward="[[2,105,825]]"  />
+    <ItemSpec id="14071" type="1" room="14" step="7" nextIds="[14081,14082]" reward="[[2,105,825]]"  />
+    <ItemSpec id="14080" type="6" room="14" step="8" nextIds="[14090]"  />
+    <ItemSpec id="14081" type="4" room="14" step="8" nextIds="[14090,14091]" reward="[[2,105,850]]"  />
+    <ItemSpec id="14082" type="7" room="14" step="8" nextIds="[14091]"  />
+    <ItemSpec id="14090" type="3" room="14" step="9" nextIds="[14100]"  />
+    <ItemSpec id="14091" type="5" room="14" step="9" nextIds="[14100]"  />
+    <ItemSpec id="14100" type="2" room="14" step="10" reward="[[2,105,875]]"  />
+    <ItemSpec id="21000" type="0" room="21" step="0" nextIds="[21010,21011]"  />
+    <ItemSpec id="21010" type="5" room="21" step="1" nextIds="[21020,21021]"  />
+    <ItemSpec id="21011" type="6" room="21" step="1" nextIds="[21021,21022]"  />
+    <ItemSpec id="21020" type="4" room="21" step="2" nextIds="[21030]" reward="[[2,105,900]]"  />
+    <ItemSpec id="21021" type="4" room="21" step="2" nextIds="[21030,21031]" reward="[[2,105,900]]"  />
+    <ItemSpec id="21022" type="4" room="21" step="2" nextIds="[21031]" reward="[[2,105,900]]"  />
+    <ItemSpec id="21030" type="4" room="21" step="3" nextIds="[21040,21041]" reward="[[2,105,900]]"  />
+    <ItemSpec id="21031" type="5" room="21" step="3" nextIds="[21041,21042]"  />
+    <ItemSpec id="21040" type="6" room="21" step="4" nextIds="[21050]"  />
+    <ItemSpec id="21041" type="3" room="21" step="4" nextIds="[21050,21051]"  />
+    <ItemSpec id="21042" type="4" room="21" step="4" nextIds="[21051]" reward="[[2,105,900]]"  />
+    <ItemSpec id="21050" type="1" room="21" step="5" nextIds="[21060,21061]" reward="[[2,105,950]]"  />
+    <ItemSpec id="21051" type="1" room="21" step="5" nextIds="[21061,21062]" reward="[[2,105,950]]"  />
+    <ItemSpec id="21060" type="5" room="21" step="6" nextIds="[21070]"  />
+    <ItemSpec id="21061" type="4" room="21" step="6" nextIds="[21070,21071]" reward="[[2,105,975]]"  />
+    <ItemSpec id="21062" type="7" room="21" step="6" nextIds="[21071]"  />
+    <ItemSpec id="21070" type="1" room="21" step="7" nextIds="[21080,21081]" reward="[[2,105,1000]]"  />
+    <ItemSpec id="21071" type="1" room="21" step="7" nextIds="[21081,21082]" reward="[[2,105,1000]]"  />
+    <ItemSpec id="21080" type="6" room="21" step="8" nextIds="[21090]"  />
+    <ItemSpec id="21081" type="5" room="21" step="8" nextIds="[21090,21091]"  />
+    <ItemSpec id="21082" type="4" room="21" step="8" nextIds="[21091]" reward="[[2,105,1025]]"  />
+    <ItemSpec id="21090" type="1" room="21" step="9" nextIds="[21100]" reward="[[2,105,1050]]"  />
+    <ItemSpec id="21091" type="1" room="21" step="9" nextIds="[21100]" reward="[[2,105,1050]]"  />
+    <ItemSpec id="21100" type="2" room="21" step="10" reward="[[2,105,1075]]"  />
+    <ItemSpec id="22000" type="0" room="22" step="0" nextIds="[22010,22011]"  />
+    <ItemSpec id="22010" type="5" room="22" step="1" nextIds="[22020,22021]"  />
+    <ItemSpec id="22011" type="6" room="22" step="1" nextIds="[22021,22022]"  />
+    <ItemSpec id="22020" type="4" room="22" step="2" nextIds="[22030]" reward="[[2,105,900]]"  />
+    <ItemSpec id="22021" type="4" room="22" step="2" nextIds="[22030,22031]" reward="[[2,105,900]]"  />
+    <ItemSpec id="22022" type="4" room="22" step="2" nextIds="[22031]" reward="[[2,105,900]]"  />
+    <ItemSpec id="22030" type="4" room="22" step="3" nextIds="[22040,22041]" reward="[[2,105,900]]"  />
+    <ItemSpec id="22031" type="5" room="22" step="3" nextIds="[22041,22042]"  />
+    <ItemSpec id="22040" type="3" room="22" step="4" nextIds="[22050]"  />
+    <ItemSpec id="22041" type="6" room="22" step="4" nextIds="[22050,22051]"  />
+    <ItemSpec id="22042" type="4" room="22" step="4" nextIds="[22051]" reward="[[2,105,900]]"  />
+    <ItemSpec id="22050" type="1" room="22" step="5" nextIds="[22060,22061]" reward="[[2,105,950]]"  />
+    <ItemSpec id="22051" type="1" room="22" step="5" nextIds="[22061,22062]" reward="[[2,105,950]]"  />
+    <ItemSpec id="22060" type="5" room="22" step="6" nextIds="[22070]"  />
+    <ItemSpec id="22061" type="4" room="22" step="6" nextIds="[22070,22071]" reward="[[2,105,975]]"  />
+    <ItemSpec id="22062" type="7" room="22" step="6" nextIds="[22071]"  />
+    <ItemSpec id="22070" type="1" room="22" step="7" nextIds="[22080,22081]" reward="[[2,105,1000]]"  />
+    <ItemSpec id="22071" type="1" room="22" step="7" nextIds="[22081,22082]" reward="[[2,105,1000]]"  />
+    <ItemSpec id="22080" type="4" room="22" step="8" nextIds="[22090]" reward="[[2,105,1025]]"  />
+    <ItemSpec id="22081" type="6" room="22" step="8" nextIds="[22090,22091]"  />
+    <ItemSpec id="22082" type="5" room="22" step="8" nextIds="[22091]"  />
+    <ItemSpec id="22090" type="1" room="22" step="9" nextIds="[22100]" reward="[[2,105,1050]]"  />
+    <ItemSpec id="22091" type="1" room="22" step="9" nextIds="[22100]" reward="[[2,105,1050]]"  />
+    <ItemSpec id="22100" type="2" room="22" step="10" reward="[[2,105,1075]]"  />
+    <ItemSpec id="23000" type="0" room="23" step="0" nextIds="[23010,23011]"  />
+    <ItemSpec id="23010" type="6" room="23" step="1" nextIds="[23020,23021]"  />
+    <ItemSpec id="23011" type="5" room="23" step="1" nextIds="[23021,23022]"  />
+    <ItemSpec id="23020" type="4" room="23" step="2" nextIds="[23030]" reward="[[2,105,900]]"  />
+    <ItemSpec id="23021" type="4" room="23" step="2" nextIds="[23030,23031]" reward="[[2,105,900]]"  />
+    <ItemSpec id="23022" type="4" room="23" step="2" nextIds="[23031]" reward="[[2,105,900]]"  />
+    <ItemSpec id="23030" type="5" room="23" step="3" nextIds="[23040,23041]"  />
+    <ItemSpec id="23031" type="4" room="23" step="3" nextIds="[23041,23042]" reward="[[2,105,900]]"  />
+    <ItemSpec id="23040" type="4" room="23" step="4" nextIds="[23050]" reward="[[2,105,900]]"  />
+    <ItemSpec id="23041" type="3" room="23" step="4" nextIds="[23050,23051]"  />
+    <ItemSpec id="23042" type="6" room="23" step="4" nextIds="[23051]"  />
+    <ItemSpec id="23050" type="1" room="23" step="5" nextIds="[23060,23061]" reward="[[2,105,950]]"  />
+    <ItemSpec id="23051" type="1" room="23" step="5" nextIds="[23061,23062]" reward="[[2,105,950]]"  />
+    <ItemSpec id="23060" type="7" room="23" step="6" nextIds="[23070]"  />
+    <ItemSpec id="23061" type="4" room="23" step="6" nextIds="[23070,23071]" reward="[[2,105,975]]"  />
+    <ItemSpec id="23062" type="5" room="23" step="6" nextIds="[23071]"  />
+    <ItemSpec id="23070" type="1" room="23" step="7" nextIds="[23080,23081]" reward="[[2,105,1000]]"  />
+    <ItemSpec id="23071" type="1" room="23" step="7" nextIds="[23081,23082]" reward="[[2,105,1000]]"  />
+    <ItemSpec id="23080" type="5" room="23" step="8" nextIds="[23090]"  />
+    <ItemSpec id="23081" type="6" room="23" step="8" nextIds="[23090,23091]"  />
+    <ItemSpec id="23082" type="4" room="23" step="8" nextIds="[23091]" reward="[[2,105,1025]]"  />
+    <ItemSpec id="23090" type="1" room="23" step="9" nextIds="[23100]" reward="[[2,105,1050]]"  />
+    <ItemSpec id="23091" type="1" room="23" step="9" nextIds="[23100]" reward="[[2,105,1050]]"  />
+    <ItemSpec id="23100" type="2" room="23" step="10" reward="[[2,105,1075]]"  />
+    <ItemSpec id="24000" type="0" room="24" step="0" nextIds="[24010,24011]"  />
+    <ItemSpec id="24010" type="6" room="24" step="1" nextIds="[24020,24021]"  />
+    <ItemSpec id="24011" type="5" room="24" step="1" nextIds="[24021,24022]"  />
+    <ItemSpec id="24020" type="4" room="24" step="2" nextIds="[24030]" reward="[[2,105,900]]"  />
+    <ItemSpec id="24021" type="4" room="24" step="2" nextIds="[24030,24031]" reward="[[2,105,900]]"  />
+    <ItemSpec id="24022" type="4" room="24" step="2" nextIds="[24031]" reward="[[2,105,900]]"  />
+    <ItemSpec id="24030" type="5" room="24" step="3" nextIds="[24040,24041]"  />
+    <ItemSpec id="24031" type="4" room="24" step="3" nextIds="[24041,24042]" reward="[[2,105,900]]"  />
+    <ItemSpec id="24040" type="4" room="24" step="4" nextIds="[24050]" reward="[[2,105,900]]"  />
+    <ItemSpec id="24041" type="6" room="24" step="4" nextIds="[24050,24051]"  />
+    <ItemSpec id="24042" type="3" room="24" step="4" nextIds="[24051]"  />
+    <ItemSpec id="24050" type="1" room="24" step="5" nextIds="[24060,24061]" reward="[[2,105,950]]"  />
+    <ItemSpec id="24051" type="1" room="24" step="5" nextIds="[24061,24062]" reward="[[2,105,950]]"  />
+    <ItemSpec id="24060" type="7" room="24" step="6" nextIds="[24070]"  />
+    <ItemSpec id="24061" type="4" room="24" step="6" nextIds="[24070,24071]" reward="[[2,105,975]]"  />
+    <ItemSpec id="24062" type="5" room="24" step="6" nextIds="[24071]"  />
+    <ItemSpec id="24070" type="1" room="24" step="7" nextIds="[24080,24081]" reward="[[2,105,1000]]"  />
+    <ItemSpec id="24071" type="1" room="24" step="7" nextIds="[24081,24082]" reward="[[2,105,1000]]"  />
+    <ItemSpec id="24080" type="4" room="24" step="8" nextIds="[24090]" reward="[[2,105,1025]]"  />
+    <ItemSpec id="24081" type="5" room="24" step="8" nextIds="[24090,24091]"  />
+    <ItemSpec id="24082" type="6" room="24" step="8" nextIds="[24091]"  />
+    <ItemSpec id="24090" type="1" room="24" step="9" nextIds="[24100]" reward="[[2,105,1050]]"  />
+    <ItemSpec id="24091" type="1" room="24" step="9" nextIds="[24100]" reward="[[2,105,1050]]"  />
+    <ItemSpec id="24100" type="2" room="24" step="10" reward="[[2,105,1075]]"  />
+    <ItemSpec id="31000" type="0" room="31" step="0" nextIds="[31010,31011]"  />
+    <ItemSpec id="31010" type="3" room="31" step="1" nextIds="[31020,31021]"  />
+    <ItemSpec id="31011" type="6" room="31" step="1" nextIds="[31021,31022]"  />
+    <ItemSpec id="31020" type="4" room="31" step="2" nextIds="[31030]" reward="[[2,105,1100]]"  />
+    <ItemSpec id="31021" type="5" room="31" step="2" nextIds="[31030,31031]"  />
+    <ItemSpec id="31022" type="4" room="31" step="2" nextIds="[31031]" reward="[[2,105,1100]]"  />
+    <ItemSpec id="31030" type="1" room="31" step="3" nextIds="[31040,31041]" reward="[[2,105,1125]]"  />
+    <ItemSpec id="31031" type="1" room="31" step="3" nextIds="[31041,31042]" reward="[[2,105,1125]]"  />
+    <ItemSpec id="31040" type="1" room="31" step="4" nextIds="[31050]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="31041" type="1" room="31" step="4" nextIds="[31050,31051]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="31042" type="1" room="31" step="4" nextIds="[31051]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="31050" type="4" room="31" step="5" nextIds="[31060,31061]" reward="[[2,105,1175]]"  />
+    <ItemSpec id="31051" type="7" room="31" step="5" nextIds="[31061,31062]"  />
+    <ItemSpec id="31060" type="4" room="31" step="6" nextIds="[31070]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="31061" type="4" room="31" step="6" nextIds="[31070,31071]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="31062" type="4" room="31" step="6" nextIds="[31071]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="31070" type="5" room="31" step="7" nextIds="[31080,31081]"  />
+    <ItemSpec id="31071" type="4" room="31" step="7" nextIds="[31081,31082]" reward="[[2,105,1225]]"  />
+    <ItemSpec id="31080" type="7" room="31" step="8" nextIds="[31090]"  />
+    <ItemSpec id="31081" type="5" room="31" step="8" nextIds="[31090,31091]"  />
+    <ItemSpec id="31082" type="4" room="31" step="8" nextIds="[31091]" reward="[[2,105,1250]]"  />
+    <ItemSpec id="31090" type="1" room="31" step="9" nextIds="[31100]" reward="[[2,105,1275]]"  />
+    <ItemSpec id="31091" type="1" room="31" step="9" nextIds="[31100]" reward="[[2,105,1275]]"  />
+    <ItemSpec id="31100" type="2" room="31" step="10" reward="[[2,105,1300]]"  />
+    <ItemSpec id="32000" type="0" room="32" step="0" nextIds="[32010,32011]"  />
+    <ItemSpec id="32010" type="3" room="32" step="1" nextIds="[32020,32021]"  />
+    <ItemSpec id="32011" type="6" room="32" step="1" nextIds="[32021,32022]"  />
+    <ItemSpec id="32020" type="5" room="32" step="2" nextIds="[32030]"  />
+    <ItemSpec id="32021" type="4" room="32" step="2" nextIds="[32030,32031]" reward="[[2,105,1100]]"  />
+    <ItemSpec id="32022" type="4" room="32" step="2" nextIds="[32031]" reward="[[2,105,1100]]"  />
+    <ItemSpec id="32030" type="1" room="32" step="3" nextIds="[32040,32041]" reward="[[2,105,1125]]"  />
+    <ItemSpec id="32031" type="1" room="32" step="3" nextIds="[32041,32042]" reward="[[2,105,1125]]"  />
+    <ItemSpec id="32040" type="1" room="32" step="4" nextIds="[32050]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="32041" type="1" room="32" step="4" nextIds="[32050,32051]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="32042" type="1" room="32" step="4" nextIds="[32051]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="32050" type="4" room="32" step="5" nextIds="[32060,32061]" reward="[[2,105,1175]]"  />
+    <ItemSpec id="32051" type="7" room="32" step="5" nextIds="[32061,32062]"  />
+    <ItemSpec id="32060" type="4" room="32" step="6" nextIds="[32070]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="32061" type="4" room="32" step="6" nextIds="[32070,32071]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="32062" type="4" room="32" step="6" nextIds="[32071]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="32070" type="5" room="32" step="7" nextIds="[32080,32081]"  />
+    <ItemSpec id="32071" type="4" room="32" step="7" nextIds="[32081,32082]" reward="[[2,105,1225]]"  />
+    <ItemSpec id="32080" type="5" room="32" step="8" nextIds="[32090]"  />
+    <ItemSpec id="32081" type="7" room="32" step="8" nextIds="[32090,32091]"  />
+    <ItemSpec id="32082" type="4" room="32" step="8" nextIds="[32091]" reward="[[2,105,1250]]"  />
+    <ItemSpec id="32090" type="1" room="32" step="9" nextIds="[32100]" reward="[[2,105,1275]]"  />
+    <ItemSpec id="32091" type="1" room="32" step="9" nextIds="[32100]" reward="[[2,105,1275]]"  />
+    <ItemSpec id="32100" type="2" room="32" step="10" reward="[[2,105,1300]]"  />
+    <ItemSpec id="33000" type="0" room="33" step="0" nextIds="[33010,33011]"  />
+    <ItemSpec id="33010" type="6" room="33" step="1" nextIds="[33020,33021]"  />
+    <ItemSpec id="33011" type="3" room="33" step="1" nextIds="[33021,33022]"  />
+    <ItemSpec id="33020" type="5" room="33" step="2" nextIds="[33030]"  />
+    <ItemSpec id="33021" type="4" room="33" step="2" nextIds="[33030,33031]" reward="[[2,105,1100]]"  />
+    <ItemSpec id="33022" type="4" room="33" step="2" nextIds="[33031]" reward="[[2,105,1100]]"  />
+    <ItemSpec id="33030" type="1" room="33" step="3" nextIds="[33040,33041]" reward="[[2,105,1125]]"  />
+    <ItemSpec id="33031" type="1" room="33" step="3" nextIds="[33041,33042]" reward="[[2,105,1125]]"  />
+    <ItemSpec id="33040" type="1" room="33" step="4" nextIds="[33050]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="33041" type="1" room="33" step="4" nextIds="[33050,33051]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="33042" type="1" room="33" step="4" nextIds="[33051]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="33050" type="4" room="33" step="5" nextIds="[33060,33061]" reward="[[2,105,1175]]"  />
+    <ItemSpec id="33051" type="7" room="33" step="5" nextIds="[33061,33062]"  />
+    <ItemSpec id="33060" type="4" room="33" step="6" nextIds="[33070]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="33061" type="4" room="33" step="6" nextIds="[33070,33071]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="33062" type="4" room="33" step="6" nextIds="[33071]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="33070" type="4" room="33" step="7" nextIds="[33080,33081]" reward="[[2,105,1225]]"  />
+    <ItemSpec id="33071" type="5" room="33" step="7" nextIds="[33081,33082]"  />
+    <ItemSpec id="33080" type="7" room="33" step="8" nextIds="[33090]"  />
+    <ItemSpec id="33081" type="4" room="33" step="8" nextIds="[33090,33091]" reward="[[2,105,1250]]"  />
+    <ItemSpec id="33082" type="5" room="33" step="8" nextIds="[33091]"  />
+    <ItemSpec id="33090" type="1" room="33" step="9" nextIds="[33100]" reward="[[2,105,1275]]"  />
+    <ItemSpec id="33091" type="1" room="33" step="9" nextIds="[33100]" reward="[[2,105,1275]]"  />
+    <ItemSpec id="33100" type="2" room="33" step="10" reward="[[2,105,1300]]"  />
+    <ItemSpec id="34000" type="0" room="34" step="0" nextIds="[34010,34011]"  />
+    <ItemSpec id="34010" type="6" room="34" step="1" nextIds="[34020,34021]"  />
+    <ItemSpec id="34011" type="3" room="34" step="1" nextIds="[34021,34022]"  />
+    <ItemSpec id="34020" type="5" room="34" step="2" nextIds="[34030]"  />
+    <ItemSpec id="34021" type="4" room="34" step="2" nextIds="[34030,34031]" reward="[[2,105,1100]]"  />
+    <ItemSpec id="34022" type="4" room="34" step="2" nextIds="[34031]" reward="[[2,105,1100]]"  />
+    <ItemSpec id="34030" type="1" room="34" step="3" nextIds="[34040,34041]" reward="[[2,105,1125]]"  />
+    <ItemSpec id="34031" type="1" room="34" step="3" nextIds="[34041,34042]" reward="[[2,105,1125]]"  />
+    <ItemSpec id="34040" type="1" room="34" step="4" nextIds="[34050]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="34041" type="1" room="34" step="4" nextIds="[34050,34051]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="34042" type="1" room="34" step="4" nextIds="[34051]" reward="[[2,105,1150]]"  />
+    <ItemSpec id="34050" type="4" room="34" step="5" nextIds="[34060,34061]" reward="[[2,105,1175]]"  />
+    <ItemSpec id="34051" type="7" room="34" step="5" nextIds="[34061,34062]"  />
+    <ItemSpec id="34060" type="4" room="34" step="6" nextIds="[34070]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="34061" type="4" room="34" step="6" nextIds="[34070,34071]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="34062" type="4" room="34" step="6" nextIds="[34071]" reward="[[2,105,1200]]"  />
+    <ItemSpec id="34070" type="4" room="34" step="7" nextIds="[34080,34081]" reward="[[2,105,1225]]"  />
+    <ItemSpec id="34071" type="5" room="34" step="7" nextIds="[34081,34082]"  />
+    <ItemSpec id="34080" type="4" room="34" step="8" nextIds="[34090]" reward="[[2,105,1250]]"  />
+    <ItemSpec id="34081" type="5" room="34" step="8" nextIds="[34090,34091]"  />
+    <ItemSpec id="34082" type="7" room="34" step="8" nextIds="[34091]"  />
+    <ItemSpec id="34090" type="1" room="34" step="9" nextIds="[34100]" reward="[[2,105,1275]]"  />
+    <ItemSpec id="34091" type="1" room="34" step="9" nextIds="[34100]" reward="[[2,105,1275]]"  />
+    <ItemSpec id="34100" type="2" room="34" step="10" reward="[[2,105,1300]]"  />
+
+</tns:database>

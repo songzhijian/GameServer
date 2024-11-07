@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" icon="hero_label_101" name="30101" des="30201"  />
+    <ItemSpec id="102" icon="hero_label_102" name="30102" des="30202"  />
+    <ItemSpec id="103" icon="hero_label_103" name="30103" des="30203"  />
+    <ItemSpec id="111" icon="hero_label_111" name="30111" des="30211"  />
+    <ItemSpec id="112" icon="hero_label_112" name="30112" des="30212"  />
+    <ItemSpec id="113" icon="hero_label_113" name="30113" des="30213"  />
+    <ItemSpec id="114" icon="hero_label_114" name="30114" des="30214"  />
+    <ItemSpec id="115" icon="hero_label_115" name="30115" des="30215"  />
+    <ItemSpec id="116" icon="hero_label_116" name="30116" des="30216"  />
+    <ItemSpec id="121" icon="hero_label_121" name="30121" des="30221"  />
+    <ItemSpec id="122" icon="hero_label_122" name="30122" des="30222"  />
+    <ItemSpec id="123" icon="hero_label_123" name="30123" des="30223"  />
+    <ItemSpec id="124" icon="hero_label_124" name="30124" des="30224"  />
+    <ItemSpec id="125" icon="hero_label_125" name="30125" des="30225"  />
+    <ItemSpec id="131" icon="hero_label_131" name="30131" des="30231"  />
+    <ItemSpec id="132" icon="hero_label_132" name="30132" des="30232"  />
+    <ItemSpec id="141" icon="ship_role_icon_11" name="30141" des="30241"  />
+    <ItemSpec id="142" icon="ship_role_icon_21" name="30142" des="30242"  />
+    <ItemSpec id="143" icon="ship_role_icon_31" name="30143" des="30243"  />
+    <ItemSpec id="144" icon="ship_role_icon_51" name="30144" des="30244"  />
+    <ItemSpec id="145" icon="ship_role_icon_71" name="30145" des="30245"  />
+    <ItemSpec id="146" icon="ship_role_icon_81" name="30146" des="30246"  />
+    <ItemSpec id="147" icon="ship_role_icon_91" name="30147" des="30247"  />
+    <ItemSpec id="148" icon="ship_role_icon_101" name="30148" des="30248"  />
+    <ItemSpec id="149" icon="ship_role_icon_111" name="30149" des="30249"  />
+    <ItemSpec id="150" icon="ship_role_icon_121" name="30150" des="30250"  />
+    <ItemSpec id="151" icon="ship_role_icon_201" name="30151" des="30251"  />
+    <ItemSpec id="152" icon="ship_role_icon_202" name="30152" des="30252"  />
+    <ItemSpec id="153" icon="ship_role_icon_203" name="30153" des="30253"  />
+    <ItemSpec id="154" icon="ship_role_icon_204" name="30154" des="30254"  />
+    <ItemSpec id="155" icon="ship_role_icon_204" name="30155" des="30255"  />
+    <ItemSpec id="156" icon="ship_role_icon_204" name="30156" des="30256"  />
+    <ItemSpec id="161" icon="hero_label_161" name="30161" des="30261"  />
+    <ItemSpec id="162" icon="hero_label_162" name="30162" des="30262"  />
+    <ItemSpec id="163" icon="hero_label_163" name="30163" des="30263"  />
+    <ItemSpec id="164" icon="hero_label_164" name="30164" des="30264"  />
+    <ItemSpec id="165" icon="hero_label_165" name="30165" des="30265"  />
+    <ItemSpec id="166" icon="hero_label_166" name="30166" des="30266"  />
+    <ItemSpec id="167" icon="hero_label_167" name="30167" des="30267"  />
+    <ItemSpec id="168" icon="hero_label_168" name="30168" des="30268"  />
+    <ItemSpec id="169" icon="hero_label_169" name="30169" des="30269"  />
+    <ItemSpec id="170" name="30170" des="30270"  />
+    <ItemSpec id="171" icon="hero_label_168" name="30171" des="30271"  />
+    <ItemSpec id="172" icon="hero_label_112" name="30172" des="30272"  />
+    <ItemSpec id="173" icon="hero_label_111" name="30173" des="30273"  />
+    <ItemSpec id="174" icon="hero_label_162" name="30174" des="30274"  />
+    <ItemSpec id="175" icon="hero_label_103" name="30175" des="30275"  />
+    <ItemSpec id="176" icon="hero_label_114" name="30176" des="30276"  />
+
+</tns:database>

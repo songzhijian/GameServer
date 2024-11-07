@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+     <ItemSpec
+        hero_srcShow="Assets/GameAsset/Role/HighModel/101_Hercules_show/prefab/101_Hercules_show.prefab"
+        hero_src="Assets/GameAsset/Role/LowModel/101_Hercules/prefab/101_Hercules_Battle.prefab"
+        hero_srcCity="101_Hercules_Daily"
+        hero_exclusive_icon="hero_exclusive_101_1"
+     />
+
+</tns:database>

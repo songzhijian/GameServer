@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1001" level="1" resourceType="102" pointNum="900" lifeTime="8" refreshTime="1" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="1002" level="2" resourceType="102" pointNum="1700" lifeTime="8" refreshTime="1" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="1003" level="3" resourceType="102" pointNum="2600" lifeTime="10" refreshTime="1" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="1004" level="4" resourceType="102" pointNum="5200" lifeTime="10" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="1005" level="5" resourceType="102" pointNum="7800" lifeTime="12" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="1006" level="6" resourceType="102" pointNum="10400" lifeTime="12" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="1007" level="7" resourceType="102" pointNum="12100" lifeTime="14" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="1008" level="8" resourceType="102" pointNum="13800" lifeTime="14" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="2001" level="1" resourceType="103" pointNum="900" lifeTime="8" refreshTime="1" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="2002" level="2" resourceType="103" pointNum="1700" lifeTime="8" refreshTime="1" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="2003" level="3" resourceType="103" pointNum="2600" lifeTime="10" refreshTime="1" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="2004" level="4" resourceType="103" pointNum="5200" lifeTime="10" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="2005" level="5" resourceType="103" pointNum="7800" lifeTime="12" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="2006" level="6" resourceType="103" pointNum="10400" lifeTime="12" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="2007" level="7" resourceType="103" pointNum="12100" lifeTime="14" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="2008" level="8" resourceType="103" pointNum="13800" lifeTime="14" refreshTime="2" baseCollectSpeed="0.031944"  />
+    <ItemSpec id="3001" level="1" resourceType="104" pointNum="400" lifeTime="8" refreshTime="1" baseCollectSpeed="0.015833"  />
+    <ItemSpec id="3002" level="2" resourceType="104" pointNum="900" lifeTime="8" refreshTime="1" baseCollectSpeed="0.015833"  />
+    <ItemSpec id="3003" level="3" resourceType="104" pointNum="1300" lifeTime="10" refreshTime="1" baseCollectSpeed="0.015833"  />
+    <ItemSpec id="3004" level="4" resourceType="104" pointNum="2600" lifeTime="10" refreshTime="2" baseCollectSpeed="0.015833"  />
+    <ItemSpec id="3005" level="5" resourceType="104" pointNum="3800" lifeTime="12" refreshTime="2" baseCollectSpeed="0.015833"  />
+    <ItemSpec id="3006" level="6" resourceType="104" pointNum="5100" lifeTime="12" refreshTime="2" baseCollectSpeed="0.015833"  />
+    <ItemSpec id="3007" level="7" resourceType="104" pointNum="6000" lifeTime="14" refreshTime="2" baseCollectSpeed="0.015833"  />
+    <ItemSpec id="3008" level="8" resourceType="104" pointNum="6800" lifeTime="14" refreshTime="2" baseCollectSpeed="0.015833"  />
+    <ItemSpec id="4001" level="1" resourceType="101" pointNum="500" lifeTime="8" refreshTime="1" baseCollectSpeed="0.05555555555555555"  />
+    <ItemSpec id="4002" level="2" resourceType="101" pointNum="1000" lifeTime="8" refreshTime="1" baseCollectSpeed="0.05555555555555555"  />
+    <ItemSpec id="4003" level="3" resourceType="101" pointNum="1500" lifeTime="10" refreshTime="1" baseCollectSpeed="0.05555555555555555"  />
+    <ItemSpec id="4004" level="4" resourceType="101" pointNum="3000" lifeTime="10" refreshTime="2" baseCollectSpeed="0.05555555555555555"  />
+    <ItemSpec id="4005" level="5" resourceType="101" pointNum="4500" lifeTime="12" refreshTime="2" baseCollectSpeed="0.05555555555555555"  />
+    <ItemSpec id="4006" level="6" resourceType="101" pointNum="6000" lifeTime="12" refreshTime="2" baseCollectSpeed="0.05555555555555555"  />
+    <ItemSpec id="4007" level="7" resourceType="101" pointNum="7000" lifeTime="14" refreshTime="2" baseCollectSpeed="0.05555555555555555"  />
+    <ItemSpec id="4008" level="8" resourceType="101" pointNum="8000" lifeTime="14" refreshTime="2" baseCollectSpeed="0.05555555555555555"  />
+
+</tns:database>

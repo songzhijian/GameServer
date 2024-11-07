@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1"  />
+    <ItemSpec id="2"  />
+    <ItemSpec id="3"  />
+    <ItemSpec id="4"  />
+    <ItemSpec id="5"  />
+    <ItemSpec id="6"  />
+    <ItemSpec id="7"  />
+    <ItemSpec id="8"  />
+    <ItemSpec id="9"  />
+    <ItemSpec id="10"  />
+    <ItemSpec id="11"  />
+    <ItemSpec id="12"  />
+    <ItemSpec id="13"  />
+    <ItemSpec id="14"  />
+    <ItemSpec id="15"  />
+    <ItemSpec id="16"  />
+    <ItemSpec id="17"  />
+    <ItemSpec id="18"  />
+    <ItemSpec id="19"  />
+
+</tns:database>

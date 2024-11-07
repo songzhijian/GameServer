@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="14100" type="1" shipIcon="search_ship" outputResouceId="102" preTechnology="110101" preColor="3" maxLevel="30"  />
+    <ItemSpec id="15100" type="2" shipIcon="search_ship" outputResouceId="103" preTechnology="120101" preColor="3" maxLevel="30"  />
+    <ItemSpec id="16100" type="3" shipIcon="search_ship" outputResouceId="104" preTechnology="130101" preColor="3" maxLevel="30"  />
+    <ItemSpec id="14200" type="1" shipIcon="search_ship" outputResouceId="102" preTechnology="110301" preColor="4" maxLevel="30"  />
+    <ItemSpec id="15200" type="2" shipIcon="search_ship" outputResouceId="103" preTechnology="120301" preColor="4" maxLevel="30"  />
+    <ItemSpec id="16200" type="3" shipIcon="search_ship" outputResouceId="104" preTechnology="130301" preColor="4" maxLevel="30"  />
+    <ItemSpec id="14300" type="1" shipIcon="search_ship" outputResouceId="102" preTechnology="110501" preColor="5" maxLevel="30"  />
+    <ItemSpec id="15300" type="2" shipIcon="search_ship" outputResouceId="103" preTechnology="120501" preColor="5" maxLevel="30"  />
+    <ItemSpec id="16300" type="3" shipIcon="search_ship" outputResouceId="104" preTechnology="130501" preColor="5" maxLevel="30"  />
+    <ItemSpec id="14400" type="1" shipIcon="search_ship" outputResouceId="102" preTechnology="110701" preColor="6" maxLevel="30"  />
+    <ItemSpec id="15400" type="2" shipIcon="search_ship" outputResouceId="103" preTechnology="120701" preColor="6" maxLevel="30"  />
+    <ItemSpec id="16400" type="3" shipIcon="search_ship" outputResouceId="104" preTechnology="130701" preColor="6" maxLevel="30"  />
+
+</tns:database>

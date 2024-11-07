@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" icon="hero_head_101"  />
+    <ItemSpec id="102" icon="hero_head_102"  />
+    <ItemSpec id="103" icon="hero_head_301"  />
+    <ItemSpec id="104" icon="hero_head_305"  />
+    <ItemSpec id="105" icon="hero_head_403"  />
+    <ItemSpec id="106" icon="hero_head_11"  />
+    <ItemSpec id="107" icon="hero_head_12"  />
+    <ItemSpec id="108" icon="hero_head_21"  />
+    <ItemSpec id="109" icon="hero_head_22"  />
+    <ItemSpec id="110" icon="hero_head_31"  />
+    <ItemSpec id="111" icon="hero_head_32"  />
+    <ItemSpec id="112" icon="hero_head_41"  />
+    <ItemSpec id="113" icon="hero_head_42"  />
+    <ItemSpec id="114" icon="hero_head_13"  />
+    <ItemSpec id="115" icon="hero_head_14"  />
+    <ItemSpec id="116" icon="hero_head_15"  />
+    <ItemSpec id="117" icon="hero_head_23"  />
+    <ItemSpec id="118" icon="hero_head_24"  />
+    <ItemSpec id="119" icon="hero_head_25"  />
+    <ItemSpec id="120" icon="hero_head_33"  />
+    <ItemSpec id="121" icon="hero_head_34"  />
+    <ItemSpec id="122" icon="hero_head_43"  />
+    <ItemSpec id="123" icon="hero_head_45"  />
+
+</tns:database>

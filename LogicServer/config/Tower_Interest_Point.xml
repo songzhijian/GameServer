@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" type="0" quality="1" level="1" reward_1="[[2,117,170]]" reward_2="[[2,101,9800]]" notePointExp="20"  />
+    <ItemSpec id="102" type="0" quality="1" level="2" reward_1="[[2,117,170]]" reward_2="[[2,101,10700]]" notePointExp="20"  />
+    <ItemSpec id="103" type="0" quality="1" level="3" reward_1="[[2,117,170]]" reward_2="[[2,101,11600]]" notePointExp="20"  />
+    <ItemSpec id="104" type="0" quality="1" level="4" reward_1="[[2,117,170]]" reward_2="[[2,101,12400]]" notePointExp="20"  />
+    <ItemSpec id="105" type="0" quality="1" level="5" reward_1="[[2,117,170]]" reward_2="[[2,101,13300]]" notePointExp="20"  />
+    <ItemSpec id="106" type="0" quality="1" level="6" reward_1="[[2,117,170]]" reward_2="[[2,101,14200]]" notePointExp="20"  />
+    <ItemSpec id="107" type="0" quality="1" level="7" reward_1="[[2,117,170]]" reward_2="[[2,101,15100]]" notePointExp="20"  />
+    <ItemSpec id="108" type="0" quality="1" level="8" reward_1="[[2,117,170]]" reward_2="[[2,101,16000]]" notePointExp="20"  />
+    <ItemSpec id="109" type="0" quality="1" level="9" reward_1="[[2,117,170]]" reward_2="[[2,101,16900]]" notePointExp="20"  />
+    <ItemSpec id="110" type="0" quality="1" level="10" reward_1="[[2,117,170]]" reward_2="[[2,101,17800]]" notePointExp="20"  />
+    <ItemSpec id="111" type="0" quality="1" level="11" reward_1="[[2,117,170]]" reward_2="[[2,101,18700]]" notePointExp="20"  />
+    <ItemSpec id="112" type="0" quality="1" level="12" reward_1="[[2,117,170]]" reward_2="[[2,101,19600]]" notePointExp="20"  />
+    <ItemSpec id="113" type="0" quality="1" level="13" reward_1="[[2,117,170]]" reward_2="[[2,101,20400]]" notePointExp="20"  />
+    <ItemSpec id="114" type="0" quality="1" level="14" reward_1="[[2,117,170]]" reward_2="[[2,101,21300]]" notePointExp="20"  />
+    <ItemSpec id="115" type="0" quality="1" level="15" reward_1="[[2,117,170]]" reward_2="[[2,101,22200]]" notePointExp="20"  />
+    <ItemSpec id="116" type="0" quality="1" level="16" reward_1="[[2,117,170]]" reward_2="[[2,101,23100]]" notePointExp="20"  />
+    <ItemSpec id="117" type="0" quality="1" level="17" reward_1="[[2,117,170]]" reward_2="[[2,101,24000]]" notePointExp="20"  />
+    <ItemSpec id="118" type="0" quality="1" level="18" reward_1="[[2,117,170]]" reward_2="[[2,101,24900]]" notePointExp="20"  />
+    <ItemSpec id="119" type="0" quality="1" level="19" reward_1="[[2,117,170]]" reward_2="[[2,101,25800]]" notePointExp="20"  />
+    <ItemSpec id="120" type="0" quality="1" level="20" reward_1="[[2,117,170]]" reward_2="[[2,101,26700]]" notePointExp="20"  />
+    <ItemSpec id="121" type="0" quality="1" level="21" reward_1="[[2,117,170]]" reward_2="[[2,101,27600]]" notePointExp="20"  />
+    <ItemSpec id="122" type="0" quality="1" level="22" reward_1="[[2,117,170]]" reward_2="[[2,101,28400]]" notePointExp="20"  />
+    <ItemSpec id="123" type="0" quality="1" level="23" reward_1="[[2,117,170]]" reward_2="[[2,101,29300]]" notePointExp="20"  />
+    <ItemSpec id="124" type="0" quality="1" level="24" reward_1="[[2,117,170]]" reward_2="[[2,101,30200]]" notePointExp="20"  />
+    <ItemSpec id="125" type="0" quality="1" level="25" reward_1="[[2,117,170]]" reward_2="[[2,101,31100]]" notePointExp="20"  />
+    <ItemSpec id="126" type="0" quality="1" level="26" reward_1="[[2,117,170]]" reward_2="[[2,101,32000]]" notePointExp="20"  />
+    <ItemSpec id="127" type="0" quality="1" level="27" reward_1="[[2,117,170]]" reward_2="[[2,101,32900]]" notePointExp="20"  />
+    <ItemSpec id="128" type="0" quality="1" level="28" reward_1="[[2,117,170]]" reward_2="[[2,101,33800]]" notePointExp="20"  />
+    <ItemSpec id="129" type="0" quality="1" level="29" reward_1="[[2,117,170]]" reward_2="[[2,101,34700]]" notePointExp="20"  />
+    <ItemSpec id="130" type="0" quality="1" level="30" reward_1="[[2,117,170]]" reward_2="[[2,101,35600]]" notePointExp="20"  />
+    <ItemSpec id="201" type="0" quality="2" level="1" reward_1="[[2,117,250]]" reward_2="[[2,101,14700]]" notePointExp="20"  />
+    <ItemSpec id="202" type="0" quality="2" level="2" reward_1="[[2,117,250]]" reward_2="[[2,101,16000]]" notePointExp="20"  />
+    <ItemSpec id="203" type="0" quality="2" level="3" reward_1="[[2,117,250]]" reward_2="[[2,101,17300]]" notePointExp="20"  />
+    <ItemSpec id="204" type="0" quality="2" level="4" reward_1="[[2,117,250]]" reward_2="[[2,101,18700]]" notePointExp="20"  />
+    <ItemSpec id="205" type="0" quality="2" level="5" reward_1="[[2,117,250]]" reward_2="[[2,101,20000]]" notePointExp="20"  />
+    <ItemSpec id="206" type="0" quality="2" level="6" reward_1="[[2,117,250]]" reward_2="[[2,101,21300]]" notePointExp="20"  />
+    <ItemSpec id="207" type="0" quality="2" level="7" reward_1="[[2,117,250]]" reward_2="[[2,101,22700]]" notePointExp="20"  />
+    <ItemSpec id="208" type="0" quality="2" level="8" reward_1="[[2,117,250]]" reward_2="[[2,101,24000]]" notePointExp="20"  />
+    <ItemSpec id="209" type="0" quality="2" level="9" reward_1="[[2,117,250]]" reward_2="[[2,101,25300]]" notePointExp="20"  />
+    <ItemSpec id="210" type="0" quality="2" level="10" reward_1="[[2,117,250]]" reward_2="[[2,101,26700]]" notePointExp="20"  />
+    <ItemSpec id="211" type="0" quality="2" level="11" reward_1="[[2,117,250]]" reward_2="[[2,101,28000]]" notePointExp="20"  />
+    <ItemSpec id="212" type="0" quality="2" level="12" reward_1="[[2,117,250]]" reward_2="[[2,101,29300]]" notePointExp="20"  />
+    <ItemSpec id="213" type="0" quality="2" level="13" reward_1="[[2,117,250]]" reward_2="[[2,101,30700]]" notePointExp="20"  />
+    <ItemSpec id="214" type="0" quality="2" level="14" reward_1="[[2,117,250]]" reward_2="[[2,101,32000]]" notePointExp="20"  />
+    <ItemSpec id="215" type="0" quality="2" level="15" reward_1="[[2,117,250]]" reward_2="[[2,101,33400]]" notePointExp="20"  />
+    <ItemSpec id="216" type="0" quality="2" level="16" reward_1="[[2,117,250]]" reward_2="[[2,101,34700]]" notePointExp="20"  />
+    <ItemSpec id="217" type="0" quality="2" level="17" reward_1="[[2,117,250]]" reward_2="[[2,101,36000]]" notePointExp="20"  />
+    <ItemSpec id="218" type="0" quality="2" level="18" reward_1="[[2,117,250]]" reward_2="[[2,101,37400]]" notePointExp="20"  />
+    <ItemSpec id="219" type="0" quality="2" level="19" reward_1="[[2,117,250]]" reward_2="[[2,101,38700]]" notePointExp="20"  />
+    <ItemSpec id="220" type="0" quality="2" level="20" reward_1="[[2,117,250]]" reward_2="[[2,101,40000]]" notePointExp="20"  />
+    <ItemSpec id="221" type="0" quality="2" level="21" reward_1="[[2,117,250]]" reward_2="[[2,101,41400]]" notePointExp="20"  />
+    <ItemSpec id="222" type="0" quality="2" level="22" reward_1="[[2,117,250]]" reward_2="[[2,101,42700]]" notePointExp="20"  />
+    <ItemSpec id="223" type="0" quality="2" level="23" reward_1="[[2,117,250]]" reward_2="[[2,101,44000]]" notePointExp="20"  />
+    <ItemSpec id="224" type="0" quality="2" level="24" reward_1="[[2,117,250]]" reward_2="[[2,101,45400]]" notePointExp="20"  />
+    <ItemSpec id="225" type="0" quality="2" level="25" reward_1="[[2,117,250]]" reward_2="[[2,101,46700]]" notePointExp="20"  />
+    <ItemSpec id="226" type="0" quality="2" level="26" reward_1="[[2,117,250]]" reward_2="[[2,101,48000]]" notePointExp="20"  />
+    <ItemSpec id="227" type="0" quality="2" level="27" reward_1="[[2,117,250]]" reward_2="[[2,101,49400]]" notePointExp="20"  />
+    <ItemSpec id="228" type="0" quality="2" level="28" reward_1="[[2,117,250]]" reward_2="[[2,101,50700]]" notePointExp="20"  />
+    <ItemSpec id="229" type="0" quality="2" level="29" reward_1="[[2,117,250]]" reward_2="[[2,101,52000]]" notePointExp="20"  />
+    <ItemSpec id="230" type="0" quality="2" level="30" reward_1="[[2,117,250]]" reward_2="[[2,101,53400]]" notePointExp="20"  />
+    <ItemSpec id="301" type="0" quality="3" level="1" reward_1="[[2,117,330]]" reward_2="[[2,101,19600]]" notePointExp="20"  />
+    <ItemSpec id="302" type="0" quality="3" level="2" reward_1="[[2,117,330]]" reward_2="[[2,101,21300]]" notePointExp="20"  />
+    <ItemSpec id="303" type="0" quality="3" level="3" reward_1="[[2,117,330]]" reward_2="[[2,101,23100]]" notePointExp="20"  />
+    <ItemSpec id="304" type="0" quality="3" level="4" reward_1="[[2,117,330]]" reward_2="[[2,101,24900]]" notePointExp="20"  />
+    <ItemSpec id="305" type="0" quality="3" level="5" reward_1="[[2,117,330]]" reward_2="[[2,101,26700]]" notePointExp="20"  />
+    <ItemSpec id="306" type="0" quality="3" level="6" reward_1="[[2,117,330]]" reward_2="[[2,101,28400]]" notePointExp="20"  />
+    <ItemSpec id="307" type="0" quality="3" level="7" reward_1="[[2,117,330]]" reward_2="[[2,101,30200]]" notePointExp="20"  />
+    <ItemSpec id="308" type="0" quality="3" level="8" reward_1="[[2,117,330]]" reward_2="[[2,101,32000]]" notePointExp="20"  />
+    <ItemSpec id="309" type="0" quality="3" level="9" reward_1="[[2,117,330]]" reward_2="[[2,101,33800]]" notePointExp="20"  />
+    <ItemSpec id="310" type="0" quality="3" level="10" reward_1="[[2,117,330]]" reward_2="[[2,101,35600]]" notePointExp="20"  />
+    <ItemSpec id="311" type="0" quality="3" level="11" reward_1="[[2,117,330]]" reward_2="[[2,101,37300]]" notePointExp="20"  />
+    <ItemSpec id="312" type="0" quality="3" level="12" reward_1="[[2,117,330]]" reward_2="[[2,101,39100]]" notePointExp="20"  />
+    <ItemSpec id="313" type="0" quality="3" level="13" reward_1="[[2,117,330]]" reward_2="[[2,101,40900]]" notePointExp="20"  />
+    <ItemSpec id="314" type="0" quality="3" level="14" reward_1="[[2,117,330]]" reward_2="[[2,101,42700]]" notePointExp="20"  />
+    <ItemSpec id="315" type="0" quality="3" level="15" reward_1="[[2,117,330]]" reward_2="[[2,101,44500]]" notePointExp="20"  />
+    <ItemSpec id="316" type="0" quality="3" level="16" reward_1="[[2,117,330]]" reward_2="[[2,101,46200]]" notePointExp="20"  />
+    <ItemSpec id="317" type="0" quality="3" level="17" reward_1="[[2,117,330]]" reward_2="[[2,101,48000]]" notePointExp="20"  />
+    <ItemSpec id="318" type="0" quality="3" level="18" reward_1="[[2,117,330]]" reward_2="[[2,101,49800]]" notePointExp="20"  />
+    <ItemSpec id="319" type="0" quality="3" level="19" reward_1="[[2,117,330]]" reward_2="[[2,101,51600]]" notePointExp="20"  />
+    <ItemSpec id="320" type="0" quality="3" level="20" reward_1="[[2,117,330]]" reward_2="[[2,101,53300]]" notePointExp="20"  />
+    <ItemSpec id="321" type="0" quality="3" level="21" reward_1="[[2,117,330]]" reward_2="[[2,101,55100]]" notePointExp="20"  />
+    <ItemSpec id="322" type="0" quality="3" level="22" reward_1="[[2,117,330]]" reward_2="[[2,101,56900]]" notePointExp="20"  />
+    <ItemSpec id="323" type="0" quality="3" level="23" reward_1="[[2,117,330]]" reward_2="[[2,101,58700]]" notePointExp="20"  />
+    <ItemSpec id="324" type="0" quality="3" level="24" reward_1="[[2,117,330]]" reward_2="[[2,101,60500]]" notePointExp="20"  />
+    <ItemSpec id="325" type="0" quality="3" level="25" reward_1="[[2,117,330]]" reward_2="[[2,101,62200]]" notePointExp="20"  />
+    <ItemSpec id="326" type="0" quality="3" level="26" reward_1="[[2,117,330]]" reward_2="[[2,101,64000]]" notePointExp="20"  />
+    <ItemSpec id="327" type="0" quality="3" level="27" reward_1="[[2,117,330]]" reward_2="[[2,101,65800]]" notePointExp="20"  />
+    <ItemSpec id="328" type="0" quality="3" level="28" reward_1="[[2,117,330]]" reward_2="[[2,101,67600]]" notePointExp="20"  />
+    <ItemSpec id="329" type="0" quality="3" level="29" reward_1="[[2,117,330]]" reward_2="[[2,101,69300]]" notePointExp="20"  />
+    <ItemSpec id="330" type="0" quality="3" level="30" reward_1="[[2,117,330]]" reward_2="[[2,101,71100]]" notePointExp="20"  />
+    <ItemSpec id="501" type="0" quality="5" level="1" reward_1="[[2,117,500]]" reward_2="[[2,101,29300]]" notePointExp="20"  />
+    <ItemSpec id="502" type="0" quality="5" level="2" reward_1="[[2,117,500]]" reward_2="[[2,101,32000]]" notePointExp="20"  />
+    <ItemSpec id="503" type="0" quality="5" level="3" reward_1="[[2,117,500]]" reward_2="[[2,101,34700]]" notePointExp="20"  />
+    <ItemSpec id="504" type="0" quality="5" level="4" reward_1="[[2,117,500]]" reward_2="[[2,101,37300]]" notePointExp="20"  />
+    <ItemSpec id="505" type="0" quality="5" level="5" reward_1="[[2,117,500]]" reward_2="[[2,101,40000]]" notePointExp="20"  />
+    <ItemSpec id="506" type="0" quality="5" level="6" reward_1="[[2,117,500]]" reward_2="[[2,101,42700]]" notePointExp="20"  />
+    <ItemSpec id="507" type="0" quality="5" level="7" reward_1="[[2,117,500]]" reward_2="[[2,101,45300]]" notePointExp="20"  />
+    <ItemSpec id="508" type="0" quality="5" level="8" reward_1="[[2,117,500]]" reward_2="[[2,101,48000]]" notePointExp="20"  />
+    <ItemSpec id="509" type="0" quality="5" level="9" reward_1="[[2,117,500]]" reward_2="[[2,101,50700]]" notePointExp="20"  />
+    <ItemSpec id="510" type="0" quality="5" level="10" reward_1="[[2,117,500]]" reward_2="[[2,101,53300]]" notePointExp="20"  />
+    <ItemSpec id="511" type="0" quality="5" level="11" reward_1="[[2,117,500]]" reward_2="[[2,101,56000]]" notePointExp="20"  />
+    <ItemSpec id="512" type="0" quality="5" level="12" reward_1="[[2,117,500]]" reward_2="[[2,101,58700]]" notePointExp="20"  />
+    <ItemSpec id="513" type="0" quality="5" level="13" reward_1="[[2,117,500]]" reward_2="[[2,101,61300]]" notePointExp="20"  />
+    <ItemSpec id="514" type="0" quality="5" level="14" reward_1="[[2,117,500]]" reward_2="[[2,101,64000]]" notePointExp="20"  />
+    <ItemSpec id="515" type="0" quality="5" level="15" reward_1="[[2,117,500]]" reward_2="[[2,101,66700]]" notePointExp="20"  />
+    <ItemSpec id="516" type="0" quality="5" level="16" reward_1="[[2,117,500]]" reward_2="[[2,101,69300]]" notePointExp="20"  />
+    <ItemSpec id="517" type="0" quality="5" level="17" reward_1="[[2,117,500]]" reward_2="[[2,101,72000]]" notePointExp="20"  />
+    <ItemSpec id="518" type="0" quality="5" level="18" reward_1="[[2,117,500]]" reward_2="[[2,101,74700]]" notePointExp="20"  />
+    <ItemSpec id="519" type="0" quality="5" level="19" reward_1="[[2,117,500]]" reward_2="[[2,101,77300]]" notePointExp="20"  />
+    <ItemSpec id="520" type="0" quality="5" level="20" reward_1="[[2,117,500]]" reward_2="[[2,101,80000]]" notePointExp="20"  />
+    <ItemSpec id="521" type="0" quality="5" level="21" reward_1="[[2,117,500]]" reward_2="[[2,101,82700]]" notePointExp="20"  />
+    <ItemSpec id="522" type="0" quality="5" level="22" reward_1="[[2,117,500]]" reward_2="[[2,101,85300]]" notePointExp="20"  />
+    <ItemSpec id="523" type="0" quality="5" level="23" reward_1="[[2,117,500]]" reward_2="[[2,101,88000]]" notePointExp="20"  />
+    <ItemSpec id="524" type="0" quality="5" level="24" reward_1="[[2,117,500]]" reward_2="[[2,101,90700]]" notePointExp="20"  />
+    <ItemSpec id="525" type="0" quality="5" level="25" reward_1="[[2,117,500]]" reward_2="[[2,101,93300]]" notePointExp="20"  />
+    <ItemSpec id="526" type="0" quality="5" level="26" reward_1="[[2,117,500]]" reward_2="[[2,101,96000]]" notePointExp="20"  />
+    <ItemSpec id="527" type="0" quality="5" level="27" reward_1="[[2,117,500]]" reward_2="[[2,101,98700]]" notePointExp="20"  />
+    <ItemSpec id="528" type="0" quality="5" level="28" reward_1="[[2,117,500]]" reward_2="[[2,101,101300]]" notePointExp="20"  />
+    <ItemSpec id="529" type="0" quality="5" level="29" reward_1="[[2,117,500]]" reward_2="[[2,101,104000]]" notePointExp="20"  />
+    <ItemSpec id="530" type="0" quality="5" level="30" reward_1="[[2,117,500]]" reward_2="[[2,101,106700]]" notePointExp="20"  />
+    <ItemSpec id="701" type="0" quality="7" level="1" reward_1="[[2,117,840]]" reward_2="[[2,101,48900]]" notePointExp="20"  />
+    <ItemSpec id="702" type="0" quality="7" level="2" reward_1="[[2,117,840]]" reward_2="[[2,101,53300]]" notePointExp="20"  />
+    <ItemSpec id="703" type="0" quality="7" level="3" reward_1="[[2,117,840]]" reward_2="[[2,101,57800]]" notePointExp="20"  />
+    <ItemSpec id="704" type="0" quality="7" level="4" reward_1="[[2,117,840]]" reward_2="[[2,101,62200]]" notePointExp="20"  />
+    <ItemSpec id="705" type="0" quality="7" level="5" reward_1="[[2,117,840]]" reward_2="[[2,101,66700]]" notePointExp="20"  />
+    <ItemSpec id="706" type="0" quality="7" level="6" reward_1="[[2,117,840]]" reward_2="[[2,101,71100]]" notePointExp="20"  />
+    <ItemSpec id="707" type="0" quality="7" level="7" reward_1="[[2,117,840]]" reward_2="[[2,101,75600]]" notePointExp="20"  />
+    <ItemSpec id="708" type="0" quality="7" level="8" reward_1="[[2,117,840]]" reward_2="[[2,101,80000]]" notePointExp="20"  />
+    <ItemSpec id="709" type="0" quality="7" level="9" reward_1="[[2,117,840]]" reward_2="[[2,101,84500]]" notePointExp="20"  />
+    <ItemSpec id="710" type="0" quality="7" level="10" reward_1="[[2,117,840]]" reward_2="[[2,101,88900]]" notePointExp="20"  />
+    <ItemSpec id="711" type="0" quality="7" level="11" reward_1="[[2,117,840]]" reward_2="[[2,101,93300]]" notePointExp="20"  />
+    <ItemSpec id="712" type="0" quality="7" level="12" reward_1="[[2,117,840]]" reward_2="[[2,101,97800]]" notePointExp="20"  />
+    <ItemSpec id="713" type="0" quality="7" level="13" reward_1="[[2,117,840]]" reward_2="[[2,101,102200]]" notePointExp="20"  />
+    <ItemSpec id="714" type="0" quality="7" level="14" reward_1="[[2,117,840]]" reward_2="[[2,101,106700]]" notePointExp="20"  />
+    <ItemSpec id="715" type="0" quality="7" level="15" reward_1="[[2,117,840]]" reward_2="[[2,101,111100]]" notePointExp="20"  />
+    <ItemSpec id="716" type="0" quality="7" level="16" reward_1="[[2,117,840]]" reward_2="[[2,101,115600]]" notePointExp="20"  />
+    <ItemSpec id="717" type="0" quality="7" level="17" reward_1="[[2,117,840]]" reward_2="[[2,101,120000]]" notePointExp="20"  />
+    <ItemSpec id="718" type="0" quality="7" level="18" reward_1="[[2,117,840]]" reward_2="[[2,101,124500]]" notePointExp="20"  />
+    <ItemSpec id="719" type="0" quality="7" level="19" reward_1="[[2,117,840]]" reward_2="[[2,101,128900]]" notePointExp="20"  />
+    <ItemSpec id="720" type="0" quality="7" level="20" reward_1="[[2,117,840]]" reward_2="[[2,101,133400]]" notePointExp="20"  />
+    <ItemSpec id="721" type="0" quality="7" level="21" reward_1="[[2,117,840]]" reward_2="[[2,101,137800]]" notePointExp="20"  />
+    <ItemSpec id="722" type="0" quality="7" level="22" reward_1="[[2,117,840]]" reward_2="[[2,101,142200]]" notePointExp="20"  />
+    <ItemSpec id="723" type="0" quality="7" level="23" reward_1="[[2,117,840]]" reward_2="[[2,101,146700]]" notePointExp="20"  />
+    <ItemSpec id="724" type="0" quality="7" level="24" reward_1="[[2,117,840]]" reward_2="[[2,101,151100]]" notePointExp="20"  />
+    <ItemSpec id="725" type="0" quality="7" level="25" reward_1="[[2,117,840]]" reward_2="[[2,101,155600]]" notePointExp="20"  />
+    <ItemSpec id="726" type="0" quality="7" level="26" reward_1="[[2,117,840]]" reward_2="[[2,101,160000]]" notePointExp="20"  />
+    <ItemSpec id="727" type="0" quality="7" level="27" reward_1="[[2,117,840]]" reward_2="[[2,101,164500]]" notePointExp="20"  />
+    <ItemSpec id="728" type="0" quality="7" level="28" reward_1="[[2,117,840]]" reward_2="[[2,101,168900]]" notePointExp="20"  />
+    <ItemSpec id="729" type="0" quality="7" level="29" reward_1="[[2,117,840]]" reward_2="[[2,101,173400]]" notePointExp="20"  />
+    <ItemSpec id="730" type="0" quality="7" level="30" reward_1="[[2,117,840]]" reward_2="[[2,101,177800]]" notePointExp="20"  />
+    <ItemSpec id="1101" type="1" quality="1" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,170]]" reward_2="[[2,102,460]]" notePointExp="20"  />
+    <ItemSpec id="1102" type="1" quality="1" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,170]]" reward_2="[[2,102,500]]" notePointExp="20"  />
+    <ItemSpec id="1103" type="1" quality="1" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,170]]" reward_2="[[2,102,550]]" notePointExp="20"  />
+    <ItemSpec id="1104" type="1" quality="1" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,170]]" reward_2="[[2,102,590]]" notePointExp="20"  />
+    <ItemSpec id="1105" type="1" quality="1" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,170]]" reward_2="[[2,102,630]]" notePointExp="20"  />
+    <ItemSpec id="1106" type="1" quality="1" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,170]]" reward_2="[[2,102,670]]" notePointExp="20"  />
+    <ItemSpec id="1107" type="1" quality="1" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,170]]" reward_2="[[2,102,710]]" notePointExp="20"  />
+    <ItemSpec id="1108" type="1" quality="1" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,170]]" reward_2="[[2,102,760]]" notePointExp="20"  />
+    <ItemSpec id="1109" type="1" quality="1" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,170]]" reward_2="[[2,102,800]]" notePointExp="20"  />
+    <ItemSpec id="1110" type="1" quality="1" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,170]]" reward_2="[[2,102,840]]" notePointExp="20"  />
+    <ItemSpec id="1111" type="1" quality="1" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,170]]" reward_2="[[2,102,880]]" notePointExp="20"  />
+    <ItemSpec id="1112" type="1" quality="1" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,170]]" reward_2="[[2,102,920]]" notePointExp="20"  />
+    <ItemSpec id="1113" type="1" quality="1" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,170]]" reward_2="[[2,102,970]]" notePointExp="20"  />
+    <ItemSpec id="1114" type="1" quality="1" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,170]]" reward_2="[[2,102,1010]]" notePointExp="20"  />
+    <ItemSpec id="1115" type="1" quality="1" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,170]]" reward_2="[[2,102,1050]]" notePointExp="20"  />
+    <ItemSpec id="1116" type="1" quality="1" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,170]]" reward_2="[[2,102,1090]]" notePointExp="20"  />
+    <ItemSpec id="1117" type="1" quality="1" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,170]]" reward_2="[[2,102,1130]]" notePointExp="20"  />
+    <ItemSpec id="1118" type="1" quality="1" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,170]]" reward_2="[[2,102,1180]]" notePointExp="20"  />
+    <ItemSpec id="1119" type="1" quality="1" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,170]]" reward_2="[[2,102,1220]]" notePointExp="20"  />
+    <ItemSpec id="1120" type="1" quality="1" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,170]]" reward_2="[[2,102,1260]]" notePointExp="20"  />
+    <ItemSpec id="1121" type="1" quality="1" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,170]]" reward_2="[[2,102,1300]]" notePointExp="20"  />
+    <ItemSpec id="1122" type="1" quality="1" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,170]]" reward_2="[[2,102,1340]]" notePointExp="20"  />
+    <ItemSpec id="1123" type="1" quality="1" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,170]]" reward_2="[[2,102,1390]]" notePointExp="20"  />
+    <ItemSpec id="1124" type="1" quality="1" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,170]]" reward_2="[[2,102,1430]]" notePointExp="20"  />
+    <ItemSpec id="1125" type="1" quality="1" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,170]]" reward_2="[[2,102,1470]]" notePointExp="20"  />
+    <ItemSpec id="1126" type="1" quality="1" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,170]]" reward_2="[[2,102,1510]]" notePointExp="20"  />
+    <ItemSpec id="1127" type="1" quality="1" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,170]]" reward_2="[[2,102,1550]]" notePointExp="20"  />
+    <ItemSpec id="1128" type="1" quality="1" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,170]]" reward_2="[[2,102,1600]]" notePointExp="20"  />
+    <ItemSpec id="1129" type="1" quality="1" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,170]]" reward_2="[[2,102,1640]]" notePointExp="20"  />
+    <ItemSpec id="1130" type="1" quality="1" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,170]]" reward_2="[[2,102,1680]]" notePointExp="20"  />
+    <ItemSpec id="1201" type="1" quality="2" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,250]]" reward_2="[[2,102,690]]" notePointExp="20"  />
+    <ItemSpec id="1202" type="1" quality="2" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,250]]" reward_2="[[2,102,760]]" notePointExp="20"  />
+    <ItemSpec id="1203" type="1" quality="2" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,250]]" reward_2="[[2,102,820]]" notePointExp="20"  />
+    <ItemSpec id="1204" type="1" quality="2" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,250]]" reward_2="[[2,102,880]]" notePointExp="20"  />
+    <ItemSpec id="1205" type="1" quality="2" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,250]]" reward_2="[[2,102,950]]" notePointExp="20"  />
+    <ItemSpec id="1206" type="1" quality="2" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,250]]" reward_2="[[2,102,1010]]" notePointExp="20"  />
+    <ItemSpec id="1207" type="1" quality="2" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,250]]" reward_2="[[2,102,1070]]" notePointExp="20"  />
+    <ItemSpec id="1208" type="1" quality="2" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,250]]" reward_2="[[2,102,1130]]" notePointExp="20"  />
+    <ItemSpec id="1209" type="1" quality="2" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,250]]" reward_2="[[2,102,1200]]" notePointExp="20"  />
+    <ItemSpec id="1210" type="1" quality="2" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,250]]" reward_2="[[2,102,1260]]" notePointExp="20"  />
+    <ItemSpec id="1211" type="1" quality="2" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,250]]" reward_2="[[2,102,1320]]" notePointExp="20"  />
+    <ItemSpec id="1212" type="1" quality="2" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,250]]" reward_2="[[2,102,1390]]" notePointExp="20"  />
+    <ItemSpec id="1213" type="1" quality="2" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,250]]" reward_2="[[2,102,1450]]" notePointExp="20"  />
+    <ItemSpec id="1214" type="1" quality="2" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,250]]" reward_2="[[2,102,1510]]" notePointExp="20"  />
+    <ItemSpec id="1215" type="1" quality="2" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,250]]" reward_2="[[2,102,1580]]" notePointExp="20"  />
+    <ItemSpec id="1216" type="1" quality="2" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,250]]" reward_2="[[2,102,1640]]" notePointExp="20"  />
+    <ItemSpec id="1217" type="1" quality="2" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,250]]" reward_2="[[2,102,1700]]" notePointExp="20"  />
+    <ItemSpec id="1218" type="1" quality="2" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,250]]" reward_2="[[2,102,1760]]" notePointExp="20"  />
+    <ItemSpec id="1219" type="1" quality="2" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,250]]" reward_2="[[2,102,1830]]" notePointExp="20"  />
+    <ItemSpec id="1220" type="1" quality="2" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,250]]" reward_2="[[2,102,1890]]" notePointExp="20"  />
+    <ItemSpec id="1221" type="1" quality="2" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,250]]" reward_2="[[2,102,1950]]" notePointExp="20"  />
+    <ItemSpec id="1222" type="1" quality="2" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,250]]" reward_2="[[2,102,2020]]" notePointExp="20"  />
+    <ItemSpec id="1223" type="1" quality="2" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,250]]" reward_2="[[2,102,2080]]" notePointExp="20"  />
+    <ItemSpec id="1224" type="1" quality="2" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,250]]" reward_2="[[2,102,2140]]" notePointExp="20"  />
+    <ItemSpec id="1225" type="1" quality="2" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,250]]" reward_2="[[2,102,2210]]" notePointExp="20"  />
+    <ItemSpec id="1226" type="1" quality="2" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,250]]" reward_2="[[2,102,2270]]" notePointExp="20"  />
+    <ItemSpec id="1227" type="1" quality="2" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,250]]" reward_2="[[2,102,2330]]" notePointExp="20"  />
+    <ItemSpec id="1228" type="1" quality="2" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,250]]" reward_2="[[2,102,2390]]" notePointExp="20"  />
+    <ItemSpec id="1229" type="1" quality="2" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,250]]" reward_2="[[2,102,2460]]" notePointExp="20"  />
+    <ItemSpec id="1230" type="1" quality="2" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,250]]" reward_2="[[2,102,2520]]" notePointExp="20"  />
+    <ItemSpec id="1301" type="1" quality="3" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,330]]" reward_2="[[2,102,910]]" notePointExp="20"  />
+    <ItemSpec id="1302" type="1" quality="3" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,330]]" reward_2="[[2,102,1000]]" notePointExp="20"  />
+    <ItemSpec id="1303" type="1" quality="3" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,330]]" reward_2="[[2,102,1080]]" notePointExp="20"  />
+    <ItemSpec id="1304" type="1" quality="3" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,330]]" reward_2="[[2,102,1160]]" notePointExp="20"  />
+    <ItemSpec id="1305" type="1" quality="3" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,330]]" reward_2="[[2,102,1250]]" notePointExp="20"  />
+    <ItemSpec id="1306" type="1" quality="3" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,330]]" reward_2="[[2,102,1330]]" notePointExp="20"  />
+    <ItemSpec id="1307" type="1" quality="3" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,330]]" reward_2="[[2,102,1410]]" notePointExp="20"  />
+    <ItemSpec id="1308" type="1" quality="3" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,330]]" reward_2="[[2,102,1490]]" notePointExp="20"  />
+    <ItemSpec id="1309" type="1" quality="3" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,330]]" reward_2="[[2,102,1580]]" notePointExp="20"  />
+    <ItemSpec id="1310" type="1" quality="3" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,330]]" reward_2="[[2,102,1660]]" notePointExp="20"  />
+    <ItemSpec id="1311" type="1" quality="3" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,330]]" reward_2="[[2,102,1740]]" notePointExp="20"  />
+    <ItemSpec id="1312" type="1" quality="3" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,330]]" reward_2="[[2,102,1830]]" notePointExp="20"  />
+    <ItemSpec id="1313" type="1" quality="3" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,330]]" reward_2="[[2,102,1910]]" notePointExp="20"  />
+    <ItemSpec id="1314" type="1" quality="3" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,330]]" reward_2="[[2,102,1990]]" notePointExp="20"  />
+    <ItemSpec id="1315" type="1" quality="3" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,330]]" reward_2="[[2,102,2080]]" notePointExp="20"  />
+    <ItemSpec id="1316" type="1" quality="3" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,330]]" reward_2="[[2,102,2160]]" notePointExp="20"  />
+    <ItemSpec id="1317" type="1" quality="3" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,330]]" reward_2="[[2,102,2240]]" notePointExp="20"  />
+    <ItemSpec id="1318" type="1" quality="3" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,330]]" reward_2="[[2,102,2320]]" notePointExp="20"  />
+    <ItemSpec id="1319" type="1" quality="3" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,330]]" reward_2="[[2,102,2410]]" notePointExp="20"  />
+    <ItemSpec id="1320" type="1" quality="3" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,330]]" reward_2="[[2,102,2490]]" notePointExp="20"  />
+    <ItemSpec id="1321" type="1" quality="3" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,330]]" reward_2="[[2,102,2570]]" notePointExp="20"  />
+    <ItemSpec id="1322" type="1" quality="3" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,330]]" reward_2="[[2,102,2660]]" notePointExp="20"  />
+    <ItemSpec id="1323" type="1" quality="3" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,330]]" reward_2="[[2,102,2740]]" notePointExp="20"  />
+    <ItemSpec id="1324" type="1" quality="3" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,330]]" reward_2="[[2,102,2820]]" notePointExp="20"  />
+    <ItemSpec id="1325" type="1" quality="3" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,330]]" reward_2="[[2,102,2910]]" notePointExp="20"  />
+    <ItemSpec id="1326" type="1" quality="3" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,330]]" reward_2="[[2,102,2990]]" notePointExp="20"  />
+    <ItemSpec id="1327" type="1" quality="3" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,330]]" reward_2="[[2,102,3070]]" notePointExp="20"  />
+    <ItemSpec id="1328" type="1" quality="3" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,330]]" reward_2="[[2,102,3150]]" notePointExp="20"  />
+    <ItemSpec id="1329" type="1" quality="3" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,330]]" reward_2="[[2,102,3240]]" notePointExp="20"  />
+    <ItemSpec id="1330" type="1" quality="3" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,330]]" reward_2="[[2,102,3320]]" notePointExp="20"  />
+    <ItemSpec id="1501" type="1" quality="5" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,500]]" reward_2="[[2,102,1380]]" notePointExp="20"  />
+    <ItemSpec id="1502" type="1" quality="5" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,500]]" reward_2="[[2,102,1500]]" notePointExp="20"  />
+    <ItemSpec id="1503" type="1" quality="5" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,500]]" reward_2="[[2,102,1630]]" notePointExp="20"  />
+    <ItemSpec id="1504" type="1" quality="5" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,500]]" reward_2="[[2,102,1750]]" notePointExp="20"  />
+    <ItemSpec id="1505" type="1" quality="5" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,500]]" reward_2="[[2,102,1880]]" notePointExp="20"  />
+    <ItemSpec id="1506" type="1" quality="5" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,500]]" reward_2="[[2,102,2000]]" notePointExp="20"  />
+    <ItemSpec id="1507" type="1" quality="5" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,500]]" reward_2="[[2,102,2130]]" notePointExp="20"  />
+    <ItemSpec id="1508" type="1" quality="5" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,500]]" reward_2="[[2,102,2250]]" notePointExp="20"  />
+    <ItemSpec id="1509" type="1" quality="5" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,500]]" reward_2="[[2,102,2380]]" notePointExp="20"  />
+    <ItemSpec id="1510" type="1" quality="5" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,500]]" reward_2="[[2,102,2500]]" notePointExp="20"  />
+    <ItemSpec id="1511" type="1" quality="5" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,500]]" reward_2="[[2,102,2630]]" notePointExp="20"  />
+    <ItemSpec id="1512" type="1" quality="5" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,500]]" reward_2="[[2,102,2750]]" notePointExp="20"  />
+    <ItemSpec id="1513" type="1" quality="5" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,500]]" reward_2="[[2,102,2880]]" notePointExp="20"  />
+    <ItemSpec id="1514" type="1" quality="5" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,500]]" reward_2="[[2,102,3000]]" notePointExp="20"  />
+    <ItemSpec id="1515" type="1" quality="5" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,500]]" reward_2="[[2,102,3130]]" notePointExp="20"  />
+    <ItemSpec id="1516" type="1" quality="5" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,500]]" reward_2="[[2,102,3250]]" notePointExp="20"  />
+    <ItemSpec id="1517" type="1" quality="5" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,500]]" reward_2="[[2,102,3380]]" notePointExp="20"  />
+    <ItemSpec id="1518" type="1" quality="5" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,500]]" reward_2="[[2,102,3500]]" notePointExp="20"  />
+    <ItemSpec id="1519" type="1" quality="5" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,500]]" reward_2="[[2,102,3630]]" notePointExp="20"  />
+    <ItemSpec id="1520" type="1" quality="5" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,500]]" reward_2="[[2,102,3750]]" notePointExp="20"  />
+    <ItemSpec id="1521" type="1" quality="5" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,500]]" reward_2="[[2,102,3880]]" notePointExp="20"  />
+    <ItemSpec id="1522" type="1" quality="5" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,500]]" reward_2="[[2,102,4000]]" notePointExp="20"  />
+    <ItemSpec id="1523" type="1" quality="5" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,500]]" reward_2="[[2,102,4130]]" notePointExp="20"  />
+    <ItemSpec id="1524" type="1" quality="5" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,500]]" reward_2="[[2,102,4250]]" notePointExp="20"  />
+    <ItemSpec id="1525" type="1" quality="5" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,500]]" reward_2="[[2,102,4380]]" notePointExp="20"  />
+    <ItemSpec id="1526" type="1" quality="5" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,500]]" reward_2="[[2,102,4500]]" notePointExp="20"  />
+    <ItemSpec id="1527" type="1" quality="5" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,500]]" reward_2="[[2,102,4630]]" notePointExp="20"  />
+    <ItemSpec id="1528" type="1" quality="5" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,500]]" reward_2="[[2,102,4750]]" notePointExp="20"  />
+    <ItemSpec id="1529" type="1" quality="5" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,500]]" reward_2="[[2,102,4880]]" notePointExp="20"  />
+    <ItemSpec id="1530" type="1" quality="5" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,500]]" reward_2="[[2,102,5000]]" notePointExp="20"  />
+    <ItemSpec id="1701" type="1" quality="7" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,840]]" reward_2="[[2,102,2300]]" notePointExp="20"  />
+    <ItemSpec id="1702" type="1" quality="7" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,840]]" reward_2="[[2,102,2510]]" notePointExp="20"  />
+    <ItemSpec id="1703" type="1" quality="7" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,840]]" reward_2="[[2,102,2720]]" notePointExp="20"  />
+    <ItemSpec id="1704" type="1" quality="7" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,840]]" reward_2="[[2,102,2930]]" notePointExp="20"  />
+    <ItemSpec id="1705" type="1" quality="7" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,840]]" reward_2="[[2,102,3140]]" notePointExp="20"  />
+    <ItemSpec id="1706" type="1" quality="7" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,840]]" reward_2="[[2,102,3340]]" notePointExp="20"  />
+    <ItemSpec id="1707" type="1" quality="7" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,840]]" reward_2="[[2,102,3550]]" notePointExp="20"  />
+    <ItemSpec id="1708" type="1" quality="7" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,840]]" reward_2="[[2,102,3760]]" notePointExp="20"  />
+    <ItemSpec id="1709" type="1" quality="7" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,840]]" reward_2="[[2,102,3970]]" notePointExp="20"  />
+    <ItemSpec id="1710" type="1" quality="7" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,840]]" reward_2="[[2,102,4180]]" notePointExp="20"  />
+    <ItemSpec id="1711" type="1" quality="7" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,840]]" reward_2="[[2,102,4390]]" notePointExp="20"  />
+    <ItemSpec id="1712" type="1" quality="7" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,840]]" reward_2="[[2,102,4600]]" notePointExp="20"  />
+    <ItemSpec id="1713" type="1" quality="7" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,840]]" reward_2="[[2,102,4810]]" notePointExp="20"  />
+    <ItemSpec id="1714" type="1" quality="7" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,840]]" reward_2="[[2,102,5020]]" notePointExp="20"  />
+    <ItemSpec id="1715" type="1" quality="7" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,840]]" reward_2="[[2,102,5230]]" notePointExp="20"  />
+    <ItemSpec id="1716" type="1" quality="7" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,840]]" reward_2="[[2,102,5430]]" notePointExp="20"  />
+    <ItemSpec id="1717" type="1" quality="7" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,840]]" reward_2="[[2,102,5640]]" notePointExp="20"  />
+    <ItemSpec id="1718" type="1" quality="7" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,840]]" reward_2="[[2,102,5850]]" notePointExp="20"  />
+    <ItemSpec id="1719" type="1" quality="7" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,840]]" reward_2="[[2,102,6060]]" notePointExp="20"  />
+    <ItemSpec id="1720" type="1" quality="7" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,840]]" reward_2="[[2,102,6270]]" notePointExp="20"  />
+    <ItemSpec id="1721" type="1" quality="7" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,840]]" reward_2="[[2,102,6480]]" notePointExp="20"  />
+    <ItemSpec id="1722" type="1" quality="7" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,840]]" reward_2="[[2,102,6690]]" notePointExp="20"  />
+    <ItemSpec id="1723" type="1" quality="7" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,840]]" reward_2="[[2,102,6900]]" notePointExp="20"  />
+    <ItemSpec id="1724" type="1" quality="7" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,840]]" reward_2="[[2,102,7110]]" notePointExp="20"  />
+    <ItemSpec id="1725" type="1" quality="7" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,840]]" reward_2="[[2,102,7320]]" notePointExp="20"  />
+    <ItemSpec id="1726" type="1" quality="7" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,840]]" reward_2="[[2,102,7520]]" notePointExp="20"  />
+    <ItemSpec id="1727" type="1" quality="7" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,840]]" reward_2="[[2,102,7730]]" notePointExp="20"  />
+    <ItemSpec id="1728" type="1" quality="7" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,840]]" reward_2="[[2,102,7940]]" notePointExp="20"  />
+    <ItemSpec id="1729" type="1" quality="7" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,840]]" reward_2="[[2,102,8150]]" notePointExp="20"  />
+    <ItemSpec id="1730" type="1" quality="7" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,840]]" reward_2="[[2,102,8360]]" notePointExp="20"  />
+    <ItemSpec id="11101" type="1" quality="1" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,170]]" reward_2="[[2,103,460]]" notePointExp="20"  />
+    <ItemSpec id="11102" type="1" quality="1" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,170]]" reward_2="[[2,103,500]]" notePointExp="20"  />
+    <ItemSpec id="11103" type="1" quality="1" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,170]]" reward_2="[[2,103,550]]" notePointExp="20"  />
+    <ItemSpec id="11104" type="1" quality="1" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,170]]" reward_2="[[2,103,590]]" notePointExp="20"  />
+    <ItemSpec id="11105" type="1" quality="1" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,170]]" reward_2="[[2,103,630]]" notePointExp="20"  />
+    <ItemSpec id="11106" type="1" quality="1" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,170]]" reward_2="[[2,103,670]]" notePointExp="20"  />
+    <ItemSpec id="11107" type="1" quality="1" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,170]]" reward_2="[[2,103,710]]" notePointExp="20"  />
+    <ItemSpec id="11108" type="1" quality="1" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,170]]" reward_2="[[2,103,760]]" notePointExp="20"  />
+    <ItemSpec id="11109" type="1" quality="1" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,170]]" reward_2="[[2,103,800]]" notePointExp="20"  />
+    <ItemSpec id="11110" type="1" quality="1" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,170]]" reward_2="[[2,103,840]]" notePointExp="20"  />
+    <ItemSpec id="11111" type="1" quality="1" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,170]]" reward_2="[[2,103,880]]" notePointExp="20"  />
+    <ItemSpec id="11112" type="1" quality="1" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,170]]" reward_2="[[2,103,920]]" notePointExp="20"  />
+    <ItemSpec id="11113" type="1" quality="1" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,170]]" reward_2="[[2,103,970]]" notePointExp="20"  />
+    <ItemSpec id="11114" type="1" quality="1" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,170]]" reward_2="[[2,103,1010]]" notePointExp="20"  />
+    <ItemSpec id="11115" type="1" quality="1" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,170]]" reward_2="[[2,103,1050]]" notePointExp="20"  />
+    <ItemSpec id="11116" type="1" quality="1" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,170]]" reward_2="[[2,103,1090]]" notePointExp="20"  />
+    <ItemSpec id="11117" type="1" quality="1" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,170]]" reward_2="[[2,103,1130]]" notePointExp="20"  />
+    <ItemSpec id="11118" type="1" quality="1" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,170]]" reward_2="[[2,103,1180]]" notePointExp="20"  />
+    <ItemSpec id="11119" type="1" quality="1" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,170]]" reward_2="[[2,103,1220]]" notePointExp="20"  />
+    <ItemSpec id="11120" type="1" quality="1" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,170]]" reward_2="[[2,103,1260]]" notePointExp="20"  />
+    <ItemSpec id="11121" type="1" quality="1" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,170]]" reward_2="[[2,103,1300]]" notePointExp="20"  />
+    <ItemSpec id="11122" type="1" quality="1" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,170]]" reward_2="[[2,103,1340]]" notePointExp="20"  />
+    <ItemSpec id="11123" type="1" quality="1" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,170]]" reward_2="[[2,103,1390]]" notePointExp="20"  />
+    <ItemSpec id="11124" type="1" quality="1" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,170]]" reward_2="[[2,103,1430]]" notePointExp="20"  />
+    <ItemSpec id="11125" type="1" quality="1" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,170]]" reward_2="[[2,103,1470]]" notePointExp="20"  />
+    <ItemSpec id="11126" type="1" quality="1" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,170]]" reward_2="[[2,103,1510]]" notePointExp="20"  />
+    <ItemSpec id="11127" type="1" quality="1" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,170]]" reward_2="[[2,103,1550]]" notePointExp="20"  />
+    <ItemSpec id="11128" type="1" quality="1" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,170]]" reward_2="[[2,103,1600]]" notePointExp="20"  />
+    <ItemSpec id="11129" type="1" quality="1" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,170]]" reward_2="[[2,103,1640]]" notePointExp="20"  />
+    <ItemSpec id="11130" type="1" quality="1" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,170]]" reward_2="[[2,103,1680]]" notePointExp="20"  />
+    <ItemSpec id="11201" type="1" quality="2" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,250]]" reward_2="[[2,103,690]]" notePointExp="20"  />
+    <ItemSpec id="11202" type="1" quality="2" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,250]]" reward_2="[[2,103,760]]" notePointExp="20"  />
+    <ItemSpec id="11203" type="1" quality="2" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,250]]" reward_2="[[2,103,820]]" notePointExp="20"  />
+    <ItemSpec id="11204" type="1" quality="2" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,250]]" reward_2="[[2,103,880]]" notePointExp="20"  />
+    <ItemSpec id="11205" type="1" quality="2" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,250]]" reward_2="[[2,103,950]]" notePointExp="20"  />
+    <ItemSpec id="11206" type="1" quality="2" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,250]]" reward_2="[[2,103,1010]]" notePointExp="20"  />
+    <ItemSpec id="11207" type="1" quality="2" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,250]]" reward_2="[[2,103,1070]]" notePointExp="20"  />
+    <ItemSpec id="11208" type="1" quality="2" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,250]]" reward_2="[[2,103,1130]]" notePointExp="20"  />
+    <ItemSpec id="11209" type="1" quality="2" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,250]]" reward_2="[[2,103,1200]]" notePointExp="20"  />
+    <ItemSpec id="11210" type="1" quality="2" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,250]]" reward_2="[[2,103,1260]]" notePointExp="20"  />
+    <ItemSpec id="11211" type="1" quality="2" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,250]]" reward_2="[[2,103,1320]]" notePointExp="20"  />
+    <ItemSpec id="11212" type="1" quality="2" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,250]]" reward_2="[[2,103,1390]]" notePointExp="20"  />
+    <ItemSpec id="11213" type="1" quality="2" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,250]]" reward_2="[[2,103,1450]]" notePointExp="20"  />
+    <ItemSpec id="11214" type="1" quality="2" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,250]]" reward_2="[[2,103,1510]]" notePointExp="20"  />
+    <ItemSpec id="11215" type="1" quality="2" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,250]]" reward_2="[[2,103,1580]]" notePointExp="20"  />
+    <ItemSpec id="11216" type="1" quality="2" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,250]]" reward_2="[[2,103,1640]]" notePointExp="20"  />
+    <ItemSpec id="11217" type="1" quality="2" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,250]]" reward_2="[[2,103,1700]]" notePointExp="20"  />
+    <ItemSpec id="11218" type="1" quality="2" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,250]]" reward_2="[[2,103,1760]]" notePointExp="20"  />
+    <ItemSpec id="11219" type="1" quality="2" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,250]]" reward_2="[[2,103,1830]]" notePointExp="20"  />
+    <ItemSpec id="11220" type="1" quality="2" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,250]]" reward_2="[[2,103,1890]]" notePointExp="20"  />
+    <ItemSpec id="11221" type="1" quality="2" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,250]]" reward_2="[[2,103,1950]]" notePointExp="20"  />
+    <ItemSpec id="11222" type="1" quality="2" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,250]]" reward_2="[[2,103,2020]]" notePointExp="20"  />
+    <ItemSpec id="11223" type="1" quality="2" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,250]]" reward_2="[[2,103,2080]]" notePointExp="20"  />
+    <ItemSpec id="11224" type="1" quality="2" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,250]]" reward_2="[[2,103,2140]]" notePointExp="20"  />
+    <ItemSpec id="11225" type="1" quality="2" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,250]]" reward_2="[[2,103,2210]]" notePointExp="20"  />
+    <ItemSpec id="11226" type="1" quality="2" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,250]]" reward_2="[[2,103,2270]]" notePointExp="20"  />
+    <ItemSpec id="11227" type="1" quality="2" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,250]]" reward_2="[[2,103,2330]]" notePointExp="20"  />
+    <ItemSpec id="11228" type="1" quality="2" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,250]]" reward_2="[[2,103,2390]]" notePointExp="20"  />
+    <ItemSpec id="11229" type="1" quality="2" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,250]]" reward_2="[[2,103,2460]]" notePointExp="20"  />
+    <ItemSpec id="11230" type="1" quality="2" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,250]]" reward_2="[[2,103,2520]]" notePointExp="20"  />
+    <ItemSpec id="11301" type="1" quality="3" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,330]]" reward_2="[[2,103,910]]" notePointExp="20"  />
+    <ItemSpec id="11302" type="1" quality="3" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,330]]" reward_2="[[2,103,1000]]" notePointExp="20"  />
+    <ItemSpec id="11303" type="1" quality="3" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,330]]" reward_2="[[2,103,1080]]" notePointExp="20"  />
+    <ItemSpec id="11304" type="1" quality="3" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,330]]" reward_2="[[2,103,1160]]" notePointExp="20"  />
+    <ItemSpec id="11305" type="1" quality="3" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,330]]" reward_2="[[2,103,1250]]" notePointExp="20"  />
+    <ItemSpec id="11306" type="1" quality="3" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,330]]" reward_2="[[2,103,1330]]" notePointExp="20"  />
+    <ItemSpec id="11307" type="1" quality="3" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,330]]" reward_2="[[2,103,1410]]" notePointExp="20"  />
+    <ItemSpec id="11308" type="1" quality="3" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,330]]" reward_2="[[2,103,1490]]" notePointExp="20"  />
+    <ItemSpec id="11309" type="1" quality="3" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,330]]" reward_2="[[2,103,1580]]" notePointExp="20"  />
+    <ItemSpec id="11310" type="1" quality="3" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,330]]" reward_2="[[2,103,1660]]" notePointExp="20"  />
+    <ItemSpec id="11311" type="1" quality="3" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,330]]" reward_2="[[2,103,1740]]" notePointExp="20"  />
+    <ItemSpec id="11312" type="1" quality="3" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,330]]" reward_2="[[2,103,1830]]" notePointExp="20"  />
+    <ItemSpec id="11313" type="1" quality="3" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,330]]" reward_2="[[2,103,1910]]" notePointExp="20"  />
+    <ItemSpec id="11314" type="1" quality="3" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,330]]" reward_2="[[2,103,1990]]" notePointExp="20"  />
+    <ItemSpec id="11315" type="1" quality="3" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,330]]" reward_2="[[2,103,2080]]" notePointExp="20"  />
+    <ItemSpec id="11316" type="1" quality="3" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,330]]" reward_2="[[2,103,2160]]" notePointExp="20"  />
+    <ItemSpec id="11317" type="1" quality="3" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,330]]" reward_2="[[2,103,2240]]" notePointExp="20"  />
+    <ItemSpec id="11318" type="1" quality="3" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,330]]" reward_2="[[2,103,2320]]" notePointExp="20"  />
+    <ItemSpec id="11319" type="1" quality="3" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,330]]" reward_2="[[2,103,2410]]" notePointExp="20"  />
+    <ItemSpec id="11320" type="1" quality="3" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,330]]" reward_2="[[2,103,2490]]" notePointExp="20"  />
+    <ItemSpec id="11321" type="1" quality="3" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,330]]" reward_2="[[2,103,2570]]" notePointExp="20"  />
+    <ItemSpec id="11322" type="1" quality="3" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,330]]" reward_2="[[2,103,2660]]" notePointExp="20"  />
+    <ItemSpec id="11323" type="1" quality="3" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,330]]" reward_2="[[2,103,2740]]" notePointExp="20"  />
+    <ItemSpec id="11324" type="1" quality="3" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,330]]" reward_2="[[2,103,2820]]" notePointExp="20"  />
+    <ItemSpec id="11325" type="1" quality="3" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,330]]" reward_2="[[2,103,2910]]" notePointExp="20"  />
+    <ItemSpec id="11326" type="1" quality="3" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,330]]" reward_2="[[2,103,2990]]" notePointExp="20"  />
+    <ItemSpec id="11327" type="1" quality="3" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,330]]" reward_2="[[2,103,3070]]" notePointExp="20"  />
+    <ItemSpec id="11328" type="1" quality="3" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,330]]" reward_2="[[2,103,3150]]" notePointExp="20"  />
+    <ItemSpec id="11329" type="1" quality="3" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,330]]" reward_2="[[2,103,3240]]" notePointExp="20"  />
+    <ItemSpec id="11330" type="1" quality="3" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,330]]" reward_2="[[2,103,3320]]" notePointExp="20"  />
+    <ItemSpec id="11501" type="1" quality="5" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,500]]" reward_2="[[2,103,1380]]" notePointExp="20"  />
+    <ItemSpec id="11502" type="1" quality="5" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,500]]" reward_2="[[2,103,1500]]" notePointExp="20"  />
+    <ItemSpec id="11503" type="1" quality="5" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,500]]" reward_2="[[2,103,1630]]" notePointExp="20"  />
+    <ItemSpec id="11504" type="1" quality="5" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,500]]" reward_2="[[2,103,1750]]" notePointExp="20"  />
+    <ItemSpec id="11505" type="1" quality="5" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,500]]" reward_2="[[2,103,1880]]" notePointExp="20"  />
+    <ItemSpec id="11506" type="1" quality="5" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,500]]" reward_2="[[2,103,2000]]" notePointExp="20"  />
+    <ItemSpec id="11507" type="1" quality="5" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,500]]" reward_2="[[2,103,2130]]" notePointExp="20"  />
+    <ItemSpec id="11508" type="1" quality="5" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,500]]" reward_2="[[2,103,2250]]" notePointExp="20"  />
+    <ItemSpec id="11509" type="1" quality="5" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,500]]" reward_2="[[2,103,2380]]" notePointExp="20"  />
+    <ItemSpec id="11510" type="1" quality="5" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,500]]" reward_2="[[2,103,2500]]" notePointExp="20"  />
+    <ItemSpec id="11511" type="1" quality="5" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,500]]" reward_2="[[2,103,2630]]" notePointExp="20"  />
+    <ItemSpec id="11512" type="1" quality="5" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,500]]" reward_2="[[2,103,2750]]" notePointExp="20"  />
+    <ItemSpec id="11513" type="1" quality="5" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,500]]" reward_2="[[2,103,2880]]" notePointExp="20"  />
+    <ItemSpec id="11514" type="1" quality="5" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,500]]" reward_2="[[2,103,3000]]" notePointExp="20"  />
+    <ItemSpec id="11515" type="1" quality="5" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,500]]" reward_2="[[2,103,3130]]" notePointExp="20"  />
+    <ItemSpec id="11516" type="1" quality="5" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,500]]" reward_2="[[2,103,3250]]" notePointExp="20"  />
+    <ItemSpec id="11517" type="1" quality="5" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,500]]" reward_2="[[2,103,3380]]" notePointExp="20"  />
+    <ItemSpec id="11518" type="1" quality="5" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,500]]" reward_2="[[2,103,3500]]" notePointExp="20"  />
+    <ItemSpec id="11519" type="1" quality="5" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,500]]" reward_2="[[2,103,3630]]" notePointExp="20"  />
+    <ItemSpec id="11520" type="1" quality="5" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,500]]" reward_2="[[2,103,3750]]" notePointExp="20"  />
+    <ItemSpec id="11521" type="1" quality="5" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,500]]" reward_2="[[2,103,3880]]" notePointExp="20"  />
+    <ItemSpec id="11522" type="1" quality="5" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,500]]" reward_2="[[2,103,4000]]" notePointExp="20"  />
+    <ItemSpec id="11523" type="1" quality="5" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,500]]" reward_2="[[2,103,4130]]" notePointExp="20"  />
+    <ItemSpec id="11524" type="1" quality="5" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,500]]" reward_2="[[2,103,4250]]" notePointExp="20"  />
+    <ItemSpec id="11525" type="1" quality="5" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,500]]" reward_2="[[2,103,4380]]" notePointExp="20"  />
+    <ItemSpec id="11526" type="1" quality="5" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,500]]" reward_2="[[2,103,4500]]" notePointExp="20"  />
+    <ItemSpec id="11527" type="1" quality="5" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,500]]" reward_2="[[2,103,4630]]" notePointExp="20"  />
+    <ItemSpec id="11528" type="1" quality="5" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,500]]" reward_2="[[2,103,4750]]" notePointExp="20"  />
+    <ItemSpec id="11529" type="1" quality="5" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,500]]" reward_2="[[2,103,4880]]" notePointExp="20"  />
+    <ItemSpec id="11530" type="1" quality="5" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,500]]" reward_2="[[2,103,5000]]" notePointExp="20"  />
+    <ItemSpec id="11701" type="1" quality="7" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,840]]" reward_2="[[2,103,2300]]" notePointExp="20"  />
+    <ItemSpec id="11702" type="1" quality="7" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,840]]" reward_2="[[2,103,2510]]" notePointExp="20"  />
+    <ItemSpec id="11703" type="1" quality="7" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,840]]" reward_2="[[2,103,2720]]" notePointExp="20"  />
+    <ItemSpec id="11704" type="1" quality="7" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,840]]" reward_2="[[2,103,2930]]" notePointExp="20"  />
+    <ItemSpec id="11705" type="1" quality="7" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,840]]" reward_2="[[2,103,3140]]" notePointExp="20"  />
+    <ItemSpec id="11706" type="1" quality="7" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,840]]" reward_2="[[2,103,3340]]" notePointExp="20"  />
+    <ItemSpec id="11707" type="1" quality="7" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,840]]" reward_2="[[2,103,3550]]" notePointExp="20"  />
+    <ItemSpec id="11708" type="1" quality="7" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,840]]" reward_2="[[2,103,3760]]" notePointExp="20"  />
+    <ItemSpec id="11709" type="1" quality="7" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,840]]" reward_2="[[2,103,3970]]" notePointExp="20"  />
+    <ItemSpec id="11710" type="1" quality="7" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,840]]" reward_2="[[2,103,4180]]" notePointExp="20"  />
+    <ItemSpec id="11711" type="1" quality="7" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,840]]" reward_2="[[2,103,4390]]" notePointExp="20"  />
+    <ItemSpec id="11712" type="1" quality="7" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,840]]" reward_2="[[2,103,4600]]" notePointExp="20"  />
+    <ItemSpec id="11713" type="1" quality="7" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,840]]" reward_2="[[2,103,4810]]" notePointExp="20"  />
+    <ItemSpec id="11714" type="1" quality="7" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,840]]" reward_2="[[2,103,5020]]" notePointExp="20"  />
+    <ItemSpec id="11715" type="1" quality="7" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,840]]" reward_2="[[2,103,5230]]" notePointExp="20"  />
+    <ItemSpec id="11716" type="1" quality="7" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,840]]" reward_2="[[2,103,5430]]" notePointExp="20"  />
+    <ItemSpec id="11717" type="1" quality="7" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,840]]" reward_2="[[2,103,5640]]" notePointExp="20"  />
+    <ItemSpec id="11718" type="1" quality="7" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,840]]" reward_2="[[2,103,5850]]" notePointExp="20"  />
+    <ItemSpec id="11719" type="1" quality="7" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,840]]" reward_2="[[2,103,6060]]" notePointExp="20"  />
+    <ItemSpec id="11720" type="1" quality="7" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,840]]" reward_2="[[2,103,6270]]" notePointExp="20"  />
+    <ItemSpec id="11721" type="1" quality="7" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,840]]" reward_2="[[2,103,6480]]" notePointExp="20"  />
+    <ItemSpec id="11722" type="1" quality="7" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,840]]" reward_2="[[2,103,6690]]" notePointExp="20"  />
+    <ItemSpec id="11723" type="1" quality="7" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,840]]" reward_2="[[2,103,6900]]" notePointExp="20"  />
+    <ItemSpec id="11724" type="1" quality="7" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,840]]" reward_2="[[2,103,7110]]" notePointExp="20"  />
+    <ItemSpec id="11725" type="1" quality="7" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,840]]" reward_2="[[2,103,7320]]" notePointExp="20"  />
+    <ItemSpec id="11726" type="1" quality="7" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,840]]" reward_2="[[2,103,7520]]" notePointExp="20"  />
+    <ItemSpec id="11727" type="1" quality="7" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,840]]" reward_2="[[2,103,7730]]" notePointExp="20"  />
+    <ItemSpec id="11728" type="1" quality="7" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,840]]" reward_2="[[2,103,7940]]" notePointExp="20"  />
+    <ItemSpec id="11729" type="1" quality="7" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,840]]" reward_2="[[2,103,8150]]" notePointExp="20"  />
+    <ItemSpec id="11730" type="1" quality="7" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,840]]" reward_2="[[2,103,8360]]" notePointExp="20"  />
+    <ItemSpec id="21101" type="1" quality="1" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,170]]" reward_2="[[2,104,230]]" notePointExp="20"  />
+    <ItemSpec id="21102" type="1" quality="1" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,170]]" reward_2="[[2,104,250]]" notePointExp="20"  />
+    <ItemSpec id="21103" type="1" quality="1" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,170]]" reward_2="[[2,104,270]]" notePointExp="20"  />
+    <ItemSpec id="21104" type="1" quality="1" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,170]]" reward_2="[[2,104,290]]" notePointExp="20"  />
+    <ItemSpec id="21105" type="1" quality="1" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,170]]" reward_2="[[2,104,320]]" notePointExp="20"  />
+    <ItemSpec id="21106" type="1" quality="1" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,170]]" reward_2="[[2,104,340]]" notePointExp="20"  />
+    <ItemSpec id="21107" type="1" quality="1" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,170]]" reward_2="[[2,104,360]]" notePointExp="20"  />
+    <ItemSpec id="21108" type="1" quality="1" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,170]]" reward_2="[[2,104,380]]" notePointExp="20"  />
+    <ItemSpec id="21109" type="1" quality="1" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,170]]" reward_2="[[2,104,400]]" notePointExp="20"  />
+    <ItemSpec id="21110" type="1" quality="1" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,170]]" reward_2="[[2,104,420]]" notePointExp="20"  />
+    <ItemSpec id="21111" type="1" quality="1" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,170]]" reward_2="[[2,104,440]]" notePointExp="20"  />
+    <ItemSpec id="21112" type="1" quality="1" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,170]]" reward_2="[[2,104,460]]" notePointExp="20"  />
+    <ItemSpec id="21113" type="1" quality="1" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,170]]" reward_2="[[2,104,480]]" notePointExp="20"  />
+    <ItemSpec id="21114" type="1" quality="1" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,170]]" reward_2="[[2,104,500]]" notePointExp="20"  />
+    <ItemSpec id="21115" type="1" quality="1" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,170]]" reward_2="[[2,104,530]]" notePointExp="20"  />
+    <ItemSpec id="21116" type="1" quality="1" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,170]]" reward_2="[[2,104,550]]" notePointExp="20"  />
+    <ItemSpec id="21117" type="1" quality="1" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,170]]" reward_2="[[2,104,570]]" notePointExp="20"  />
+    <ItemSpec id="21118" type="1" quality="1" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,170]]" reward_2="[[2,104,590]]" notePointExp="20"  />
+    <ItemSpec id="21119" type="1" quality="1" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,170]]" reward_2="[[2,104,610]]" notePointExp="20"  />
+    <ItemSpec id="21120" type="1" quality="1" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,170]]" reward_2="[[2,104,630]]" notePointExp="20"  />
+    <ItemSpec id="21121" type="1" quality="1" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,170]]" reward_2="[[2,104,650]]" notePointExp="20"  />
+    <ItemSpec id="21122" type="1" quality="1" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,170]]" reward_2="[[2,104,670]]" notePointExp="20"  />
+    <ItemSpec id="21123" type="1" quality="1" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,170]]" reward_2="[[2,104,690]]" notePointExp="20"  />
+    <ItemSpec id="21124" type="1" quality="1" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,170]]" reward_2="[[2,104,710]]" notePointExp="20"  />
+    <ItemSpec id="21125" type="1" quality="1" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,170]]" reward_2="[[2,104,740]]" notePointExp="20"  />
+    <ItemSpec id="21126" type="1" quality="1" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,170]]" reward_2="[[2,104,760]]" notePointExp="20"  />
+    <ItemSpec id="21127" type="1" quality="1" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,170]]" reward_2="[[2,104,780]]" notePointExp="20"  />
+    <ItemSpec id="21128" type="1" quality="1" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,170]]" reward_2="[[2,104,800]]" notePointExp="20"  />
+    <ItemSpec id="21129" type="1" quality="1" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,170]]" reward_2="[[2,104,820]]" notePointExp="20"  />
+    <ItemSpec id="21130" type="1" quality="1" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,170]]" reward_2="[[2,104,840]]" notePointExp="20"  />
+    <ItemSpec id="21201" type="1" quality="2" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,250]]" reward_2="[[2,104,340]]" notePointExp="20"  />
+    <ItemSpec id="21202" type="1" quality="2" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,250]]" reward_2="[[2,104,370]]" notePointExp="20"  />
+    <ItemSpec id="21203" type="1" quality="2" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,250]]" reward_2="[[2,104,400]]" notePointExp="20"  />
+    <ItemSpec id="21204" type="1" quality="2" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,250]]" reward_2="[[2,104,430]]" notePointExp="20"  />
+    <ItemSpec id="21205" type="1" quality="2" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,250]]" reward_2="[[2,104,470]]" notePointExp="20"  />
+    <ItemSpec id="21206" type="1" quality="2" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,250]]" reward_2="[[2,104,500]]" notePointExp="20"  />
+    <ItemSpec id="21207" type="1" quality="2" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,250]]" reward_2="[[2,104,530]]" notePointExp="20"  />
+    <ItemSpec id="21208" type="1" quality="2" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,250]]" reward_2="[[2,104,560]]" notePointExp="20"  />
+    <ItemSpec id="21209" type="1" quality="2" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,250]]" reward_2="[[2,104,590]]" notePointExp="20"  />
+    <ItemSpec id="21210" type="1" quality="2" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,250]]" reward_2="[[2,104,620]]" notePointExp="20"  />
+    <ItemSpec id="21211" type="1" quality="2" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,250]]" reward_2="[[2,104,650]]" notePointExp="20"  />
+    <ItemSpec id="21212" type="1" quality="2" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,250]]" reward_2="[[2,104,680]]" notePointExp="20"  />
+    <ItemSpec id="21213" type="1" quality="2" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,250]]" reward_2="[[2,104,710]]" notePointExp="20"  />
+    <ItemSpec id="21214" type="1" quality="2" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,250]]" reward_2="[[2,104,740]]" notePointExp="20"  />
+    <ItemSpec id="21215" type="1" quality="2" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,250]]" reward_2="[[2,104,780]]" notePointExp="20"  />
+    <ItemSpec id="21216" type="1" quality="2" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,250]]" reward_2="[[2,104,810]]" notePointExp="20"  />
+    <ItemSpec id="21217" type="1" quality="2" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,250]]" reward_2="[[2,104,840]]" notePointExp="20"  />
+    <ItemSpec id="21218" type="1" quality="2" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,250]]" reward_2="[[2,104,870]]" notePointExp="20"  />
+    <ItemSpec id="21219" type="1" quality="2" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,250]]" reward_2="[[2,104,900]]" notePointExp="20"  />
+    <ItemSpec id="21220" type="1" quality="2" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,250]]" reward_2="[[2,104,930]]" notePointExp="20"  />
+    <ItemSpec id="21221" type="1" quality="2" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,250]]" reward_2="[[2,104,960]]" notePointExp="20"  />
+    <ItemSpec id="21222" type="1" quality="2" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,250]]" reward_2="[[2,104,990]]" notePointExp="20"  />
+    <ItemSpec id="21223" type="1" quality="2" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,250]]" reward_2="[[2,104,1020]]" notePointExp="20"  />
+    <ItemSpec id="21224" type="1" quality="2" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,250]]" reward_2="[[2,104,1050]]" notePointExp="20"  />
+    <ItemSpec id="21225" type="1" quality="2" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,250]]" reward_2="[[2,104,1090]]" notePointExp="20"  />
+    <ItemSpec id="21226" type="1" quality="2" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,250]]" reward_2="[[2,104,1120]]" notePointExp="20"  />
+    <ItemSpec id="21227" type="1" quality="2" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,250]]" reward_2="[[2,104,1150]]" notePointExp="20"  />
+    <ItemSpec id="21228" type="1" quality="2" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,250]]" reward_2="[[2,104,1180]]" notePointExp="20"  />
+    <ItemSpec id="21229" type="1" quality="2" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,250]]" reward_2="[[2,104,1210]]" notePointExp="20"  />
+    <ItemSpec id="21230" type="1" quality="2" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,250]]" reward_2="[[2,104,1240]]" notePointExp="20"  />
+    <ItemSpec id="21301" type="1" quality="3" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,330]]" reward_2="[[2,104,460]]" notePointExp="20"  />
+    <ItemSpec id="21302" type="1" quality="3" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,330]]" reward_2="[[2,104,500]]" notePointExp="20"  />
+    <ItemSpec id="21303" type="1" quality="3" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,330]]" reward_2="[[2,104,550]]" notePointExp="20"  />
+    <ItemSpec id="21304" type="1" quality="3" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,330]]" reward_2="[[2,104,590]]" notePointExp="20"  />
+    <ItemSpec id="21305" type="1" quality="3" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,330]]" reward_2="[[2,104,630]]" notePointExp="20"  />
+    <ItemSpec id="21306" type="1" quality="3" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,330]]" reward_2="[[2,104,670]]" notePointExp="20"  />
+    <ItemSpec id="21307" type="1" quality="3" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,330]]" reward_2="[[2,104,710]]" notePointExp="20"  />
+    <ItemSpec id="21308" type="1" quality="3" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,330]]" reward_2="[[2,104,760]]" notePointExp="20"  />
+    <ItemSpec id="21309" type="1" quality="3" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,330]]" reward_2="[[2,104,800]]" notePointExp="20"  />
+    <ItemSpec id="21310" type="1" quality="3" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,330]]" reward_2="[[2,104,840]]" notePointExp="20"  />
+    <ItemSpec id="21311" type="1" quality="3" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,330]]" reward_2="[[2,104,880]]" notePointExp="20"  />
+    <ItemSpec id="21312" type="1" quality="3" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,330]]" reward_2="[[2,104,920]]" notePointExp="20"  />
+    <ItemSpec id="21313" type="1" quality="3" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,330]]" reward_2="[[2,104,970]]" notePointExp="20"  />
+    <ItemSpec id="21314" type="1" quality="3" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,330]]" reward_2="[[2,104,1010]]" notePointExp="20"  />
+    <ItemSpec id="21315" type="1" quality="3" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,330]]" reward_2="[[2,104,1050]]" notePointExp="20"  />
+    <ItemSpec id="21316" type="1" quality="3" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,330]]" reward_2="[[2,104,1090]]" notePointExp="20"  />
+    <ItemSpec id="21317" type="1" quality="3" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,330]]" reward_2="[[2,104,1130]]" notePointExp="20"  />
+    <ItemSpec id="21318" type="1" quality="3" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,330]]" reward_2="[[2,104,1180]]" notePointExp="20"  />
+    <ItemSpec id="21319" type="1" quality="3" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,330]]" reward_2="[[2,104,1220]]" notePointExp="20"  />
+    <ItemSpec id="21320" type="1" quality="3" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,330]]" reward_2="[[2,104,1260]]" notePointExp="20"  />
+    <ItemSpec id="21321" type="1" quality="3" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,330]]" reward_2="[[2,104,1300]]" notePointExp="20"  />
+    <ItemSpec id="21322" type="1" quality="3" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,330]]" reward_2="[[2,104,1340]]" notePointExp="20"  />
+    <ItemSpec id="21323" type="1" quality="3" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,330]]" reward_2="[[2,104,1390]]" notePointExp="20"  />
+    <ItemSpec id="21324" type="1" quality="3" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,330]]" reward_2="[[2,104,1430]]" notePointExp="20"  />
+    <ItemSpec id="21325" type="1" quality="3" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,330]]" reward_2="[[2,104,1470]]" notePointExp="20"  />
+    <ItemSpec id="21326" type="1" quality="3" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,330]]" reward_2="[[2,104,1510]]" notePointExp="20"  />
+    <ItemSpec id="21327" type="1" quality="3" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,330]]" reward_2="[[2,104,1550]]" notePointExp="20"  />
+    <ItemSpec id="21328" type="1" quality="3" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,330]]" reward_2="[[2,104,1600]]" notePointExp="20"  />
+    <ItemSpec id="21329" type="1" quality="3" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,330]]" reward_2="[[2,104,1640]]" notePointExp="20"  />
+    <ItemSpec id="21330" type="1" quality="3" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,330]]" reward_2="[[2,104,1680]]" notePointExp="20"  />
+    <ItemSpec id="21501" type="1" quality="5" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,500]]" reward_2="[[2,104,680]]" notePointExp="20"  />
+    <ItemSpec id="21502" type="1" quality="5" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,500]]" reward_2="[[2,104,740]]" notePointExp="20"  />
+    <ItemSpec id="21503" type="1" quality="5" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,500]]" reward_2="[[2,104,810]]" notePointExp="20"  />
+    <ItemSpec id="21504" type="1" quality="5" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,500]]" reward_2="[[2,104,870]]" notePointExp="20"  />
+    <ItemSpec id="21505" type="1" quality="5" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,500]]" reward_2="[[2,104,930]]" notePointExp="20"  />
+    <ItemSpec id="21506" type="1" quality="5" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,500]]" reward_2="[[2,104,990]]" notePointExp="20"  />
+    <ItemSpec id="21507" type="1" quality="5" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,500]]" reward_2="[[2,104,1050]]" notePointExp="20"  />
+    <ItemSpec id="21508" type="1" quality="5" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,500]]" reward_2="[[2,104,1120]]" notePointExp="20"  />
+    <ItemSpec id="21509" type="1" quality="5" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,500]]" reward_2="[[2,104,1180]]" notePointExp="20"  />
+    <ItemSpec id="21510" type="1" quality="5" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,500]]" reward_2="[[2,104,1240]]" notePointExp="20"  />
+    <ItemSpec id="21511" type="1" quality="5" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,500]]" reward_2="[[2,104,1300]]" notePointExp="20"  />
+    <ItemSpec id="21512" type="1" quality="5" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,500]]" reward_2="[[2,104,1360]]" notePointExp="20"  />
+    <ItemSpec id="21513" type="1" quality="5" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,500]]" reward_2="[[2,104,1430]]" notePointExp="20"  />
+    <ItemSpec id="21514" type="1" quality="5" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,500]]" reward_2="[[2,104,1490]]" notePointExp="20"  />
+    <ItemSpec id="21515" type="1" quality="5" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,500]]" reward_2="[[2,104,1550]]" notePointExp="20"  />
+    <ItemSpec id="21516" type="1" quality="5" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,500]]" reward_2="[[2,104,1610]]" notePointExp="20"  />
+    <ItemSpec id="21517" type="1" quality="5" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,500]]" reward_2="[[2,104,1670]]" notePointExp="20"  />
+    <ItemSpec id="21518" type="1" quality="5" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,500]]" reward_2="[[2,104,1740]]" notePointExp="20"  />
+    <ItemSpec id="21519" type="1" quality="5" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,500]]" reward_2="[[2,104,1800]]" notePointExp="20"  />
+    <ItemSpec id="21520" type="1" quality="5" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,500]]" reward_2="[[2,104,1860]]" notePointExp="20"  />
+    <ItemSpec id="21521" type="1" quality="5" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,500]]" reward_2="[[2,104,1920]]" notePointExp="20"  />
+    <ItemSpec id="21522" type="1" quality="5" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,500]]" reward_2="[[2,104,1980]]" notePointExp="20"  />
+    <ItemSpec id="21523" type="1" quality="5" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,500]]" reward_2="[[2,104,2050]]" notePointExp="20"  />
+    <ItemSpec id="21524" type="1" quality="5" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,500]]" reward_2="[[2,104,2110]]" notePointExp="20"  />
+    <ItemSpec id="21525" type="1" quality="5" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,500]]" reward_2="[[2,104,2170]]" notePointExp="20"  />
+    <ItemSpec id="21526" type="1" quality="5" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,500]]" reward_2="[[2,104,2230]]" notePointExp="20"  />
+    <ItemSpec id="21527" type="1" quality="5" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,500]]" reward_2="[[2,104,2290]]" notePointExp="20"  />
+    <ItemSpec id="21528" type="1" quality="5" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,500]]" reward_2="[[2,104,2360]]" notePointExp="20"  />
+    <ItemSpec id="21529" type="1" quality="5" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,500]]" reward_2="[[2,104,2420]]" notePointExp="20"  />
+    <ItemSpec id="21530" type="1" quality="5" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,500]]" reward_2="[[2,104,2480]]" notePointExp="20"  />
+    <ItemSpec id="21701" type="1" quality="7" level="1" isBattle="1" worldMonster="1101" reward_1="[[2,117,840]]" reward_2="[[2,104,1140]]" notePointExp="20"  />
+    <ItemSpec id="21702" type="1" quality="7" level="2" isBattle="1" worldMonster="1102" reward_1="[[2,117,840]]" reward_2="[[2,104,1250]]" notePointExp="20"  />
+    <ItemSpec id="21703" type="1" quality="7" level="3" isBattle="1" worldMonster="1103" reward_1="[[2,117,840]]" reward_2="[[2,104,1350]]" notePointExp="20"  />
+    <ItemSpec id="21704" type="1" quality="7" level="4" isBattle="1" worldMonster="1104" reward_1="[[2,117,840]]" reward_2="[[2,104,1460]]" notePointExp="20"  />
+    <ItemSpec id="21705" type="1" quality="7" level="5" isBattle="1" worldMonster="1105" reward_1="[[2,117,840]]" reward_2="[[2,104,1560]]" notePointExp="20"  />
+    <ItemSpec id="21706" type="1" quality="7" level="6" isBattle="1" worldMonster="1106" reward_1="[[2,117,840]]" reward_2="[[2,104,1660]]" notePointExp="20"  />
+    <ItemSpec id="21707" type="1" quality="7" level="7" isBattle="1" worldMonster="1107" reward_1="[[2,117,840]]" reward_2="[[2,104,1770]]" notePointExp="20"  />
+    <ItemSpec id="21708" type="1" quality="7" level="8" isBattle="1" worldMonster="1108" reward_1="[[2,117,840]]" reward_2="[[2,104,1870]]" notePointExp="20"  />
+    <ItemSpec id="21709" type="1" quality="7" level="9" isBattle="1" worldMonster="1109" reward_1="[[2,117,840]]" reward_2="[[2,104,1980]]" notePointExp="20"  />
+    <ItemSpec id="21710" type="1" quality="7" level="10" isBattle="1" worldMonster="1110" reward_1="[[2,117,840]]" reward_2="[[2,104,2080]]" notePointExp="20"  />
+    <ItemSpec id="21711" type="1" quality="7" level="11" isBattle="1" worldMonster="1111" reward_1="[[2,117,840]]" reward_2="[[2,104,2180]]" notePointExp="20"  />
+    <ItemSpec id="21712" type="1" quality="7" level="12" isBattle="1" worldMonster="1112" reward_1="[[2,117,840]]" reward_2="[[2,104,2290]]" notePointExp="20"  />
+    <ItemSpec id="21713" type="1" quality="7" level="13" isBattle="1" worldMonster="1113" reward_1="[[2,117,840]]" reward_2="[[2,104,2390]]" notePointExp="20"  />
+    <ItemSpec id="21714" type="1" quality="7" level="14" isBattle="1" worldMonster="1114" reward_1="[[2,117,840]]" reward_2="[[2,104,2500]]" notePointExp="20"  />
+    <ItemSpec id="21715" type="1" quality="7" level="15" isBattle="1" worldMonster="1115" reward_1="[[2,117,840]]" reward_2="[[2,104,2600]]" notePointExp="20"  />
+    <ItemSpec id="21716" type="1" quality="7" level="16" isBattle="1" worldMonster="1116" reward_1="[[2,117,840]]" reward_2="[[2,104,2700]]" notePointExp="20"  />
+    <ItemSpec id="21717" type="1" quality="7" level="17" isBattle="1" worldMonster="1117" reward_1="[[2,117,840]]" reward_2="[[2,104,2810]]" notePointExp="20"  />
+    <ItemSpec id="21718" type="1" quality="7" level="18" isBattle="1" worldMonster="1118" reward_1="[[2,117,840]]" reward_2="[[2,104,2910]]" notePointExp="20"  />
+    <ItemSpec id="21719" type="1" quality="7" level="19" isBattle="1" worldMonster="1119" reward_1="[[2,117,840]]" reward_2="[[2,104,3020]]" notePointExp="20"  />
+    <ItemSpec id="21720" type="1" quality="7" level="20" isBattle="1" worldMonster="1120" reward_1="[[2,117,840]]" reward_2="[[2,104,3120]]" notePointExp="20"  />
+    <ItemSpec id="21721" type="1" quality="7" level="21" isBattle="1" worldMonster="1121" reward_1="[[2,117,840]]" reward_2="[[2,104,3220]]" notePointExp="20"  />
+    <ItemSpec id="21722" type="1" quality="7" level="22" isBattle="1" worldMonster="1122" reward_1="[[2,117,840]]" reward_2="[[2,104,3330]]" notePointExp="20"  />
+    <ItemSpec id="21723" type="1" quality="7" level="23" isBattle="1" worldMonster="1123" reward_1="[[2,117,840]]" reward_2="[[2,104,3430]]" notePointExp="20"  />
+    <ItemSpec id="21724" type="1" quality="7" level="24" isBattle="1" worldMonster="1124" reward_1="[[2,117,840]]" reward_2="[[2,104,3540]]" notePointExp="20"  />
+    <ItemSpec id="21725" type="1" quality="7" level="25" isBattle="1" worldMonster="1125" reward_1="[[2,117,840]]" reward_2="[[2,104,3640]]" notePointExp="20"  />
+    <ItemSpec id="21726" type="1" quality="7" level="26" isBattle="1" worldMonster="1126" reward_1="[[2,117,840]]" reward_2="[[2,104,3740]]" notePointExp="20"  />
+    <ItemSpec id="21727" type="1" quality="7" level="27" isBattle="1" worldMonster="1127" reward_1="[[2,117,840]]" reward_2="[[2,104,3850]]" notePointExp="20"  />
+    <ItemSpec id="21728" type="1" quality="7" level="28" isBattle="1" worldMonster="1128" reward_1="[[2,117,840]]" reward_2="[[2,104,3950]]" notePointExp="20"  />
+    <ItemSpec id="21729" type="1" quality="7" level="29" isBattle="1" worldMonster="1129" reward_1="[[2,117,840]]" reward_2="[[2,104,4060]]" notePointExp="20"  />
+    <ItemSpec id="21730" type="1" quality="7" level="30" isBattle="1" worldMonster="1130" reward_1="[[2,117,840]]" reward_2="[[2,104,4160]]" notePointExp="20"  />
+    <ItemSpec id="2501" type="2" quality="5" level="1" isBattle="1" worldMonster="1201" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2502" type="2" quality="5" level="2" isBattle="1" worldMonster="1202" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2503" type="2" quality="5" level="3" isBattle="1" worldMonster="1203" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2504" type="2" quality="5" level="4" isBattle="1" worldMonster="1204" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2505" type="2" quality="5" level="5" isBattle="1" worldMonster="1205" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2506" type="2" quality="5" level="6" isBattle="1" worldMonster="1206" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2507" type="2" quality="5" level="7" isBattle="1" worldMonster="1207" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2508" type="2" quality="5" level="8" isBattle="1" worldMonster="1208" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2509" type="2" quality="5" level="9" isBattle="1" worldMonster="1209" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2510" type="2" quality="5" level="10" isBattle="1" worldMonster="1210" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2511" type="2" quality="5" level="11" isBattle="1" worldMonster="1211" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2512" type="2" quality="5" level="12" isBattle="1" worldMonster="1212" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2513" type="2" quality="5" level="13" isBattle="1" worldMonster="1213" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2514" type="2" quality="5" level="14" isBattle="1" worldMonster="1214" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2515" type="2" quality="5" level="15" isBattle="1" worldMonster="1215" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2516" type="2" quality="5" level="16" isBattle="1" worldMonster="1216" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2517" type="2" quality="5" level="17" isBattle="1" worldMonster="1217" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2518" type="2" quality="5" level="18" isBattle="1" worldMonster="1218" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2519" type="2" quality="5" level="19" isBattle="1" worldMonster="1219" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2520" type="2" quality="5" level="20" isBattle="1" worldMonster="1220" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2521" type="2" quality="5" level="21" isBattle="1" worldMonster="1221" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2522" type="2" quality="5" level="22" isBattle="1" worldMonster="1222" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2523" type="2" quality="5" level="23" isBattle="1" worldMonster="1223" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2524" type="2" quality="5" level="24" isBattle="1" worldMonster="1224" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2525" type="2" quality="5" level="25" isBattle="1" worldMonster="1225" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2526" type="2" quality="5" level="26" isBattle="1" worldMonster="1226" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2527" type="2" quality="5" level="27" isBattle="1" worldMonster="1227" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2528" type="2" quality="5" level="28" isBattle="1" worldMonster="1228" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2529" type="2" quality="5" level="29" isBattle="1" worldMonster="1229" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="2530" type="2" quality="5" level="30" isBattle="1" worldMonster="1230" reward_1="[[2,117,500]]" notePointExp="50"  />
+    <ItemSpec id="3101" type="3" quality="1" level="1" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3102" type="3" quality="1" level="2" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3103" type="3" quality="1" level="3" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3104" type="3" quality="1" level="4" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3105" type="3" quality="1" level="5" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3106" type="3" quality="1" level="6" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3107" type="3" quality="1" level="7" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3108" type="3" quality="1" level="8" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3109" type="3" quality="1" level="9" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3110" type="3" quality="1" level="10" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3111" type="3" quality="1" level="11" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3112" type="3" quality="1" level="12" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3113" type="3" quality="1" level="13" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3114" type="3" quality="1" level="14" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3115" type="3" quality="1" level="15" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3116" type="3" quality="1" level="16" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3117" type="3" quality="1" level="17" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3118" type="3" quality="1" level="18" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3119" type="3" quality="1" level="19" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3120" type="3" quality="1" level="20" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3121" type="3" quality="1" level="21" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3122" type="3" quality="1" level="22" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3123" type="3" quality="1" level="23" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3124" type="3" quality="1" level="24" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3125" type="3" quality="1" level="25" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3126" type="3" quality="1" level="26" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3127" type="3" quality="1" level="27" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3128" type="3" quality="1" level="28" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3129" type="3" quality="1" level="29" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3130" type="3" quality="1" level="30" reward_1="[[2,117,170]]" reward_2="[[5,1,10]]" notePointExp="20"  />
+    <ItemSpec id="3201" type="3" quality="2" level="1" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3202" type="3" quality="2" level="2" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3203" type="3" quality="2" level="3" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3204" type="3" quality="2" level="4" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3205" type="3" quality="2" level="5" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3206" type="3" quality="2" level="6" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3207" type="3" quality="2" level="7" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3208" type="3" quality="2" level="8" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3209" type="3" quality="2" level="9" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3210" type="3" quality="2" level="10" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3211" type="3" quality="2" level="11" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3212" type="3" quality="2" level="12" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3213" type="3" quality="2" level="13" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3214" type="3" quality="2" level="14" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3215" type="3" quality="2" level="15" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3216" type="3" quality="2" level="16" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3217" type="3" quality="2" level="17" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3218" type="3" quality="2" level="18" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3219" type="3" quality="2" level="19" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3220" type="3" quality="2" level="20" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3221" type="3" quality="2" level="21" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3222" type="3" quality="2" level="22" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3223" type="3" quality="2" level="23" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3224" type="3" quality="2" level="24" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3225" type="3" quality="2" level="25" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3226" type="3" quality="2" level="26" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3227" type="3" quality="2" level="27" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3228" type="3" quality="2" level="28" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3229" type="3" quality="2" level="29" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3230" type="3" quality="2" level="30" reward_1="[[2,117,250]]" reward_2="[[5,1,15]]" notePointExp="20"  />
+    <ItemSpec id="3301" type="3" quality="3" level="1" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3302" type="3" quality="3" level="2" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3303" type="3" quality="3" level="3" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3304" type="3" quality="3" level="4" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3305" type="3" quality="3" level="5" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3306" type="3" quality="3" level="6" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3307" type="3" quality="3" level="7" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3308" type="3" quality="3" level="8" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3309" type="3" quality="3" level="9" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3310" type="3" quality="3" level="10" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3311" type="3" quality="3" level="11" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3312" type="3" quality="3" level="12" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3313" type="3" quality="3" level="13" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3314" type="3" quality="3" level="14" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3315" type="3" quality="3" level="15" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3316" type="3" quality="3" level="16" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3317" type="3" quality="3" level="17" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3318" type="3" quality="3" level="18" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3319" type="3" quality="3" level="19" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3320" type="3" quality="3" level="20" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3321" type="3" quality="3" level="21" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3322" type="3" quality="3" level="22" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3323" type="3" quality="3" level="23" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3324" type="3" quality="3" level="24" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3325" type="3" quality="3" level="25" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3326" type="3" quality="3" level="26" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3327" type="3" quality="3" level="27" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3328" type="3" quality="3" level="28" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3329" type="3" quality="3" level="29" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3330" type="3" quality="3" level="30" reward_1="[[2,117,330]]" reward_2="[[5,1,20]]" notePointExp="20"  />
+    <ItemSpec id="3501" type="3" quality="5" level="1" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3502" type="3" quality="5" level="2" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3503" type="3" quality="5" level="3" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3504" type="3" quality="5" level="4" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3505" type="3" quality="5" level="5" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3506" type="3" quality="5" level="6" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3507" type="3" quality="5" level="7" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3508" type="3" quality="5" level="8" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3509" type="3" quality="5" level="9" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3510" type="3" quality="5" level="10" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3511" type="3" quality="5" level="11" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3512" type="3" quality="5" level="12" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3513" type="3" quality="5" level="13" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3514" type="3" quality="5" level="14" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3515" type="3" quality="5" level="15" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3516" type="3" quality="5" level="16" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3517" type="3" quality="5" level="17" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3518" type="3" quality="5" level="18" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3519" type="3" quality="5" level="19" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3520" type="3" quality="5" level="20" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3521" type="3" quality="5" level="21" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3522" type="3" quality="5" level="22" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3523" type="3" quality="5" level="23" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3524" type="3" quality="5" level="24" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3525" type="3" quality="5" level="25" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3526" type="3" quality="5" level="26" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3527" type="3" quality="5" level="27" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3528" type="3" quality="5" level="28" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3529" type="3" quality="5" level="29" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3530" type="3" quality="5" level="30" reward_1="[[2,117,500]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3701" type="3" quality="7" level="1" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3702" type="3" quality="7" level="2" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3703" type="3" quality="7" level="3" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3704" type="3" quality="7" level="4" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3705" type="3" quality="7" level="5" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3706" type="3" quality="7" level="6" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3707" type="3" quality="7" level="7" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3708" type="3" quality="7" level="8" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3709" type="3" quality="7" level="9" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3710" type="3" quality="7" level="10" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3711" type="3" quality="7" level="11" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3712" type="3" quality="7" level="12" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3713" type="3" quality="7" level="13" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3714" type="3" quality="7" level="14" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3715" type="3" quality="7" level="15" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3716" type="3" quality="7" level="16" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3717" type="3" quality="7" level="17" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3718" type="3" quality="7" level="18" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3719" type="3" quality="7" level="19" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3720" type="3" quality="7" level="20" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3721" type="3" quality="7" level="21" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3722" type="3" quality="7" level="22" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3723" type="3" quality="7" level="23" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3724" type="3" quality="7" level="24" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3725" type="3" quality="7" level="25" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3726" type="3" quality="7" level="26" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3727" type="3" quality="7" level="27" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3728" type="3" quality="7" level="28" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3729" type="3" quality="7" level="29" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="3730" type="3" quality="7" level="30" reward_1="[[2,117,840]]" reward_2="[[5,1,25]]" notePointExp="20"  />
+    <ItemSpec id="4101" type="4" quality="2" level="1" notePointExp="50"  />
+
+</tns:database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" randomTaskGroup="[600101,600102,600103,600104,600105]"  />
+    <ItemSpec id="2" randomTaskGroup="[600106,600107,600108,600109,600110]"  />
+
+</tns:database>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1001" maxLvl="5" techList="[100101,100102,100103,100104,100105]" nextNode="[1002,1003]"  />
+    <ItemSpec id="1002" maxLvl="5" techList="[100201,100202,100203,100204,100205]" prevNode="[1001]" nextNode="[1004]"  />
+    <ItemSpec id="1003" maxLvl="5" techList="[100301,100302,100303,100304,100305]" prevNode="[1001]" nextNode="[1004]"  />
+    <ItemSpec id="1004" maxLvl="5" techList="[100401,100402,100403,100404,100405]" prevNode="[1002,1003]" nextNode="[1005,1006]"  />
+    <ItemSpec id="1005" maxLvl="5" techList="[100501,100502,100503,100504,100505]" prevNode="[1004]" nextNode="[1007]"  />
+    <ItemSpec id="1006" maxLvl="5" techList="[100601,100602,100603,100604,100605]" prevNode="[1004]" nextNode="[1007]"  />
+    <ItemSpec id="1007" maxLvl="5" techList="[100701,100702,100703,100704,100705]" prevNode="[1005,1006]" nextNode="[1008,1009]"  />
+    <ItemSpec id="1008" maxLvl="5" techList="[100801,100802,100803,100804,100805]" prevNode="[1007]" nextNode="[1010]"  />
+    <ItemSpec id="1009" maxLvl="5" techList="[100901,100902,100903,100904,100905]" prevNode="[1007]" nextNode="[1010]"  />
+    <ItemSpec id="1010" maxLvl="5" techList="[101001,101002,101003,101004,101005]" prevNode="[1008,1009]" nextNode="[1011,1012]"  />
+    <ItemSpec id="1011" maxLvl="5" techList="[101101,101102,101103,101104,101105]" prevNode="[1010]" nextNode="[1013]"  />
+    <ItemSpec id="1012" maxLvl="5" techList="[101201,101202,101203,101204,101205]" prevNode="[1010]" nextNode="[1013]"  />
+    <ItemSpec id="1013" maxLvl="5" techList="[101301,101302,101303,101304,101305]" prevNode="[1011,1012]" nextNode="[1014,1015]"  />
+    <ItemSpec id="1014" maxLvl="5" techList="[101401,101402,101403,101404,101405]" prevNode="[1013]" nextNode="[1016]"  />
+    <ItemSpec id="1015" maxLvl="5" techList="[101501,101502,101503,101504,101505]" prevNode="[1013]" nextNode="[1016]"  />
+    <ItemSpec id="1016" maxLvl="5" techList="[101601,101602,101603,101604,101605]" prevNode="[1014,1015]" nextNode="[1017,1018]"  />
+    <ItemSpec id="1017" maxLvl="5" techList="[101701,101702,101703,101704,101705]" prevNode="[1016]" nextNode="[1019]"  />
+    <ItemSpec id="1018" maxLvl="5" techList="[101801,101802,101803,101804,101805]" prevNode="[1016]" nextNode="[1019]"  />
+    <ItemSpec id="1019" maxLvl="5" techList="[101901,101902,101903,101904,101905]" prevNode="[1017,1018]" nextNode="[1020,1021]"  />
+    <ItemSpec id="1020" maxLvl="5" techList="[102001,102002,102003,102004,102005]" prevNode="[1019]" nextNode="[1022]"  />
+    <ItemSpec id="1021" maxLvl="5" techList="[102101,102102,102103,102104,102105]" prevNode="[1019]" nextNode="[1022]"  />
+    <ItemSpec id="1022" maxLvl="5" techList="[102201,102202,102203,102204,102205]" prevNode="[1020,1021]" nextNode="[1023,1024]"  />
+    <ItemSpec id="1023" maxLvl="5" techList="[102301,102302,102303,102304,102305]" prevNode="[1022]"  />
+    <ItemSpec id="1024" maxLvl="5" techList="[102401,102402,102403,102404,102405]" prevNode="[1022]"  />
+    <ItemSpec id="1101" maxLvl="5" techList="[110101,110102,110103,110104,110105]" nextNode="[1102]"  />
+    <ItemSpec id="1102" maxLvl="5" techList="[110201,110202,110203,110204,110205]" prevNode="[1101]" nextNode="[1103]"  />
+    <ItemSpec id="1103" maxLvl="5" techList="[110301,110302,110303,110304,110305]" prevNode="[1102]" nextNode="[1104]"  />
+    <ItemSpec id="1104" maxLvl="5" techList="[110401,110402,110403,110404,110405]" prevNode="[1103]" nextNode="[1105]"  />
+    <ItemSpec id="1105" maxLvl="5" techList="[110501,110502,110503,110504,110505]" prevNode="[1104]" nextNode="[1106]"  />
+    <ItemSpec id="1106" maxLvl="5" techList="[110601,110602,110603,110604,110605]" prevNode="[1105]" nextNode="[1107]"  />
+    <ItemSpec id="1107" maxLvl="5" techList="[110701,110702,110703,110704,110705]" prevNode="[1106]" nextNode="[1108]"  />
+    <ItemSpec id="1108" maxLvl="5" techList="[110801,110802,110803,110804,110805]" prevNode="[1107]"  />
+    <ItemSpec id="1201" maxLvl="5" techList="[120101,120102,120103,120104,120105]" nextNode="[1202]"  />
+    <ItemSpec id="1202" maxLvl="5" techList="[120201,120202,120203,120204,120205]" prevNode="[1201]" nextNode="[1203]"  />
+    <ItemSpec id="1203" maxLvl="5" techList="[120301,120302,120303,120304,120305]" prevNode="[1202]" nextNode="[1204]"  />
+    <ItemSpec id="1204" maxLvl="5" techList="[120401,120402,120403,120404,120405]" prevNode="[1203]" nextNode="[1205]"  />
+    <ItemSpec id="1205" maxLvl="5" techList="[120501,120502,120503,120504,120505]" prevNode="[1204]" nextNode="[1206]"  />
+    <ItemSpec id="1206" maxLvl="5" techList="[120601,120602,120603,120604,120605]" prevNode="[1205]" nextNode="[1207]"  />
+    <ItemSpec id="1207" maxLvl="5" techList="[120701,120702,120703,120704,120705]" prevNode="[1206]" nextNode="[1208]"  />
+    <ItemSpec id="1208" maxLvl="5" techList="[120801,120802,120803,120804,120805]" prevNode="[1207]"  />
+    <ItemSpec id="1301" maxLvl="5" techList="[130101,130102,130103,130104,130105]" nextNode="[1302]"  />
+    <ItemSpec id="1302" maxLvl="5" techList="[130201,130202,130203,130204,130205]" prevNode="[1301]" nextNode="[1303]"  />
+    <ItemSpec id="1303" maxLvl="5" techList="[130301,130302,130303,130304,130305]" prevNode="[1302]" nextNode="[1304]"  />
+    <ItemSpec id="1304" maxLvl="5" techList="[130401,130402,130403,130404,130405]" prevNode="[1303]" nextNode="[1305]"  />
+    <ItemSpec id="1305" maxLvl="5" techList="[130501,130502,130503,130504,130505]" prevNode="[1304]" nextNode="[1306]"  />
+    <ItemSpec id="1306" maxLvl="5" techList="[130601,130602,130603,130604,130605]" prevNode="[1305]" nextNode="[1307]"  />
+    <ItemSpec id="1307" maxLvl="5" techList="[130701,130702,130703,130704,130705]" prevNode="[1306]" nextNode="[1308]"  />
+    <ItemSpec id="1308" maxLvl="5" techList="[130801,130802,130803,130804,130805]" prevNode="[1307]"  />
+    <ItemSpec id="2101" maxLvl="5" techList="[210101,210102,210103,210104,210105]" nextNode="[2102]"  />
+    <ItemSpec id="2102" maxLvl="5" techList="[210201,210202,210203,210204,210205]" prevNode="[2101]" nextNode="[2105]"  />
+    <ItemSpec id="2103" maxLvl="5" techList="[210301,210302,210303,210304,210305]" nextNode="[2104]"  />
+    <ItemSpec id="2104" maxLvl="5" techList="[210401,210402,210403,210404,210405]" prevNode="[2103]" nextNode="[2105]"  />
+    <ItemSpec id="2105" maxLvl="5" techList="[210501,210502,210503,210504,210505]" prevNode="[2102,2104]" nextNode="[2106,2108]"  />
+    <ItemSpec id="2106" maxLvl="5" techList="[210601,210602,210603,210604,210605]" prevNode="[2105]" nextNode="[2107]"  />
+    <ItemSpec id="2107" maxLvl="5" techList="[210701,210702,210703,210704,210705]" prevNode="[2106]" nextNode="[2110]"  />
+    <ItemSpec id="2108" maxLvl="5" techList="[210801,210802,210803,210804,210805]" prevNode="[2105]" nextNode="[2109]"  />
+    <ItemSpec id="2109" maxLvl="5" techList="[210901,210902,210903,210904,210905]" prevNode="[2108]" nextNode="[2110]"  />
+    <ItemSpec id="2110" maxLvl="5" techList="[211001,211002,211003,211004,211005]" prevNode="[2107,2109]" nextNode="[2111,2113]"  />
+    <ItemSpec id="2111" maxLvl="10" techList="[211101,211102,211103,211104,211105,211106,211107,211108,211109,211110]" prevNode="[2110]" nextNode="[2112]"  />
+    <ItemSpec id="2112" maxLvl="10" techList="[211201,211202,211203,211204,211205,211206,211207,211208,211209,211210]" prevNode="[2111]" nextNode="[2115]"  />
+    <ItemSpec id="2113" maxLvl="10" techList="[211301,211302,211303,211304,211305,211306,211307,211308,211309,211310]" prevNode="[2110]" nextNode="[2114]"  />
+    <ItemSpec id="2114" maxLvl="10" techList="[211401,211402,211403,211404,211405,211406,211407,211408,211409,211410]" prevNode="[2113]" nextNode="[2115]"  />
+    <ItemSpec id="2115" maxLvl="10" techList="[211501,211502,211503,211504,211505,211506,211507,211508,211509,211510]" prevNode="[2112,2114]"  />
+    <ItemSpec id="2201" maxLvl="5" techList="[220101,220102,220103,220104,220105]" nextNode="[2202]"  />
+    <ItemSpec id="2202" maxLvl="5" techList="[220201,220202,220203,220204,220205]" prevNode="[2201]" nextNode="[2205]"  />
+    <ItemSpec id="2203" maxLvl="5" techList="[220301,220302,220303,220304,220305]" nextNode="[2204]"  />
+    <ItemSpec id="2204" maxLvl="5" techList="[220401,220402,220403,220404,220405]" prevNode="[2203]" nextNode="[2205]"  />
+    <ItemSpec id="2205" maxLvl="1" techList="[220501]" prevNode="[2202,2204]" nextNode="[2206,2208]"  />
+    <ItemSpec id="2206" maxLvl="5" techList="[220601,220602,220603,220604,220605]" prevNode="[2205]" nextNode="[2207]"  />
+    <ItemSpec id="2207" maxLvl="5" techList="[220701,220702,220703,220704,220705]" prevNode="[2206]" nextNode="[2210]"  />
+    <ItemSpec id="2208" maxLvl="5" techList="[220801,220802,220803,220804,220805]" prevNode="[2205]" nextNode="[2209]"  />
+    <ItemSpec id="2209" maxLvl="5" techList="[220901,220902,220903,220904,220905]" prevNode="[2208]" nextNode="[2210]"  />
+    <ItemSpec id="2210" maxLvl="1" techList="[221001]" prevNode="[2207,2209]" nextNode="[2211,2213]"  />
+    <ItemSpec id="2211" maxLvl="5" techList="[221101,221102,221103,221104,221105,221106,221107,221108,221109,221110]" prevNode="[2210]" nextNode="[2212]"  />
+    <ItemSpec id="2212" maxLvl="5" techList="[221201,221202,221203,221204,221205,221206,221207,221208,221209,221210]" prevNode="[2211]" nextNode="[2215]"  />
+    <ItemSpec id="2213" maxLvl="5" techList="[221301,221302,221303,221304,221305,221306,221307,221308,221309,221310]" prevNode="[2210]" nextNode="[2214]"  />
+    <ItemSpec id="2214" maxLvl="5" techList="[221401,221402,221403,221404,221405,221406,221407,221408,221409,221410]" prevNode="[2213]" nextNode="[2215]"  />
+    <ItemSpec id="2215" maxLvl="1" techList="[221501]" prevNode="[2212,2214]"  />
+    <ItemSpec id="2301" maxLvl="1" techList="[230101]" nextNode="[2302,2304]"  />
+    <ItemSpec id="2302" maxLvl="5" techList="[230201,230202,230203,230204,230205]" prevNode="[2301]" nextNode="[2303]"  />
+    <ItemSpec id="2303" maxLvl="5" techList="[230301,230302,230303,230304,230305]" prevNode="[2302]" nextNode="[2306]"  />
+    <ItemSpec id="2304" maxLvl="5" techList="[230401,230402,230403,230404,230405]" prevNode="[2301]" nextNode="[2305]"  />
+    <ItemSpec id="2305" maxLvl="5" techList="[230501,230502,230503,230504,230505]" prevNode="[2304]" nextNode="[2306]"  />
+    <ItemSpec id="2306" maxLvl="1" techList="[230601]" prevNode="[2303,2305]" nextNode="[2307,2309]"  />
+    <ItemSpec id="2307" maxLvl="5" techList="[230701,230702,230703,230704,230705]" prevNode="[2306]" nextNode="[2308]"  />
+    <ItemSpec id="2308" maxLvl="5" techList="[230801,230802,230803,230804,230805]" prevNode="[2307]" nextNode="[2311]"  />
+    <ItemSpec id="2309" maxLvl="5" techList="[230901,230902,230903,230904,230905]" prevNode="[2306]" nextNode="[2310]"  />
+    <ItemSpec id="2310" maxLvl="5" techList="[231001,231002,231003,231004,231005]" prevNode="[2309]" nextNode="[2311]"  />
+    <ItemSpec id="2311" maxLvl="1" techList="[231101]" prevNode="[2308,2310]" nextNode="[2312,2314]"  />
+    <ItemSpec id="2312" maxLvl="5" techList="[231201,231202,231203,231204,231205,231206,231207,231208,231209,231210]" prevNode="[2311]" nextNode="[2313]"  />
+    <ItemSpec id="2313" maxLvl="5" techList="[231301,231302,231303,231304,231305,231306,231307,231308,231309,231310]" prevNode="[2312]" nextNode="[2316]"  />
+    <ItemSpec id="2314" maxLvl="5" techList="[231401,231402,231403,231404,231405,231406,231407,231408,231409,231410]" prevNode="[2311]" nextNode="[2315]"  />
+    <ItemSpec id="2315" maxLvl="5" techList="[231501,231502,231503,231504,231505,231506,231507,231508,231509,231510]" prevNode="[2314]" nextNode="[2316]"  />
+    <ItemSpec id="2316" maxLvl="1" techList="[231601]" prevNode="[2313,2315]"  />
+    <ItemSpec id="3101" maxLvl="1" techList="[310101]" nextNode="[3102,3103]"  />
+    <ItemSpec id="3102" maxLvl="3" techList="[310201,310202,310203]" prevNode="[3101]" nextNode="[3104]"  />
+    <ItemSpec id="3103" maxLvl="3" techList="[310301,310302,310303]" prevNode="[3101]" nextNode="[3104]"  />
+    <ItemSpec id="3104" maxLvl="1" techList="[310401]" prevNode="[3102,3103]" nextNode="[3105,3106]"  />
+    <ItemSpec id="3105" maxLvl="3" techList="[310501,310502,310503]" prevNode="[3104]" nextNode="[3107]"  />
+    <ItemSpec id="3106" maxLvl="3" techList="[310601,310602,310603]" prevNode="[3104]" nextNode="[3108]"  />
+    <ItemSpec id="3107" maxLvl="5" techList="[310701,310702,310703,310704,310705]" prevNode="[3105]" nextNode="[3109]"  />
+    <ItemSpec id="3108" maxLvl="5" techList="[310801,310802,310803,310804,310805]" prevNode="[3106]" nextNode="[3109]"  />
+    <ItemSpec id="3109" maxLvl="1" techList="[310901]" prevNode="[3107,3108]" nextNode="[3110]"  />
+    <ItemSpec id="3110" maxLvl="5" techList="[311001,311002,311003,311004,311005]" prevNode="[3109]" nextNode="[3111,3112]"  />
+    <ItemSpec id="3111" maxLvl="10" techList="[311101,311102,311103,311104,311105,311106,311107,311108,311109,311110]" prevNode="[3110]" nextNode="[3113]"  />
+    <ItemSpec id="3112" maxLvl="10" techList="[311201,311202,311203,311204,311205,311206,311207,311208,311209,311210]" prevNode="[3110]" nextNode="[3113]"  />
+    <ItemSpec id="3113" maxLvl="1" techList="[311301]" prevNode="[3111,3112]"  />
+    <ItemSpec id="3201" maxLvl="1" techList="[320101]" nextNode="[3202,3203]"  />
+    <ItemSpec id="3202" maxLvl="3" techList="[320201,320202,320203]" prevNode="[3201]" nextNode="[3204]"  />
+    <ItemSpec id="3203" maxLvl="3" techList="[320301,320302,320303]" prevNode="[3201]" nextNode="[3204]"  />
+    <ItemSpec id="3204" maxLvl="1" techList="[320401]" prevNode="[3202,3203]" nextNode="[3205,3206]"  />
+    <ItemSpec id="3205" maxLvl="3" techList="[320501,320502,320503]" prevNode="[3204]" nextNode="[3207]"  />
+    <ItemSpec id="3206" maxLvl="3" techList="[320601,320602,320603]" prevNode="[3204]" nextNode="[3208]"  />
+    <ItemSpec id="3207" maxLvl="5" techList="[320701,320702,320703,320704,320705]" prevNode="[3205]" nextNode="[3209]"  />
+    <ItemSpec id="3208" maxLvl="5" techList="[320801,320802,320803,320804,320805]" prevNode="[3206]" nextNode="[3209]"  />
+    <ItemSpec id="3209" maxLvl="1" techList="[320901]" prevNode="[3207,3208]" nextNode="[3210]"  />
+    <ItemSpec id="3210" maxLvl="5" techList="[321001,321002,321003,321004,321005]" prevNode="[3209]" nextNode="[3211,3212]"  />
+    <ItemSpec id="3211" maxLvl="10" techList="[321101,321102,321103,321104,321105,321106,321107,321108,321109,321110]" prevNode="[3210]" nextNode="[3213]"  />
+    <ItemSpec id="3212" maxLvl="10" techList="[321201,321202,321203,321204,321205,321206,321207,321208,321209,321210]" prevNode="[3210]" nextNode="[3213]"  />
+    <ItemSpec id="3213" maxLvl="1" techList="[321301]" prevNode="[3211,3212]"  />
+    <ItemSpec id="3301" maxLvl="1" techList="[330101]" nextNode="[3302,3303]"  />
+    <ItemSpec id="3302" maxLvl="3" techList="[330201,330202,330203]" prevNode="[3301]" nextNode="[3304]"  />
+    <ItemSpec id="3303" maxLvl="3" techList="[330301,330302,330303]" prevNode="[3301]" nextNode="[3304]"  />
+    <ItemSpec id="3304" maxLvl="1" techList="[330401]" prevNode="[3302,3303]" nextNode="[3305,3306]"  />
+    <ItemSpec id="3305" maxLvl="3" techList="[330501,330502,330503]" prevNode="[3304]" nextNode="[3307]"  />
+    <ItemSpec id="3306" maxLvl="3" techList="[330601,330602,330603]" prevNode="[3304]" nextNode="[3308]"  />
+    <ItemSpec id="3307" maxLvl="5" techList="[330701,330702,330703,330704,330705]" prevNode="[3305]" nextNode="[3309]"  />
+    <ItemSpec id="3308" maxLvl="5" techList="[330801,330802,330803,330804,330805]" prevNode="[3306]" nextNode="[3309]"  />
+    <ItemSpec id="3309" maxLvl="1" techList="[330901]" prevNode="[3307,3308]" nextNode="[3310]"  />
+    <ItemSpec id="3310" maxLvl="5" techList="[331001,331002,331003,331004,331005]" prevNode="[3309]" nextNode="[3311,3312]"  />
+    <ItemSpec id="3311" maxLvl="10" techList="[331101,331102,331103,331104,331105,331106,331107,331108,331109,331110]" prevNode="[3310]" nextNode="[3313]"  />
+    <ItemSpec id="3312" maxLvl="10" techList="[331201,331202,331203,331204,331205,331206,331207,331208,331209,331210]" prevNode="[3310]" nextNode="[3313]"  />
+    <ItemSpec id="3313" maxLvl="1" techList="[331301]" prevNode="[3311,3312]"  />
+    <ItemSpec id="3401" maxLvl="1" techList="[340101]" nextNode="[3402,3403]"  />
+    <ItemSpec id="3402" maxLvl="3" techList="[340201,340202,340203]" prevNode="[3401]" nextNode="[3404]"  />
+    <ItemSpec id="3403" maxLvl="3" techList="[340301,340302,340303]" prevNode="[3401]" nextNode="[3404]"  />
+    <ItemSpec id="3404" maxLvl="1" techList="[340401]" prevNode="[3402,3403]" nextNode="[3405,3406]"  />
+    <ItemSpec id="3405" maxLvl="3" techList="[340501,340502,340503]" prevNode="[3404]" nextNode="[3407]"  />
+    <ItemSpec id="3406" maxLvl="3" techList="[340601,340602,340603]" prevNode="[3404]" nextNode="[3408]"  />
+    <ItemSpec id="3407" maxLvl="5" techList="[340701,340702,340703,340704,340705]" prevNode="[3405]" nextNode="[3409]"  />
+    <ItemSpec id="3408" maxLvl="5" techList="[340801,340802,340803,340804,340805]" prevNode="[3406]" nextNode="[3409]"  />
+    <ItemSpec id="3409" maxLvl="1" techList="[340901]" prevNode="[3407,3408]" nextNode="[3410]"  />
+    <ItemSpec id="3410" maxLvl="5" techList="[341001,341002,341003,341004,341005]" prevNode="[3409]" nextNode="[3411,3412]"  />
+    <ItemSpec id="3411" maxLvl="10" techList="[341101,341102,341103,341104,341105,341106,341107,341108,341109,341110]" prevNode="[3410]" nextNode="[3413]"  />
+    <ItemSpec id="3412" maxLvl="10" techList="[341201,341202,341203,341204,341205,341206,341207,341208,341209,341210]" prevNode="[3410]" nextNode="[3413]"  />
+    <ItemSpec id="3413" maxLvl="1" techList="[341301]" prevNode="[3411,3412]"  />
+    <ItemSpec id="4101" maxLvl="3" techList="[410101,410102,410103]" nextNode="[4102]"  />
+    <ItemSpec id="4102" maxLvl="1" techList="[410201]" prevNode="[4101]" nextNode="[4103,4104]"  />
+    <ItemSpec id="4103" maxLvl="5" techList="[410301,410302,410303,410304,410305]" prevNode="[4102]" nextNode="[4105]"  />
+    <ItemSpec id="4104" maxLvl="5" techList="[410401,410402,410403,410404,410405]" prevNode="[4102]" nextNode="[4105]"  />
+    <ItemSpec id="4105" maxLvl="3" techList="[410501,410502,410503]" prevNode="[4103,4104]" nextNode="[4106]"  />
+    <ItemSpec id="4106" maxLvl="1" techList="[410601]" prevNode="[4105]" nextNode="[4107,4108]"  />
+    <ItemSpec id="4107" maxLvl="5" techList="[410701,410702,410703,410704,410705]" prevNode="[4106]" nextNode="[4109]"  />
+    <ItemSpec id="4108" maxLvl="5" techList="[410801,410802,410803,410804,410805]" prevNode="[4106]" nextNode="[4109]"  />
+    <ItemSpec id="4109" maxLvl="1" techList="[410901]" prevNode="[4107,4108]" nextNode="[4110]"  />
+    <ItemSpec id="4110" maxLvl="1" techList="[411001]" prevNode="[4109]"  />
+    <ItemSpec id="4201" maxLvl="10" techList="[420101,420102,420103,420104,420105,420106,420107,420108,420109,420110]" nextNode="[4203]"  />
+    <ItemSpec id="4202" maxLvl="10" techList="[420201,420202,420203,420204,420205,420206,420207,420208,420209,420210]" nextNode="[4203]"  />
+    <ItemSpec id="4203" maxLvl="1" techList="[420301]" prevNode="[4201,4202]" nextNode="[4204]"  />
+    <ItemSpec id="4204" maxLvl="1" techList="[420401]" prevNode="[4203]" nextNode="[4205,4206]"  />
+    <ItemSpec id="4205" maxLvl="10" techList="[420501,420502,420503,420504,420505,420506,420507,420508,420509,420510]" prevNode="[4204]" nextNode="[4207]"  />
+    <ItemSpec id="4206" maxLvl="10" techList="[420601,420602,420603,420604,420605,420606,420607,420608,420609,420610]" prevNode="[4204]" nextNode="[4207]"  />
+    <ItemSpec id="4207" maxLvl="1" techList="[420701]" prevNode="[4205,4206]" nextNode="[4208]"  />
+    <ItemSpec id="4208" maxLvl="1" techList="[420801]" prevNode="[4207]" nextNode="[4209,4210,4211]"  />
+    <ItemSpec id="4209" maxLvl="10" techList="[420901,420902,420903,420904,420905,420906,420907,420908,420909,420910]" prevNode="[4208]" nextNode="[4212]"  />
+    <ItemSpec id="4210" maxLvl="10" techList="[421001,421002,421003,421004,421005,421006,421007,421008,421009,421010]" prevNode="[4208]" nextNode="[4213]"  />
+    <ItemSpec id="4211" maxLvl="10" techList="[421101,421102,421103,421104,421105,421106,421107,421108,421109,421110]" prevNode="[4208]" nextNode="[4214]"  />
+    <ItemSpec id="4212" maxLvl="10" techList="[421201,421202,421203,421204,421205,421206,421207,421208,421209,421210]" prevNode="[4209]" nextNode="[4215]"  />
+    <ItemSpec id="4213" maxLvl="10" techList="[421301,421302,421303,421304,421305,421306,421307,421308,421309,421310]" prevNode="[4210]" nextNode="[4215]"  />
+    <ItemSpec id="4214" maxLvl="10" techList="[421401,421402,421403,421404,421405,421406,421407,421408,421409,421410]" prevNode="[4211]" nextNode="[4215]"  />
+    <ItemSpec id="4215" maxLvl="10" techList="[421501,421502,421503,421504,421505,421506,421507,421508,421509,421510]" prevNode="[4212,4213,4214]" nextNode="[4216]"  />
+    <ItemSpec id="4216" maxLvl="1" techList="[421601]" prevNode="[4215]" nextNode="[4217]"  />
+    <ItemSpec id="4217" maxLvl="1" techList="[421701]" prevNode="[4216]" nextNode="[4218]"  />
+    <ItemSpec id="4218" maxLvl="1" techList="[421801]" prevNode="[4217]" nextNode="[4219]"  />
+    <ItemSpec id="4219" maxLvl="1" techList="[421901]" prevNode="[4218]"  />
+    <ItemSpec id="4301" maxLvl="1" techList="[430101]" nextNode="[4302,4303]"  />
+    <ItemSpec id="4302" maxLvl="10" techList="[430201,430202,430203,430204,430205,430206,430207,430208,430209,430210]" prevNode="[4301]" nextNode="[4304]"  />
+    <ItemSpec id="4303" maxLvl="10" techList="[430301,430302,430303,430304,430305,430306,430307,430308,430309,430310]" prevNode="[4301]" nextNode="[4304]"  />
+    <ItemSpec id="4304" maxLvl="10" techList="[430401,430402,430403,430404,430405,430406,430407,430408,430409,430410]" prevNode="[4302,4303]" nextNode="[4305]"  />
+    <ItemSpec id="4305" maxLvl="1" techList="[430501]" prevNode="[4304]" nextNode="[4306,4307]"  />
+    <ItemSpec id="4306" maxLvl="10" techList="[430601,430602,430603,430604,430605,430606,430607,430608,430609,430610]" prevNode="[4305]" nextNode="[4308]"  />
+    <ItemSpec id="4307" maxLvl="10" techList="[430701,430702,430703,430704,430705,430706,430707,430708,430709,430710]" prevNode="[4305]" nextNode="[4308]"  />
+    <ItemSpec id="4308" maxLvl="10" techList="[430801,430802,430803,430804,430805,430806,430807,430808,430809,430810]" prevNode="[4306,4307]" nextNode="[4309]"  />
+    <ItemSpec id="4309" maxLvl="1" techList="[430901]" prevNode="[4308]" nextNode="[4310,4311]"  />
+    <ItemSpec id="4310" maxLvl="10" techList="[431001,431002,431003,431004,431005,431006,431007,431008,431009,431010]" prevNode="[4309]"  />
+    <ItemSpec id="4311" maxLvl="10" techList="[431101,431102,431103,431104,431105,431106,431107,431108,431109,431110]" prevNode="[4309]"  />
+
+</tns:database>

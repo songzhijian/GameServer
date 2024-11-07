@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" sceneUnitType="4" typeId="1" minLv="1" maxLv="30" searchRange="[[1,9,10],[10,-1,20]]" maxRefreshLv="9" searchRadius="20"  />
+    <ItemSpec id="2" sceneUnitType="5" typeId="102" minLv="1" maxLv="8" searchRange="[[1,-1,20]]" maxRefreshLv="1" searchRadius="20"  />
+    <ItemSpec id="3" sceneUnitType="5" typeId="103" minLv="1" maxLv="8" searchRange="[[1,-1,20]]" maxRefreshLv="1" searchRadius="20"  />
+    <ItemSpec id="4" sceneUnitType="5" typeId="104" minLv="1" maxLv="8" searchRange="[[1,-1,20]]" maxRefreshLv="1" searchRadius="20"  />
+
+</tns:database>

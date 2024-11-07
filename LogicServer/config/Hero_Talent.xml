@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" eff="[1,100]"  />
+    <ItemSpec id="102" eff="[1,100]"  />
+    <ItemSpec id="103" eff="[1,100]"  />
+    <ItemSpec id="201" eff="[1,100]"  />
+    <ItemSpec id="202" eff="[1,100]"  />
+    <ItemSpec id="203" eff="[1,100]"  />
+
+</tns:database>

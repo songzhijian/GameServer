@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" cost="[[2,110,300]]" cost5="[[2,110,1500]]" pool="1" poolName="1124" businessType="96"  />
+    <ItemSpec id="2" cost="[[1,1031,1]]" cost5="[[1,1031,5]]" pool="2" poolName="1127" businessType="97"  />
+    <ItemSpec id="3" cost="[[1,1031,1]]" cost5="[[1,1031,5]]" pool="3" poolName="1128" businessType="98"  />
+    <ItemSpec id="4" cost="[[1,1031,1]]" cost5="[[1,1031,5]]" pool="4" poolName="1129" businessType="99"  />
+    <ItemSpec id="5" cost="[[1,1031,1]]" cost5="[[1,1031,5]]" pool="5" poolName="1131" businessType="100"  />
+    <ItemSpec id="6" cost="[[1,1032,1]]" cost5="[[1,1032,5]]" businessType="101"  />
+
+</tns:database>

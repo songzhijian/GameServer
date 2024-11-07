@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" color="1" capacity="101" basePrice="[[2,100,100]]"  />
+    <ItemSpec id="201" color="2" capacity="201" capacitySize="[18,2]" capacityCoor="[5.22,7.22]" baseDurability="240" baseSpeed="1" cabinCapacity="18" baseNavy="100" baseCabinTrade="5" baseCabinFood="10" baseCabinWater="10" basePrice="[[2,101,5000]]" shipFacilities="[20100]" mainBuildingMaxLv="3" cabinFrameworkVersion="2"  />
+    <ItemSpec id="301" color="3" capacity="301" capacitySize="[20,4]" capacityCoor="[0,0]" baseDurability="330" baseSpeed="1.03" cabinCapacity="52" baseNavy="200" baseCabinTrade="5" baseCabinFood="15" baseCabinWater="15" basePrice="[[2,101,50000]]" shipFacilities="[20100,20300]" mainBuildingMaxLv="6" cabinFrameworkVersion="1" buyCondition="[[30,4]]"  />
+    <ItemSpec id="401" color="5" capacity="401" capacitySize="[24,4]" capacityCoor="[0,0]" baseDurability="330" baseSpeed="1.06" cabinCapacity="66" baseNavy="400" baseCabinTrade="5" baseCabinFood="20" baseCabinWater="20" basePrice="[[2,101,120000]]" shipFacilities="[20100,20200,20300,20400]" shipEquip="[21]" shipDecorate="[11,12]" mainBuildingMaxLv="9" cabinFrameworkVersion="3" buyCondition="[[30,11]]"  />
+    <ItemSpec id="501" color="5" capacity="501" capacitySize="[30,4]" capacityCoor="[0,0]" baseDurability="420" baseSpeed="1.08" cabinCapacity="82" baseNavy="1000" baseCabinTrade="6" baseCabinFood="25" baseCabinWater="25" basePrice="[[2,101,400000]]" shipFacilities="[20100,20200,20300,20400]" shipEquip="[21]" shipDecorate="[11,12,13]" mainBuildingMaxLv="15" cabinFrameworkVersion="1" buyCondition="[[30,23]]"  />
+    <ItemSpec id="601"  />
+    <ItemSpec id="701"  />
+    <ItemSpec id="801"  />
+    <ItemSpec id="901"  />
+    <ItemSpec id="402" color="5" capacity="402" capacitySize="[28,4]" capacityCoor="[0,0]" baseDurability="420" baseSpeed="1.06" cabinCapacity="70" baseNavy="500" baseCabinTrade="6" baseCabinFood="20" baseCabinWater="20" basePrice="[[2,101,250000]]" shipFacilities="[20100,20200,20300,20400]" shipEquip="[21,24]" shipDecorate="[11,12]" mainBuildingMaxLv="12" cabinFrameworkVersion="1" buyCondition="[[29,401]]"  />
+    <ItemSpec id="502" color="5" capacity="502" capacitySize="[32,4]" capacityCoor="[0,0]" baseDurability="510" baseSpeed="1.1" cabinCapacity="86" baseNavy="1000" baseCabinTrade="7" baseCabinFood="30" baseCabinWater="30" basePrice="[[2,101,800000]]" shipFacilities="[20100,20200,20300,20400]" shipEquip="[21]" shipDecorate="[11,12,13]" mainBuildingMaxLv="20" cabinFrameworkVersion="1" buyCondition="[[29,501]]"  />
+    <ItemSpec id="602"  />
+    <ItemSpec id="702"  />
+    <ItemSpec id="802"  />
+    <ItemSpec id="902"  />
+
+</tns:database>

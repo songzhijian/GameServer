@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="4" captainPhase="[[3,31]]" eventGroup="[[1,2,3,45,46,47]]"  />
+    <ItemSpec id="5" captainPhase="[[3,31]]" eventGroup="[[1,2,3,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]]"  />
+    <ItemSpec id="6" captainPhase="[[3,31]]" eventGroup="[[1,2,3,37,38,39,40,41]]"  />
+    <ItemSpec id="7" captainPhase="[[3,31]]" eventGroup="[[1,2,3]]"  />
+    <ItemSpec id="8" captainPhase="[[3,31]]" eventGroup="[[1,2,3,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]]"  />
+    <ItemSpec id="9" captainPhase="[[3,31]]" eventGroup="[[1,2,3,45,46,47]]"  />
+    <ItemSpec id="10" captainPhase="[[3,31]]" eventGroup="[[1,2,3]]"  />
+    <ItemSpec id="11" captainPhase="[[3,31]]" eventGroup="[[1,2,3,37,38,39,40,41]]"  />
+    <ItemSpec id="12" captainPhase="[[3,31]]" eventGroup="[[1,2,3,45,46,47]]"  />
+    <ItemSpec id="13" captainPhase="[[3,31]]" eventGroup="[[1,2,3,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]]"  />
+    <ItemSpec id="14" captainPhase="[[3,31]]" eventGroup="[[1,2,3,37,38,39,40,41]]"  />
+    <ItemSpec id="15" captainPhase="[[3,31]]" eventGroup="[[1,2,3]]"  />
+    <ItemSpec id="16" captainPhase="[[3,31]]" eventGroup="[[1,2,3,37,38,39,40,41]]"  />
+    <ItemSpec id="17" captainPhase="[[3,31]]" eventGroup="[[1,2,3]]"  />
+    <ItemSpec id="18" captainPhase="[[3,31]]" eventGroup="[[1,2,3,45,46,47]]"  />
+    <ItemSpec id="19" captainPhase="[[3,31]]" eventGroup="[[1,2,3,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]]"  />
+    <ItemSpec id="20" captainPhase="[[3,31]]" eventGroup="[[1,2,3]]"  />
+    <ItemSpec id="21" captainPhase="[[3,31]]" eventGroup="[[1,2,3,37,38,39,40,41]]"  />
+    <ItemSpec id="22" captainPhase="[[3,31]]" eventGroup="[[1,2,3,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36]]"  />
+    <ItemSpec id="23" captainPhase="[[3,31]]" eventGroup="[[1,2,3,45,46,47]]"  />
+    <ItemSpec id="24" captainPhase="[[3,31]]" eventGroup="[[1,2,3,68,69,70,71,58,59,60,61,62,63,64,65,66,67]]"  />
+    <ItemSpec id="25" captainPhase="[[3,31]]" eventGroup="[[1,2,3,68,69,70,71,58,59,60,61,62,63,64,65,66,67]]"  />
+    <ItemSpec id="26" captainPhase="[[3,31]]" eventGroup="[[1,2,3,68,69,70,71,58,59,60,61,62,63,64,65,66,67]]"  />
+    <ItemSpec id="27" captainPhase="[[3,31]]" eventGroup="[[1,2,3,68,69,70,71,58,59,60,61,62,63,64,65,66,67]]"  />
+    <ItemSpec id="28" captainPhase="[[3,31]]" eventGroup="[[1,2,3,68,69,70,71,58,59,60,61,62,63,64,65,66,67]]"  />
+    <ItemSpec id="29" captainPhase="[[3,31]]" eventGroup="[[1,2,3,68,69,70,71,58,59,60,61,62,63,64,65,66,67]]"  />
+    <ItemSpec id="30" captainPhase="[[3,31]]" eventGroup="[[1,2,3,68,69,70,71,58,59,60,61,62,63,64,65,66,67]]"  />
+    <ItemSpec id="31" captainPhase="[[3,31]]" eventGroup="[[1,2,3,68,69,70,71,58,59,60,61,62,63,64,65,66,67]]"  />
+    <ItemSpec id="1302" captainPhase="[[1,31]]" eventGroup="[[1001,1002,1003,1004,1005,1006,1007,1008,1009,1010]]"  />
+    <ItemSpec id="1303" captainPhase="[[1,31]]" eventGroup="[[1011,1012,1013]]"  />
+    <ItemSpec id="1304" captainPhase="[[1,31]]" eventGroup="[[1014,1015,1016,1017,1018,1019,1020,1021,1022,1023,1024,1025,1026,1027,1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,1046,1047,1048,1049,1050,1051]]"  />
+    <ItemSpec id="1306" captainPhase="[[1,31]]" eventGroup="[[1052]]"  />
+    <ItemSpec id="1102" captainPhase="[[3,31]]" eventGroup="[[1014,1015,1016,1017,1018,1019,1020,1021,1022,1023,1024,1025,1026,1027,1028,1029,1030,1031,1032,1033,1034,1035,1036,1037,1038,1039,1040,1041,1042,1043,1044,1045,1046,1047,1048,1049,1050,1051]]"  />
+    <ItemSpec id="1103" captainPhase="[[3,31]]" eventGroup="[[1011,1012,1013]]"  />
+
+</tns:database>

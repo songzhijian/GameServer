@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" moodValue="[8000,10000]" eff="[[1001,1000],[1031,1000],[1032,1000],[1033,1000]]"  />
+    <ItemSpec id="2" moodValue="[6000,7999]" eff="[[1001,0],[1031,0],[1032,0],[1033,0]]"  />
+    <ItemSpec id="3" moodValue="[0,5999]" eff="[[1001,-1000],[1031,-1000],[1032,-1000],[1033,-1000]]"  />
+
+</tns:database>

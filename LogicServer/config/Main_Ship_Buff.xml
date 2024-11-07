@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" Duration="28800" Effects="[[6056,1]]" isShow="1" group="101" overlap="1"  />
+    <ItemSpec id="102" Duration="86400" Effects="[[6056,1]]" isShow="1" group="101" overlap="1"  />
+    <ItemSpec id="103" Duration="604800" Effects="[[6056,1]]" isShow="1" group="101" overlap="1"  />
+    <ItemSpec id="201" Duration="28800" Effects="[[6057,1]]" isShow="1" group="201" overlap="1"  />
+    <ItemSpec id="202" Duration="86400" Effects="[[6057,1]]" isShow="1" group="201" overlap="1"  />
+    <ItemSpec id="301" Duration="1800" Effects="[[7033,50]]" isShow="1" group="301" overlap="1"  />
+    <ItemSpec id="302" Duration="1800" Effects="[[7033,100]]" isShow="1" group="301" overlap="1"  />
+    <ItemSpec id="401" Duration="28800" Effects="[[6027,5000]]" isShow="1" group="401" overlap="1"  />
+    <ItemSpec id="402" Duration="86400" Effects="[[6027,5000]]" isShow="1" group="401" overlap="1"  />
+    <ItemSpec id="501" Duration="1800" Effects="[[6041,5000]]" isShow="1" group="501" overlap="1"  />
+    <ItemSpec id="701" Duration="3600" Effects="[[600110000]]" isShow="1" group="701" overlap="1"  />
+    <ItemSpec id="10001" Effects="[[601,2000]]" group="10001" overlap="1"  />
+    <ItemSpec id="10002" Effects="[[7301,5000]]" group="10002" overlap="1"  />
+    <ItemSpec id="11001" Duration="600" Effects="[[6055,1],[7008,300],[7013,300]]" isShow="1" group="11001" overlap="1"  />
+    <ItemSpec id="20001" Duration="300" Effects="[[4001,10000]]" isShow="1" group="2001"  />
+    <ItemSpec id="20002" Duration="300" Effects="[[4002,10000]]" isShow="1" group="2002"  />
+    <ItemSpec id="20003" Duration="300" Effects="[[4003,10000]]" isShow="1" group="2003"  />
+    <ItemSpec id="20004" Duration="300" Effects="[[4005,10000]]" isShow="1" group="2004"  />
+    <ItemSpec id="20005" Duration="300" Effects="[[4006,10000]]" isShow="1" group="2005"  />
+    <ItemSpec id="20006" Duration="300" Effects="[[4007,10]]" isShow="1" group="2006"  />
+    <ItemSpec id="20007" Duration="300" Effects="[[6001,10000]]" isShow="1" group="2007"  />
+    <ItemSpec id="20008" Duration="300" Effects="[[6003,10000]]" isShow="1" group="2008"  />
+    <ItemSpec id="20009" Duration="300" Effects="[[6004,-5000]]" isShow="1" group="2009"  />
+    <ItemSpec id="20010" Duration="300" Effects="[[6004,5000]]" isShow="1" group="2010"  />
+    <ItemSpec id="20011" Duration="300" Effects="[[6083,1]]" isShow="0" group="2011"  />
+    <ItemSpec id="100100" Effects="[[1031,500]]" group="100100" overlap="1"  />
+    <ItemSpec id="100101" Effects="[[1031,600]]" group="100100" overlap="1"  />
+    <ItemSpec id="100102" Effects="[[1031,700]]" group="100100" overlap="1"  />
+    <ItemSpec id="100103" Effects="[[1031,800]]" group="100100" overlap="1"  />
+    <ItemSpec id="100104" Effects="[[1031,900]]" group="100100" overlap="1"  />
+    <ItemSpec id="100105" Effects="[[1031,1000]]" group="100100" overlap="1"  />
+    <ItemSpec id="100106" Effects="[[1031,1100]]" group="100100" overlap="1"  />
+    <ItemSpec id="100107" Effects="[[1031,1200]]" group="100100" overlap="1"  />
+    <ItemSpec id="100108" Effects="[[1031,1300]]" group="100100" overlap="1"  />
+    <ItemSpec id="100109" Effects="[[1031,1400]]" group="100100" overlap="1"  />
+    <ItemSpec id="100110" Effects="[[1031,1500]]" group="100100" overlap="1"  />
+    <ItemSpec id="100111" Effects="[[1031,1600]]" group="100100" overlap="1"  />
+    <ItemSpec id="100112" Effects="[[1031,1700]]" group="100100" overlap="1"  />
+    <ItemSpec id="100113" Effects="[[1031,1800]]" group="100100" overlap="1"  />
+    <ItemSpec id="100114" Effects="[[1031,1900]]" group="100100" overlap="1"  />
+    <ItemSpec id="100115" Effects="[[1031,2000]]" group="100100" overlap="1"  />
+    <ItemSpec id="100116" Effects="[[1031,2100]]" group="100100" overlap="1"  />
+    <ItemSpec id="100117" Effects="[[1031,2200]]" group="100100" overlap="1"  />
+    <ItemSpec id="100118" Effects="[[1031,2300]]" group="100100" overlap="1"  />
+    <ItemSpec id="100119" Effects="[[1031,2400]]" group="100100" overlap="1"  />
+    <ItemSpec id="100120" Effects="[[1031,2500]]" group="100100" overlap="1"  />
+    <ItemSpec id="100200" Effects="[[1032,500]]" group="100200" overlap="1"  />
+    <ItemSpec id="100201" Effects="[[1032,600]]" group="100200" overlap="1"  />
+    <ItemSpec id="100202" Effects="[[1032,700]]" group="100200" overlap="1"  />
+    <ItemSpec id="100203" Effects="[[1032,800]]" group="100200" overlap="1"  />
+    <ItemSpec id="100204" Effects="[[1032,900]]" group="100200" overlap="1"  />
+    <ItemSpec id="100205" Effects="[[1032,1000]]" group="100200" overlap="1"  />
+    <ItemSpec id="100206" Effects="[[1032,1100]]" group="100200" overlap="1"  />
+    <ItemSpec id="100207" Effects="[[1032,1200]]" group="100200" overlap="1"  />
+    <ItemSpec id="100208" Effects="[[1032,1300]]" group="100200" overlap="1"  />
+    <ItemSpec id="100209" Effects="[[1032,1400]]" group="100200" overlap="1"  />
+    <ItemSpec id="100210" Effects="[[1032,1500]]" group="100200" overlap="1"  />
+    <ItemSpec id="100211" Effects="[[1032,1600]]" group="100200" overlap="1"  />
+    <ItemSpec id="100212" Effects="[[1032,1700]]" group="100200" overlap="1"  />
+    <ItemSpec id="100213" Effects="[[1032,1800]]" group="100200" overlap="1"  />
+    <ItemSpec id="100214" Effects="[[1032,1900]]" group="100200" overlap="1"  />
+    <ItemSpec id="100215" Effects="[[1032,2000]]" group="100200" overlap="1"  />
+    <ItemSpec id="100216" Effects="[[1032,2100]]" group="100200" overlap="1"  />
+    <ItemSpec id="100217" Effects="[[1032,2200]]" group="100200" overlap="1"  />
+    <ItemSpec id="100218" Effects="[[1032,2300]]" group="100200" overlap="1"  />
+    <ItemSpec id="100219" Effects="[[1032,2400]]" group="100200" overlap="1"  />
+    <ItemSpec id="100220" Effects="[[1032,2500]]" group="100200" overlap="1"  />
+    <ItemSpec id="100300" Effects="[[1033,500]]" group="100300" overlap="1"  />
+    <ItemSpec id="100301" Effects="[[1033,600]]" group="100300" overlap="1"  />
+    <ItemSpec id="100302" Effects="[[1033,700]]" group="100300" overlap="1"  />
+    <ItemSpec id="100303" Effects="[[1033,800]]" group="100300" overlap="1"  />
+    <ItemSpec id="100304" Effects="[[1033,900]]" group="100300" overlap="1"  />
+    <ItemSpec id="100305" Effects="[[1033,1000]]" group="100300" overlap="1"  />
+    <ItemSpec id="100306" Effects="[[1033,1100]]" group="100300" overlap="1"  />
+    <ItemSpec id="100307" Effects="[[1033,1200]]" group="100300" overlap="1"  />
+    <ItemSpec id="100308" Effects="[[1033,1300]]" group="100300" overlap="1"  />
+    <ItemSpec id="100309" Effects="[[1033,1400]]" group="100300" overlap="1"  />
+    <ItemSpec id="100310" Effects="[[1033,1500]]" group="100300" overlap="1"  />
+    <ItemSpec id="100311" Effects="[[1033,1600]]" group="100300" overlap="1"  />
+    <ItemSpec id="100312" Effects="[[1033,1700]]" group="100300" overlap="1"  />
+    <ItemSpec id="100313" Effects="[[1033,1800]]" group="100300" overlap="1"  />
+    <ItemSpec id="100314" Effects="[[1033,1900]]" group="100300" overlap="1"  />
+    <ItemSpec id="100315" Effects="[[1033,2000]]" group="100300" overlap="1"  />
+    <ItemSpec id="100316" Effects="[[1033,2100]]" group="100300" overlap="1"  />
+    <ItemSpec id="100317" Effects="[[1033,2200]]" group="100300" overlap="1"  />
+    <ItemSpec id="100318" Effects="[[1033,2300]]" group="100300" overlap="1"  />
+    <ItemSpec id="100319" Effects="[[1033,2400]]" group="100300" overlap="1"  />
+    <ItemSpec id="100400" Effects="[[4001,500]]" group="100400" overlap="1"  />
+    <ItemSpec id="100401" Effects="[[4001,600]]" group="100400" overlap="1"  />
+    <ItemSpec id="100402" Effects="[[4001,700]]" group="100400" overlap="1"  />
+    <ItemSpec id="100403" Effects="[[4001,800]]" group="100400" overlap="1"  />
+    <ItemSpec id="100404" Effects="[[4001,900]]" group="100400" overlap="1"  />
+    <ItemSpec id="100405" Effects="[[4001,1000]]" group="100400" overlap="1"  />
+    <ItemSpec id="100406" Effects="[[4001,1100]]" group="100400" overlap="1"  />
+    <ItemSpec id="100407" Effects="[[4001,1200]]" group="100400" overlap="1"  />
+    <ItemSpec id="100408" Effects="[[4001,1300]]" group="100400" overlap="1"  />
+    <ItemSpec id="100409" Effects="[[4001,1400]]" group="100400" overlap="1"  />
+    <ItemSpec id="100410" Effects="[[4001,1500]]" group="100400" overlap="1"  />
+    <ItemSpec id="100411" Effects="[[4001,1600]]" group="100400" overlap="1"  />
+    <ItemSpec id="100412" Effects="[[4001,1700]]" group="100400" overlap="1"  />
+    <ItemSpec id="100413" Effects="[[4001,1800]]" group="100400" overlap="1"  />
+    <ItemSpec id="100414" Effects="[[4001,1900]]" group="100400" overlap="1"  />
+    <ItemSpec id="100415" Effects="[[4001,2000]]" group="100400" overlap="1"  />
+    <ItemSpec id="100416" Effects="[[4001,2100]]" group="100400" overlap="1"  />
+    <ItemSpec id="100417" Effects="[[4001,2200]]" group="100400" overlap="1"  />
+    <ItemSpec id="100418" Effects="[[4001,2300]]" group="100400" overlap="1"  />
+    <ItemSpec id="100500" Effects="[[6027,500]]" group="100500" overlap="1"  />
+    <ItemSpec id="100501" Effects="[[6027,600]]" group="100500" overlap="1"  />
+    <ItemSpec id="100502" Effects="[[6027,700]]" group="100500" overlap="1"  />
+    <ItemSpec id="100503" Effects="[[6027,800]]" group="100500" overlap="1"  />
+    <ItemSpec id="100504" Effects="[[6027,900]]" group="100500" overlap="1"  />
+    <ItemSpec id="100505" Effects="[[6027,1000]]" group="100500" overlap="1"  />
+    <ItemSpec id="100506" Effects="[[6027,1100]]" group="100500" overlap="1"  />
+    <ItemSpec id="100507" Effects="[[6027,1200]]" group="100500" overlap="1"  />
+    <ItemSpec id="100508" Effects="[[6027,1300]]" group="100500" overlap="1"  />
+    <ItemSpec id="100509" Effects="[[6027,1400]]" group="100500" overlap="1"  />
+    <ItemSpec id="100510" Effects="[[6027,1500]]" group="100500" overlap="1"  />
+    <ItemSpec id="100511" Effects="[[6027,1600]]" group="100500" overlap="1"  />
+    <ItemSpec id="100512" Effects="[[6027,1700]]" group="100500" overlap="1"  />
+    <ItemSpec id="100513" Effects="[[6027,1800]]" group="100500" overlap="1"  />
+    <ItemSpec id="100514" Effects="[[6027,1900]]" group="100500" overlap="1"  />
+    <ItemSpec id="100515" Effects="[[6027,2000]]" group="100500" overlap="1"  />
+    <ItemSpec id="100516" Effects="[[6027,2100]]" group="100500" overlap="1"  />
+    <ItemSpec id="100517" Effects="[[6027,2200]]" group="100500" overlap="1"  />
+    <ItemSpec id="100518" Effects="[[6027,2300]]" group="100500" overlap="1"  />
+    <ItemSpec id="100519" Effects="[[6027,2400]]" group="100500" overlap="1"  />
+    <ItemSpec id="100600" Effects="[[1001,500]]" group="100600" overlap="1"  />
+    <ItemSpec id="100601" Effects="[[1001,600]]" group="100600" overlap="1"  />
+    <ItemSpec id="100602" Effects="[[1001,700]]" group="100600" overlap="1"  />
+    <ItemSpec id="100603" Effects="[[1001,800]]" group="100600" overlap="1"  />
+    <ItemSpec id="100604" Effects="[[1001,900]]" group="100600" overlap="1"  />
+    <ItemSpec id="100605" Effects="[[1001,1000]]" group="100600" overlap="1"  />
+    <ItemSpec id="100606" Effects="[[1001,1100]]" group="100600" overlap="1"  />
+    <ItemSpec id="100607" Effects="[[1001,1200]]" group="100600" overlap="1"  />
+    <ItemSpec id="100608" Effects="[[1001,1300]]" group="100600" overlap="1"  />
+    <ItemSpec id="100609" Effects="[[1001,1400]]" group="100600" overlap="1"  />
+    <ItemSpec id="100610" Effects="[[1001,1500]]" group="100600" overlap="1"  />
+    <ItemSpec id="100611" Effects="[[1001,1600]]" group="100600" overlap="1"  />
+    <ItemSpec id="100612" Effects="[[1001,1700]]" group="100600" overlap="1"  />
+    <ItemSpec id="100613" Effects="[[1001,1800]]" group="100600" overlap="1"  />
+    <ItemSpec id="100614" Effects="[[1001,1900]]" group="100600" overlap="1"  />
+    <ItemSpec id="100615" Effects="[[1001,2000]]" group="100600" overlap="1"  />
+    <ItemSpec id="100616" Effects="[[1001,2100]]" group="100600" overlap="1"  />
+    <ItemSpec id="100700" Effects="[[1101,500]]" group="100700" overlap="1"  />
+    <ItemSpec id="100701" Effects="[[1101,600]]" group="100700" overlap="1"  />
+    <ItemSpec id="100702" Effects="[[1101,700]]" group="100700" overlap="1"  />
+    <ItemSpec id="100703" Effects="[[1101,800]]" group="100700" overlap="1"  />
+    <ItemSpec id="100704" Effects="[[1101,900]]" group="100700" overlap="1"  />
+    <ItemSpec id="100705" Effects="[[1101,1000]]" group="100700" overlap="1"  />
+    <ItemSpec id="100706" Effects="[[1101,1100]]" group="100700" overlap="1"  />
+    <ItemSpec id="100707" Effects="[[1101,1200]]" group="100700" overlap="1"  />
+    <ItemSpec id="100708" Effects="[[1101,1300]]" group="100700" overlap="1"  />
+    <ItemSpec id="100709" Effects="[[1101,1400]]" group="100700" overlap="1"  />
+    <ItemSpec id="100710" Effects="[[1101,1500]]" group="100700" overlap="1"  />
+    <ItemSpec id="100711" Effects="[[1101,1600]]" group="100700" overlap="1"  />
+    <ItemSpec id="100712" Effects="[[1101,1700]]" group="100700" overlap="1"  />
+    <ItemSpec id="100713" Effects="[[1101,1800]]" group="100700" overlap="1"  />
+    <ItemSpec id="100714" Effects="[[1101,1900]]" group="100700" overlap="1"  />
+    <ItemSpec id="100715" Effects="[[1101,2000]]" group="100700" overlap="1"  />
+    <ItemSpec id="100800" Effects="[[1004,500]]" group="100800" overlap="1"  />
+    <ItemSpec id="100801" Effects="[[1004,600]]" group="100800" overlap="1"  />
+    <ItemSpec id="100802" Effects="[[1004,700]]" group="100800" overlap="1"  />
+    <ItemSpec id="100803" Effects="[[1004,800]]" group="100800" overlap="1"  />
+    <ItemSpec id="100804" Effects="[[1004,900]]" group="100800" overlap="1"  />
+    <ItemSpec id="100805" Effects="[[1004,1000]]" group="100800" overlap="1"  />
+    <ItemSpec id="100806" Effects="[[1004,1100]]" group="100800" overlap="1"  />
+    <ItemSpec id="100807" Effects="[[1004,1200]]" group="100800" overlap="1"  />
+    <ItemSpec id="100808" Effects="[[1004,1300]]" group="100800" overlap="1"  />
+    <ItemSpec id="100809" Effects="[[1004,1400]]" group="100800" overlap="1"  />
+    <ItemSpec id="100810" Effects="[[1004,1500]]" group="100800" overlap="1"  />
+    <ItemSpec id="100811" Effects="[[1004,1600]]" group="100800" overlap="1"  />
+    <ItemSpec id="100900" Effects="[[6006,500]]" group="100900" overlap="1"  />
+    <ItemSpec id="100901" Effects="[[6006,600]]" group="100900" overlap="1"  />
+    <ItemSpec id="100902" Effects="[[6006,700]]" group="100900" overlap="1"  />
+    <ItemSpec id="100903" Effects="[[6006,800]]" group="100900" overlap="1"  />
+    <ItemSpec id="100904" Effects="[[6006,900]]" group="100900" overlap="1"  />
+    <ItemSpec id="100905" Effects="[[6006,1000]]" group="100900" overlap="1"  />
+    <ItemSpec id="100906" Effects="[[6006,1100]]" group="100900" overlap="1"  />
+    <ItemSpec id="100907" Effects="[[6006,1200]]" group="100900" overlap="1"  />
+    <ItemSpec id="100908" Effects="[[6006,1300]]" group="100900" overlap="1"  />
+    <ItemSpec id="100909" Effects="[[6006,1400]]" group="100900" overlap="1"  />
+    <ItemSpec id="100910" Effects="[[6006,1500]]" group="100900" overlap="1"  />
+    <ItemSpec id="100911" Effects="[[6006,1600]]" group="100900" overlap="1"  />
+    <ItemSpec id="100912" Effects="[[6006,1700]]" group="100900" overlap="1"  />
+    <ItemSpec id="100913" Effects="[[6006,1800]]" group="100900" overlap="1"  />
+    <ItemSpec id="101000" Effects="[[3002,1500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101001" Effects="[[3002,2000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101002" Effects="[[3002,2500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101003" Effects="[[3002,3000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101004" Effects="[[3002,3500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101005" Effects="[[3002,4000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101006" Effects="[[3002,4500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101007" Effects="[[3002,5000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101008" Effects="[[3002,5500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101009" Effects="[[3002,6000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101010" Effects="[[3002,6500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101011" Effects="[[3002,7000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101012" Effects="[[3002,7500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101013" Effects="[[3002,8000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101014" Effects="[[3002,8500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101015" Effects="[[3002,9000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101016" Effects="[[3002,9500]]" group="101000" overlap="1"  />
+    <ItemSpec id="101017" Effects="[[3002,10000]]" group="101000" overlap="1"  />
+    <ItemSpec id="101100" Effects="[[3001,43200]]" group="101100" overlap="1"  />
+    <ItemSpec id="101101" Effects="[[3001,57600]]" group="101100" overlap="1"  />
+    <ItemSpec id="101102" Effects="[[3001,86400]]" group="101100" overlap="1"  />
+    <ItemSpec id="101103" Effects="[[3001,115200]]" group="101100" overlap="1"  />
+    <ItemSpec id="101104" Effects="[[3001,144000]]" group="101100" overlap="1"  />
+    <ItemSpec id="101105" Effects="[[3001,172800]]" group="101100" overlap="1"  />
+    <ItemSpec id="101106" Effects="[[3001,201600]]" group="101100" overlap="1"  />
+    <ItemSpec id="101107" Effects="[[3001,230400]]" group="101100" overlap="1"  />
+    <ItemSpec id="101108" Effects="[[3001,259200]]" group="101100" overlap="1"  />
+    <ItemSpec id="101109" Effects="[[3001,288000]]" group="101100" overlap="1"  />
+    <ItemSpec id="101110" Effects="[[3001,316800]]" group="101100" overlap="1"  />
+    <ItemSpec id="101111" Effects="[[3001,345600]]" group="101100" overlap="1"  />
+    <ItemSpec id="101112" Effects="[[3001,374400]]" group="101100" overlap="1"  />
+    <ItemSpec id="101113" Effects="[[3001,403200]]" group="101100" overlap="1"  />
+    <ItemSpec id="101114" Effects="[[3001,446400]]" group="101100" overlap="1"  />
+    <ItemSpec id="101115" Effects="[[3001,489600]]" group="101100" overlap="1"  />
+    <ItemSpec id="101116" Effects="[[3001,532800]]" group="101100" overlap="1"  />
+    <ItemSpec id="101117" Effects="[[3001,576000]]" group="101100" overlap="1"  />
+    <ItemSpec id="101200" group="101200" overlap="1"  />
+    <ItemSpec id="101300" group="101300" overlap="1"  />
+    <ItemSpec id="101400" group="101400" overlap="1"  />
+    <ItemSpec id="101500" group="101500" overlap="1"  />
+    <ItemSpec id="101600" group="101600" overlap="1"  />
+    <ItemSpec id="101700" Effects="[[7008,200]]" group="101700" overlap="1"  />
+    <ItemSpec id="101800" Effects="[[7013,200]]" group="101800" overlap="1"  />
+    <ItemSpec id="101900" Effects="[[1015,200]]" group="101900" overlap="1"  />
+    <ItemSpec id="102000" Effects="[[7018,200]]" group="102000" overlap="1"  />
+    <ItemSpec id="102100" Effects="[[7023,200]]" group="102100" overlap="1"  />
+    <ItemSpec id="102200" Effects="[[1017,200]]" group="102200" overlap="1"  />
+    <ItemSpec id="102400" Effects="[[3003,2]]" group="102300" overlap="1"  />
+    <ItemSpec id="102401" Effects="[[3003,3]]" group="102400" overlap="1"  />
+    <ItemSpec id="102402" Effects="[[3003,5]]" group="102400" overlap="1"  />
+    <ItemSpec id="102403" Effects="[[3003,7]]" group="102400" overlap="1"  />
+    <ItemSpec id="102404" Effects="[[3003,8]]" group="102400" overlap="1"  />
+    <ItemSpec id="102405" Effects="[[3003,9]]" group="102400" overlap="1"  />
+    <ItemSpec id="102406" Effects="[[3003,10]]" group="102400" overlap="1"  />
+    <ItemSpec id="102500" group="102500" overlap="1"  />
+    <ItemSpec id="102300" Effects="[[1015,50]]" isShow="0" group="102300" overlap="1"  />
+    <ItemSpec id="102301" Effects="[[7008,200],[7013,200]]" isShow="0" group="102301" overlap="1"  />
+    <ItemSpec id="102302" Effects="[[6006,500]]" isShow="0" group="102302" overlap="1"  />
+    <ItemSpec id="102303" Effects="[[7018,200],[7023,200]]" isShow="0" group="102303" overlap="1"  />
+    <ItemSpec id="103001" Effects="[[9001,5000]]" isShow="1" group="103000" overlap="1"  />
+    <ItemSpec id="103002" Effects="[[9001,5000]]" isShow="1" group="103000" overlap="1"  />
+    <ItemSpec id="103003" Effects="[[9001,5000]]" isShow="1" group="103000" overlap="1"  />
+    <ItemSpec id="200001" Duration="600" Effects="[[7001,10000]]" group="200001"  />
+    <ItemSpec id="200002" Duration="600" Effects="[[7002,10000]]" group="200002"  />
+    <ItemSpec id="200003" Duration="600" Effects="[[7008,10000]]" group="200003"  />
+    <ItemSpec id="200004" Duration="600" Effects="[[7009,10000]]" group="200004"  />
+    <ItemSpec id="200005" Duration="600" Effects="[[7010,10000]]" group="200005"  />
+    <ItemSpec id="200006" Duration="600" Effects="[[7011,10000]]" group="200006"  />
+    <ItemSpec id="200007" Duration="600" Effects="[[7012,10000]]" group="200007"  />
+    <ItemSpec id="200008" Duration="600" Effects="[[7013,10000]]" group="200008"  />
+    <ItemSpec id="200009" Duration="600" Effects="[[7014,10000]]" group="200009"  />
+    <ItemSpec id="200010" Duration="600" Effects="[[7015,10000]]" group="200010"  />
+    <ItemSpec id="200011" Duration="600" Effects="[[7016,10000]]" group="200011"  />
+    <ItemSpec id="200012" Duration="600" Effects="[[7017,10000]]" group="200012"  />
+    <ItemSpec id="200013" Duration="600" Effects="[[7018,10000]]" group="200013"  />
+    <ItemSpec id="200014" Duration="600" Effects="[[7019,10000]]" group="200014"  />
+    <ItemSpec id="200015" Duration="600" Effects="[[7020,10000]]" group="200015"  />
+    <ItemSpec id="200016" Duration="600" Effects="[[7021,10000]]" group="200016"  />
+    <ItemSpec id="200017" Duration="600" Effects="[[7022,10000]]" group="200017"  />
+    <ItemSpec id="200018" Duration="600" Effects="[[7023,10000]]" group="200018"  />
+    <ItemSpec id="200019" Duration="600" Effects="[[7024,10000]]" group="200019"  />
+    <ItemSpec id="200020" Duration="600" Effects="[[7025,10000]]" group="200020"  />
+    <ItemSpec id="200021" Duration="600" Effects="[[7026,10000]]" group="200021"  />
+    <ItemSpec id="200022" Duration="600" Effects="[[7027,10000]]" group="200022"  />
+    <ItemSpec id="200023" Duration="600" Effects="[[7028,10000]]" group="200023"  />
+    <ItemSpec id="200024" Duration="600" Effects="[[7029,10000]]" group="200024"  />
+    <ItemSpec id="200025" Duration="600" Effects="[[7030,10000]]" group="200025"  />
+    <ItemSpec id="200026" Duration="600" Effects="[[7031,10000]]" group="200026"  />
+    <ItemSpec id="200027" Duration="600" Effects="[[7032,10000]]" group="200027"  />
+    <ItemSpec id="200028" Duration="600" Effects="[[7033,10000]]" group="200028"  />
+    <ItemSpec id="200029" Duration="600" Effects="[[7034,10000]]" group="200029"  />
+    <ItemSpec id="200030" Duration="600" Effects="[[7035,10000]]" group="200030"  />
+    <ItemSpec id="200031" Duration="600" Effects="[[7036,10000]]" group="200031"  />
+    <ItemSpec id="200032" Duration="600" Effects="[[7037,10000]]" group="200032"  />
+    <ItemSpec id="200033" Duration="600" Effects="[[7601,10000]]" group="200033"  />
+    <ItemSpec id="200034" Duration="600" Effects="[[7602,10000]]" group="200034"  />
+    <ItemSpec id="200035" Duration="600" Effects="[[7603,10000]]" group="200035"  />
+    <ItemSpec id="200036" Duration="600" Effects="[[7604,10000]]" group="200036"  />
+    <ItemSpec id="200037" Duration="600" Effects="[[7605,10000]]" group="200037"  />
+    <ItemSpec id="200038" Duration="600" Effects="[[7606,10000]]" group="200038"  />
+    <ItemSpec id="200039" Duration="600" Effects="[[7607,10000]]" group="200039"  />
+    <ItemSpec id="200040" Duration="600" Effects="[[7608,10000]]" group="200040"  />
+    <ItemSpec id="200041" Duration="600" Effects="[[7609,10000]]" group="200041"  />
+    <ItemSpec id="200042" Duration="600" Effects="[[7610,10000]]" group="200042"  />
+    <ItemSpec id="200043" Duration="600" Effects="[[7611,10000]]" group="200043"  />
+    <ItemSpec id="200044" Duration="600" Effects="[[7612,10000]]" group="200044"  />
+    <ItemSpec id="200045" Duration="600" Effects="[[7613,10000]]" group="200045"  />
+    <ItemSpec id="200046" Duration="600" Effects="[[7614,10000]]" group="200046"  />
+    <ItemSpec id="200047" Duration="600" Effects="[[7615,10000]]" group="200047"  />
+    <ItemSpec id="200048" Duration="600" Effects="[[7616,10000]]" group="200048"  />
+    <ItemSpec id="200049" Duration="600" Effects="[[7617,10000]]" group="200049"  />
+    <ItemSpec id="200050" Duration="600" Effects="[[7618,10000]]" group="200050"  />
+    <ItemSpec id="200051" Duration="600" Effects="[[7619,10000]]" group="200051"  />
+    <ItemSpec id="200052" Duration="600" Effects="[[7620,10000]]" group="200052"  />
+    <ItemSpec id="200053" Duration="600" Effects="[[7621,10000]]" group="200053"  />
+    <ItemSpec id="200054" Duration="600" Effects="[[7622,10000]]" group="200054"  />
+    <ItemSpec id="200055" Duration="600" Effects="[[7623,10000]]" group="200055"  />
+    <ItemSpec id="200056" Duration="600" Effects="[[7624,10000]]" group="200056"  />
+    <ItemSpec id="200057" Duration="600" Effects="[[7625,10000]]" group="200057"  />
+    <ItemSpec id="200058" Duration="600" Effects="[[7626,10000]]" group="200058"  />
+    <ItemSpec id="200059" Duration="600" Effects="[[7627,10000]]" group="200059"  />
+    <ItemSpec id="200060" Duration="600" Effects="[[7628,10000]]" group="200060"  />
+    <ItemSpec id="200061" Duration="600" Effects="[[7629,10000]]" group="200061"  />
+    <ItemSpec id="200062" Duration="600" Effects="[[7630,10000]]" group="200062"  />
+
+</tns:database>

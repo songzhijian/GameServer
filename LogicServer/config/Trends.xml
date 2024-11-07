@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" season="0" nextId="2" taskId="[1,2]" openCondition="[0,0]" FinishCondition="2" name="720001" reward="[[2,100,50],[2,110,300]]" rewardType="0" rewardGetTime="1"  />
+    <ItemSpec id="2" season="0" nextId="3" taskId="[3]" openCondition="[1,0]" FinishCondition="2" name="720003" reward="[[2,100,50],[2,110,300]]" rewardType="0" rewardGetTime="1" functionUnlock="[1]"  />
+    <ItemSpec id="3" season="0" nextId="4" taskId="[4]" openCondition="[2,0]" durationTime="2" FinishCondition="1" name="720004" reward="[[2,100,50],[2,110,300]]" rewardType="1" rewardGetTime="1" functionUnlock="[2,15,18,19]"  />
+    <ItemSpec id="4" season="0" nextId="5" taskId="[6]" openCondition="[3,0]" durationTime="2" FinishCondition="1" name="720006" reward="[[2,100,50],[2,110,300]]" rewardType="1" rewardGetTime="1"  />
+    <ItemSpec id="5" season="0" nextId="6" taskId="[18]" openCondition="[4,0]" durationTime="1" FinishCondition="1" name="720005" reward="[[2,100,300],[2,110,300]]" rewardType="0" rewardGetTime="1" functionUnlock="[3]"  />
+    <ItemSpec id="6" season="0" nextId="7" taskId="[7]" openCondition="[5,0]" durationTime="1" FinishCondition="1" name="720007" reward="[[2,100,300],[2,110,300]]" rewardType="0" rewardGetTime="1"  />
+    <ItemSpec id="7" season="0" nextId="8" taskId="[8]" openCondition="[6,0]" durationTime="2" FinishCondition="1" name="720008" reward="[[2,100,300],[2,110,600]]" rewardType="0" rewardGetTime="1" functionUnlock="[21,16]"  />
+    <ItemSpec id="8" season="0" nextId="9" taskId="[9]" openCondition="[7,0]" durationTime="2" FinishCondition="1" name="720009" reward="[[2,100,300],[2,110,600]]" rewardType="1" rewardGetTime="1" functionUnlock="[5,6]"  />
+    <ItemSpec id="9" season="0" nextId="10" taskId="[12]" openCondition="[8,0]" durationTime="2" FinishCondition="1" name="720012" reward="[[2,100,300],[2,110,600]]" rewardType="1" rewardGetTime="1" functionUnlock="[7,17]"  />
+    <ItemSpec id="10" season="0" nextId="11" taskId="[10]" openCondition="[9,0]" durationTime="2" FinishCondition="1" name="720010" reward="[[2,100,300],[2,110,600]]" rewardType="1" rewardGetTime="1" functionUnlock="[4]"  />
+    <ItemSpec id="11" season="0" nextId="12" taskId="[11]" openCondition="[10,0]" durationTime="2" FinishCondition="1" name="720011" reward="[[2,100,300],[2,110,600]]" rewardType="2" rewardGetTime="1" functionUnlock="[8]"  />
+    <ItemSpec id="12" season="0" nextId="13" taskId="[13]" openCondition="[11,0]" durationTime="2" FinishCondition="1" name="720013" reward="[[2,100,300],[2,110,600]]" rewardType="2" rewardGetTime="1" functionUnlock="[14]"  />
+    <ItemSpec id="13" season="0" nextId="14" taskId="[14]" openCondition="[12,0]" durationTime="3" FinishCondition="1" name="720014" reward="[[2,100,300],[2,110,900]]" rewardType="1" rewardGetTime="1" functionUnlock="[9,12]"  />
+    <ItemSpec id="14" season="0" nextId="15" taskId="[15]" openCondition="[13,0]" durationTime="3" FinishCondition="1" name="720015" reward="[[2,100,300],[2,110,900]]" rewardType="2" rewardGetTime="1" functionUnlock="[10]"  />
+    <ItemSpec id="15" season="0" nextId="16" taskId="[16]" openCondition="[14,0]" durationTime="4" FinishCondition="1" name="720016" reward="[[2,100,300],[2,110,900]]" rewardType="1" rewardGetTime="1" functionUnlock="[11]"  />
+    <ItemSpec id="16" season="0" taskId="[17]" openCondition="[15,0]" durationTime="9" FinishCondition="1" name="720017" reward="[[2,100,600],[2,110,900]]" rewardType="1" rewardGetTime="1"  />
+
+</tns:database>

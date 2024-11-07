@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" mainShipBuff="[[101,2901,2000],[102,2902,6500]]"  />
+    <ItemSpec id="2" mainShipBuff="[[201,2903,200],[202,2904,650]]"  />
+    <ItemSpec id="3" mainShipBuff="[[301,2905,2000],[302,2906,4200]]"  />
+    <ItemSpec id="4" mainShipBuff="[[401,2907,250],[402,2908,1000]]"  />
+    <ItemSpec id="5" mainShipBuff="[[501,2909,200]]"  />
+    <ItemSpec id="6" mainShipBuff="[[701,2912,2000]]"  />
+
+</tns:database>

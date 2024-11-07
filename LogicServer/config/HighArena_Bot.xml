@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" name="captain101" icon="iconcaptain101" battle="1001" integral="1800" elimination="600"  />
+    <ItemSpec id="102" name="captain102" icon="iconcaptain102" battle="1002" integral="1799" elimination="600"  />
+    <ItemSpec id="103" name="captain103" icon="iconcaptain103" battle="1003" integral="1798" elimination="600"  />
+    <ItemSpec id="104" name="captain104" icon="iconcaptain104" battle="1004" integral="1797" elimination="600"  />
+    <ItemSpec id="105" name="captain105" icon="iconcaptain105" battle="1005" integral="1796" elimination="600"  />
+    <ItemSpec id="106" name="captain106" icon="iconcaptain106" battle="1006" integral="1795" elimination="600"  />
+    <ItemSpec id="107" name="captain107" icon="iconcaptain107" battle="1007" integral="1794" elimination="600"  />
+    <ItemSpec id="108" name="captain108" icon="iconcaptain108" battle="1008" integral="1793" elimination="600"  />
+
+</tns:database>

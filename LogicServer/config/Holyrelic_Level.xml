@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" holyrelic="7101" level="1" cost="[[1,7101,1]]" power="1300" attr1="[[1,101,10],[1,102,10]]"  />
+    <ItemSpec id="102" holyrelic="7101" level="2" cost="[[1,7101,1]]" power="1600" attr1="[[1,101,20],[1,102,20]]"  />
+    <ItemSpec id="103" holyrelic="7101" level="3" power="1900" attr1="[[1,101,20],[1,102,21]]"  />
+    <ItemSpec id="201" holyrelic="7201" level="1" cost="[[1,7201,1]]" power="1000" attr1="[[101,101,10],[1,102,10]]"  />
+    <ItemSpec id="202" holyrelic="7201" level="2" cost="[[1,7201,2]]" power="1300" attr1="[[201,101,20],[1,102,20]]"  />
+    <ItemSpec id="203" holyrelic="7201" level="3" cost="[[1,7201,3]]" power="1301" attr1="[[1,101,20],[1,102,20]]" attr2="[[1,201,20]]"  />
+    <ItemSpec id="204" holyrelic="7201" level="4" cost="[[1,7201,4]]" power="1302" attr1="[[1,101,20],[1,102,21]]" attr2="[[1,201,21]]"  />
+    <ItemSpec id="205" holyrelic="7201" level="5" cost="[[1,7201,5]]" power="1303" attr1="[[1,101,20],[1,102,22]]" attr2="[[1,201,22]]"  />
+    <ItemSpec id="206" holyrelic="7201" level="6" cost="[[1,7201,6]]" power="1304" attr1="[[1,101,20],[1,102,23]]" attr2="[[1,201,23]]" attr3="[[1,301,23]]"  />
+    <ItemSpec id="207" holyrelic="7201" level="7" cost="[[1,7201,7]]" power="1305" attr1="[[1,101,20],[1,102,24]]" attr2="[[1,201,24]]" attr3="[[1,301,24]]"  />
+    <ItemSpec id="208" holyrelic="7201" level="8" cost="[[1,7201,8]]" power="1306" attr1="[[1,101,20],[1,102,25]]" attr2="[[1,201,25]]" attr3="[[1,301,25]]"  />
+    <ItemSpec id="209" holyrelic="7201" level="9" cost="[[1,7201,9]]" power="1307" attr1="[[1,101,20],[1,102,26]]" attr2="[[1,201,26]]" attr3="[[1,301,26]]"  />
+    <ItemSpec id="210" holyrelic="7201" level="10" power="1308" attr1="[[1,101,20],[1,102,27]]" attr2="[[1,201,27]]" attr3="[[1,301,27]]" attr4="[[1,401,27]]"  />
+    <ItemSpec id="301" holyrelic="7302" level="1" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,10]]"  />
+    <ItemSpec id="302" holyrelic="7302" level="2" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,11]]"  />
+    <ItemSpec id="303" holyrelic="7302" level="3" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,12]]"  />
+    <ItemSpec id="304" holyrelic="7302" level="4" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,13]]"  />
+    <ItemSpec id="305" holyrelic="7302" level="5" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,14]]"  />
+    <ItemSpec id="306" holyrelic="7302" level="6" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,15]]"  />
+    <ItemSpec id="307" holyrelic="7302" level="7" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,16]]"  />
+    <ItemSpec id="308" holyrelic="7302" level="8" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,17]]"  />
+    <ItemSpec id="309" holyrelic="7302" level="9" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,18]]"  />
+    <ItemSpec id="310" holyrelic="7302" level="10" cost="[[1,7201,1]]" power="6000" attr1="[[1,101,10],[1,102,19]]"  />
+
+</tns:database>

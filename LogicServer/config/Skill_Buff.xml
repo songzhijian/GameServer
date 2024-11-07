@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec buffId="1" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,1,3,10],[200,2,3,10],[200,3,3,10],[200,4,3,10],[200,11,1,10],[200,12,1,10],[200,13,1,10],[200,14,3,10],[200,15,3,10],[200,16,1,10],[200,17,1,10],[200,21,1,10],[200,22,1,10],[200,23,3,10],[200,24,3,10],[200,25,1,10],[200,26,1,10],[200,27,1,10],[200,28,1,10],[200,29,1,10],[200,30,3,10],[200,31,3,10],[200,32,1,10],[200,33,1,10],[200,34,1,10]]"  />
+    <ItemSpec buffId="2" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,1,2,10],[200,2,2,10],[200,3,2,10],[200,4,2,10],[200,14,2,10],[200,15,2,10],[200,23,2,10],[200,24,2,10],[200,30,2,10],[200,31,2,10]]"  />
+    <ItemSpec buffId="3" timeType="1" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="4" timeType="1" eff="[[2,100,100,0,0,0]]"  />
+    <ItemSpec buffId="5" timeType="2" type="2" label="1" p="1" time="[1,999000]" overlayType="1" eff="[[101,100]]"  />
+    <ItemSpec buffId="6" timeType="2" type="2" label="1" p="1" time="[1,999000]" overlayType="1" eff="[[104,10]]"  />
+    <ItemSpec buffId="7" timeType="2" type="2" label="1" p="1" time="[1,999000]" overlayType="1" eff="[[105,10]]"  />
+    <ItemSpec buffId="11" timeType="2" type="2" label="2" p="1" time="[1,2000]" overlayType="1" eff="[[115]]"  />
+    <ItemSpec buffId="21" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[106]]" icon="skillicon_3403" description="29501"  />
+    <ItemSpec buffId="22" timeType="2" type="2" label="3" p="1" time="[1,500]" overlayType="4" eff="[[21,2]]"  />
+    <ItemSpec buffId="23" timeType="2" type="2" label="3" p="1" time="[1,1000]" overlayType="4" eff="[[22,3]]"  />
+    <ItemSpec buffId="24" timeType="2" type="2" label="2" p="1" time="[1,6000]" overlayType="1" eff="[[108]]"  />
+    <ItemSpec buffId="101" timeType="2" type="2" label="2" p="1" time="[1,15000]" overlayType="3" maxLayer="3" transform="11" eff="[[200,16,1,-5]]"  />
+    <ItemSpec buffId="300" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[300]]"  />
+    <ItemSpec buffId="1012" timeType="1" label="3" unstoppable="0" p="1" addPower="24" eff="[[1,1.5,1,0,0]]"  />
+    <ItemSpec buffId="10121" timeType="1" label="3" unstoppable="0" p="1" eff="[[1,3,1,0,0]]"  />
+    <ItemSpec buffId="1022" timeType="1" label="3" unstoppable="0" p="1" eff="[[1,2,1,0,0]]" cited="[102]"  />
+    <ItemSpec buffId="10221" timeType="1" label="3" unstoppable="0" p="1" eff="[[1,4,1,0,0]]" cited="[102]"  />
+    <ItemSpec buffId="1032" timeType="1" label="3" unstoppable="0" p="1" eff="[[1,3,1,0,0]]"  />
+    <ItemSpec buffId="10321" timeType="1" label="3" unstoppable="0" p="1" eff="[[1,6,1,0,0]]"  />
+    <ItemSpec buffId="101011" timeType="1" label="2" unstoppable="0" p="1" eff="[[1,1,1,0,0]]"  />
+    <ItemSpec buffId="101021" timeType="2" type="2" label="1" unstoppable="0" p="1" time="[1,10]" overlayType="1" eff="[[200,902,3,20]]"  />
+    <ItemSpec buffId="10102011" timeType="2" type="2" label="1" unstoppable="0" p="1" time="[1,10]" overlayType="1" eff="[[200,902,3,30]]"  />
+    <ItemSpec buffId="101031" timeType="1" label="2" unstoppable="0" p="1" eff="[[1,5,1,0,0],[21,1]]"  />
+    <ItemSpec buffId="205012" timeType="1" label="2" unstoppable="0" p="1" eff="[[1,1,1,0,0]]"  />
+    <ItemSpec buffId="205022" timeType="1" label="2" unstoppable="0" p="1" eff="[[1,3,1,0,0]]"  />
+    <ItemSpec buffId="2050221" timeType="2" type="2" label="2" unstoppable="0" p="0.5" time="[1,2]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="205032" timeType="1" label="2" unstoppable="0" p="1" eff="[[1,2,1,0,0]]"  />
+    <ItemSpec buffId="101303" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[4]" overlayType="1" eff="[[200,23,2,15],[200,24,2,15]]"  />
+    <ItemSpec buffId="101313" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[4]" overlayType="1" eff="[[200,23,2,20],[200,24,2,20]]"  />
+    <ItemSpec buffId="102503" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,23,2,15],[200,24,2,15]]"  />
+    <ItemSpec buffId="102513" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,23,2,20],[200,24,2,20]]"  />
+    <ItemSpec buffId="1000001" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,-5]]"  />
+    <ItemSpec buffId="1000002" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,16,1,-5]]"  />
+    <ItemSpec buffId="1000003" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,16,1,5]]"  />
+    <ItemSpec buffId="1000004" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,22,1,100]]"  />
+    <ItemSpec buffId="1000005" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,2000]" overlayType="1" eff="[[114]]"  />
+    <ItemSpec buffId="1303" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,15,2,10]]"  />
+    <ItemSpec buffId="1313" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,15,2,15]]"  />
+    <ItemSpec buffId="1403" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,12,1,20]]"  />
+    <ItemSpec buffId="1413" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,12,1,30]]"  />
+    <ItemSpec buffId="1503" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,10]]"  />
+    <ItemSpec buffId="1513" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,15]]"  />
+    <ItemSpec buffId="2303" timeType="1" eff="[[3,50]]"  />
+    <ItemSpec buffId="2313" timeType="1" eff="[[3,60]]"  />
+    <ItemSpec buffId="2403" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,13,1,70]]"  />
+    <ItemSpec buffId="2413" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,13,1,110]]"  />
+    <ItemSpec buffId="2503" timeType="1" eff="[[14,10,100,0,0]]"  />
+    <ItemSpec buffId="2503de1" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="3" maxLayer="4" eff="[[200,2,2,25]]"  />
+    <ItemSpec buffId="2513" timeType="1" eff="[[14,15,100,0,0]]"  />
+    <ItemSpec buffId="2513de1" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="3" maxLayer="4" eff="[[200,2,2,30]]"  />
+    <ItemSpec buffId="3303" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,30]]"  />
+    <ItemSpec buffId="3313" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,40]]"  />
+    <ItemSpec buffId="3403" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,23,2,15]]"  />
+    <ItemSpec buffId="3413" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,23,2,20]]"  />
+    <ItemSpec buffId="3503" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,10]]"  />
+    <ItemSpec buffId="3513" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,15]]"  />
+    <ItemSpec buffId="4303" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,17,1,10]]"  />
+    <ItemSpec buffId="4313" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,17,1,15]]"  />
+    <ItemSpec buffId="4403" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,21,1,50]]"  />
+    <ItemSpec buffId="4413" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,21,1,60]]"  />
+    <ItemSpec buffId="4503" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,10]]"  />
+    <ItemSpec buffId="4513" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,15]]"  />
+    <ItemSpec buffId="10103" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,30,2,5]]"  />
+    <ItemSpec buffId="10113" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,30,2,6]]"  />
+    <ItemSpec buffId="10123" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,30,2,7]]"  />
+    <ItemSpec buffId="10104" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,3],[200,3,2,3],[200,4,2,3]]"  />
+    <ItemSpec buffId="10114" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,4],[200,3,2,4],[200,4,2,4]]"  />
+    <ItemSpec buffId="10124" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,5],[200,3,2,5],[200,4,2,5]]"  />
+    <ItemSpec buffId="10203" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,50]]"  />
+    <ItemSpec buffId="10213" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,60]]"  />
+    <ItemSpec buffId="10223" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,70]]"  />
+    <ItemSpec buffId="10204" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,-5]]"  />
+    <ItemSpec buffId="10214" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,-7]]"  />
+    <ItemSpec buffId="10224" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,-10]]"  />
+    <ItemSpec buffId="10403" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,25,1,15]]"  />
+    <ItemSpec buffId="10413" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,25,1,20]]"  />
+    <ItemSpec buffId="10423" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,25,1,25]]"  />
+    <ItemSpec buffId="10404" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,5]]"  />
+    <ItemSpec buffId="10414" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,6]]"  />
+    <ItemSpec buffId="10424" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,7]]"  />
+    <ItemSpec buffId="10503" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,10]]"  />
+    <ItemSpec buffId="10513" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,15]]"  />
+    <ItemSpec buffId="10523" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,20]]"  />
+    <ItemSpec buffId="10504" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,5]]"  />
+    <ItemSpec buffId="10514" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,7]]"  />
+    <ItemSpec buffId="10524" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,10]]"  />
+    <ItemSpec buffId="20103" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,14,2,5],[200,15,2,5]]"  />
+    <ItemSpec buffId="20113" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,14,2,7],[200,15,2,7]]"  />
+    <ItemSpec buffId="20123" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,14,2,10],[200,15,2,10]]"  />
+    <ItemSpec buffId="20104" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,5]]"  />
+    <ItemSpec buffId="20114" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,7]]"  />
+    <ItemSpec buffId="20124" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,10]]"  />
+    <ItemSpec buffId="20403" timeType="1" eff="[[3,50]]"  />
+    <ItemSpec buffId="20413" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,24,2,5]]"  />
+    <ItemSpec buffId="20423" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,24,2,5],[200,14,2,5],[200,15,2,5]]"  />
+    <ItemSpec buffId="20404" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,15,2,-5]]"  />
+    <ItemSpec buffId="20414" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,15,2,-7]]"  />
+    <ItemSpec buffId="20424" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,15,2,-10]]"  />
+    <ItemSpec buffId="20503" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="20503de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,15000]" overlayType="3" maxLayer="3" eff="[[200,16,1,-1]]"  />
+    <ItemSpec buffId="20503de3" timeType="2" type="2" label="2" p="1" time="[1,15000]" overlayType="1"  />
+    <ItemSpec buffId="20513" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="20513de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,15000]" overlayType="3" maxLayer="3" eff="[[200,16,1,-3]]"  />
+    <ItemSpec buffId="20523" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="20523de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,15000]" overlayType="3" maxLayer="3" eff="[[200,16,1,-5]]"  />
+    <ItemSpec buffId="20504" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,6]]"  />
+    <ItemSpec buffId="20514" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,9]]"  />
+    <ItemSpec buffId="20524" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,12]]"  />
+    <ItemSpec buffId="20603" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="20613" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="20623" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="20604" timeType="1" eff="[[3,200]]"  />
+    <ItemSpec buffId="20614" timeType="1" eff="[[3,250]]"  />
+    <ItemSpec buffId="20624" timeType="1" eff="[[3,300]]"  />
+    <ItemSpec buffId="30103" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,40],[200,15,2,40]]"  />
+    <ItemSpec buffId="30113" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,50],[200,15,2,50]]"  />
+    <ItemSpec buffId="30123" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,60],[200,15,2,60]]"  />
+    <ItemSpec buffId="30104" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,5]]"  />
+    <ItemSpec buffId="30114" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,6]]"  />
+    <ItemSpec buffId="30124" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,7]]"  />
+    <ItemSpec buffId="30203" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,50]]"  />
+    <ItemSpec buffId="30213" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,60]]"  />
+    <ItemSpec buffId="30223" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,70]]"  />
+    <ItemSpec buffId="30204" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,5]]"  />
+    <ItemSpec buffId="30214" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,8]]"  />
+    <ItemSpec buffId="30224" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,10]]"  />
+    <ItemSpec buffId="30403" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,5]]"  />
+    <ItemSpec buffId="30413" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,7]]"  />
+    <ItemSpec buffId="30423" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,10]]"  />
+    <ItemSpec buffId="30404" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="3" maxLayer="10" eff="[[200,25,1,1]]"  />
+    <ItemSpec buffId="30414" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="3" maxLayer="20" eff="[[200,25,1,1]]"  />
+    <ItemSpec buffId="30424" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="3" maxLayer="30" eff="[[200,25,1,1]]"  />
+    <ItemSpec buffId="30503" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,31,2,15]]"  />
+    <ItemSpec buffId="30513" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,31,2,20]]"  />
+    <ItemSpec buffId="30523" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,31,2,25]]"  />
+    <ItemSpec buffId="30504" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,16,1,20]]"  />
+    <ItemSpec buffId="30514" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,16,1,25]]"  />
+    <ItemSpec buffId="30524" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,16,1,30]]"  />
+    <ItemSpec buffId="40103" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,4000]" overlayType="4" eff="[[114]]"  />
+    <ItemSpec buffId="40113" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,6000]" overlayType="4" eff="[[114]]"  />
+    <ItemSpec buffId="40123" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,8000]" overlayType="4" eff="[[114]]"  />
+    <ItemSpec buffId="40104" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,-5]]"  />
+    <ItemSpec buffId="40114" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,-7]]"  />
+    <ItemSpec buffId="40124" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,-10]]"  />
+    <ItemSpec buffId="40303" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,16,1,10]]"  />
+    <ItemSpec buffId="40313" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,16,1,15]]"  />
+    <ItemSpec buffId="40323" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,16,1,20]]"  />
+    <ItemSpec buffId="40304" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,5]]"  />
+    <ItemSpec buffId="40314" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,7]]"  />
+    <ItemSpec buffId="40324" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,10]]"  />
+    <ItemSpec buffId="40403" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="40413" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="40423" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1"  />
+    <ItemSpec buffId="40404" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,5]]"  />
+    <ItemSpec buffId="40414" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,7]]"  />
+    <ItemSpec buffId="40424" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,10]]"  />
+    <ItemSpec buffId="40603" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="4" eff="[[122,40603,1,1]]"  />
+    <ItemSpec buffId="40613" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="4" eff="[[122,40613,1,1]]"  />
+    <ItemSpec buffId="40623" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="4" eff="[[122,40623,1,1]]"  />
+    <ItemSpec buffId="test_summon" timeType="2" label="3" unstoppable="1" p="1" time="[1,8000]" overlayType="4" eff="[[122,10001,1,1]]"  />
+    <ItemSpec buffId="40604" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,23,1,3]]"  />
+    <ItemSpec buffId="40614" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,23,1,5]]"  />
+    <ItemSpec buffId="40624" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,23,1,7]]"  />
+    <ItemSpec buffId="50103" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,31,2,15]]"  />
+    <ItemSpec buffId="50113" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,31,2,20]]"  />
+    <ItemSpec buffId="50123" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,31,2,25]]"  />
+    <ItemSpec buffId="50106" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,30,2,6]]"  />
+    <ItemSpec buffId="50116" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,30,2,8]]"  />
+    <ItemSpec buffId="50126" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,30,2,10]]"  />
+    <ItemSpec buffId="50104" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[200,2,2,10]]"  />
+    <ItemSpec buffId="50114" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[200,2,2,12]]"  />
+    <ItemSpec buffId="50124" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[200,2,2,15]]"  />
+    <ItemSpec buffId="60103" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,25,1,10]]"  />
+    <ItemSpec buffId="60113" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,25,1,12]]"  />
+    <ItemSpec buffId="60123" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,25,1,15]]"  />
+    <ItemSpec buffId="60106" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[2,1]" overlayType="1"  />
+    <ItemSpec buffId="60106de2" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[2,1]" overlayType="1"  />
+    <ItemSpec buffId="60116" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[2,1]" overlayType="1"  />
+    <ItemSpec buffId="60126" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[2,1]" overlayType="1"  />
+    <ItemSpec buffId="60104" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,-5]]"  />
+    <ItemSpec buffId="60114" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,-6]]"  />
+    <ItemSpec buffId="60124" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,-7]]"  />
+    <ItemSpec buffId="8001001" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,10]]"  />
+    <ItemSpec buffId="8001002" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,20]]"  />
+    <ItemSpec buffId="8001003" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,24,2,30]]"  />
+    <ItemSpec buffId="8001011" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,10]]"  />
+    <ItemSpec buffId="8001012" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,20]]"  />
+    <ItemSpec buffId="8001013" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,30]]"  />
+    <ItemSpec buffId="8001021" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,23,2,10]]"  />
+    <ItemSpec buffId="8001022" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,23,2,20]]"  />
+    <ItemSpec buffId="8001023" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,23,2,30]]"  />
+    <ItemSpec buffId="8002001" timeType="1" eff="[[3,60]]"  />
+    <ItemSpec buffId="8002002" timeType="1" eff="[[3,90]]"  />
+    <ItemSpec buffId="8002003" timeType="1" eff="[[3,120]]"  />
+    <ItemSpec buffId="8002011" timeType="1" eff="[[3,200]]"  />
+    <ItemSpec buffId="8002012" timeType="1" eff="[[3,250]]"  />
+    <ItemSpec buffId="8002013" timeType="1" eff="[[3,300]]"  />
+    <ItemSpec buffId="8002021" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,6000]" overlayType="1" eff="[[200,16,1,5]]"  />
+    <ItemSpec buffId="8002022" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,16,1,5]]"  />
+    <ItemSpec buffId="8002023" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,16,1,5]]"  />
+    <ItemSpec buffId="8002031" timeType="1" eff="[[15,8,100,0,0]]"  />
+    <ItemSpec buffId="8002032" timeType="1" eff="[[15,12,100,0,0]]"  />
+    <ItemSpec buffId="8002033" timeType="1" eff="[[15,16,100,0,0]]"  />
+    <ItemSpec buffId="8003001" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,4]]"  />
+    <ItemSpec buffId="8003002" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,6]]"  />
+    <ItemSpec buffId="8003003" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,10]]"  />
+    <ItemSpec buffId="8003011" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,4]]"  />
+    <ItemSpec buffId="8003012" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,6]]"  />
+    <ItemSpec buffId="8003013" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,10]]"  />
+    <ItemSpec buffId="8003021" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,3]]"  />
+    <ItemSpec buffId="8003022" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,5]]"  />
+    <ItemSpec buffId="8003023" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,8]]"  />
+    <ItemSpec buffId="8003031" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,17,1,3]]"  />
+    <ItemSpec buffId="8003032" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,17,1,5]]"  />
+    <ItemSpec buffId="8003033" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,17,1,8]]"  />
+    <ItemSpec buffId="8003041" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,10],[200,11,1,5]]"  />
+    <ItemSpec buffId="8003042" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,15],[200,11,1,10]]"  />
+    <ItemSpec buffId="8003043" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,20],[200,11,1,15]]"  />
+    <ItemSpec buffId="8003051" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,26,1,10]]"  />
+    <ItemSpec buffId="8003052" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,26,1,20]]"  />
+    <ItemSpec buffId="8003053" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,26,1,30]]"  />
+    <ItemSpec buffId="8003061" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,5]]"  />
+    <ItemSpec buffId="8003062" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,10]]"  />
+    <ItemSpec buffId="8003063" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,20]]"  />
+    <ItemSpec buffId="8003071" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,10],[200,17,1,15]]"  />
+    <ItemSpec buffId="8003072" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,20],[200,17,1,20]]"  />
+    <ItemSpec buffId="8003073" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,30],[200,17,1,30]]"  />
+    <ItemSpec buffId="8004001" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,5],[200,29,1,10]]"  />
+    <ItemSpec buffId="8004002" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,10],[200,29,1,15]]"  />
+    <ItemSpec buffId="8004003" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,20],[200,29,1,30]]"  />
+    <ItemSpec buffId="8004011" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,5],[200,11,1,10]]"  />
+    <ItemSpec buffId="8004012" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,10],[200,11,1,15]]"  />
+    <ItemSpec buffId="8004013" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,20],[200,11,1,30]]"  />
+    <ItemSpec buffId="8001031" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,5],[200,14,2,5]]"  />
+    <ItemSpec buffId="8001032" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,10],[200,14,2,10]]"  />
+    <ItemSpec buffId="8001033" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,14,2,15],[200,14,2,15]]"  />
+    <ItemSpec buffId="8005001" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,10]]"  />
+    <ItemSpec buffId="8005002" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,15]]"  />
+    <ItemSpec buffId="8005003" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,11,1,20]]"  />
+    <ItemSpec buffId="8005011" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,40]]"  />
+    <ItemSpec buffId="8005012" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,50]]"  />
+    <ItemSpec buffId="8005013" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,60]]"  />
+    <ItemSpec buffId="8005021" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,17,1,10]]"  />
+    <ItemSpec buffId="8005022" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,17,1,15]]"  />
+    <ItemSpec buffId="8005023" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,17,1,20]]"  />
+    <ItemSpec buffId="8005031" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,10]]"  />
+    <ItemSpec buffId="8005032" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,15]]"  />
+    <ItemSpec buffId="8005033" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,13,1,20]]"  />
+    <ItemSpec buffId="8005041" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,3]]"  />
+    <ItemSpec buffId="8005042" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,4]]"  />
+    <ItemSpec buffId="8005043" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,5]]"  />
+    <ItemSpec buffId="8005051" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,3]]"  />
+    <ItemSpec buffId="8005052" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,4]]"  />
+    <ItemSpec buffId="8005053" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,5]]"  />
+    <ItemSpec buffId="8005061" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,32,1,40]]"  />
+    <ItemSpec buffId="8005062" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,32,1,60]]"  />
+    <ItemSpec buffId="8005063" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,32,1,100]]"  />
+    <ItemSpec buffId="1105" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="1101" timeType="1" addPower="32" eff="[[1,300,16,0,0]]"  />
+    <ItemSpec buffId="1101de2" timeType="1" addPower="72" eff="[[1,300,36,0,0]]"  />
+    <ItemSpec buffId="1102" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,1000]" overlayType="4" eff="[[200,14,2,30],[200,15,2,30]]"  />
+    <ItemSpec buffId="1205" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="1201" timeType="1" addPower="50" eff="[[1,600,25,0,0]]"  />
+    <ItemSpec buffId="1201de2" timeType="1" addPower="100" eff="[[1,600,50,0,0]]"  />
+    <ItemSpec buffId="1202" timeType="1" addPower="100" eff="[[1,200,100,0,0]]"  />
+    <ItemSpec buffId="1202de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,14,2,-20],[200,15,2,-20]]"  />
+    <ItemSpec buffId="2105" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="2101" timeType="1" addPower="200" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="2102" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,14,2,25],[200,15,2,25]]"  />
+    <ItemSpec buffId="2205" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="2201" timeType="1" addPower="100" eff="[[1,450,50,0,0]]"  />
+    <ItemSpec buffId="2202" timeType="1" addPower="100" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="3105" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="3101" timeType="1" addPower="120" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="3102de11" timeType="2" type="2" label="3" p="1" time="[1,3000]" overlayType="1" eff="[[200,14,2,50],[200,15,2,50]]"  />
+    <ItemSpec buffId="3102" timeType="2" type="2" label="3" p="1" time="[1,3500]" overlayType="1" eff="[[121]]"  />
+    <ItemSpec buffId="3102de21" timeType="1" addPower="100" eff="[[1,165,100,9,3102]]"  />
+    <ItemSpec buffId="3205" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="3201" timeType="1" addPower="100" eff="[[1,450,100,0,0]]"  />
+    <ItemSpec buffId="3202" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[104,40]]"  />
+    <ItemSpec buffId="4105" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="4101" timeType="1" addPower="80" eff="[[1,500,40,0,0]]"  />
+    <ItemSpec buffId="4101de2" timeType="1" addPower="120" eff="[[1,500,60,0,0]]"  />
+    <ItemSpec buffId="4102" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,2,2,-20]]"  />
+    <ItemSpec buffId="4205" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="4201" timeType="1" addPower="67" eff="[[1,450,33,0,0]]"  />
+    <ItemSpec buffId="4201de2" timeType="2" type="2" label="2" p="1" time="[1,2000]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="4202" timeType="1" addPower="100" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="4202de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,6000]" overlayType="1" eff="[[200,14,2,-20],[200,15,2,-20]]"  />
+    <ItemSpec buffId="6105" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="6101" timeType="1" addPower="67" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="6102" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,1000]" overlayType="1" eff="[[200,14,2,30],[200,15,2,30]]"  />
+    <ItemSpec buffId="6205" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="6201" timeType="1" addPower="34" eff="[[11,10,100,0,0]]"  />
+    <ItemSpec buffId="6201de2" timeType="1" addPower="34" eff="[[1,120,100,0,0]]"  />
+    <ItemSpec buffId="6202" timeType="1" addPower="67" eff="[[1,200,100,0,0]]"  />
+    <ItemSpec buffId="6202de2" timeType="2" type="2" label="2" p="1" time="[1,2000]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="6202de3" timeType="2" type="2" label="2" p="1" time="[1,4000]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="6305" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="6301" timeType="1" addPower="67" eff="[[1,240,100,4,0]]"  />
+    <ItemSpec buffId="6302" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,23,2,-15],[200,24,2,-15],[200,14,2,-15],[200,15,2,-15]]"  />
+    <ItemSpec buffId="6405" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="6401" timeType="1" addPower="67" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="6402" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,1000]" overlayType="1" eff="[[200,14,2,30],[200,15,2,30]]"  />
+    <ItemSpec buffId="1305" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="1301" timeType="1" addPower="100" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="1311" timeType="1" addPower="100" eff="[[1,330,100,0,0]]"  />
+    <ItemSpec buffId="1311de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,3000]" overlayType="1" eff="[[200,14,2,25],[200,15,2,25]]"  />
+    <ItemSpec buffId="1321" timeType="1" addPower="100" eff="[[1,360,100,0,0]]"  />
+    <ItemSpec buffId="1331" timeType="1" addPower="100" eff="[[1,400,100,0,0]]"  />
+    <ItemSpec buffId="1302" timeType="1" addPower="200" eff="[[1,150,100,0,0]]"  />
+    <ItemSpec buffId="1302de2" timeType="2" type="2" label="3" p="1" time="[1,500]" overlayType="4" eff="[[21,2]]"  />
+    <ItemSpec buffId="1312" timeType="1" addPower="200" eff="[[1,165,100,0,0]]"  />
+    <ItemSpec buffId="1322" timeType="1" addPower="200" eff="[[1,180,100,0,0]]"  />
+    <ItemSpec buffId="1302de3" timeType="2" type="2" label="2" p="1" time="[1,2000]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="1332" timeType="1" addPower="100" eff="[[1,200,100,0,0]]"  />
+    <ItemSpec buffId="1405" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="1401" timeType="1" addPower="200" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="1401de2" timeType="1" addPower="200" eff="[[1,500,200,0,0]]"  />
+    <ItemSpec buffId="1411" timeType="1" addPower="200" eff="[[1,550,100,0,0]]"  />
+    <ItemSpec buffId="1411de2" timeType="1" addPower="200" eff="[[1,550,200,0,0]]"  />
+    <ItemSpec buffId="1421" timeType="1" addPower="200" eff="[[1,600,100,0,0]]"  />
+    <ItemSpec buffId="1421de2" timeType="1" addPower="200" eff="[[1,600,200,0,0]]"  />
+    <ItemSpec buffId="1431" timeType="1" addPower="200" eff="[[1,650,100,0,0]]"  />
+    <ItemSpec buffId="1431de2" timeType="1" addPower="200" eff="[[1,650,200,0,0]]"  />
+    <ItemSpec buffId="1402" timeType="1" addPower="33" eff="[[1,250,33,0,0]]"  />
+    <ItemSpec buffId="1412" timeType="1" addPower="33" eff="[[1,275,33,0,0]]"  />
+    <ItemSpec buffId="1422" timeType="1" addPower="33" eff="[[1,300,33,0,0]]"  />
+    <ItemSpec buffId="1505" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="1501" timeType="1" addPower="67" eff="[[1,500,33,0,0]]"  />
+    <ItemSpec buffId="1511" timeType="1" addPower="67" eff="[[1,550,33,0,0]]"  />
+    <ItemSpec buffId="1521" timeType="1" addPower="67" eff="[[1,600,33,0,0]]"  />
+    <ItemSpec buffId="1531" timeType="1" addPower="67" eff="[[1,650,33,0,0]]"  />
+    <ItemSpec buffId="1502" timeType="1" addPower="100" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="1502de2" timeType="2" type="2" label="2" p="1" time="[1,2000]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="1512" timeType="1" addPower="100" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="1522" timeType="1" addPower="100" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="2305" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="2301" timeType="1" addPower="50" eff="[[1,500,25,0,0]]"  />
+    <ItemSpec buffId="2301de2" timeType="1" addPower="100" eff="[[1,500,50,0,0]]"  />
+    <ItemSpec buffId="2311" timeType="1" addPower="50" eff="[[1,550,25,0,0]]"  />
+    <ItemSpec buffId="2311de2" timeType="1" addPower="100" eff="[[1,550,50,0,0]]"  />
+    <ItemSpec buffId="2321" timeType="1" addPower="50" eff="[[1,600,25,0,0]]"  />
+    <ItemSpec buffId="2321de2" timeType="1" addPower="100" eff="[[1,600,50,0,0]]"  />
+    <ItemSpec buffId="2331" timeType="1" addPower="50" eff="[[1,650,25,0,0]]"  />
+    <ItemSpec buffId="2331de2" timeType="1" addPower="100" eff="[[1,650,50,0,0]]"  />
+    <ItemSpec buffId="2302" timeType="1" addPower="100" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="2312" timeType="1" addPower="100" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="2322" timeType="1" addPower="100" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="2405" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="2401" timeType="1" addPower="50" eff="[[1,500,25,0,0]]"  />
+    <ItemSpec buffId="2401de2" timeType="1" addPower="100" eff="[[1,500,50,0,0]]"  />
+    <ItemSpec buffId="2411" timeType="1" addPower="50" eff="[[1,550,25,0,0]]"  />
+    <ItemSpec buffId="2411de2" timeType="1" addPower="100" eff="[[1,550,50,0,0]]"  />
+    <ItemSpec buffId="2421" timeType="1" addPower="50" eff="[[1,600,25,0,0]]"  />
+    <ItemSpec buffId="2421de2" timeType="1" addPower="100" eff="[[1,600,50,0,0]]"  />
+    <ItemSpec buffId="2431" timeType="1" addPower="50" eff="[[1,650,25,0,0]]"  />
+    <ItemSpec buffId="2431de2" timeType="1" addPower="100" eff="[[1,650,50,0,0]]"  />
+    <ItemSpec buffId="2402" timeType="2" type="2" label="3" unstoppable="1" p="1" addPower="100" time="[1,100]" overlayType="4" eff="[[24,100,1]]"  />
+    <ItemSpec buffId="2402de1" timeType="1" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="2402de11" timeType="2" type="2" label="2" p="1" time="[1,1000]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="2412" timeType="2" type="2" label="3" unstoppable="1" p="1" addPower="100" time="[1,100]" overlayType="4" eff="[[24,100,1]]"  />
+    <ItemSpec buffId="2412de1" timeType="1" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="2422" timeType="2" type="2" label="3" unstoppable="1" p="1" addPower="100" time="[1,100]" overlayType="4" eff="[[24,100,1]]"  />
+    <ItemSpec buffId="2422de1" timeType="1" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="2505" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="2501" timeType="1" addPower="60" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="2511" timeType="1" addPower="60" eff="[[1,330,100,0,0]]"  />
+    <ItemSpec buffId="2521" timeType="1" addPower="60" eff="[[1,360,100,0,0]]"  />
+    <ItemSpec buffId="2531" timeType="1" addPower="60" eff="[[1,390,100,0,0]]"  />
+    <ItemSpec buffId="2502" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,14,2,25],[200,15,2,25]]"  />
+    <ItemSpec buffId="2512" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,14,2,30],[200,15,2,30]]"  />
+    <ItemSpec buffId="2522" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[200,23,2,25],[200,24,2,25],[200,14,2,30],[200,15,2,30]]"  />
+    <ItemSpec buffId="3305" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="3301" timeType="2" type="2" label="1" unstoppable="1" p="1" addPower="100" time="[1,10000]" overlayType="1" eff="[[200,2,2,20],[200,14,2,30]]"  />
+    <ItemSpec buffId="3311" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[101,300]]"  />
+    <ItemSpec buffId="3321" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[101,330]]"  />
+    <ItemSpec buffId="3331" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[101,360]]"  />
+    <ItemSpec buffId="3302" timeType="1" addPower="50" eff="[[1,250,50,0,0]]"  />
+    <ItemSpec buffId="3312" timeType="1" addPower="50" eff="[[1,275,50,0,0]]"  />
+    <ItemSpec buffId="3322" timeType="1" addPower="50" eff="[[1,300,50,0,0]]"  />
+    <ItemSpec buffId="3405" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="3401" timeType="1" addPower="50" eff="[[1,500,50,0,0]]"  />
+    <ItemSpec buffId="3401de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,2,2,-10]]"  />
+    <ItemSpec buffId="3401de3" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,3,2,-10]]"  />
+    <ItemSpec buffId="3411" timeType="1" addPower="50" eff="[[1,550,50,0,0]]"  />
+    <ItemSpec buffId="3421" timeType="1" addPower="50" eff="[[1,600,50,0,0]]"  />
+    <ItemSpec buffId="3431" timeType="1" addPower="50" eff="[[1,650,50,0,0]]"  />
+    <ItemSpec buffId="3402" timeType="1" addPower="100" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="3412" timeType="1" addPower="100" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="3422" timeType="1" addPower="100" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="3505" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="3501" timeType="1" addPower="60" eff="[[1,500,25,0,0]]"  />
+    <ItemSpec buffId="3511" timeType="1" addPower="60" eff="[[1,550,25,0,0]]"  />
+    <ItemSpec buffId="3521" timeType="1" addPower="60" eff="[[1,600,25,0,0]]"  />
+    <ItemSpec buffId="3531" timeType="1" addPower="60" eff="[[1,650,25,0,0]]"  />
+    <ItemSpec buffId="3502" timeType="1" addPower="60" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="3502de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[200,12,1,-20]]"  />
+    <ItemSpec buffId="3512" timeType="1" addPower="60" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="3522" timeType="1" addPower="60" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="4305" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="4301" timeType="1" addPower="200" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="4301de2" timeType="2" type="2" label="2" p="1" time="[1,3000]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="4311" timeType="1" addPower="200" eff="[[1,550,100,0,0]]"  />
+    <ItemSpec buffId="4321" timeType="1" addPower="200" eff="[[1,600,100,0,0]]"  />
+    <ItemSpec buffId="4331" timeType="1" addPower="200" eff="[[1,650,100,0,0]]"  />
+    <ItemSpec buffId="4302" timeType="1" addPower="50" eff="[[1,250,50,0,0]]"  />
+    <ItemSpec buffId="4312" timeType="1" addPower="50" eff="[[1,275,50,0,0]]"  />
+    <ItemSpec buffId="4322" timeType="1" addPower="50" eff="[[1,300,50,0,0]]"  />
+    <ItemSpec buffId="4405" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="4401" timeType="1" addPower="50" eff="[[1,500,25,0,0]]"  />
+    <ItemSpec buffId="4401de2" timeType="1" addPower="100" eff="[[1,500,50,0,0]]"  />
+    <ItemSpec buffId="4411" timeType="1" addPower="50" eff="[[1,550,25,0,0]]"  />
+    <ItemSpec buffId="4411de2" timeType="1" addPower="100" eff="[[1,550,50,0,0]]"  />
+    <ItemSpec buffId="4421" timeType="1" addPower="50" eff="[[1,600,25,0,0]]"  />
+    <ItemSpec buffId="4421de2" timeType="1" addPower="100" eff="[[1,600,50,0,0]]"  />
+    <ItemSpec buffId="4431" timeType="1" addPower="50" eff="[[1,650,25,0,0]]"  />
+    <ItemSpec buffId="4431de2" timeType="1" addPower="100" eff="[[1,650,50,0,0]]"  />
+    <ItemSpec buffId="4402" timeType="1" addPower="100" eff="[[1,125,100,0,0]]"  />
+    <ItemSpec buffId="4402de1" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,100]" overlayType="4" eff="[[25,100,2]]"  />
+    <ItemSpec buffId="4402de2" timeType="2" type="2" label="2" p="1" time="[1,2000]" overlayType="1" eff="[[103]]"  />
+    <ItemSpec buffId="4412" timeType="1" addPower="100" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="4422" timeType="1" addPower="100" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="4422de4" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,5000]" overlayType="1" eff="[[101,300]]"  />
+    <ItemSpec buffId="4505" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="4501" timeType="1" addPower="60" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="4501de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,14,2,-20],[200,15,2,-20]]"  />
+    <ItemSpec buffId="4511" timeType="1" addPower="60" eff="[[1,550,100,0,0]]"  />
+    <ItemSpec buffId="4521" timeType="1" addPower="60" eff="[[1,600,100,0,0]]"  />
+    <ItemSpec buffId="4531" timeType="1" addPower="60" eff="[[1,650,100,0,0]]"  />
+    <ItemSpec buffId="4502" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,2,2,20]]"  />
+    <ItemSpec buffId="4512" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,2,2,22]]"  />
+    <ItemSpec buffId="4522" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,2,2,25]]"  />
+    <ItemSpec buffId="10105" timeType="1" addPower="40" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="10101de1" timeType="1" addPower="100" eff="[[1,225,100,0,0]]"  />
+    <ItemSpec buffId="10101de2" timeType="2" type="2" label="1" p="1" time="[1,500]" overlayType="4" eff="[[21,1]]"  />
+    <ItemSpec buffId="10111de1" timeType="1" addPower="100" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="10111de2" timeType="2" type="2" label="1" p="1" time="[1,500]" overlayType="4" eff="[[21,1]]"  />
+    <ItemSpec buffId="10121de1" timeType="1" addPower="100" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="10121de2" timeType="2" type="2" label="1" p="1" time="[1,500]" overlayType="4" eff="[[21,1]]"  />
+    <ItemSpec buffId="10131de1" timeType="1" addPower="100" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="10102de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,20]]"  />
+    <ItemSpec buffId="10102de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,20],[200,4,2,20]]"  />
+    <ItemSpec buffId="10112de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,25]]"  />
+    <ItemSpec buffId="10112de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,25],[200,4,2,25]]"  />
+    <ItemSpec buffId="10122de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,30]]"  />
+    <ItemSpec buffId="10122de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,30],[200,4,2,30]]"  />
+    <ItemSpec buffId="10132de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,35]]"  />
+    <ItemSpec buffId="10132de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,35],[200,4,2,35]]"  />
+    <ItemSpec buffId="10205de1" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="10201de1" timeType="1" addPower="67" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="10201de2" timeType="2" type="2" label="3" unstoppable="1" p="1" addPower="100" time="[1,100]" overlayType="4" eff="[[25,100,2,2]]"  />
+    <ItemSpec buffId="10211de1" timeType="1" addPower="67" eff="[[1,550,100,0,0]]"  />
+    <ItemSpec buffId="10221de1" timeType="1" addPower="67" eff="[[1,600,100,0,0]]"  />
+    <ItemSpec buffId="10231de1" timeType="1" addPower="67" eff="[[1,650,100,0,0]]"  />
+    <ItemSpec buffId="10202de1" timeType="1" addPower="67" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="10202de2" timeType="2" type="2" label="3" unstoppable="1" p="1" addPower="100" time="[1,100]" overlayType="4" eff="[[24,100,1]]"  />
+    <ItemSpec buffId="10202de3" timeType="2" type="2" label="1" p="1" time="[2,2]" overlayType="1" eff="[[200,11,1,20]]"  />
+    <ItemSpec buffId="10212de1" timeType="1" addPower="67" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="10222de1" timeType="1" addPower="67" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="10405" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="10401" timeType="1" addPower="60" eff="[[1,180,100,0,0]]"  />
+    <ItemSpec buffId="10411" timeType="1" addPower="60" eff="[[1,200,100,0,0]]"  />
+    <ItemSpec buffId="10421" timeType="1" addPower="60" eff="[[1,220,100,0,0]]"  />
+    <ItemSpec buffId="10431" timeType="1" addPower="60" eff="[[1,240,100,0,0]]"  />
+    <ItemSpec buffId="10402" timeType="1" addPower="67" eff="[[1,155,100,0,0]]"  />
+    <ItemSpec buffId="10402de2" timeType="2" type="2" label="2" p="1" time="[1,5000]" overlayType="4" eff="[[200,3,2,-15],[200,22,1,-12]]"  />
+    <ItemSpec buffId="10412" timeType="1" addPower="67" eff="[[1,170,100,0,0]]"  />
+    <ItemSpec buffId="10412de2" timeType="2" type="2" label="2" p="1" time="[1,5000]" overlayType="4" eff="[[200,3,2,-20],[200,22,1,-12]]"  />
+    <ItemSpec buffId="10422" timeType="1" addPower="67" eff="[[1,190,100,0,0]]"  />
+    <ItemSpec buffId="10422de2" timeType="2" type="2" label="2" p="1" time="[1,5000]" overlayType="4" eff="[[200,3,2,-20],[200,22,1,-15]]"  />
+    <ItemSpec buffId="10505" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="10501" timeType="1" addPower="67" eff="[[2,100,100,0,0]]"  />
+    <ItemSpec buffId="10511" timeType="1" addPower="67" eff="[[2,110,100,0,0]]"  />
+    <ItemSpec buffId="10521" timeType="1" addPower="67" eff="[[2,120,100,0,0]]"  />
+    <ItemSpec buffId="10521de2" timeType="1" addPower="67" eff="[[2,120,125,0,0]]"  />
+    <ItemSpec buffId="10531" timeType="1" addPower="67" eff="[[2,130,100,0,0]]"  />
+    <ItemSpec buffId="10531de2" timeType="1" addPower="67" eff="[[2,130,125,0,0]]"  />
+    <ItemSpec buffId="10502" timeType="1" addPower="67" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="10512" timeType="1" addPower="67" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="10522" timeType="1" addPower="67" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="20105" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="20101" timeType="1" addPower="67" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="20111" timeType="1" addPower="67" eff="[[1,550,100,0,0]]"  />
+    <ItemSpec buffId="20121" timeType="1" addPower="67" eff="[[1,600,100,0,0]]"  />
+    <ItemSpec buffId="20131" timeType="1" addPower="67" eff="[[1,650,100,0,0]]"  />
+    <ItemSpec buffId="20102" timeType="2" type="2" label="1" p="1" time="[1,8000]" overlayType="1" eff="[[101,150]]"  />
+    <ItemSpec buffId="20112" timeType="2" type="2" label="1" p="1" time="[1,8000]" overlayType="1" eff="[[101,170]]"  />
+    <ItemSpec buffId="20122" timeType="2" type="2" label="1" p="1" time="[1,8000]" overlayType="1" eff="[[101,200]]"  />
+    <ItemSpec buffId="20405de1" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="20401de1" timeType="1" addPower="67" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="20411de1" timeType="1" addPower="67" eff="[[1,550,100,0,0]]"  />
+    <ItemSpec buffId="20421de1" timeType="1" addPower="67" eff="[[1,600,100,0,0]]"  />
+    <ItemSpec buffId="20431de1" timeType="1" addPower="67" eff="[[1,650,100,0,0]]"  />
+    <ItemSpec buffId="20402de1" timeType="2" type="2" label="2" p="1" time="[1,6000]" overlayType="1" eff="[[107]]"  />
+    <ItemSpec buffId="20412de1" timeType="2" type="2" label="2" p="1" time="[1,6000]" overlayType="1" eff="[[107]]"  />
+    <ItemSpec buffId="20412de2" timeType="2" type="2" label="1" p="1" time="[1,6000]" overlayType="1" eff="[[200,28,1,10],[200,29,1,10]]"  />
+    <ItemSpec buffId="20422de1" timeType="2" type="2" label="2" p="1" time="[1,6000]" overlayType="1" eff="[[107]]"  />
+    <ItemSpec buffId="20422de2" timeType="2" type="2" label="1" p="1" time="[1,6000]" overlayType="1" eff="[[200,28,1,10],[200,29,1,10],[200,14,2,10],[200,15,2,10]]"  />
+    <ItemSpec buffId="20505" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="20501" timeType="1" addPower="67" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="20501de2" timeType="2" type="2" label="2" p="1" time="[1,5000]" overlayType="1" eff="[[115]]"  />
+    <ItemSpec buffId="20501de3" timeType="2" type="2" label="2" p="1" time="[1,5000]" overlayType="1" eff="[[115]]"  />
+    <ItemSpec buffId="20511" timeType="1" addPower="67" eff="[[1,330,100,0,0]]"  />
+    <ItemSpec buffId="20521" timeType="1" addPower="67" eff="[[1,360,100,0,0]]"  />
+    <ItemSpec buffId="20531" timeType="1" addPower="67" eff="[[1,390,100,0,0]]"  />
+    <ItemSpec buffId="20502" timeType="1" addPower="22" eff="[[1,300,33,0,0]]"  />
+    <ItemSpec buffId="20512" timeType="1" addPower="22" eff="[[1,320,33,0,0]]"  />
+    <ItemSpec buffId="20522" timeType="1" addPower="22" eff="[[1,340,33,0,0]]"  />
+    <ItemSpec buffId="20605" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="20605de2" timeType="1" addPower="34" eff="[[1,100,100,0,0]]" cited="[206]"  />
+    <ItemSpec buffId="20601" timeType="1" addPower="67" eff="[[1,500,10,0,0]]"  />
+    <ItemSpec buffId="20601de2" timeType="1" addPower="67" eff="[[1,500,10,0,0]]" cited="[206]"  />
+    <ItemSpec buffId="20611" timeType="1" addPower="67" eff="[[1,550,10,0,0]]"  />
+    <ItemSpec buffId="20611de2" timeType="1" addPower="67" eff="[[1,550,10,0,0]]" cited="[206]"  />
+    <ItemSpec buffId="20621" timeType="1" addPower="67" eff="[[1,600,10,0,0]]"  />
+    <ItemSpec buffId="20621de2" timeType="1" addPower="67" eff="[[1,600,10,0,0]]" cited="[206]"  />
+    <ItemSpec buffId="20631" timeType="1" addPower="67" eff="[[1,650,10,0,0]]"  />
+    <ItemSpec buffId="20631de2" timeType="1" addPower="67" eff="[[1,650,10,0,0]]" cited="[206]"  />
+    <ItemSpec buffId="20602" timeType="1" addPower="67" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="20602de2" timeType="1" addPower="67" eff="[[1,250,100,0,0]]" cited="[206]"  />
+    <ItemSpec buffId="20602de3" timeType="2" type="2" label="2" p="1" time="[1,8000]" overlayType="1" eff="[[108]]"  />
+    <ItemSpec buffId="20602de4" timeType="2" type="2" label="2" p="1" time="[1,8000]" overlayType="1" eff="[[108]]"  />
+    <ItemSpec buffId="20612" timeType="1" addPower="67" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="20612de2" timeType="1" addPower="67" eff="[[1,275,100,0,0]]" cited="[206]"  />
+    <ItemSpec buffId="20622" timeType="1" addPower="67" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="20622de2" timeType="1" addPower="67" eff="[[1,300,100,0,0]]" cited="[206]"  />
+    <ItemSpec buffId="30105de1" timeType="1" addPower="24" eff="[[1,60,100,0,0]]"  />
+    <ItemSpec buffId="30101de1" timeType="1" addPower="40" eff="[[1,225,33,0,0]]"  />
+    <ItemSpec buffId="30101de2" timeType="1" addPower="40" eff="[[1,225,33,0,0]]"  />
+    <ItemSpec buffId="30101de3" timeType="2" type="2" label="1" p="1" time="[1,500]" overlayType="4" eff="[[21,1]]"  />
+    <ItemSpec buffId="30111de1" timeType="1" addPower="40" eff="[[1,250,33,0,0]]"  />
+    <ItemSpec buffId="30111de2" timeType="1" addPower="40" eff="[[1,250,33,0,0]]"  />
+    <ItemSpec buffId="30121de1" timeType="1" addPower="40" eff="[[1,275,33,0,0]]"  />
+    <ItemSpec buffId="30121de2" timeType="1" addPower="40" eff="[[1,275,33,0,0]]"  />
+    <ItemSpec buffId="30131de1" timeType="1" addPower="40" eff="[[1,300,33,0,0]]"  />
+    <ItemSpec buffId="30131de2" timeType="1" addPower="40" eff="[[1,300,33,0,0]]"  />
+    <ItemSpec buffId="30102de1" timeType="2" type="2" label="1" p="1" time="[1,10000]" overlayType="1" eff="[[101,300]]"  />
+    <ItemSpec buffId="30112de1" timeType="2" type="2" label="1" p="1" time="[1,10000]" overlayType="1" eff="[[101,330]]"  />
+    <ItemSpec buffId="30122de1" timeType="2" type="2" label="1" p="1" time="[1,10000]" overlayType="1" eff="[[101,360]]"  />
+    <ItemSpec buffId="30122de2" timeType="2" type="2" label="1" p="1" time="[1,10000]" overlayType="1" eff="[[101,360]]"  />
+    <ItemSpec buffId="30205de1" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="30201de1" timeType="1" addPower="67" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="30211de1" timeType="1" addPower="67" eff="[[1,550,100,0,0]]"  />
+    <ItemSpec buffId="30221de1" timeType="1" addPower="67" eff="[[1,600,100,0,0]]"  />
+    <ItemSpec buffId="30231de1" timeType="1" addPower="67" eff="[[1,650,100,0,0]]"  />
+    <ItemSpec buffId="30202de1" timeType="1" addPower="67" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="30212de1" timeType="1" addPower="67" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="30222de1" timeType="1" addPower="67" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="30405" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="30401" timeType="1" addPower="67" eff="[[1,500,100,0,0]]"  />
+    <ItemSpec buffId="30411" timeType="1" addPower="67" eff="[[1,550,100,0,0]]"  />
+    <ItemSpec buffId="30421" timeType="1" addPower="67" eff="[[1,600,100,0,0]]"  />
+    <ItemSpec buffId="30431" timeType="1" addPower="67" eff="[[1,650,100,0,0]]"  />
+    <ItemSpec buffId="30402" timeType="1" addPower="67" eff="[[1,250,30,0,0]]"  />
+    <ItemSpec buffId="30402de2" timeType="2" type="2" label="3" p="1" time="[1,500]" overlayType="4" eff="[[21,1]]"  />
+    <ItemSpec buffId="30412" timeType="1" addPower="67" eff="[[1,275,30,0,0]]"  />
+    <ItemSpec buffId="30422" timeType="1" addPower="67" eff="[[1,300,30,0,0]]"  />
+    <ItemSpec buffId="30505de1" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="30501de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[104,40]]"  />
+    <ItemSpec buffId="30501de2" timeType="2" type="2" label="3" unstoppable="1" p="1" addPower="100" time="[1,500]" overlayType="4" eff="[[24,430,2]]"  />
+    <ItemSpec buffId="30501de3" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[113]]"  />
+    <ItemSpec buffId="30511de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[104,60]]"  />
+    <ItemSpec buffId="30521de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[104,80]]"  />
+    <ItemSpec buffId="30531de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,4000]" overlayType="1" eff="[[104,100]]"  />
+    <ItemSpec buffId="30502de1" timeType="1" addPower="67" eff="[[2,200,100,0,0,0]]"  />
+    <ItemSpec buffId="30512de1" timeType="1" addPower="67" eff="[[2,225,100,0,0,0]]"  />
+    <ItemSpec buffId="30522de1" timeType="1" addPower="67" eff="[[2,250,100,0,0,0]]"  />
+    <ItemSpec buffId="40105" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="40101" timeType="1" addPower="67" eff="[[1,500,15,0,0]]"  />
+    <ItemSpec buffId="40101de2" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,100]" overlayType="4" eff="[[24,100,2]]"  />
+    <ItemSpec buffId="40101de3" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,1000]" overlayType="1"  />
+    <ItemSpec buffId="40111" timeType="1" addPower="67" eff="[[1,550,15,0,0]]"  />
+    <ItemSpec buffId="40111de2" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,1000]" overlayType="1" eff="[[106]]"  />
+    <ItemSpec buffId="40121" timeType="1" addPower="67" eff="[[1,600,15,0,0]]"  />
+    <ItemSpec buffId="40131" timeType="1" addPower="67" eff="[[1,650,15,2,10]]"  />
+    <ItemSpec buffId="40102" timeType="1" addPower="67" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="40102de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,-10]]"  />
+    <ItemSpec buffId="40112" timeType="1" addPower="67" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="40122" timeType="1" addPower="67" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="40305de1" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="40301de1" timeType="1" addPower="34" eff="[[1,160,25,0,0]]"  />
+    <ItemSpec buffId="40301de2" timeType="1" addPower="11" eff="[[1,80,25,0,0]]"  />
+    <ItemSpec buffId="40311de1" timeType="1" addPower="34" eff="[[1,180,25,0,0]]"  />
+    <ItemSpec buffId="40311de2" timeType="1" addPower="11" eff="[[1,90,25,0,0]]"  />
+    <ItemSpec buffId="40321de1" timeType="1" addPower="34" eff="[[1,200,25,0,0]]"  />
+    <ItemSpec buffId="40321de2" timeType="1" addPower="11" eff="[[1,100,25,0,0]]"  />
+    <ItemSpec buffId="40331de1" timeType="1" addPower="34" eff="[[1,220,25,0,0]]"  />
+    <ItemSpec buffId="40331de2" timeType="1" addPower="11" eff="[[1,110,25,0,0]]"  />
+    <ItemSpec buffId="40302de1" timeType="1" eff="[[1,80,100,0,0]]"  />
+    <ItemSpec buffId="40302de2" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,100]" overlayType="4" eff="[[25,100,1]]"  />
+    <ItemSpec buffId="40302de3" timeType="1" eff="[[1,80,100,0,0],[4,20]]"  />
+    <ItemSpec buffId="40312de1" timeType="1" eff="[[1,90,100,0,0]]"  />
+    <ItemSpec buffId="40312de3" timeType="1" eff="[[1,90,100,0,0],[4,20]]"  />
+    <ItemSpec buffId="40322de1" timeType="1" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="40322de3" timeType="1" eff="[[1,100,100,0,0],[4,20]]"  />
+    <ItemSpec buffId="40405" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="40405de2" timeType="1" addPower="34" eff="[[1,100,100,4,0]]"  />
+    <ItemSpec buffId="40401" timeType="1" addPower="67" eff="[[1,500,20,0,0]]"  />
+    <ItemSpec buffId="40401de2" timeType="1" addPower="67" eff="[[1,500,40,0,0]]"  />
+    <ItemSpec buffId="40401de3" timeType="1" addPower="67" eff="[[1,500,20,0,0]]" cited="[404]"  />
+    <ItemSpec buffId="40401de4" timeType="1" addPower="67" eff="[[1,500,40,0,0]]" cited="[404]"  />
+    <ItemSpec buffId="40411" timeType="1" addPower="67" eff="[[1,550,20,0,0]]"  />
+    <ItemSpec buffId="40411de2" timeType="1" addPower="67" eff="[[1,550,40,0,0]]"  />
+    <ItemSpec buffId="40411de3" timeType="1" addPower="67" eff="[[1,550,20,0,0]]" cited="[404]"  />
+    <ItemSpec buffId="40411de4" timeType="1" addPower="67" eff="[[1,550,40,0,0]]" cited="[404]"  />
+    <ItemSpec buffId="40421" timeType="1" addPower="67" eff="[[1,600,20,0,0]]"  />
+    <ItemSpec buffId="40421de2" timeType="1" addPower="67" eff="[[1,600,40,0,0]]"  />
+    <ItemSpec buffId="40421de3" timeType="1" addPower="67" eff="[[1,600,20,0,0]]" cited="[404]"  />
+    <ItemSpec buffId="40421de4" timeType="1" addPower="67" eff="[[1,600,40,0,0]]" cited="[404]"  />
+    <ItemSpec buffId="40431" timeType="1" addPower="67" eff="[[1,650,20,0,0]]"  />
+    <ItemSpec buffId="40431de2" timeType="1" addPower="67" eff="[[1,650,40,0,0]]"  />
+    <ItemSpec buffId="40431de3" timeType="1" addPower="67" eff="[[1,650,20,0,0]]" cited="[404]"  />
+    <ItemSpec buffId="40431de4" timeType="1" addPower="67" eff="[[1,650,40,0,0]]" cited="[404]"  />
+    <ItemSpec buffId="40402" timeType="1" addPower="67" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="40402de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[200,14,2,-10],[200,15,2,-10]]"  />
+    <ItemSpec buffId="40412" timeType="1" addPower="67" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="40422" timeType="1" addPower="67" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="40605" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="40605de2" timeType="1" addPower="34" eff="[[1,100,100,4,0]]"  />
+    <ItemSpec buffId="40601" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,12000]" overlayType="1" eff="[[200,2,2,30]]"  />
+    <ItemSpec buffId="40601de2" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,12000]" overlayType="1" eff="[[200,2,2,45]]"  />
+    <ItemSpec buffId="40611" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,12000]" overlayType="1" eff="[[200,2,2,60]]"  />
+    <ItemSpec buffId="40621" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,12000]" overlayType="1" eff="[[200,16,1,45]]"  />
+    <ItemSpec buffId="40602" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,25]]"  />
+    <ItemSpec buffId="40612" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,25,1,30]]"  />
+    <ItemSpec buffId="40622" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,16,1,20]]"  />
+    <ItemSpec buffId="4060305de1" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="50105" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="50101" timeType="2" type="2" label="1" unstoppable="1" p="1" addPower="67" time="[1,10000]" overlayType="1" eff="[[200,16,1,40]]"  />
+    <ItemSpec buffId="50111" timeType="2" type="2" label="1" unstoppable="1" p="1" addPower="67" time="[1,10000]" overlayType="1" eff="[[200,16,1,60]]"  />
+    <ItemSpec buffId="50121" timeType="2" type="2" label="1" unstoppable="1" p="1" addPower="67" time="[1,10000]" overlayType="1" eff="[[200,16,1,70]]"  />
+    <ItemSpec buffId="50121de2" timeType="1" eff="[[16]]"  />
+    <ItemSpec buffId="50131" timeType="2" type="2" label="1" unstoppable="1" p="1" addPower="67" time="[1,10000]" overlayType="1" eff="[[200,16,1,80]]"  />
+    <ItemSpec buffId="50102" timeType="2" type="2" label="1" p="1" addPower="67" time="[1,6000]" overlayType="1" eff="[[101,60]]"  />
+    <ItemSpec buffId="50102de2" timeType="2" type="2" label="1" p="1" time="[1,6000]" overlayType="1" eff="[[117,2]]"  />
+    <ItemSpec buffId="50112" timeType="2" type="2" label="1" p="1" addPower="67" time="[1,6000]" overlayType="1" eff="[[101,70]]"  />
+    <ItemSpec buffId="50122" timeType="2" type="2" label="1" p="1" addPower="67" time="[1,6000]" overlayType="1" eff="[[101,80]]"  />
+    <ItemSpec buffId="50122de2" timeType="2" type="2" label="1" p="1" time="[1,6000]" overlayType="1" eff="[[117,3]]"  />
+    <ItemSpec buffId="60105" timeType="1" addPower="34" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="60105de2" timeType="1" addPower="34" eff="[[1,100,100,2,20]]"  />
+    <ItemSpec buffId="60105de3" timeType="1" addPower="34" eff="[[1,100,100,2,25]]"  />
+    <ItemSpec buffId="60105de4" timeType="1" addPower="34" eff="[[1,100,100,2,30]]"  />
+    <ItemSpec buffId="60101" timeType="1" addPower="34" eff="[[1,500,20,0,0]]"  />
+    <ItemSpec buffId="60101de2" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,1500]" overlayType="1" eff="[[116]]"  />
+    <ItemSpec buffId="60111" timeType="1" addPower="34" eff="[[1,550,20,0,0]]"  />
+    <ItemSpec buffId="60121" timeType="1" addPower="34" eff="[[1,600,20,0,0]]"  />
+    <ItemSpec buffId="60131" timeType="1" addPower="34" eff="[[1,650,20,0,0]]"  />
+    <ItemSpec buffId="60102" timeType="1" eff="[[1,250,100,0,0]]"  />
+    <ItemSpec buffId="60102de2" timeType="2" type="2" label="3" unstoppable="1" p="1" time="[1,100]" overlayType="4" eff="[[25,100,2]]"  />
+    <ItemSpec buffId="60102de3" timeType="2" type="2" label="2" unstoppable="1" p="1" time="[1,8000]" overlayType="1" eff="[[110]]"  />
+    <ItemSpec buffId="60112" timeType="1" eff="[[1,275,100,0,0]]"  />
+    <ItemSpec buffId="60122" timeType="1" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="900105" timeType="1" addPower="33" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="900101" timeType="1" addPower="22" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="900101de1" timeType="2" type="2" label="3" p="1" time="[1,200]" overlayType="4" eff="[[21,2]]"  />
+    <ItemSpec buffId="900101de2" timeType="1" addPower="22" eff="[[1,200,100,0,0]]"  />
+    <ItemSpec buffId="900101de3" timeType="2" type="2" label="3" p="1" time="[1,2000]" overlayType="4" eff="[[110]]"  />
+    <ItemSpec buffId="900102" timeType="1" addPower="22" eff="[[1,80,100,0,0]]"  />
+    <ItemSpec buffId="900102de2" timeType="2" type="2" label="2" p="1" time="[1,2000]" overlayType="1" eff="[[115]]"  />
+    <ItemSpec buffId="900103" timeType="1" addPower="34" eff="[[1,60,100,0,0]]"  />
+    <ItemSpec buffId="900103de2" timeType="2" type="2" label="2" p="1" time="[1,6000]" overlayType="1" eff="[[200,30,2,-100]]"  />
+    <ItemSpec buffId="900104" timeType="1" addPower="66" eff="[[1,300,100,0,0]]"  />
+    <ItemSpec buffId="900114" timeType="1" addPower="33" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="900124" timeType="1" addPower="33" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="900205" timeType="1" addPower="33" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="900201" timeType="1" addPower="22" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="900201de1" timeType="2" type="2" label="3" p="1" time="[1,500]" overlayType="4" eff="[[21,2],[103]]"  />
+    <ItemSpec buffId="900201de2" timeType="1" addPower="22" eff="[[1,200,100,0,0]]"  />
+    <ItemSpec buffId="900201de3" timeType="2" type="2" label="3" p="1" time="[1,2000]" overlayType="4" eff="[[110]]"  />
+    <ItemSpec buffId="900202" timeType="1" addPower="22" eff="[[1,100,100,0,0]]"  />
+    <ItemSpec buffId="900202de2" timeType="2" type="2" label="2" p="1" time="[1,6000]" overlayType="1" eff="[[1,30,100,0,0]]"  />
+    <ItemSpec buffId="80010102de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,20]]"  />
+    <ItemSpec buffId="80010102de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,20],[200,4,2,20]]"  />
+    <ItemSpec buffId="80010112de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,25]]"  />
+    <ItemSpec buffId="80010112de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,25],[200,4,2,25]]"  />
+    <ItemSpec buffId="80010122de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,30]]"  />
+    <ItemSpec buffId="80010122de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,30],[200,4,2,30]]"  />
+    <ItemSpec buffId="80010132de1" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,2,2,35]]"  />
+    <ItemSpec buffId="80010132de2" timeType="2" type="2" label="1" unstoppable="1" p="1" time="[1,10000]" overlayType="1" eff="[[200,3,2,35],[200,4,2,35]]"  />
+    <ItemSpec buffId="8001303" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,15,2,60]]"  />
+    <ItemSpec buffId="8001313" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,15,2,65]]"  />
+    <ItemSpec buffId="80010203" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,90]]"  />
+    <ItemSpec buffId="80010213" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,100]]"  />
+    <ItemSpec buffId="80010223" timeType="2" type="1" label="3" unstoppable="1" p="1" time="[1,999000]" overlayType="1" eff="[[200,21,1,110]]"  />
+    <ItemSpec buffId="80040401" timeType="1" addPower="67" eff="[[1,500,20,0,0]]"  />
+    <ItemSpec buffId="80040401de2" timeType="1" addPower="67" eff="[[1,500,40,0,0]]"  />
+    <ItemSpec buffId="80040401de3" timeType="1" addPower="67" eff="[[1,500,20,0,0]]" cited="[4041]"  />
+    <ItemSpec buffId="80040401de4" timeType="1" addPower="67" eff="[[1,500,40,0,0]]" cited="[4041]"  />
+    <ItemSpec buffId="80040411" timeType="1" addPower="67" eff="[[1,550,20,0,0]]"  />
+    <ItemSpec buffId="80040411de2" timeType="1" addPower="67" eff="[[1,550,40,0,0]]"  />
+    <ItemSpec buffId="80040411de3" timeType="1" addPower="67" eff="[[1,550,20,0,0]]" cited="[4041]"  />
+    <ItemSpec buffId="80040411de4" timeType="1" addPower="67" eff="[[1,550,40,0,0]]" cited="[4041]"  />
+    <ItemSpec buffId="80040421" timeType="1" addPower="67" eff="[[1,600,20,0,0]]"  />
+    <ItemSpec buffId="80040421de2" timeType="1" addPower="67" eff="[[1,600,40,0,0]]"  />
+    <ItemSpec buffId="80040421de3" timeType="1" addPower="67" eff="[[1,600,20,0,0]]" cited="[4041]"  />
+    <ItemSpec buffId="80040421de4" timeType="1" addPower="67" eff="[[1,600,40,0,0]]" cited="[4041]"  />
+    <ItemSpec buffId="80040431" timeType="1" addPower="67" eff="[[1,650,20,0,0]]"  />
+    <ItemSpec buffId="80040431de2" timeType="1" addPower="67" eff="[[1,650,40,0,0]]"  />
+    <ItemSpec buffId="80040431de3" timeType="1" addPower="67" eff="[[1,650,20,0,0]]" cited="[4041]"  />
+    <ItemSpec buffId="80040431de4" timeType="1" addPower="67" eff="[[1,650,40,0,0]]" cited="[4041]"  />
+
+</tns:database>

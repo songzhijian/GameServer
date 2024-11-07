@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" group="11"  />
+    <ItemSpec id="102" group="11"  />
+    <ItemSpec id="103" group="11"  />
+    <ItemSpec id="104" group="11"  />
+    <ItemSpec id="105" group="11"  />
+    <ItemSpec id="106" group="11"  />
+    <ItemSpec id="107" group="11"  />
+    <ItemSpec id="108" group="11"  />
+    <ItemSpec id="201" group="12"  />
+    <ItemSpec id="202" group="12"  />
+    <ItemSpec id="203" group="12"  />
+    <ItemSpec id="204" group="12"  />
+    <ItemSpec id="205" group="12"  />
+    <ItemSpec id="206" group="12"  />
+    <ItemSpec id="207" group="12"  />
+    <ItemSpec id="301" group="13"  />
+    <ItemSpec id="302" group="13"  />
+    <ItemSpec id="303" group="13"  />
+    <ItemSpec id="304" group="13"  />
+    <ItemSpec id="305" group="13"  />
+    <ItemSpec id="306" group="13"  />
+    <ItemSpec id="307" group="13"  />
+    <ItemSpec id="308" group="13"  />
+    <ItemSpec id="401" group="14"  />
+    <ItemSpec id="402" group="14"  />
+    <ItemSpec id="403" group="14"  />
+
+</tns:database>

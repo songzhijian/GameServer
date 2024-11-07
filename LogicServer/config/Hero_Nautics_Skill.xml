@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="131" quality="2" role="2100" eff="[[2002,500]]"  />
+    <ItemSpec id="132" quality="6" role="2100" eff="[[2002,600]]"  />
+    <ItemSpec id="133" quality="8" role="2100" eff="[[2002,700]]"  />
+    <ItemSpec id="141" quality="2" role="5100" eff="[[2004,100]]"  />
+    <ItemSpec id="142" quality="6" role="5100" eff="[[2004,200]]"  />
+    <ItemSpec id="143" quality="8" role="5100" eff="[[2004,300]]"  />
+    <ItemSpec id="151" quality="2" role="9100" eff="[[4002,500]]"  />
+    <ItemSpec id="152" quality="6" role="9100" eff="[[4002,600]]"  />
+    <ItemSpec id="153" quality="8" role="9100" eff="[[4002,700]]"  />
+    <ItemSpec id="231" quality="2" role="13100" eff="[[1038,500]]"  />
+    <ItemSpec id="232" quality="6" role="13100" eff="[[1038,600]]"  />
+    <ItemSpec id="233" quality="8" role="13100" eff="[[1038,700]]"  />
+    <ItemSpec id="241" quality="2" role="10100" eff="[[1021,7200]]"  />
+    <ItemSpec id="242" quality="6" role="10100" eff="[[1021,14400]]"  />
+    <ItemSpec id="243" quality="8" role="10100" eff="[[1021,21600]]"  />
+    <ItemSpec id="251" quality="2" role="20100" eff="[[6082,400]]"  />
+    <ItemSpec id="252" quality="6" role="20100" eff="[[6082,500]]"  />
+    <ItemSpec id="253" quality="8" role="20100" eff="[[6082,600]]"  />
+    <ItemSpec id="331" quality="2" role="2100" eff="[[2002,500]]"  />
+    <ItemSpec id="332" quality="6" role="2100" eff="[[2002,600]]"  />
+    <ItemSpec id="333" quality="8" role="2100" eff="[[2002,700]]"  />
+    <ItemSpec id="341" quality="2" role="20100" eff="[[6082,400]]"  />
+    <ItemSpec id="342" quality="6" role="20100" eff="[[6082,500]]"  />
+    <ItemSpec id="343" quality="8" role="20100" eff="[[6082,600]]"  />
+    <ItemSpec id="351" quality="2" role="3100" eff="[[3002,200]]"  />
+    <ItemSpec id="352" quality="6" role="3100" eff="[[3002,300]]"  />
+    <ItemSpec id="353" quality="8" role="3100" eff="[[3002,400]]"  />
+    <ItemSpec id="431" quality="2" role="8100" eff="[[6004,5]]"  />
+    <ItemSpec id="432" quality="6" role="8100" eff="[[6004,6]]"  />
+    <ItemSpec id="433" quality="8" role="8100" eff="[[6004,7]]"  />
+    <ItemSpec id="441" quality="2" role="9100" eff="[[4002,500]]"  />
+    <ItemSpec id="442" quality="6" role="9100" eff="[[4002,600]]"  />
+    <ItemSpec id="443" quality="8" role="9100" eff="[[4002,700]]"  />
+    <ItemSpec id="451" quality="2" role="11100" eff="[[1022,12]]"  />
+    <ItemSpec id="452" quality="6" role="11100" eff="[[1022,24]]"  />
+    <ItemSpec id="453" quality="8" role="11100" eff="[[1022,36]]"  />
+    <ItemSpec id="1011" quality="2" role="1100" eff="[[6004,200]]"  />
+    <ItemSpec id="1012" quality="6" role="1100" eff="[[6004,400]]"  />
+    <ItemSpec id="1013" quality="8" role="1100" eff="[[6004,600]]"  />
+    <ItemSpec id="1014" quality="11" role="1100" eff="[[6004,800]]"  />
+    <ItemSpec id="1015" quality="17" role="1100" eff="[[6004,1000]]"  />
+    <ItemSpec id="1021" quality="2" role="5100" eff="[[2006,1000]]"  />
+    <ItemSpec id="1022" quality="6" role="5100" eff="[[2006,1500]]"  />
+    <ItemSpec id="1023" quality="8" role="5100" eff="[[2006,2000]]"  />
+    <ItemSpec id="1024" quality="11" role="5100" eff="[[2006,2500]]"  />
+    <ItemSpec id="1025" quality="17" role="5100" eff="[[2006,3000]]"  />
+    <ItemSpec id="1031" quality="2"  />
+    <ItemSpec id="1032" quality="6"  />
+    <ItemSpec id="1033" quality="8"  />
+    <ItemSpec id="1034" quality="11"  />
+    <ItemSpec id="1035" quality="17"  />
+    <ItemSpec id="1041" quality="2" role="20400" eff="[[5002,200]]"  />
+    <ItemSpec id="1042" quality="6" role="20400" eff="[[5002,400]]"  />
+    <ItemSpec id="1043" quality="8" role="20400" eff="[[5002,600]]"  />
+    <ItemSpec id="1044" quality="11" role="20400" eff="[[5002,800]]"  />
+    <ItemSpec id="1045" quality="17" role="20400" eff="[[5002,1000]]"  />
+    <ItemSpec id="1051" quality="2" role="16100" eff="[[1048,500]]"  />
+    <ItemSpec id="1052" quality="6" role="16100" eff="[[1048,600]]"  />
+    <ItemSpec id="1053" quality="8" role="16100" eff="[[1048,700]]"  />
+    <ItemSpec id="1054" quality="11" role="16100" eff="[[1048,800]]"  />
+    <ItemSpec id="1055" quality="17" role="16100" eff="[[1048,900]]"  />
+    <ItemSpec id="1061" quality="2"  />
+    <ItemSpec id="1062" quality="6"  />
+    <ItemSpec id="1063" quality="8"  />
+    <ItemSpec id="1064" quality="11"  />
+    <ItemSpec id="1065" quality="17"  />
+    <ItemSpec id="1071" quality="2"  />
+    <ItemSpec id="1072" quality="6"  />
+    <ItemSpec id="1073" quality="8"  />
+    <ItemSpec id="1074" quality="11"  />
+    <ItemSpec id="1075" quality="17"  />
+    <ItemSpec id="1081" quality="2"  />
+    <ItemSpec id="1082" quality="6"  />
+    <ItemSpec id="1083" quality="8"  />
+    <ItemSpec id="1084" quality="11"  />
+    <ItemSpec id="1085" quality="17"  />
+    <ItemSpec id="1091" quality="2"  />
+    <ItemSpec id="1092" quality="6"  />
+    <ItemSpec id="1093" quality="8"  />
+    <ItemSpec id="1094" quality="11"  />
+    <ItemSpec id="1095" quality="17"  />
+    <ItemSpec id="1101" quality="2"  />
+    <ItemSpec id="1102" quality="6"  />
+    <ItemSpec id="1103" quality="8"  />
+    <ItemSpec id="1104" quality="11"  />
+    <ItemSpec id="1105" quality="17"  />
+    <ItemSpec id="1111" quality="2"  />
+    <ItemSpec id="1112" quality="6"  />
+    <ItemSpec id="1113" quality="8"  />
+    <ItemSpec id="1114" quality="11"  />
+    <ItemSpec id="1115" quality="17"  />
+    <ItemSpec id="1121" quality="2"  />
+    <ItemSpec id="1122" quality="6"  />
+    <ItemSpec id="1123" quality="8"  />
+    <ItemSpec id="1124" quality="11"  />
+    <ItemSpec id="1125" quality="17"  />
+    <ItemSpec id="2011" quality="2" role="20300" eff="[[6004,100]]"  />
+    <ItemSpec id="2012" quality="6" role="20300" eff="[[6004,200]]"  />
+    <ItemSpec id="2013" quality="8" role="20300" eff="[[6004,300]]"  />
+    <ItemSpec id="2014" quality="11" role="20300" eff="[[6004,400]]"  />
+    <ItemSpec id="2015" quality="17" role="20300" eff="[[6004,500]]"  />
+    <ItemSpec id="2021" quality="2" role="3100" eff="[[3002,200]]"  />
+    <ItemSpec id="2022" quality="6" role="3100" eff="[[3002,300]]"  />
+    <ItemSpec id="2023" quality="8" role="3100" eff="[[3002,400]]"  />
+    <ItemSpec id="2024" quality="11" role="3100" eff="[[3002,500]]"  />
+    <ItemSpec id="2025" quality="17" role="3100" eff="[[3002,600]]"  />
+    <ItemSpec id="2031" quality="2"  />
+    <ItemSpec id="2032" quality="6"  />
+    <ItemSpec id="2033" quality="8"  />
+    <ItemSpec id="2034" quality="11"  />
+    <ItemSpec id="2035" quality="17"  />
+    <ItemSpec id="2041" quality="2"  />
+    <ItemSpec id="2042" quality="6"  />
+    <ItemSpec id="2043" quality="8"  />
+    <ItemSpec id="2044" quality="11"  />
+    <ItemSpec id="2045" quality="17"  />
+    <ItemSpec id="2051" quality="2" role="11100" eff="[[1022,43200]]"  />
+    <ItemSpec id="2052" quality="6" role="11100" eff="[[1022,86400]]"  />
+    <ItemSpec id="2053" quality="8" role="11100" eff="[[1022,129600]]"  />
+    <ItemSpec id="2054" quality="11" role="11100" eff="[[1022,172800]]"  />
+    <ItemSpec id="2055" quality="17" role="11100" eff="[[1022,216000]]"  />
+    <ItemSpec id="2061" quality="2" role="13100" eff="[[1038,500]]"  />
+    <ItemSpec id="2062" quality="6" role="13100" eff="[[1038,600]]"  />
+    <ItemSpec id="2063" quality="8" role="13100" eff="[[1038,700]]"  />
+    <ItemSpec id="2064" quality="11" role="13100" eff="[[1038,800]]"  />
+    <ItemSpec id="2065" quality="17" role="13100" eff="[[1038,900]]"  />
+    <ItemSpec id="2071" quality="2"  />
+    <ItemSpec id="2072" quality="6"  />
+    <ItemSpec id="2073" quality="8"  />
+    <ItemSpec id="2074" quality="11"  />
+    <ItemSpec id="2075" quality="17"  />
+    <ItemSpec id="2081" quality="2"  />
+    <ItemSpec id="2082" quality="6"  />
+    <ItemSpec id="2083" quality="8"  />
+    <ItemSpec id="2084" quality="11"  />
+    <ItemSpec id="2085" quality="17"  />
+    <ItemSpec id="2091" quality="2"  />
+    <ItemSpec id="2092" quality="6"  />
+    <ItemSpec id="2093" quality="8"  />
+    <ItemSpec id="2094" quality="11"  />
+    <ItemSpec id="2095" quality="17"  />
+    <ItemSpec id="2101" quality="2"  />
+    <ItemSpec id="2102" quality="6"  />
+    <ItemSpec id="2103" quality="8"  />
+    <ItemSpec id="2104" quality="11"  />
+    <ItemSpec id="2105" quality="17"  />
+    <ItemSpec id="2111" quality="2"  />
+    <ItemSpec id="2112" quality="6"  />
+    <ItemSpec id="2113" quality="8"  />
+    <ItemSpec id="2114" quality="11"  />
+    <ItemSpec id="2115" quality="17"  />
+    <ItemSpec id="2121" quality="2"  />
+    <ItemSpec id="2122" quality="6"  />
+    <ItemSpec id="2123" quality="8"  />
+    <ItemSpec id="2124" quality="11"  />
+    <ItemSpec id="2125" quality="17"  />
+    <ItemSpec id="3011" quality="2" role="2100" eff="[[2001,500]]"  />
+    <ItemSpec id="3012" quality="6" role="2100" eff="[[2001,600]]"  />
+    <ItemSpec id="3013" quality="8" role="2100" eff="[[2001,700]]"  />
+    <ItemSpec id="3014" quality="11" role="2100" eff="[[2001,800]]"  />
+    <ItemSpec id="3015" quality="17" role="2100" eff="[[2001,900]]"  />
+    <ItemSpec id="3021" quality="2" role="20400" eff="[[5002,200]]"  />
+    <ItemSpec id="3022" quality="6" role="20400" eff="[[5002,400]]"  />
+    <ItemSpec id="3023" quality="8" role="20400" eff="[[5002,600]]"  />
+    <ItemSpec id="3024" quality="11" role="20400" eff="[[5002,800]]"  />
+    <ItemSpec id="3025" quality="17" role="20400" eff="[[5002,1000]]"  />
+    <ItemSpec id="3031" quality="2"  />
+    <ItemSpec id="3032" quality="6"  />
+    <ItemSpec id="3033" quality="8"  />
+    <ItemSpec id="3034" quality="11"  />
+    <ItemSpec id="3035" quality="17"  />
+    <ItemSpec id="3041" quality="2" role="20100" eff="[[6083,1]]"  />
+    <ItemSpec id="3042" quality="6" role="20100" eff="[[6083,2]]"  />
+    <ItemSpec id="3043" quality="8" role="20100" eff="[[6083,3]]"  />
+    <ItemSpec id="3044" quality="11" role="20100" eff="[[6083,4]]"  />
+    <ItemSpec id="3045" quality="17" role="20100" eff="[[6083,5]]"  />
+    <ItemSpec id="3051" quality="2" role="7100" eff="[[5004,1000]]"  />
+    <ItemSpec id="3052" quality="6" role="7100" eff="[[5004,1500]]"  />
+    <ItemSpec id="3053" quality="8" role="7100" eff="[[5004,2000]]"  />
+    <ItemSpec id="3054" quality="11" role="7100" eff="[[5004,2500]]"  />
+    <ItemSpec id="3055" quality="17" role="7100" eff="[[5004,3000]]"  />
+    <ItemSpec id="3061" quality="2" role="3100" eff="[[3001,200]]"  />
+    <ItemSpec id="3062" quality="6" role="3100" eff="[[3001,400]]"  />
+    <ItemSpec id="3063" quality="8" role="3100" eff="[[3001,600]]"  />
+    <ItemSpec id="3064" quality="11" role="3100" eff="[[3001,800]]"  />
+    <ItemSpec id="3065" quality="17" role="3100" eff="[[3001,1000]]"  />
+    <ItemSpec id="3071" quality="2"  />
+    <ItemSpec id="3072" quality="6"  />
+    <ItemSpec id="3073" quality="8"  />
+    <ItemSpec id="3074" quality="11"  />
+    <ItemSpec id="3075" quality="17"  />
+    <ItemSpec id="3081" quality="2"  />
+    <ItemSpec id="3082" quality="6"  />
+    <ItemSpec id="3083" quality="8"  />
+    <ItemSpec id="3084" quality="11"  />
+    <ItemSpec id="3085" quality="17"  />
+    <ItemSpec id="3091" quality="2"  />
+    <ItemSpec id="3092" quality="6"  />
+    <ItemSpec id="3093" quality="8"  />
+    <ItemSpec id="3094" quality="11"  />
+    <ItemSpec id="3095" quality="17"  />
+    <ItemSpec id="3101" quality="2"  />
+    <ItemSpec id="3102" quality="6"  />
+    <ItemSpec id="3103" quality="8"  />
+    <ItemSpec id="3104" quality="11"  />
+    <ItemSpec id="3105" quality="17"  />
+    <ItemSpec id="3111" quality="2"  />
+    <ItemSpec id="3112" quality="6"  />
+    <ItemSpec id="3113" quality="8"  />
+    <ItemSpec id="3114" quality="11"  />
+    <ItemSpec id="3115" quality="17"  />
+    <ItemSpec id="3121" quality="2"  />
+    <ItemSpec id="3122" quality="6"  />
+    <ItemSpec id="3123" quality="8"  />
+    <ItemSpec id="3124" quality="11"  />
+    <ItemSpec id="3125" quality="17"  />
+    <ItemSpec id="4011" quality="2" role="5100" eff="[[2005,300]]"  />
+    <ItemSpec id="4012" quality="6" role="5100" eff="[[2005,600]]"  />
+    <ItemSpec id="4013" quality="8" role="5100" eff="[[2005,900]]"  />
+    <ItemSpec id="4014" quality="11" role="5100" eff="[[2005,1200]]"  />
+    <ItemSpec id="4015" quality="17" role="5100" eff="[[2005,1500]]"  />
+    <ItemSpec id="4021" quality="2" role="8100" eff="[[4004,1000]]"  />
+    <ItemSpec id="4022" quality="6" role="8100" eff="[[4004,1500]]"  />
+    <ItemSpec id="4023" quality="8" role="8100" eff="[[4004,2000]]"  />
+    <ItemSpec id="4024" quality="11" role="8100" eff="[[4004,2500]]"  />
+    <ItemSpec id="4025" quality="17" role="8100" eff="[[4004,3000]]"  />
+    <ItemSpec id="4031" quality="2" role="5100" eff="[[2005,400]]"  />
+    <ItemSpec id="4032" quality="6" role="5100" eff="[[2005,700]]"  />
+    <ItemSpec id="4033" quality="8" role="5100" eff="[[2005,1000]]"  />
+    <ItemSpec id="4034" quality="11" role="5100" eff="[[2005,1300]]"  />
+    <ItemSpec id="4035" quality="17" role="5100" eff="[[2005,1600]]"  />
+    <ItemSpec id="4041" quality="2" role="9100" eff="[[4002,500]]"  />
+    <ItemSpec id="4042" quality="6" role="9100" eff="[[4002,600]]"  />
+    <ItemSpec id="4043" quality="8" role="9100" eff="[[4002,700]]"  />
+    <ItemSpec id="4044" quality="11" role="9100" eff="[[4002,800]]"  />
+    <ItemSpec id="4045" quality="17" role="9100" eff="[[4002,900]]"  />
+    <ItemSpec id="4051" quality="2"  />
+    <ItemSpec id="4052" quality="6"  />
+    <ItemSpec id="4053" quality="8"  />
+    <ItemSpec id="4054" quality="11"  />
+    <ItemSpec id="4055" quality="17"  />
+    <ItemSpec id="4061" quality="2" role="10100" eff="[[1021,43200]]"  />
+    <ItemSpec id="4062" quality="6" role="10100" eff="[[1021,86400]]"  />
+    <ItemSpec id="4063" quality="8" role="10100" eff="[[1021,129600]]"  />
+    <ItemSpec id="4064" quality="11" role="10100" eff="[[1021,172800]]"  />
+    <ItemSpec id="4065" quality="17" role="10100" eff="[[1021,216000]]"  />
+    <ItemSpec id="4071" quality="2"  />
+    <ItemSpec id="4072" quality="6"  />
+    <ItemSpec id="4073" quality="8"  />
+    <ItemSpec id="4074" quality="11"  />
+    <ItemSpec id="4075" quality="17"  />
+    <ItemSpec id="4081" quality="2"  />
+    <ItemSpec id="4082" quality="6"  />
+    <ItemSpec id="4083" quality="8"  />
+    <ItemSpec id="4084" quality="11"  />
+    <ItemSpec id="4085" quality="17"  />
+    <ItemSpec id="4091" quality="2"  />
+    <ItemSpec id="4092" quality="6"  />
+    <ItemSpec id="4093" quality="8"  />
+    <ItemSpec id="4094" quality="11"  />
+    <ItemSpec id="4095" quality="17"  />
+    <ItemSpec id="4101" quality="2"  />
+    <ItemSpec id="4102" quality="6"  />
+    <ItemSpec id="4103" quality="8"  />
+    <ItemSpec id="4104" quality="11"  />
+    <ItemSpec id="4105" quality="17"  />
+    <ItemSpec id="4111" quality="2"  />
+    <ItemSpec id="4112" quality="6"  />
+    <ItemSpec id="4113" quality="8"  />
+    <ItemSpec id="4114" quality="11"  />
+    <ItemSpec id="4115" quality="17"  />
+    <ItemSpec id="4121" quality="2"  />
+    <ItemSpec id="4122" quality="6"  />
+    <ItemSpec id="4123" quality="8"  />
+    <ItemSpec id="4124" quality="11"  />
+    <ItemSpec id="4125" quality="17"  />
+    <ItemSpec id="5011" quality="2" role="11100" eff="[[1022,12]]"  />
+    <ItemSpec id="5012" quality="6" role="11100" eff="[[1022,24]]"  />
+    <ItemSpec id="5013" quality="8" role="11100" eff="[[1022,36]]"  />
+    <ItemSpec id="5014" quality="11" role="11100" eff="[[1022,48]]"  />
+    <ItemSpec id="5015" quality="17" role="11100" eff="[[1022,60]]"  />
+    <ItemSpec id="5021" quality="2"  />
+    <ItemSpec id="5022" quality="6"  />
+    <ItemSpec id="5023" quality="8"  />
+    <ItemSpec id="5024" quality="11"  />
+    <ItemSpec id="5025" quality="17"  />
+    <ItemSpec id="5031" quality="2"  />
+    <ItemSpec id="5032" quality="6"  />
+    <ItemSpec id="5033" quality="8"  />
+    <ItemSpec id="5034" quality="11"  />
+    <ItemSpec id="5035" quality="17"  />
+    <ItemSpec id="5041" quality="2"  />
+    <ItemSpec id="5042" quality="6"  />
+    <ItemSpec id="5043" quality="8"  />
+    <ItemSpec id="5044" quality="11"  />
+    <ItemSpec id="5045" quality="17"  />
+    <ItemSpec id="5051" quality="2"  />
+    <ItemSpec id="5052" quality="6"  />
+    <ItemSpec id="5053" quality="8"  />
+    <ItemSpec id="5054" quality="11"  />
+    <ItemSpec id="5055" quality="17"  />
+    <ItemSpec id="5061" quality="2"  />
+    <ItemSpec id="5062" quality="6"  />
+    <ItemSpec id="5063" quality="8"  />
+    <ItemSpec id="5064" quality="11"  />
+    <ItemSpec id="5065" quality="17"  />
+    <ItemSpec id="5071" quality="2"  />
+    <ItemSpec id="5072" quality="6"  />
+    <ItemSpec id="5073" quality="8"  />
+    <ItemSpec id="5074" quality="11"  />
+    <ItemSpec id="5075" quality="17"  />
+    <ItemSpec id="5081" quality="2"  />
+    <ItemSpec id="5082" quality="6"  />
+    <ItemSpec id="5083" quality="8"  />
+    <ItemSpec id="5084" quality="11"  />
+    <ItemSpec id="5085" quality="17"  />
+    <ItemSpec id="5091" quality="2"  />
+    <ItemSpec id="5092" quality="6"  />
+    <ItemSpec id="5093" quality="8"  />
+    <ItemSpec id="5094" quality="11"  />
+    <ItemSpec id="5095" quality="17"  />
+    <ItemSpec id="6011" quality="2" role="5100" eff="[[2005,400]]"  />
+    <ItemSpec id="6012" quality="6" role="5100" eff="[[2005,700]]"  />
+    <ItemSpec id="6013" quality="8" role="5100" eff="[[2005,1000]]"  />
+    <ItemSpec id="6014" quality="11" role="5100" eff="[[2005,1300]]"  />
+    <ItemSpec id="6015" quality="17" role="5100" eff="[[2005,1600]]"  />
+    <ItemSpec id="6021" quality="2"  />
+    <ItemSpec id="6022" quality="6"  />
+    <ItemSpec id="6023" quality="8"  />
+    <ItemSpec id="6024" quality="11"  />
+    <ItemSpec id="6025" quality="17"  />
+    <ItemSpec id="6031" quality="2"  />
+    <ItemSpec id="6032" quality="6"  />
+    <ItemSpec id="6033" quality="8"  />
+    <ItemSpec id="6034" quality="11"  />
+    <ItemSpec id="6035" quality="17"  />
+    <ItemSpec id="6041" quality="2"  />
+    <ItemSpec id="6042" quality="6"  />
+    <ItemSpec id="6043" quality="8"  />
+    <ItemSpec id="6044" quality="11"  />
+    <ItemSpec id="6045" quality="17"  />
+    <ItemSpec id="6051" quality="2"  />
+    <ItemSpec id="6052" quality="6"  />
+    <ItemSpec id="6053" quality="8"  />
+    <ItemSpec id="6054" quality="11"  />
+    <ItemSpec id="6055" quality="17"  />
+    <ItemSpec id="6061" quality="2"  />
+    <ItemSpec id="6062" quality="6"  />
+    <ItemSpec id="6063" quality="8"  />
+    <ItemSpec id="6064" quality="11"  />
+    <ItemSpec id="6065" quality="17"  />
+    <ItemSpec id="6071" quality="2"  />
+    <ItemSpec id="6072" quality="6"  />
+    <ItemSpec id="6073" quality="8"  />
+    <ItemSpec id="6074" quality="11"  />
+    <ItemSpec id="6075" quality="17"  />
+    <ItemSpec id="6081" quality="2"  />
+    <ItemSpec id="6082" quality="6"  />
+    <ItemSpec id="6083" quality="8"  />
+    <ItemSpec id="6084" quality="11"  />
+    <ItemSpec id="6085" quality="17"  />
+    <ItemSpec id="6091" quality="2"  />
+    <ItemSpec id="6092" quality="6"  />
+    <ItemSpec id="6093" quality="8"  />
+    <ItemSpec id="6094" quality="11"  />
+    <ItemSpec id="6095" quality="17"  />
+    <ItemSpec id="7011" quality="2" role="1100" eff="[[7006,1000]]"  />
+    <ItemSpec id="7012" quality="6" role="1100" eff="[[7006,1500]]"  />
+    <ItemSpec id="7013" quality="8" role="1100" eff="[[7006,2000]]"  />
+    <ItemSpec id="7014" quality="11" role="1100" eff="[[7006,2500]]"  />
+    <ItemSpec id="7015" quality="17" role="1100" eff="[[7006,3000]]"  />
+    <ItemSpec id="7021" quality="2"  />
+    <ItemSpec id="7022" quality="6"  />
+    <ItemSpec id="7023" quality="8"  />
+    <ItemSpec id="7024" quality="11"  />
+    <ItemSpec id="7025" quality="17"  />
+    <ItemSpec id="7031" quality="2"  />
+    <ItemSpec id="7032" quality="6"  />
+    <ItemSpec id="7033" quality="8"  />
+    <ItemSpec id="7034" quality="11"  />
+    <ItemSpec id="7035" quality="17"  />
+    <ItemSpec id="7041" quality="2"  />
+    <ItemSpec id="7042" quality="6"  />
+    <ItemSpec id="7043" quality="8"  />
+    <ItemSpec id="7044" quality="11"  />
+    <ItemSpec id="7045" quality="17"  />
+    <ItemSpec id="7051" quality="2"  />
+    <ItemSpec id="7052" quality="6"  />
+    <ItemSpec id="7053" quality="8"  />
+    <ItemSpec id="7054" quality="11"  />
+    <ItemSpec id="7055" quality="17"  />
+    <ItemSpec id="95011" quality="2"  />
+    <ItemSpec id="95012" quality="6"  />
+    <ItemSpec id="95013" quality="8"  />
+    <ItemSpec id="95014" quality="11"  />
+    <ItemSpec id="95015" quality="17"  />
+    <ItemSpec id="95021" quality="2"  />
+    <ItemSpec id="95022" quality="6"  />
+    <ItemSpec id="95023" quality="8"  />
+    <ItemSpec id="95024" quality="11"  />
+    <ItemSpec id="95025" quality="17"  />
+    <ItemSpec id="95031" quality="2"  />
+    <ItemSpec id="95032" quality="6"  />
+    <ItemSpec id="95033" quality="8"  />
+    <ItemSpec id="95034" quality="11"  />
+    <ItemSpec id="95035" quality="17"  />
+    <ItemSpec id="95041" quality="2"  />
+    <ItemSpec id="95042" quality="6"  />
+    <ItemSpec id="95043" quality="8"  />
+    <ItemSpec id="95044" quality="11"  />
+    <ItemSpec id="95045" quality="17"  />
+    <ItemSpec id="95051" quality="2"  />
+    <ItemSpec id="95052" quality="6"  />
+    <ItemSpec id="95053" quality="8"  />
+    <ItemSpec id="95054" quality="11"  />
+    <ItemSpec id="95055" quality="17"  />
+    <ItemSpec id="95061" quality="2"  />
+    <ItemSpec id="95062" quality="6"  />
+    <ItemSpec id="95063" quality="8"  />
+    <ItemSpec id="95064" quality="11"  />
+    <ItemSpec id="95065" quality="17"  />
+    <ItemSpec id="95071" quality="2"  />
+    <ItemSpec id="95072" quality="6"  />
+    <ItemSpec id="95073" quality="8"  />
+    <ItemSpec id="95074" quality="11"  />
+    <ItemSpec id="95075" quality="17"  />
+    <ItemSpec id="95081" quality="2"  />
+    <ItemSpec id="95082" quality="6"  />
+    <ItemSpec id="95083" quality="8"  />
+    <ItemSpec id="95084" quality="11"  />
+    <ItemSpec id="95085" quality="17"  />
+    <ItemSpec id="95091" quality="2"  />
+    <ItemSpec id="95092" quality="6"  />
+    <ItemSpec id="95093" quality="8"  />
+    <ItemSpec id="95094" quality="11"  />
+    <ItemSpec id="95095" quality="17"  />
+    <ItemSpec id="96011" quality="2" passiveEff="[[1004,900]]"  />
+    <ItemSpec id="96012" quality="6" passiveEff="[[1004,1800]]"  />
+    <ItemSpec id="96013" quality="8" passiveEff="[[1004,3600]]"  />
+    <ItemSpec id="96014" quality="11" passiveEff="[[1004,5400]]"  />
+    <ItemSpec id="96015" quality="17" passiveEff="[[1004,7200]]"  />
+    <ItemSpec id="96021" quality="2"  />
+    <ItemSpec id="96022" quality="6"  />
+    <ItemSpec id="96023" quality="8"  />
+    <ItemSpec id="96024" quality="11"  />
+    <ItemSpec id="96025" quality="17"  />
+    <ItemSpec id="96031" quality="2"  />
+    <ItemSpec id="96032" quality="6"  />
+    <ItemSpec id="96033" quality="8"  />
+    <ItemSpec id="96034" quality="11"  />
+    <ItemSpec id="96035" quality="17"  />
+    <ItemSpec id="96041" quality="2"  />
+    <ItemSpec id="96042" quality="6"  />
+    <ItemSpec id="96043" quality="8"  />
+    <ItemSpec id="96044" quality="11"  />
+    <ItemSpec id="96045" quality="17"  />
+    <ItemSpec id="96051" quality="2"  />
+    <ItemSpec id="96052" quality="6"  />
+    <ItemSpec id="96053" quality="8"  />
+    <ItemSpec id="96054" quality="11"  />
+    <ItemSpec id="96055" quality="17"  />
+    <ItemSpec id="96061" quality="2"  />
+    <ItemSpec id="96062" quality="6"  />
+    <ItemSpec id="96063" quality="8"  />
+    <ItemSpec id="96064" quality="11"  />
+    <ItemSpec id="96065" quality="17"  />
+    <ItemSpec id="96071" quality="2"  />
+    <ItemSpec id="96072" quality="6"  />
+    <ItemSpec id="96073" quality="8"  />
+    <ItemSpec id="96074" quality="11"  />
+    <ItemSpec id="96075" quality="17"  />
+    <ItemSpec id="96081" quality="2"  />
+    <ItemSpec id="96082" quality="6"  />
+    <ItemSpec id="96083" quality="8"  />
+    <ItemSpec id="96084" quality="11"  />
+    <ItemSpec id="96085" quality="17"  />
+    <ItemSpec id="96091" quality="2"  />
+    <ItemSpec id="96092" quality="6"  />
+    <ItemSpec id="96093" quality="8"  />
+    <ItemSpec id="96094" quality="11"  />
+    <ItemSpec id="96095" quality="17"  />
+    <ItemSpec id="97011" quality="2" passiveEff="[[5005,200]]"  />
+    <ItemSpec id="97012" quality="6" passiveEff="[[5005,400]]"  />
+    <ItemSpec id="97013" quality="8" passiveEff="[[5005,600]]"  />
+    <ItemSpec id="97014" quality="11" passiveEff="[[5005,800]]"  />
+    <ItemSpec id="97015" quality="17" passiveEff="[[5005,1000]]"  />
+    <ItemSpec id="97021" quality="2"  />
+    <ItemSpec id="97022" quality="6"  />
+    <ItemSpec id="97023" quality="8"  />
+    <ItemSpec id="97024" quality="11"  />
+    <ItemSpec id="97025" quality="17"  />
+    <ItemSpec id="97031" quality="2"  />
+    <ItemSpec id="97032" quality="6"  />
+    <ItemSpec id="97033" quality="8"  />
+    <ItemSpec id="97034" quality="11"  />
+    <ItemSpec id="97035" quality="17"  />
+    <ItemSpec id="97041" quality="2"  />
+    <ItemSpec id="97042" quality="6"  />
+    <ItemSpec id="97043" quality="8"  />
+    <ItemSpec id="97044" quality="11"  />
+    <ItemSpec id="97045" quality="17"  />
+    <ItemSpec id="97051" quality="2"  />
+    <ItemSpec id="97052" quality="6"  />
+    <ItemSpec id="97053" quality="8"  />
+    <ItemSpec id="97054" quality="11"  />
+    <ItemSpec id="97055" quality="17"  />
+
+</tns:database>

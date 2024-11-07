@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" maxLevel="0" type="0" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,1]" mostNum="9999" order="0" teleport="0" canDuplicate="1"  />
+    <ItemSpec id="2" maxLevel="0" type="0" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,1]" mostNum="9999" order="0" teleport="0" canDuplicate="1"  />
+    <ItemSpec id="3" maxLevel="0" type="9" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,2]" mostNum="9999" order="0" teleport="0" canDuplicate="1"  />
+    <ItemSpec id="4" maxLevel="0" type="9" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,2]" mostNum="9999" order="0" teleport="0" canDuplicate="1"  />
+    <ItemSpec id="5" maxLevel="0" type="2" canStore="0" canMove="0" isDemolition="1" isDemolitionNeedHero="1" stationNum="0" size="[1,1]" mostNum="9999" order="0" teleport="0" canDuplicate="1"  />
+    <ItemSpec id="6" maxLevel="0" type="9" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,2]" mostNum="9999" order="0" teleport="0" canDuplicate="1"  />
+    <ItemSpec id="7" maxLevel="0" type="9" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,2]" mostNum="9999" order="0" teleport="0" canDuplicate="1"  />
+    <ItemSpec id="1100" role="1100" maxLevel="30" type="1" canStore="0" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="1" teleport="0"  />
+    <ItemSpec id="2100" role="2100" maxLevel="30" type="1" canStore="0" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="1" teleport="0"  />
+    <ItemSpec id="2200" role="2100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="4" teleport="0"  />
+    <ItemSpec id="2300" role="2100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="4" teleport="0"  />
+    <ItemSpec id="2400" role="2100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="4" teleport="0"  />
+    <ItemSpec id="2500" role="2100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="4" teleport="0"  />
+    <ItemSpec id="3100" role="3100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="5" teleport="0"  />
+    <ItemSpec id="4100" role="4100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,4]" mostNum="1" order="3" teleport="0"  />
+    <ItemSpec id="4200" role="4100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,4]" mostNum="1" order="3" teleport="0"  />
+    <ItemSpec id="4300" role="4100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,4]" mostNum="1" order="3" teleport="0"  />
+    <ItemSpec id="4400" role="4100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,4]" mostNum="1" order="3" teleport="0"  />
+    <ItemSpec id="5100" role="5100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="6" teleport="0"  />
+    <ItemSpec id="5200" role="5100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="6" teleport="0"  />
+    <ItemSpec id="5300" role="5100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="6" teleport="0"  />
+    <ItemSpec id="6100" role="6100" maxLevel="30" type="1" canStore="0" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,2]" mostNum="1" order="2" teleport="0" defaultCompletion="1"  />
+    <ItemSpec id="6200" role="6100" maxLevel="30" type="1" canStore="0" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,2]" mostNum="1" order="2" teleport="0"  />
+    <ItemSpec id="6300" role="6100" maxLevel="30" type="1" canStore="0" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,2]" mostNum="1" order="2" teleport="0"  />
+    <ItemSpec id="6400" role="6100" maxLevel="30" type="1" canStore="0" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,2]" mostNum="1" order="2" teleport="0"  />
+    <ItemSpec id="7100" role="7100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="8" teleport="0"  />
+    <ItemSpec id="8100" role="8100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="11" teleport="0" defaultCompletion="1"  />
+    <ItemSpec id="8200" role="8100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="11" teleport="0"  />
+    <ItemSpec id="8300" role="8100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="11" teleport="0"  />
+    <ItemSpec id="8400" role="8100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,2]" mostNum="1" order="11" teleport="0"  />
+    <ItemSpec id="9100" role="9100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="12" teleport="0"  />
+    <ItemSpec id="10100" role="10100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="9" teleport="0"  />
+    <ItemSpec id="11100" role="11100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="10" teleport="0"  />
+    <ItemSpec id="12100" role="12100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="7" teleport="0"  />
+    <ItemSpec id="13100" role="13100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="13" teleport="0"  />
+    <ItemSpec id="14100" role="14100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,4]" mostNum="1" order="14" teleport="0"  />
+    <ItemSpec id="15100" role="15100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="0" size="[1,4]" mostNum="1" order="15" teleport="0"  />
+    <ItemSpec id="16100" role="16100" maxLevel="30" type="1" canStore="1" canMove="1" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" size="[1,4]" mostNum="1" order="16" teleport="0"  />
+    <ItemSpec id="20100" role="20100" maxLevel="30" type="3" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" mostNum="1" order="0" teleport="1"  />
+    <ItemSpec id="20200" role="20200" maxLevel="30" type="3" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" mostNum="1" order="0" teleport="0"  />
+    <ItemSpec id="20300" role="20300" maxLevel="30" type="3" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" mostNum="1" order="0" teleport="0"  />
+    <ItemSpec id="20400" role="20400" maxLevel="30" type="3" canStore="0" canMove="0" isDemolition="0" isDemolitionNeedHero="0" stationNum="1" mostNum="1" order="0" teleport="0"  />
+
+</tns:database>

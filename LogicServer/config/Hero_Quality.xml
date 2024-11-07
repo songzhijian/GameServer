@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" credits="1" coef="1" hpAdd="0" atkAdd="0" defAdd="0" mdefAdd="0" level="60" canExceedLv="0"  />
+    <ItemSpec id="2" credits="50" wordlessBookPower="[[19,0,0]]" coef="1" hpAdd="0" atkAdd="0" defAdd="0" mdefAdd="0" level="60" canExceedLv="0"  />
+    <ItemSpec id="3" credits="100" wordlessBookPower="[[19,0,5]]" coef="1.15" hpAdd="0" atkAdd="0" defAdd="0" mdefAdd="0" level="60" canExceedLv="0" need1="[1,3,2]"  />
+    <ItemSpec id="4" credits="200" wordlessBookPower="[[19,0,10]]" coef="1.32" hpAdd="200" atkAdd="40" defAdd="12" mdefAdd="12" level="80" canExceedLv="0" need1="[2,4,2]"  />
+    <ItemSpec id="5" credits="500" wordlessBookPower="[[19,0,15]]" coef="1.52" hpAdd="400" atkAdd="80" defAdd="24" mdefAdd="24" level="100" canExceedLv="0" need1="[1,5,1]" same="1" science="0" need2="[1,5,1]" same2="1"  />
+    <ItemSpec id="6" credits="1000" wordlessBookPower="[[19,0,20]]" coef="1.75" hpAdd="600" atkAdd="120" defAdd="36" mdefAdd="36" level="120" canExceedLv="0" need1="[2,6,2]" same="2" science="0" need2="[1,6,1]" same2="2"  />
+    <ItemSpec id="7" credits="1500" wordlessBookPower="[[19,0,25]]" coef="2.01" hpAdd="800" atkAdd="160" defAdd="48" mdefAdd="48" level="140" canExceedLv="0" need1="[1,6,1]" same="2" science="36" need2="[1,6,1]" same2="4"  />
+    <ItemSpec id="8" credits="2000" wordlessBookPower="[[19,0,30]]" coef="2.31" hpAdd="800" atkAdd="160" defAdd="48" mdefAdd="48" level="160" canExceedLv="0" need1="[2,8,1]" same="4" science="36" need2="[1,6,1]" same2="6"  />
+    <ItemSpec id="9" credits="3000" wordlessBookPower="[[19,0,35]]" coef="2.48" hpAdd="800" atkAdd="160" defAdd="48" mdefAdd="48" level="180" canExceedLv="0" need1="[2,8,1]" same="4" science="108" need2="[1,6,1]" same2="8"  />
+    <ItemSpec id="10" credits="4000" wordlessBookPower="[[19,0,40]]" coef="2.66" hpAdd="800" atkAdd="160" defAdd="48" mdefAdd="48" level="200" canExceedLv="0" need1="[1,6,1]" same="4" science="180" need2="[1,6,1]" same2="10"  />
+    <ItemSpec id="11" credits="4500" wordlessBookPower="[[19,0,45]]" coef="2.85" hpAdd="800" atkAdd="160" defAdd="48" mdefAdd="48" level="220" canExceedLv="0" need1="[1,6,1]" same="6" science="180" need2="[1,6,1]" same2="12"  />
+    <ItemSpec id="12" credits="5000" wordlessBookPower="[[19,0,50]]" coef="3.13" hpAdd="888" atkAdd="177" defAdd="53" mdefAdd="53" level="240" canExceedLv="1" need1="[1,6,1]" same="8" science="180" need2="[1,6,1]" same2="14"  />
+    <ItemSpec id="13" credits="5500" wordlessBookPower="[[19,0,55]]" coef="3.2" hpAdd="911" atkAdd="182" defAdd="54" mdefAdd="54" level="240" canExceedLv="1" need1="[1,6,1]" same="10" science="180" need2="[1,6,1]" same2="16"  />
+    <ItemSpec id="14" credits="6000" wordlessBookPower="[[19,0,60]]" coef="3.28" hpAdd="933" atkAdd="186" defAdd="56" mdefAdd="56" level="240" canExceedLv="1" need1="[1,6,1]" same="12" science="180" need2="[1,6,1]" same2="18"  />
+    <ItemSpec id="15" credits="6500" wordlessBookPower="[[19,0,65]]" coef="3.36" hpAdd="955" atkAdd="191" defAdd="57" mdefAdd="57" level="240" canExceedLv="1" need1="[1,6,1]" same="14" science="180" need2="[1,6,1]" same2="20"  />
+    <ItemSpec id="16" credits="7000" wordlessBookPower="[[19,0,70]]" coef="3.44" hpAdd="977" atkAdd="195" defAdd="58" mdefAdd="58" level="240" canExceedLv="1" need1="[1,6,1]" same="16" science="180" need2="[1,6,1]" same2="22"  />
+    <ItemSpec id="17" credits="7500" wordlessBookPower="[[19,0,75]]" coef="3.52" hpAdd="1000" atkAdd="200" defAdd="60" mdefAdd="60" level="240" canExceedLv="1" need1="[2,6,2]" same="18" science="180" need2="[2,6,2]" same2="24"  />
+    <ItemSpec id="18" credits="8000" wordlessBookPower="[[19,0,80]]" coef="3.86" hpAdd="1088" atkAdd="217" defAdd="65" mdefAdd="65" level="240" canExceedLv="1" need1="[2,6,2]" same="18" science="216" need2="[2,6,2]" same2="28"  />
+    <ItemSpec id="19" credits="8400" wordlessBookPower="[[19,0,85]]" coef="3.95" hpAdd="1111" atkAdd="222" defAdd="66" mdefAdd="66" level="240" canExceedLv="1" need1="[2,6,2]" same="18" science="252" need2="[2,6,2]" same2="32"  />
+    <ItemSpec id="20" credits="8800" wordlessBookPower="[[19,0,90]]" coef="4.04" hpAdd="1133" atkAdd="226" defAdd="68" mdefAdd="68" level="240" canExceedLv="1" need1="[2,6,2]" same="18" science="288" need2="[2,6,2]" same2="36"  />
+    <ItemSpec id="21" credits="9200" wordlessBookPower="[[19,0,93]]" coef="4.14" hpAdd="1155" atkAdd="231" defAdd="69" mdefAdd="69" level="240" canExceedLv="1" need1="[2,6,2]" same="18" science="324" need2="[2,6,2]" same2="40"  />
+    <ItemSpec id="22" credits="9600" wordlessBookPower="[[19,0,96]]" coef="4.24" hpAdd="1177" atkAdd="235" defAdd="70" mdefAdd="70" level="240" canExceedLv="1" need1="[2,6,2]" same="18" science="360" need2="[2,6,2]" same2="44"  />
+    <ItemSpec id="23" credits="10000" wordlessBookPower="[[19,0,99]]" coef="4.34" hpAdd="1200" atkAdd="240" defAdd="72" mdefAdd="72" level="240" canExceedLv="1" same="18" science="396" same2="48"  />
+
+</tns:database>

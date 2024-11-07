@@ -21,7 +21,7 @@ public class GameConfigGen {
     private static String javaOutPath = null;
     private static String tempPath = null;
 
-    private static final String packageName = "com.im30.esg.config.";
+    private static final String packageName = "com.jx.config.";
 
     private static boolean isAll = false;
     private static String[] names = null;
@@ -46,22 +46,22 @@ public class GameConfigGen {
         }
 
         System.out.println("path:" + path + "-inPath:" + inPath);
-        if (path.endsWith(File.separator + "ESGTool")) {
+        if (path.endsWith(File.separator + "LogicServer")) {
             if (inPath == null) {
-                inPath = path + "/../../UW/branches/develop/develop";
+                inPath = path + "/../../excelFile/JX/branches/develop/develop";
             }
-            xmlOutPath = path + "/../ESGProject/config/";
-            javaOutPath = path + "/../ESGProject/esg-config/src/main/java/";
+            xmlOutPath = path + "/config/";
+            javaOutPath = path + "/src/main/java/";
             tempPath = path + "/src/main/resources/template";
 
-        } else if (path.endsWith(File.separator + "tool")) {
+        } else if (path.endsWith(File.separator + "tool")) {//TODO
             if (inPath == null) {
-                inPath = path + "/../../UW/branches/develop/develop";
+                inPath = path + "/../../excelFile/JX/branches/develop/develop";
             }
-            xmlOutPath = path + "/../ESGProject/config/";
-            javaOutPath = path + "/../ESGProject/esg-config/src/main/java/";
+            xmlOutPath = path + "/config/";
+            javaOutPath = path + "/src/main/java/";
             tempPath = path + "/lib/template";
-        } else if (path.endsWith(File.separator + "release")) {
+        } else if (path.endsWith(File.separator + "release")) {//TODO
             if (inPath == null) {
                 inPath = path + "/trunk/";
             }
@@ -71,7 +71,9 @@ public class GameConfigGen {
             if (Tool.isLinux()) {
                 WarnUtil.open = true;
             }
-        } else if (path.contains(File.separator + "online") || path.endsWith(File.separator + "develop") || path.contains(File.separator + "local")) {
+        } else if (path.contains(File.separator + "online")
+                || path.endsWith(File.separator + "develop")
+                || path.contains(File.separator + "local")) {//TODO
             if (inPath == null) {
                 inPath = path + "/";
             }
@@ -80,7 +82,7 @@ public class GameConfigGen {
             if (Tool.isLinux()) {
                 WarnUtil.open = true;
             }
-        } else {
+        } else {//TODO
             if (inPath == null) {
                 inPath = path + "/";
             }
@@ -115,83 +117,83 @@ public class GameConfigGen {
         }
     }
 
-    public static void genBBCrossSheet(String[] args) {
-        String path = System.getProperty("user.dir");
-
-        if (args.length < 2) {
-            System.out.println("config生成参数不足");
-            return;
-        }
-
-        if ("all".equalsIgnoreCase(args[1])) {
-            isAll = true;
-        }
-
-        if (!isAll) {
-            names = args[1].split(",");
-        }
-
-        if (args.length >= 3) {
-            inPath = args[2];
-        }
-
-        if (args.length >= 4) {
-            xmlOutPath = args[3];
-        }
-
-        System.out.println("path:" + path);
-        if (path.endsWith(File.separator + "ESGTool")) {
-            if (inPath == null) {
-                inPath = path + "/../../smallball001/trunk/";
-            }
-            xmlOutPath = path + "/../../CasualGameServer/DeedleDoodleProject/config/";
-            javaOutPath = path + "/../../CasualGameServer/DeedleDoodleProject/esg-config/src/main/java/";
-            tempPath = path + "/src/main/resources/template";
-
-        } else if (path.endsWith(File.separator + "tool")) {
-            if (inPath == null) {
-                inPath = path + "/../../smallball001/trunk/";
-            }
-            if (xmlOutPath == null) {
-                xmlOutPath = path + "/../../CasualGameServer/DeedleDoodleProject/config/";
-            }
-            javaOutPath = path + "/../../CasualGameServer/DeedleDoodleProject/esg-config/src/main/java/";
-            tempPath = path + "/lib/template";
-        } else {
-            if (inPath == null) {
-                inPath = path + "/../配置表/";
-            }
-            xmlOutClientPath = path + "/../../uwcommon/plan/xml/";
-            tempPath = path + "/lib/template";
-            if (Tool.isLinux()) {
-                WarnUtil.open = true;
-                WarnUtil.index = 1;
-            }
-        }
-
-        System.out.println(inPath);
-        System.out.println(xmlOutPath);
-        System.out.println(javaOutPath);
-        List<File> files = new ArrayList<>();
-
-        FileUtil.getFileList(new File(inPath), files);
-        System.out.println(files.size());
-        for (File file : files) {
-            try {
-                if ((file.getName().endsWith(".xlsx") || file.getName().endsWith(".xlsm")) && !file.getName().startsWith("~$")) {
-                    Map<String, SheetData> sheetsMap = ExcelUtil.readeExcelData(file, GameConfigGen::check);
-                    genEnum(sheetsMap);
-                    genXML(sheetsMap);
-                    if (javaOutPath != null) {
-                        genConfigClass(sheetsMap);
-                    }
-                }
-            } catch (IOException e) {
-                throw new RuntimeException(e);
-            }
-
-        }
-    }
+//    public static void genBBCrossSheet(String[] args) {
+//        String path = System.getProperty("user.dir");
+//
+//        if (args.length < 2) {
+//            System.out.println("config生成参数不足");
+//            return;
+//        }
+//
+//        if ("all".equalsIgnoreCase(args[1])) {
+//            isAll = true;
+//        }
+//
+//        if (!isAll) {
+//            names = args[1].split(",");
+//        }
+//
+//        if (args.length >= 3) {
+//            inPath = args[2];
+//        }
+//
+//        if (args.length >= 4) {
+//            xmlOutPath = args[3];
+//        }
+//
+//        System.out.println("path:" + path);
+//        if (path.endsWith(File.separator + "ESGTool")) {
+//            if (inPath == null) {
+//                inPath = path + "/../../smallball001/trunk/";
+//            }
+//            xmlOutPath = path + "/../../CasualGameServer/DeedleDoodleProject/config/";
+//            javaOutPath = path + "/../../CasualGameServer/DeedleDoodleProject/esg-config/src/main/java/";
+//            tempPath = path + "/src/main/resources/template";
+//
+//        } else if (path.endsWith(File.separator + "tool")) {
+//            if (inPath == null) {
+//                inPath = path + "/../../smallball001/trunk/";
+//            }
+//            if (xmlOutPath == null) {
+//                xmlOutPath = path + "/../../CasualGameServer/DeedleDoodleProject/config/";
+//            }
+//            javaOutPath = path + "/../../CasualGameServer/DeedleDoodleProject/esg-config/src/main/java/";
+//            tempPath = path + "/lib/template";
+//        } else {
+//            if (inPath == null) {
+//                inPath = path + "/../配置表/";
+//            }
+//            xmlOutClientPath = path + "/../../uwcommon/plan/xml/";
+//            tempPath = path + "/lib/template";
+//            if (Tool.isLinux()) {
+//                WarnUtil.open = true;
+//                WarnUtil.index = 1;
+//            }
+//        }
+//
+//        System.out.println(inPath);
+//        System.out.println(xmlOutPath);
+//        System.out.println(javaOutPath);
+//        List<File> files = new ArrayList<>();
+//
+//        FileUtil.getFileList(new File(inPath), files);
+//        System.out.println(files.size());
+//        for (File file : files) {
+//            try {
+//                if ((file.getName().endsWith(".xlsx") || file.getName().endsWith(".xlsm")) && !file.getName().startsWith("~$")) {
+//                    Map<String, SheetData> sheetsMap = ExcelUtil.readeExcelData(file, GameConfigGen::check);
+//                    genEnum(sheetsMap);
+//                    genXML(sheetsMap);
+//                    if (javaOutPath != null) {
+//                        genConfigClass(sheetsMap);
+//                    }
+//                }
+//            } catch (IOException e) {
+//                throw new RuntimeException(e);
+//            }
+//
+//        }
+//    }
 
 
     private static void genEnum(Map<String, SheetData> sheetsMap) {
@@ -207,7 +209,7 @@ public class GameConfigGen {
             dataMap.put("size", entry.getValue().getEnumMax() + 1);
             if (javaOutPath != null) {
                 TemplateUtil.make(tempPath, "configEnum.java.ftl",
-                        javaOutPath + "com/im30/esg/config/type/" + fileName + ".java", dataMap);
+                        javaOutPath + "com/jx/config/type/" + fileName + ".java", dataMap);
             }
         }
     }

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="2101" interactionScope="3"  />
+    <ItemSpec id="2102" interactionScope="3"  />
+    <ItemSpec id="2103" interactionScope="3"  />
+    <ItemSpec id="2104" interactionScope="3"  />
+    <ItemSpec id="2105" interactionScope="3"  />
+    <ItemSpec id="2106" interactionScope="3"  />
+    <ItemSpec id="2107" interactionScope="3"  />
+    <ItemSpec id="2108" interactionScope="3"  />
+    <ItemSpec id="2201" interactionScope="3"  />
+    <ItemSpec id="2202" interactionScope="3"  />
+    <ItemSpec id="2203" interactionScope="3"  />
+    <ItemSpec id="2301" interactionScope="3"  />
+    <ItemSpec id="2401" interactionScope="3"  />
+
+</tns:database>

@@ -1,18 +1,16 @@
 package ${template.loaderPackageName};
 
-import com.im30.esg.ConfigGlobalManager;
-import com.im30.esg.common.ToolManager;
-import com.im30.esg.common.app.manager.AppManger;
-import com.im30.esg.common.utils.LogUtils;
-import com.im30.esg.common.utils.XmlUtils;
-import com.im30.esg.config.util.gen.old.support.ConfigLoader;
+import com.jx.config.ConfigGlobalManager;
+import com.gameengine.system.utils.LogUtils;
+import com.gameengine.system.utils.XmlUtils;
+import com.jx.config.util.gen.support.ConfigLoader;
 <#if template.saveOld>
-import com.im30.esg.config.custom.${template.className}CustomLoader;
+import com.jx.config.custom.${template.className}CustomLoader;
 </#if>
 import ${template.entityPackageName}.${template.className};
-import com.im30.esg.config.util.gen.old.support.IConfigLoader;
-import com.im30.esg.tool.business.config.type.primitive.*;
-import com.im30.esg.tool.business.config.type.struct.*;
+import com.jx.config.util.gen.support.IConfigLoader;
+import com.tool.config.type.primitive.*;
+import com.tool.config.type.struct.*;
 <#list template.packages as package>
 <#if package != "">
 import ${package};
@@ -87,8 +85,8 @@ public class ${template.loaderName} implements IConfigLoader{
             } catch (Exception e) {
                 ConfigGlobalManager.error = String.format("[ConfigLoader] load config %s error, id = %s, fieldName = %s message = %s", CONFIG_NAME, errorId, fieldName, e.getMessage());
                 LogUtils.logger.warn(ConfigGlobalManager.error,e);
-                String errorMsg = ConfigGlobalManager.error;
-                ToolManager.getWarnService().sendException(e,errorMsg, AppManger.warnAddresses.getConfig(),5000);
+<#--                String errorMsg = ConfigGlobalManager.error;-->
+<#--                ToolManager.getWarnService().sendException(e,errorMsg, AppManger.warnAddresses.getConfig(),5000);-->
                 throw e;
             }
         }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" constructType="0" buildSize="[1,1]" collisionSize="[0,0]" cost="[[2,102,10]]" costTime="1500" maxNum="0" funcType="0" damageTime="[20,40]" repairTime="3" repairCost="[[2,104,100]]" HP="100" damageHp="[20,80]"  />
+    <ItemSpec id="201" constructType="1" buildSize="[1,1]" collisionSize="[1,1]" cost="[[2,102,28],[2,103,10]]" costTime="3000" maxNum="1" funcType="1" funcParam="[20101,20102]" hero="0" interactionTime="3000" taskId="10402"  />
+    <ItemSpec id="202" constructType="1" buildSize="[1,1]" collisionSize="[1,1]" cost="[[2,102,28],[2,103,10]]" costTime="3300" maxNum="1" funcType="1" funcParam="[20201]" hero="0" interactionTime="3000" taskId="10301"  />
+    <ItemSpec id="203" constructType="1" buildSize="[1,1]" collisionSize="[1,1]" cost="[[2,102,600],[2,103,1000]]" costTime="3000" maxNum="1" funcType="0" damageTime="[40,80]" repairTime="6" repairCost="[[2,102,600],[2,103,1000]]" HP="200" damageHp="[40,160]" taskId="11604"  />
+    <ItemSpec id="204" constructType="1" buildSize="[1,1]" collisionSize="[1,1]" cost="[[2,102,600],[2,103,1000]]" costTime="3000" maxNum="1" funcType="0" taskId="11604"  />
+
+</tns:database>

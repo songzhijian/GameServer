@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" reward="[[2,110,1000]]"  />
+    <ItemSpec id="2" reward="[[3,25,5,1]]"  />
+    <ItemSpec id="3" reward="[[2,110,3000]]"  />
+    <ItemSpec id="4" reward="[[1,1001,100],[2,105,20000]]"  />
+    <ItemSpec id="5" reward="[[4,50301,0,0,1],[4,50302,0,0,1],[4,50303,0,0,1],[4,50304,0,0,1]]"  />
+    <ItemSpec id="6" reward="[[1,1031,10]]"  />
+    <ItemSpec id="7" reward="[[3,205,5,1]]"  />
+
+</tns:database>

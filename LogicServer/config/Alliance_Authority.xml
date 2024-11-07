@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" Type="1" rankAuthority="[0,0,0,0,1]" officialAuthority="[1,1,1,0]"  />
+    <ItemSpec id="2" Type="1" rankAuthority="[0,0,0,0,1]" officialAuthority="[1,0,1,1]"  />
+    <ItemSpec id="3" Type="2" rankAuthority="[0,0,1,1,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="4" Type="2" rankAuthority="[0,0,0,0,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="5" Type="2" rankAuthority="[0,0,0,0,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="6" Type="1" rankAuthority="[0,0,0,0,1]" officialAuthority="[1,0,1,0]"  />
+    <ItemSpec id="7" Type="2" rankAuthority="[0,0,0,0,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="8" Type="2" rankAuthority="[0,0,0,0,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="9" Type="2" rankAuthority="[0,0,0,1,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="10" Type="2" rankAuthority="[0,0,0,1,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="11" Type="2" rankAuthority="[0,0,1,1,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="12" Type="2" rankAuthority="[1,1,1,1,0]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="13" Type="2" rankAuthority="[0,0,0,1,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="14" Type="1" rankAuthority="[0,0,0,0,1]" officialAuthority="[0,1,0,1]"  />
+    <ItemSpec id="15" Type="1" rankAuthority="[0,0,0,1,1]" officialAuthority="[0,1,0,1]"  />
+    <ItemSpec id="16" Type="2" rankAuthority="[1,1,1,1,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="17" Type="2" rankAuthority="[0,0,0,0,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="18" Type="1" rankAuthority="[0,0,0,0,1]" officialAuthority="[1,0,1,0]"  />
+    <ItemSpec id="19" Type="1" rankAuthority="[0,0,0,0,1]" officialAuthority="[0,1,0,1]"  />
+    <ItemSpec id="20" Type="2" rankAuthority="[0,0,0,1,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="21" Type="2" rankAuthority="[0,0,0,1,1]" officialAuthority="[0,0,0,0]"  />
+    <ItemSpec id="22" Type="2" rankAuthority="[0,0,0,1,1]" officialAuthority="[0,0,0,0]"  />
+
+</tns:database>

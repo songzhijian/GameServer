@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" random="[[1,1,0],[2,0,2],[1,2,0,0]]" complete="[[108,1,2],[51,3,1,2]]" receiveCost="[[24,1]]" completeCost="[[1,10002,1]]"  />
+    <ItemSpec id="2" random="[[1,2,0],[2,0,2],[1,2,0,0]]" complete="[[108,1,2],[51,3,1,2]]" receiveCost="[[24,1]]" completeCost="[[1,10002,1]]"  />
+    <ItemSpec id="3" random="[[1,3,0],[2,0,2],[1,2,0,0]]" complete="[[108,1,2],[51,3,1,2]]" receiveCost="[[24,1]]" completeCost="[[1,10002,1]]"  />
+    <ItemSpec id="4" random="[[1,4,0],[2,0,2],[1,2,0,0]]" complete="[[108,1,2],[51,3,1,2]]" receiveCost="[[24,1]]" completeCost="[[1,10002,1]]"  />
+    <ItemSpec id="5" random="[[1,5,0],[2,0,2],[1,2,0,0]]" complete="[[108,1,2],[51,3,1,2]]" receiveCost="[[24,1]]" completeCost="[[1,10002,1]]"  />
+
+</tns:database>

@@ -7,11 +7,12 @@ public class Tool {
     public static String SYSTEM_NAME;
     public static void main(String[] args) {
 
-        if(args.length<1) {
-            System.out.println("参数不足");
-            return;
-        }
+//        if(args.length<1) {
+//            System.out.println("参数不足");
+//            return;
+//        }
         SYSTEM_NAME = System.getProperty("os.name");
+        args = new String[]{"config", "all"};
         String arg = args[0].toLowerCase();
         switch (arg) {
             case "config" :

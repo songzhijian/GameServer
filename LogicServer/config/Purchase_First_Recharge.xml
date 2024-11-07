@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1401" belong="140" dayNum="1" reward="[[3,403,5,1],[1,1001,20],[1,2701,1],[103,101,1]]"  />
+    <ItemSpec id="1402" belong="140" dayNum="2" reward="[[2,110,1500],[2,105,20000],[1,1102,2],[1,2661,20]]"  />
+    <ItemSpec id="1403" belong="140" dayNum="3" reward="[[2,110,1500],[4,50201,0,0,1],[1,1102,2],[1,2661,20]]"  />
+
+</tns:database>

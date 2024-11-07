@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" need="1010" reward="[[2,100,5],[1,1011,1]]"  />
+    <ItemSpec id="2" need="1030" reward="[[2,100,5],[1,1011,1]]"  />
+    <ItemSpec id="3" need="1060" reward="[[2,100,5],[1,1011,1]]"  />
+    <ItemSpec id="4" need="1100" reward="[[2,100,5],[1,1011,1]]"  />
+    <ItemSpec id="5" need="1150" reward="[[2,100,5],[1,1011,1]]"  />
+    <ItemSpec id="6" need="1200" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="7" need="1250" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="8" need="1300" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="9" need="1350" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="10" vip="5" need="1400" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="11" vip="5" need="1450" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="12" vip="10" need="1500" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="13" vip="10" need="1550" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="14" vip="10" need="1600" reward="[[2,100,10],[1,1011,1]]"  />
+    <ItemSpec id="15" vip="10" need="1650" reward="[[2,100,10],[1,1011,1]]"  />
+
+</tns:database>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1011"  />
+    <ItemSpec id="1012" unlockCost="[[2,100,50]]"  />
+    <ItemSpec id="1013" unlockCost="[[2,100,60]]"  />
+    <ItemSpec id="1021"  />
+    <ItemSpec id="1022" unlockCost="[[2,100,70]]"  />
+    <ItemSpec id="1023" unlockCost="[[2,100,80]]"  />
+    <ItemSpec id="1031"  />
+    <ItemSpec id="1032" unlockCost="[[2,100,90]]"  />
+    <ItemSpec id="1033" unlockCost="[[2,100,100]]"  />
+    <ItemSpec id="1041"  />
+    <ItemSpec id="1042" unlockCost="[[2,100,110]]"  />
+    <ItemSpec id="1043" unlockCost="[[2,100,120]]"  />
+
+</tns:database>

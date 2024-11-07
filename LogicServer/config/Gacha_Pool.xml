@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" pool="1" race="[[0,1,11],[1,2,11],[2,3,70],[3,4,11],[4,5,11],[5,6,11],[6,7,74],[7,8,11],[8,9,71],[9,10,11],[10,14,12],[14,15,72],[15,17,12],[17,18,75],[18,22,12],[22,23,73],[23,27,12],[27,28,76],[28,32,12],[32,33,74],[33,37,12],[37,38,76],[38,42,12],[42,43,77],[43,45,12],[45,72,13],[72,73,78],[73,97,13],[97,98,79],[98,100,13],[100,300,14],[300,500,13],[500,-1,15]]" cheatMark="1" cheat4Green="11" cheatGBPool="12"  />
+    <ItemSpec id="11" isRecycle="1" race="[[0,500,80],[500,-1,81]]" cheatMark="0"  />
+    <ItemSpec id="12" isRecycle="1" race="[[0,500,82],[500,-1,83]]" cheatMark="0"  />
+    <ItemSpec id="2" pool="2" fixCheatByPoolId="[[4,5,22]]" race="[[0,4,21],[4,5,22],[5,20,23],[20,500,24],[500,-1,25]]" cheatMark="2" cheat4Green="26" cheatGBPool="27"  />
+    <ItemSpec id="3" pool="3" fixCheatByPoolId="[[4,5,32]]" race="[[0,4,31],[4,5,32],[5,20,33],[20,500,34],[500,-1,35]]" cheatMark="2" cheat4Green="36" cheatGBPool="37"  />
+    <ItemSpec id="4" pool="4" fixCheatByPoolId="[[4,5,42]]" race="[[0,4,41],[4,5,42],[5,20,43],[20,500,44],[500,-1,45]]" cheatMark="2" cheat4Green="46" cheatGBPool="47"  />
+    <ItemSpec id="5" pool="5" fixCheatByPoolId="[[4,5,52]]" race="[[0,4,51],[4,5,52],[5,20,53],[20,500,54],[500,-1,55]]" cheatMark="2" cheat4Green="56" cheatGBPool="57"  />
+    <ItemSpec id="26" isRecycle="1" race="[[0,500,84],[500,-1,85]]" cheatMark="0"  />
+    <ItemSpec id="36" isRecycle="1" race="[[0,500,86],[500,-1,87]]" cheatMark="0"  />
+    <ItemSpec id="46" isRecycle="1" race="[[0,500,88],[500,-1,89]]" cheatMark="0"  />
+    <ItemSpec id="56" isRecycle="1" race="[[0,500,90],[500,-1,91]]" cheatMark="0"  />
+    <ItemSpec id="27" isRecycle="1" race="[[0,500,92],[500,-1,93]]" cheatMark="0"  />
+    <ItemSpec id="37" isRecycle="1" race="[[0,500,94],[500,-1,95]]" cheatMark="0"  />
+    <ItemSpec id="47" isRecycle="1" race="[[0,500,96],[500,-1,97]]" cheatMark="0"  />
+    <ItemSpec id="57" isRecycle="1" race="[[0,500,98],[500,-1,99]]" cheatMark="0"  />
+
+</tns:database>

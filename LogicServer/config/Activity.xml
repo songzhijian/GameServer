@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="3" type="3" param="[0]" time="[3,0,70]" associativeType="2"  />
+    <ItemSpec id="4" type="4" time="[2,2024-01-01 00:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="201" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="5" type="4" time="[2,2024-01-01 06:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="202" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="6" type="4" time="[2,2024-01-01 12:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="203" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="7" type="4" time="[2,2024-01-01 18:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="204" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="8" type="4" time="[2,2024-01-02 00:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="205" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="9" type="4" time="[2,2024-01-02 06:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="206" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="10" type="4" time="[2,2024-01-02 12:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="207" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="11" type="4" time="[2,2024-01-02 18:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="208" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="12" type="4" time="[2,2024-01-03 00:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="209" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="13" type="4" time="[2,2024-01-03 06:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="210" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="14" type="4" time="[2,2024-01-03 12:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="211" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="15" type="4" time="[2,2024-01-03 18:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="212" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="16" type="4" time="[2,2024-01-04 00:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="213" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="17" type="4" time="[2,2024-01-04 06:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="214" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="18" type="4" time="[2,2024-01-04 12:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="215" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="19" type="4" time="[2,2024-01-04 18:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="216" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="20" type="4" time="[2,2024-01-05 00:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="217" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="21" type="4" time="[2,2024-01-05 06:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="218" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="22" type="4" time="[2,2024-01-05 12:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="219" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="23" type="4" time="[2,2024-01-05 18:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="220" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="24" type="4" time="[2,2024-01-06 00:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="221" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="25" type="4" time="[2,2024-01-06 06:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="222" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="26" type="4" time="[2,2024-01-06 12:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="223" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="27" type="4" time="[2,2024-01-06 18:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="224" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="28" type="4" time="[2,2024-01-07 00:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="225" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="29" type="4" time="[2,2024-01-07 06:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="226" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="30" type="4" time="[2,2024-01-07 12:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="227" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="31" type="4" time="[2,2024-01-07 18:00:00,3,1,21600,-1]" personCondition="[[1,1103]]" rank="228" associativeType="3" activeNotification="1" mail="11081" functionOn="1002"  />
+    <ItemSpec id="1001" type="6" param="[301,302,303,304,305,306,307]" param2="[1209600]" time="[3,0,99999]" personCondition="[[11,1002,1]]" activeNotification="1" mail="10302" functionOn="1003" ifPersonal="1"  />
+    <ItemSpec id="2001" type="5" param="[1,2,3,4,5,6,7]" param2="[864000]" time="[3,0,99999]" personCondition="[[11,100208,1]]" activeNotification="1" mail="10303" functionOn="1004" ifPersonal="1"  />
+    <ItemSpec id="3003" type="8" param="[101,102,103,104]" param2="[315360000]" time="[3,0,99999]" personCondition="[[11,1002,1]]" activeNotification="1" mail="10304" functionOn="1011" ifPersonal="1" isDailyReset="1"  />
+    <ItemSpec id="1100" type="7" param="[400001,400002,400003,400004,400005,400006,400007,400008,400009,400010]" param2="[1]" time="[3,2,9]" personCondition="[[1,1103]]" rank="301" associativeType="3" activeNotification="1" reward="[[1,1031,1],[1,1164,1],[1,1104,1]]" mail="11091" functionOn="1005" ifPersonal="1"  />
+    <ItemSpec id="1101" type="7" param="[400101,400102,400103,400104,400105,400106,400107,400108,400109,400110]" param2="[2]" time="[3,0,7]" personCondition="[[1,1103]]" rank="302" associativeType="3" activeNotification="1" reward="[[2,110,300],[1,1124,1],[1,1144,1]]" mail="11092" functionOn="1006" ifPersonal="1"  />
+    <ItemSpec id="1102" type="7" param="[400201,400202,400203,400204,400205]" param2="[3]" time="[2,2024-04-01 00:00:00,3,2,432000,-1]" serverCondition="[[1,1,2,1]]" personCondition="[[1,1103]]" rank="303" associativeType="3" activeNotification="1" reward="[[2,110,300],[1,1124,1],[1,1144,1]]" mail="11098" functionOn="1013" ifPersonal="1"  />
+    <ItemSpec id="1103" type="7" param="[400301,400302,400303,400304,400305]" param2="[4]" time="[2,2024-04-08 00:00:00,3,2,432000,-1]" serverCondition="[[1,1,2,1]]" personCondition="[[1,1103]]" rank="304" associativeType="3" activeNotification="1" reward="[[2,110,300],[1,1124,1],[1,1144,1]]" mail="11099" functionOn="1014" ifPersonal="1"  />
+    <ItemSpec id="1201" type="12" time="[2,2024-04-06 00:00:00,3,1,86400,-1]" serverCondition="[[2,3,3]]" associativeType="3" activeNotification="1" functionOn="1012" ifPersonal="1"  />
+    <ItemSpec id="1301" type="13" time="[2,2024-03-25 00:00:00,3,1,604800,-1]" personCondition="[[1,1101]]" rank="401" activeNotification="1"  />
+    <ItemSpec id="1302" type="13" time="[2,2024-03-25 00:00:00,3,1,604800,-1]" personCondition="[[1,1101]]" rank="402" activeNotification="1"  />
+    <ItemSpec id="1303" type="13" time="[2,2024-03-25 00:00:00,3,1,604800,-1]" personCondition="[[1,1101]]" rank="403" activeNotification="1"  />
+    <ItemSpec id="1304" type="13" time="[2,2024-03-25 00:00:00,3,1,604800,-1]" personCondition="[[1,1101]]" rank="404" activeNotification="1"  />
+    <ItemSpec id="1305" type="13" time="[2,2024-03-25 00:00:00,3,1,604800,-1]" personCondition="[[1,1101]]" rank="405" activeNotification="1"  />
+    <ItemSpec id="1306" type="13" time="[2,2024-03-25 00:00:00,3,1,604800,-1]" personCondition="[[1,1101]]" rank="406" activeNotification="1"  />
+    <ItemSpec id="1307" type="13" time="[2,2024-03-25 00:00:00,3,1,604800,-1]" personCondition="[[1,1101]]" rank="407" activeNotification="1"  />
+    <ItemSpec id="1308" type="13" time="[2,2024-03-25 00:00:00,3,1,604800,-1]" personCondition="[[1,1101]]" rank="408" activeNotification="1"  />
+    <ItemSpec id="3002" type="10" param="[1]" time="[3,0,42]" activeNotification="1" ifPersonal="1"  />
+    <ItemSpec id="4001" type="10" param="[1001]" time="[4]" activeNotification="1" functionOn="1010" ifPersonal="1"  />
+    <ItemSpec id="5001" type="9" param="[401001,401002,401003,401004,401005,401006,401007]" previewTime="900" time="[3,7,14]" personCondition="[[1,1106]]" associativeType="3" activeNotification="1" mail="10305" functionOn="1008" ifPersonal="1"  />
+    <ItemSpec id="6001" type="14" previewTime="900" time="[2,2024-03-10 00:00:00,1,1,2400,-1]" personCondition="[[1,1109]]" activeNotification="1" startMarqueeTime="[15,10,5]" marqueeId="4" functionOn="4001"  />
+
+</tns:database>

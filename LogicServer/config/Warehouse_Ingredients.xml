@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="6401" lv="1" produce="2" itemLink="6401"  />
+    <ItemSpec id="6402" lv="2" produce="2" itemLink="6402"  />
+    <ItemSpec id="6403" lv="3" produce="2" itemLink="6403"  />
+    <ItemSpec id="6404" lv="4" produce="2" itemLink="6404"  />
+    <ItemSpec id="6405" lv="5" produce="2" itemLink="6405"  />
+    <ItemSpec id="6406" lv="6" produce="2" itemLink="6406"  />
+    <ItemSpec id="6407" lv="7" produce="2" itemLink="6407"  />
+
+</tns:database>

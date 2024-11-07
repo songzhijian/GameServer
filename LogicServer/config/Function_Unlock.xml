@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" unlockCondition="[[1,1108]]"  />
+    <ItemSpec id="102" unlockCondition="[[11,1002,1]]"  />
+    <ItemSpec id="103" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="104"  />
+    <ItemSpec id="105" unlockCondition="[[1,15101]]"  />
+    <ItemSpec id="106" unlockCondition="[[11,11301,1]]"  />
+    <ItemSpec id="107" unlockCondition="[[11,11506,1]]"  />
+    <ItemSpec id="1001" unlockCondition="[[11,11506,1]]"  />
+    <ItemSpec id="1002" unlockCondition="[[1,1106]]"  />
+    <ItemSpec id="1003" unlockCondition="[[11,11506,1]]"  />
+    <ItemSpec id="201" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="202" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="203"  />
+    <ItemSpec id="204" unlockCondition="[[11,100508,1]]"  />
+    <ItemSpec id="205" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="206" unlockCondition="[[1,1105]]"  />
+    <ItemSpec id="207" unlockCondition="[[1,2101]]"  />
+    <ItemSpec id="208" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="209" unlockCondition="[[1,4101]]"  />
+    <ItemSpec id="210" unlockCondition="[[1,3101]]"  />
+    <ItemSpec id="213" unlockCondition="[[1,1101]]"  />
+    <ItemSpec id="214" unlockCondition="[[1,1103]]"  />
+    <ItemSpec id="215" unlockCondition="[[13,1015]]"  />
+    <ItemSpec id="216" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="217" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="218" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="219" unlockCondition="[[1,1104]]"  />
+    <ItemSpec id="220" unlockCondition="[[1,1104]]"  />
+    <ItemSpec id="301" unlockCondition="[[13,1025]]"  />
+    <ItemSpec id="302" unlockCondition="[[6,11,25]]"  />
+    <ItemSpec id="303" unlockCondition="[[6,6,25]]"  />
+    <ItemSpec id="305" unlockCondition="[[6,8,25]]"  />
+    <ItemSpec id="306" unlockCondition="[[27,111010]]"  />
+    <ItemSpec id="401" unlockCondition="[[1,1104]]"  />
+    <ItemSpec id="402" unlockCondition="[[1,1124]]"  />
+    <ItemSpec id="403" unlockCondition="[[11,100201,0]]"  />
+    <ItemSpec id="501" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="502" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="503" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="504" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="51" unlockCondition="[[11,11208,1]]"  />
+    <ItemSpec id="52" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="10"  />
+    <ItemSpec id="11"  />
+    <ItemSpec id="12"  />
+    <ItemSpec id="13" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="14"  />
+    <ItemSpec id="15"  />
+    <ItemSpec id="16"  />
+    <ItemSpec id="17" unlockCondition="[[1,1108]]"  />
+    <ItemSpec id="18" unlockCondition="[[11,11506,1]]"  />
+    <ItemSpec id="1011" unlockCondition="[[1,1108]]"  />
+    <ItemSpec id="1012" unlockCondition="[[1,1112]]"  />
+    <ItemSpec id="1013" unlockCondition="[[1,1130]]"  />
+    <ItemSpec id="1021" unlockCondition="[[11,1002,1]]"  />
+    <ItemSpec id="1022" unlockCondition="[[1,1130]]"  />
+    <ItemSpec id="1023" unlockCondition="[[1,1105]]"  />
+    <ItemSpec id="1024" unlockCondition="[[1,1106]]"  />
+    <ItemSpec id="1031" unlockCondition="[[16,110601]]"  />
+    <ItemSpec id="1041" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="1042" unlockCondition="[[1,6201]]"  />
+    <ItemSpec id="1043" unlockCondition="[[1,6301]]"  />
+    <ItemSpec id="1044" unlockCondition="[[1,6401]]"  />
+    <ItemSpec id="1051" unlockCondition="[[1,1101]]"  />
+    <ItemSpec id="1052" unlockCondition="[[1,1101]]"  />
+    <ItemSpec id="1053" unlockCondition="[[1,1101]]"  />
+    <ItemSpec id="1054" unlockCondition="[[16,320101]]"  />
+    <ItemSpec id="1055" unlockCondition="[[16,320401]]"  />
+    <ItemSpec id="1056" unlockCondition="[[16,321301]]"  />
+    <ItemSpec id="1057" unlockCondition="[[16,330101]]"  />
+    <ItemSpec id="1058" unlockCondition="[[16,330401]]"  />
+    <ItemSpec id="1059" unlockCondition="[[16,331301]]"  />
+    <ItemSpec id="1060" unlockCondition="[[16,340101]]"  />
+    <ItemSpec id="1061" unlockCondition="[[16,340401]]"  />
+    <ItemSpec id="1062" unlockCondition="[[16,341301]]"  />
+    <ItemSpec id="1101" unlockCondition="[[6,2,25]]"  />
+    <ItemSpec id="1102" unlockCondition="[[13,1011]]"  />
+    <ItemSpec id="1103" unlockCondition="[[13,1025]]"  />
+    <ItemSpec id="3001" unlockCondition="[[6,2,25]]"  />
+    <ItemSpec id="4001" unlockCondition="[[11,11509,1]]"  />
+    <ItemSpec id="4002" unlockCondition="[[11,11509,1]]"  />
+
+</tns:database>

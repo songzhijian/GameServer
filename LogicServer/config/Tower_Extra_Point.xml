@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" type0Count="1" type0Rand="[[1101,200],[11101,200],[21101,200],[101,150],[3101,150]]"  />
+    <ItemSpec id="2" type0Count="1" type0Rand="[[1101,200],[11101,200],[21101,200],[101,150],[3101,150]]" type1Count="1" type1Rand="[[1201,200],[11201,200],[21201,200],[201,150],[3201,150]]"  />
+    <ItemSpec id="3" type0Count="1" type0Rand="[[1101,200],[11101,200],[21101,200],[101,150],[3101,150]]" type1Count="2" type1Rand="[[1201,200],[11201,200],[21201,200],[201,150],[3201,150]]"  />
+    <ItemSpec id="4" type0Count="2" type0Rand="[[1101,200],[11101,200],[21101,200],[101,150],[3101,150]]" type1Count="2" type1Rand="[[1201,200],[11201,200],[21201,200],[201,150],[3201,150]]"  />
+    <ItemSpec id="5" type0Count="2" type0Rand="[[1101,200],[11101,200],[21101,200],[101,150],[3101,150]]" type1Count="3" type1Rand="[[1201,200],[11201,200],[21201,200],[201,150],[3201,150]]"  />
+
+</tns:database>

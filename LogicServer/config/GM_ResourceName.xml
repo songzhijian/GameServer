@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="100" name="钻石"  />
+    <ItemSpec id="101" name="金币"  />
+    <ItemSpec id="102" name="木材"  />
+    <ItemSpec id="103" name="织物"  />
+    <ItemSpec id="104" name="金属"  />
+    <ItemSpec id="105" name="英雄经验"  />
+    <ItemSpec id="107" name="竞技场货币"  />
+    <ItemSpec id="108" name="遣散英雄货币"  />
+    <ItemSpec id="109" name="迷宫币"  />
+    <ItemSpec id="110" name="抽卡点"  />
+    <ItemSpec id="111" name="抽卡心愿单能量"  />
+    <ItemSpec id="112" name="贤者之石能量"  />
+    <ItemSpec id="113" name="无字之书能量"  />
+    <ItemSpec id="114" name="赛季battlepass的经验"  />
+    <ItemSpec id="115" name="个人battlepass的经验"  />
+    <ItemSpec id="116" name="回归battlepass的经验"  />
+    <ItemSpec id="117" name="方晶（科技币）"  />
+    <ItemSpec id="201" name="联盟贡献"  />
+    <ItemSpec id="202" name="贸易额度"  />
+    <ItemSpec id="203" name="攻城燃油"  />
+    <ItemSpec id="204" name="政策点-个人赛季政策玩法消耗的资源"  />
+    <ItemSpec id="205" name="联盟战功"  />
+
+</tns:database>

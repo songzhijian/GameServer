@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" formula="[1,41,42,43]" sendToC="1" bp="0.48"  />
+    <ItemSpec id="2" formula="[1,44,45,46]" sendToC="1" bp="2.4"  />
+    <ItemSpec id="3" formula="[1,47,48,49]" sendToC="1" bp="2"  />
+    <ItemSpec id="4" formula="[1,50,51,52]" sendToC="1" bp="2"  />
+    <ItemSpec id="5" sendToC="1" bp="0"  />
+    <ItemSpec id="6" sendToC="1" bp="0"  />
+    <ItemSpec id="11" formula="[2,53,55]" sendToC="1" bp="7.4"  />
+    <ItemSpec id="12" formula="[2,56,58]" sendToC="1" bp="3.8"  />
+    <ItemSpec id="13" formula="[2,59,61]" sendToC="1" bp="3.8"  />
+    <ItemSpec id="14" formula="[2,62,64]" sendToC="1" bp="45"  />
+    <ItemSpec id="15" formula="[2,65,67]" sendToC="1" bp="45"  />
+    <ItemSpec id="16" formula="[2,68,70]" sendToC="1" bp="6"  />
+    <ItemSpec id="17" formula="[2,71,73]" sendToC="1" bp="45"  />
+    <ItemSpec id="21"  />
+    <ItemSpec id="22"  />
+    <ItemSpec id="23"  />
+    <ItemSpec id="24"  />
+    <ItemSpec id="25"  />
+    <ItemSpec id="26"  />
+    <ItemSpec id="27"  />
+    <ItemSpec id="28"  />
+    <ItemSpec id="29"  />
+    <ItemSpec id="30"  />
+    <ItemSpec id="31"  />
+    <ItemSpec id="32"  />
+    <ItemSpec id="33"  />
+    <ItemSpec id="34"  />
+    <ItemSpec id="41"  />
+    <ItemSpec id="42"  />
+    <ItemSpec id="43"  />
+    <ItemSpec id="44"  />
+    <ItemSpec id="45"  />
+    <ItemSpec id="46"  />
+    <ItemSpec id="47"  />
+    <ItemSpec id="48"  />
+    <ItemSpec id="49"  />
+    <ItemSpec id="50"  />
+    <ItemSpec id="51"  />
+    <ItemSpec id="52"  />
+    <ItemSpec id="53"  />
+    <ItemSpec id="54"  />
+    <ItemSpec id="55"  />
+    <ItemSpec id="56"  />
+    <ItemSpec id="57"  />
+    <ItemSpec id="58"  />
+    <ItemSpec id="59"  />
+    <ItemSpec id="60"  />
+    <ItemSpec id="61"  />
+    <ItemSpec id="62"  />
+    <ItemSpec id="63"  />
+    <ItemSpec id="64"  />
+    <ItemSpec id="65"  />
+    <ItemSpec id="66"  />
+    <ItemSpec id="67"  />
+    <ItemSpec id="68"  />
+    <ItemSpec id="69"  />
+    <ItemSpec id="70"  />
+    <ItemSpec id="71"  />
+    <ItemSpec id="72"  />
+    <ItemSpec id="73"  />
+
+</tns:database>

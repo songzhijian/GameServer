@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" type="0"  />
+    <ItemSpec id="2" type="0"  />
+    <ItemSpec id="3" type="0"  />
+    <ItemSpec id="4" type="1"  />
+    <ItemSpec id="5" type="1"  />
+    <ItemSpec id="6" type="1"  />
+    <ItemSpec id="7" type="1"  />
+    <ItemSpec id="8" type="1"  />
+    <ItemSpec id="9" type="1"  />
+    <ItemSpec id="10" type="1"  />
+    <ItemSpec id="11" type="1"  />
+    <ItemSpec id="12" type="1"  />
+    <ItemSpec id="13" type="1"  />
+
+</tns:database>

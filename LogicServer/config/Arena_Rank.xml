@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" rank="[1,1]" enemyZone1="[-30,-10]" enemyZone2="[-10,10]" enemyZone3="[10,30]" zoneStep1="[-60,-30]" zoneStep2="[-30,30]" zoneStep3="[30,60]" reward="[[2,100,380],[1,1103,10]]" resetIntegral="1400"  />
+    <ItemSpec id="2" rank="[2,2]" enemyZone1="[-30,-10]" enemyZone2="[-10,10]" enemyZone3="[10,30]" zoneStep1="[-60,-30]" zoneStep2="[-30,30]" zoneStep3="[30,60]" reward="[[2,100,360],[1,1103,10]]" resetIntegral="1380"  />
+    <ItemSpec id="3" rank="[3,3]" enemyZone1="[-30,-10]" enemyZone2="[-10,10]" enemyZone3="[10,30]" zoneStep1="[-60,-30]" zoneStep2="[-30,30]" zoneStep3="[30,60]" reward="[[2,100,350],[1,1103,10]]" resetIntegral="1360"  />
+    <ItemSpec id="4" rank="[4,5]" enemyZone1="[-30,-10]" enemyZone2="[-10,10]" enemyZone3="[10,30]" zoneStep1="[-60,-30]" zoneStep2="[-30,30]" zoneStep3="[30,60]" reward="[[2,100,340],[1,1103,9]]" resetIntegral="1340"  />
+    <ItemSpec id="5" rank="[6,10]" enemyZone1="[-30,-10]" enemyZone2="[-10,10]" enemyZone3="[10,30]" zoneStep1="[-60,-30]" zoneStep2="[-30,30]" zoneStep3="[30,60]" reward="[[2,100,330],[1,1103,9]]" resetIntegral="1320"  />
+    <ItemSpec id="6" rank="[11,20]" enemyZone1="[-30,-10]" enemyZone2="[-10,10]" enemyZone3="[10,30]" zoneStep1="[-60,-30]" zoneStep2="[-30,30]" zoneStep3="[30,60]" reward="[[2,100,310],[1,1103,9]]" resetIntegral="1300"  />
+    <ItemSpec id="7" rank="[21,30]" enemyZone1="[-30,-10]" enemyZone2="[-10,10]" enemyZone3="[10,30]" zoneStep1="[-60,-30]" zoneStep2="[-30,30]" zoneStep3="[30,60]" reward="[[2,100,300],[1,1103,8]]" resetIntegral="1280"  />
+    <ItemSpec id="8" rank="[31,60]" enemyZone1="[-45,-15]" enemyZone2="[-15,15]" enemyZone3="[15,45]" zoneStep1="[-90,-45]" zoneStep2="[-45,45]" zoneStep3="[45,90]" reward="[[2,100,290],[1,1103,8]]" resetIntegral="1270"  />
+    <ItemSpec id="9" rank="[61,100]" enemyZone1="[-45,-15]" enemyZone2="[-15,15]" enemyZone3="[15,45]" zoneStep1="[-90,-45]" zoneStep2="[-45,45]" zoneStep3="[45,90]" reward="[[2,100,280],[1,1103,8]]" resetIntegral="1260"  />
+    <ItemSpec id="10" rank="[101,200]" enemyZone1="[-45,-15]" enemyZone2="[-15,15]" enemyZone3="[15,45]" zoneStep1="[-90,-45]" zoneStep2="[-45,45]" zoneStep3="[45,90]" reward="[[2,100,260],[1,1103,7]]" resetIntegral="1250"  />
+    <ItemSpec id="11" rank="[201,300]" enemyZone1="[-45,-15]" enemyZone2="[-15,15]" enemyZone3="[15,45]" zoneStep1="[-90,-45]" zoneStep2="[-45,45]" zoneStep3="[45,90]" reward="[[2,100,250],[1,1103,7]]" resetIntegral="1240"  />
+    <ItemSpec id="12" rank="[301,600]" enemyZone1="[-60,-20]" enemyZone2="[-20,20]" enemyZone3="[20,60]" zoneStep1="[-120,-60]" zoneStep2="[-60,60]" zoneStep3="[60,120]" reward="[[2,100,240],[1,1103,7]]" resetIntegral="1220"  />
+    <ItemSpec id="13" rank="[601,1000]" enemyZone1="[-60,-20]" enemyZone2="[-20,20]" enemyZone3="[20,60]" zoneStep1="[-120,-60]" zoneStep2="[-60,60]" zoneStep3="[60,120]" reward="[[2,100,230],[1,1103,6]]" resetIntegral="1200"  />
+    <ItemSpec id="14" rank="[1001,2000]" enemyZone1="[-60,-20]" enemyZone2="[-20,20]" enemyZone3="[20,60]" zoneStep1="[-120,-60]" zoneStep2="[-60,60]" zoneStep3="[60,120]" reward="[[2,100,210],[1,1103,6]]" resetIntegral="1160"  />
+    <ItemSpec id="15" rank="[2001,3000]" enemyZone1="[-60,-20]" enemyZone2="[-20,20]" enemyZone3="[20,60]" zoneStep1="[-120,-60]" zoneStep2="[-60,60]" zoneStep3="[60,120]" reward="[[2,100,200],[1,1103,5]]" resetIntegral="1130"  />
+    <ItemSpec id="16" rank="[3001,6000]" enemyZone1="[-75,-25]" enemyZone2="[-25,25]" enemyZone3="[25,75]" zoneStep1="[-150,-75]" zoneStep2="[-75,75]" zoneStep3="[75,175]" reward="[[2,100,190],[1,1103,4]]" resetIntegral="1110"  />
+    <ItemSpec id="17" rank="[6001,10000]" enemyZone1="[-75,-25]" enemyZone2="[-25,25]" enemyZone3="[25,75]" zoneStep1="[-150,-75]" zoneStep2="[-75,75]" zoneStep3="[75,175]" reward="[[2,100,180],[1,1103,4]]" resetIntegral="1060"  />
+    <ItemSpec id="18" rank="[10001,15000]" enemyZone1="[-75,-25]" enemyZone2="[-25,25]" enemyZone3="[25,75]" zoneStep1="[-150,-75]" zoneStep2="[-75,75]" zoneStep3="[75,175]" reward="[[2,100,160],[1,1103,3]]" resetIntegral="1030"  />
+    <ItemSpec id="19" rank="[15001,999999]" enemyZone1="[-75,-25]" enemyZone2="[-25,25]" enemyZone3="[25,75]" zoneStep1="[-150,-75]" zoneStep2="[-75,75]" zoneStep3="[75,175]" reward="[[2,100,150],[1,1103,3]]" resetIntegral="1000"  />
+
+</tns:database>

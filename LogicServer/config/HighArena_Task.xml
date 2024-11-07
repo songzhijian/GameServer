@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" type="1" need="150" reward="[[1,1001,100]]"  />
+    <ItemSpec id="2" type="1" need="200" reward="[[1,1001,100]]"  />
+    <ItemSpec id="3" type="1" need="250" reward="[[1,1001,100]]"  />
+    <ItemSpec id="4" type="1" need="300" reward="[[1,1001,100]]"  />
+    <ItemSpec id="5" type="1" need="400" reward="[[1,1001,100]]"  />
+    <ItemSpec id="6" type="1" need="500" reward="[[1,1001,100]]"  />
+    <ItemSpec id="7" type="1" need="600" reward="[[1,1001,100]]"  />
+    <ItemSpec id="8" type="1" need="700" reward="[[1,1001,100]]"  />
+    <ItemSpec id="9" type="2" need="800" reward="[[1,1001,100]]"  />
+    <ItemSpec id="10" type="2" need="900" reward="[[1,1001,100]]"  />
+    <ItemSpec id="11" type="2" need="1000" reward="[[1,1001,100]]"  />
+    <ItemSpec id="12" type="2" need="1100" reward="[[1,1001,100]]"  />
+    <ItemSpec id="13" type="2" need="1200" reward="[[1,1001,100]]"  />
+    <ItemSpec id="14" type="2" need="1300" reward="[[1,1001,100]]"  />
+    <ItemSpec id="15" type="2" need="1400" reward="[[1,1001,100]]"  />
+    <ItemSpec id="16" type="2" need="1500" reward="[[1,1001,100]]"  />
+    <ItemSpec id="17" type="2" need="1600" reward="[[1,1001,100]]"  />
+    <ItemSpec id="18" type="2" need="1700" reward="[[1,1001,100]]"  />
+    <ItemSpec id="19" type="2" need="1800" reward="[[1,1001,100]]"  />
+
+</tns:database>

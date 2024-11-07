@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="6101" satiety="5" lv="1" itemLink="6101"  />
+    <ItemSpec id="6102" satiety="6" lv="2" itemLink="6102"  />
+    <ItemSpec id="6103" satiety="7" lv="3" itemLink="6103"  />
+    <ItemSpec id="6104" satiety="8" lv="4" itemLink="6104"  />
+    <ItemSpec id="6105" satiety="9" lv="5" itemLink="6105"  />
+    <ItemSpec id="6106" satiety="10" lv="6" itemLink="6106"  />
+    <ItemSpec id="6107" satiety="11" lv="7" itemLink="6107"  />
+    <ItemSpec id="6108" satiety="12" lv="8" itemLink="6108"  />
+    <ItemSpec id="6109" satiety="13" lv="9" itemLink="6109"  />
+
+</tns:database>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="10101" quality="1" type="1" position="1" icon="equipicon_10101" att="[[46,26]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10102" quality="1" type="1" position="2" icon="equipicon_10102" att="[[43,41],[49,15],[52,10]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10103" quality="1" type="1" position="3" icon="equipicon_10103" att="[[43,102],[46,9]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10104" quality="1" type="1" position="4" icon="equipicon_10104" att="[[43,122],[58,2]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10201" quality="1" type="2" position="1" icon="equipicon_10201" att="[[43,31],[46,24]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10202" quality="1" type="2" position="2" icon="equipicon_10202" att="[[43,16],[49,13],[52,13],[61,2]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10203" quality="1" type="2" position="3" icon="equipicon_10203" att="[[43,16],[46,24]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10204" quality="1" type="2" position="4" icon="equipicon_10204" att="[[43,125],[61,2]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10301" quality="1" type="3" position="1" icon="equipicon_10301" att="[[43,22],[46,23]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10302" quality="1" type="3" position="2" icon="equipicon_10302" att="[[43,22],[49,10],[52,15]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10303" quality="1" type="3" position="3" icon="equipicon_10303" att="[[43,66],[46,15]]" upExp="10" canCost="1"  />
+    <ItemSpec id="10304" quality="1" type="3" position="4" icon="equipicon_10304" att="[[43,88],[46,8]]" upExp="10" canCost="1"  />
+    <ItemSpec id="20101" quality="2" type="1" position="1" icon="equipicon_20101" att="[[43,45],[46,62],[58,5]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20102" quality="2" type="1" position="2" icon="equipicon_20102" att="[[43,90],[49,44],[52,29]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20103" quality="2" type="1" position="3" icon="equipicon_20103" att="[[43,226],[46,37],[61,2]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20104" quality="2" type="1" position="4" icon="equipicon_20104" att="[[43,384],[58,3]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20201" quality="2" type="2" position="1" icon="equipicon_20201" att="[[46,76],[58,8],[61,2]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20202" quality="2" type="2" position="2" icon="equipicon_20202" att="[[43,75],[49,37],[52,37],[61,3]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20203" quality="2" type="2" position="3" icon="equipicon_20203" att="[[43,226],[46,30],[58,12]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20204" quality="2" type="2" position="4" icon="equipicon_20204" att="[[43,226],[46,30],[61,4]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20301" quality="2" type="3" position="1" icon="equipicon_20301" att="[[43,70],[46,60]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20302" quality="2" type="3" position="2" icon="equipicon_20302" att="[[43,70],[49,29],[52,44]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20303" quality="2" type="3" position="3" icon="equipicon_20303" att="[[43,167],[46,40]]" upExp="40" canCost="1"  />
+    <ItemSpec id="20304" quality="2" type="3" position="4" icon="equipicon_20304" att="[[43,251],[46,30]]" upExp="40" canCost="1"  />
+    <ItemSpec id="30101" quality="3" type="1" position="1" icon="equipicon_30101" att="[[43,90],[46,100],[58,8]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30102" quality="3" type="1" position="2" icon="equipicon_30102" att="[[43,190],[49,80],[52,50]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30103" quality="3" type="1" position="3" icon="equipicon_30103" att="[[43,380],[46,70],[61,3]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30104" quality="3" type="1" position="4" icon="equipicon_30104" att="[[43,630],[58,6]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30201" quality="3" type="2" position="1" icon="equipicon_30201" att="[[46,110],[58,15],[61,5]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30202" quality="3" type="2" position="2" icon="equipicon_30202" att="[[43,140],[49,60],[52,60],[61,5]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30203" quality="3" type="2" position="3" icon="equipicon_30203" att="[[43,320],[46,60],[58,20]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30204" quality="3" type="2" position="4" icon="equipicon_30204" att="[[43,440],[46,60],[61,8]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30301" quality="3" type="3" position="1" icon="equipicon_30301" att="[[46,130]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30302" quality="3" type="3" position="2" icon="equipicon_30302" att="[[43,120],[49,50],[52,80]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30303" quality="3" type="3" position="3" icon="equipicon_30303" att="[[43,320],[46,70]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="30304" quality="3" type="3" position="4" icon="equipicon_30304" att="[[43,520],[46,20],[61,8]]" upExp="120" upLimit="3" canCost="1"  />
+    <ItemSpec id="40101" quality="4" type="1" position="1" icon="equipicon_40101" att="[[43,240],[46,270],[58,14]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40102" quality="4" type="1" position="2" icon="equipicon_40102" att="[[43,470],[49,180],[52,120]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40103" quality="4" type="1" position="3" icon="equipicon_40103" att="[[43,940],[46,130],[61,15]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40104" quality="4" type="1" position="4" icon="equipicon_40104" att="[[43,1370],[58,16],[70,2]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40201" quality="4" type="2" position="1" icon="equipicon_40201" att="[[46,280],[58,22],[61,8]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40202" quality="4" type="2" position="2" icon="equipicon_40202" att="[[43,500],[49,150],[52,150],[61,8],[55,2]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40203" quality="4" type="2" position="3" icon="equipicon_40203" att="[[43,670],[46,170],[58,30]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40204" quality="4" type="2" position="4" icon="equipicon_40204" att="[[43,970],[46,100],[61,14],[70,2]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40301" quality="4" type="3" position="1" icon="equipicon_40301" att="[[43,70],[46,290]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40302" quality="4" type="3" position="2" icon="equipicon_40302" att="[[43,220],[46,100],[49,100],[52,140]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40303" quality="4" type="3" position="3" icon="equipicon_40303" att="[[43,860],[46,80],[49,20],[52,40]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="40304" quality="4" type="3" position="4" icon="equipicon_40304" att="[[43,1110],[46,70],[61,18],[70,2]]" upExp="240" upLimit="3" canCost="1"  />
+    <ItemSpec id="50101" quality="5" type="1" position="1" icon="equipicon_50101" att="[[46,460],[49,120],[52,80],[58,25]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50102" quality="5" type="1" position="2" icon="equipicon_50102" att="[[43,1400],[46,320],[49,20],[52,20],[58,6]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50103" quality="5" type="1" position="3" icon="equipicon_50103" att="[[43,1400],[49,200],[52,130],[61,15]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50104" quality="5" type="1" position="4" icon="equipicon_50104" att="[[43,2900],[58,20],[70,2]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50201" quality="5" type="2" position="1" icon="equipicon_50201" att="[[46,470],[49,70],[52,70],[58,45],[61,18]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50202" quality="5" type="2" position="2" icon="equipicon_50202" att="[[43,800],[46,400],[49,30],[52,30],[61,8],[55,4]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50203" quality="5" type="2" position="3" icon="equipicon_50203" att="[[43,1400],[49,180],[52,180],[58,40]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50204" quality="5" type="2" position="4" icon="equipicon_50204" att="[[43,1900],[46,190],[61,30],[70,4]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50301" quality="5" type="3" position="1" icon="equipicon_50301" att="[[43,400],[46,520],[55,4]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50302" quality="5" type="3" position="2" icon="equipicon_50302" att="[[43,1000],[46,300],[49,50],[52,80]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50303" quality="5" type="3" position="3" icon="equipicon_50303" att="[[43,700],[46,120],[49,180],[52,270]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="50304" quality="5" type="3" position="4" icon="equipicon_50304" att="[[43,2200],[46,70],[61,30],[70,5]]" upExp="400" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60101" quality="6" type="1" position="1" icon="equipicon_60101" att="[[46,740],[49,200],[52,130],[58,30]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60102" quality="6" type="1" position="2" icon="equipicon_60102" att="[[43,2400],[46,520],[49,40],[52,30]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60103" quality="6" type="1" position="3" icon="equipicon_60103" att="[[43,2400],[49,320],[52,220],[61,20],[55,2]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60104" quality="6" type="1" position="4" icon="equipicon_60104" att="[[43,4700],[58,20],[70,2]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60201" quality="6" type="2" position="1" icon="equipicon_60201" att="[[46,780],[49,90],[52,90],[58,80],[61,25]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60202" quality="6" type="2" position="2" icon="equipicon_60202" att="[[43,1300],[46,650],[49,60],[52,60],[61,25],[55,5]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60203" quality="6" type="2" position="3" icon="equipicon_60203" att="[[43,2200],[49,320],[52,320]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60204" quality="6" type="2" position="4" icon="equipicon_60204" att="[[43,3100],[46,310],[61,40],[70,5]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60301" quality="6" type="3" position="1" icon="equipicon_60301" att="[[46,850],[58,40],[55,10]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60302" quality="6" type="3" position="2" icon="equipicon_60302" att="[[43,1700],[46,490],[49,80],[52,130]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60303" quality="6" type="3" position="3" icon="equipicon_60303" att="[[43,1200],[46,190],[49,290],[52,440]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="60304" quality="6" type="3" position="4" icon="equipicon_60304" att="[[43,4200],[46,120],[61,35],[70,5]]" upExp="600" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70101" quality="7" type="1" position="1" icon="equipicon_70101" att="[[46,1500],[49,400],[52,250],[58,60]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70102" quality="7" type="1" position="2" icon="equipicon_70102" att="[[43,4700],[46,1000],[49,80],[52,50]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70103" quality="7" type="1" position="3" icon="equipicon_70103" att="[[43,4700],[49,650],[52,450],[61,25],[55,3]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70104" quality="7" type="1" position="4" icon="equipicon_70104" att="[[43,9400],[58,25],[70,3]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70201" quality="7" type="2" position="1" icon="equipicon_70201" att="[[46,1500],[49,250],[52,250],[58,120],[61,50]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70202" quality="7" type="2" position="2" icon="equipicon_70202" att="[[43,2700],[46,1300],[49,110],[52,110],[61,25],[55,10]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70203" quality="7" type="2" position="3" icon="equipicon_70203" att="[[43,4400],[49,600],[52,600]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70204" quality="7" type="2" position="4" icon="equipicon_70204" att="[[43,6200],[46,600],[58,50],[61,50],[70,5]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70301" quality="7" type="3" position="1" icon="equipicon_70301" att="[[43,550],[46,1700],[55,15]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70302" quality="7" type="3" position="2" icon="equipicon_70302" att="[[43,2800],[46,1000],[49,150],[52,250]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70303" quality="7" type="3" position="3" icon="equipicon_70303" att="[[43,2400],[46,400],[49,600],[52,850]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="70304" quality="7" type="3" position="4" icon="equipicon_70304" att="[[43,8300],[46,250],[61,50],[70,6]]" upExp="1000" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80101" quality="8" type="1" position="1" icon="equipicon_80101" att="[[46,2400],[49,650],[52,450]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80102" quality="8" type="1" position="2" icon="equipicon_80102" att="[[43,7700],[46,1700],[49,150],[52,100]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80103" quality="8" type="1" position="3" icon="equipicon_80103" att="[[43,7700],[49,1100],[52,700],[61,30],[55,4]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80104" quality="8" type="1" position="4" icon="equipicon_80104" att="[[43,15500],[58,115],[70,4]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80201" quality="8" type="2" position="1" icon="equipicon_80201" att="[[46,2500],[49,350],[52,350],[58,215],[61,90]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80202" quality="8" type="2" position="2" icon="equipicon_80202" att="[[43,4400],[46,2100],[49,200],[52,200],[55,10]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80203" quality="8" type="2" position="3" icon="equipicon_80203" att="[[43,7200],[49,1000],[52,1000]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80204" quality="8" type="2" position="4" icon="equipicon_80204" att="[[43,10300],[46,1000],[61,60],[55,2],[70,6]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80301" quality="8" type="3" position="1" icon="equipicon_80301" att="[[46,3000],[55,20]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80302" quality="8" type="3" position="2" icon="equipicon_80302" att="[[43,5600],[46,1600],[49,300],[52,400]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80303" quality="8" type="3" position="3" icon="equipicon_80303" att="[[43,3900],[46,450],[49,1000],[52,1400]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="80304" quality="8" type="3" position="4" icon="equipicon_80304" att="[[43,13700],[46,400],[61,60],[70,8]]" upExp="1200" upLimit="4" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90101" quality="9" type="1" position="1" icon="equipicon_90101" att="[[46,4700],[49,1250],[52,850],[58,100]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90102" quality="9" type="1" position="2" icon="equipicon_90102" att="[[43,14800],[46,3200],[49,250],[52,150]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90103" quality="9" type="1" position="3" icon="equipicon_90103" att="[[43,14800],[49,2000],[52,1400],[61,40],[55,5]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90104" quality="9" type="1" position="4" icon="equipicon_90104" att="[[43,29700],[58,60],[70,5]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90201" quality="9" type="2" position="1" icon="equipicon_90201" att="[[46,4900],[49,750],[52,750],[58,260],[61,135]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90202" quality="9" type="2" position="2" icon="equipicon_90202" att="[[43,8400],[46,4100],[49,350],[52,350],[55,10]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90203" quality="9" type="2" position="3" icon="equipicon_90203" att="[[43,13900],[49,1800],[52,1800]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90204" quality="9" type="2" position="4" icon="equipicon_90204" att="[[43,19700],[46,1900],[61,100],[55,4],[70,6]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90301" quality="9" type="3" position="1" icon="equipicon_90301" att="[[46,5700],[55,29]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90302" quality="9" type="3" position="2" icon="equipicon_90302" att="[[43,10700],[46,3100],[49,550],[52,800]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90303" quality="9" type="3" position="3" icon="equipicon_90303" att="[[43,7600],[46,900],[49,1800],[52,2800]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="90304" quality="9" type="3" position="4" icon="equipicon_90304" att="[[43,26200],[46,750],[61,100],[70,10]]" upExp="2000" upLimit="5" raceRate="2500" canCost="1"  />
+    <ItemSpec id="100101" quality="10" type="1" position="1" icon="equipicon_100101" att="[[46,7100],[49,1900],[52,1300],[58,230]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1201,1]]" target="110101" canCost="1"  />
+    <ItemSpec id="100102" quality="10" type="1" position="2" icon="equipicon_100102" att="[[43,22600],[46,4900],[49,400],[52,250]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1201,1]]" target="110102" canCost="1"  />
+    <ItemSpec id="100103" quality="10" type="1" position="3" icon="equipicon_100103" att="[[43,22600],[49,3100],[52,2100],[61,50]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1201,1]]" target="110103" canCost="1"  />
+    <ItemSpec id="100104" quality="10" type="1" position="4" icon="equipicon_100104" att="[[43,45100],[55,5],[70,5]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1201,1]]" target="110104" canCost="1"  />
+    <ItemSpec id="100201" quality="10" type="2" position="1" icon="equipicon_100201" att="[[46,7400],[49,1200],[52,1200],[58,280]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1202,1]]" target="110201" canCost="1"  />
+    <ItemSpec id="100202" quality="10" type="2" position="2" icon="equipicon_100202" att="[[43,12800],[46,6200],[49,550],[52,550],[61,160]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1202,1]]" target="110202" canCost="1"  />
+    <ItemSpec id="100203" quality="10" type="2" position="3" icon="equipicon_100203" att="[[43,21100],[49,2800],[52,2800]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1202,1]]" target="110203" canCost="1"  />
+    <ItemSpec id="100204" quality="10" type="2" position="4" icon="equipicon_100204" att="[[43,30100],[46,3000],[61,150],[55,14],[70,7]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1202,1]]" target="110204" canCost="1"  />
+    <ItemSpec id="100301" quality="10" type="3" position="1" icon="equipicon_100301" att="[[46,8700],[61,50],[55,29]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1203,1]]" target="110301" canCost="1"  />
+    <ItemSpec id="100302" quality="10" type="3" position="2" icon="equipicon_100302" att="[[43,16200],[46,4600],[49,800],[52,1200]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1203,1]]" target="110302" canCost="1"  />
+    <ItemSpec id="100303" quality="10" type="3" position="3" icon="equipicon_100303" att="[[43,11500],[46,1300],[49,2800],[52,4200]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1203,1]]" target="110303" canCost="1"  />
+    <ItemSpec id="100304" quality="10" type="3" position="4" icon="equipicon_100304" att="[[43,39900],[46,1200],[61,160],[70,11]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1203,1]]" target="110304" canCost="1"  />
+    <ItemSpec id="110101" quality="11" tier="1" type="1" position="1" icon="equipicon_110101" att="[[46,18500],[49,5000],[52,3400],[58,100]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1204,1]]" target="120101"  />
+    <ItemSpec id="110102" quality="11" tier="1" type="1" position="2" icon="equipicon_110102" att="[[43,58700],[46,12800],[49,1000],[52,650]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1204,1]]" target="120102"  />
+    <ItemSpec id="110103" quality="11" tier="1" type="1" position="3" icon="equipicon_110103" att="[[43,58700],[49,8000],[52,5400],[61,40],[55,6]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1204,1]]" target="120103"  />
+    <ItemSpec id="110104" quality="11" tier="1" type="1" position="4" icon="equipicon_110104" att="[[43,117400],[58,60],[70,6]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1204,1]]" target="120104"  />
+    <ItemSpec id="110201" quality="11" tier="1" type="2" position="1" icon="equipicon_110201" att="[[46,19300],[49,3100],[52,3100],[58,260],[61,85]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1205,1]]" target="120201"  />
+    <ItemSpec id="110202" quality="11" tier="1" type="2" position="2" icon="equipicon_110202" att="[[43,33300],[46,16100],[49,1400],[52,1400],[61,50]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1205,1]]" target="120202"  />
+    <ItemSpec id="110203" quality="11" tier="1" type="2" position="3" icon="equipicon_110203" att="[[43,54900],[49,7300],[52,7300]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1205,1]]" target="120203"  />
+    <ItemSpec id="110204" quality="11" tier="1" type="2" position="4" icon="equipicon_110204" att="[[43,78200],[46,7700],[61,100],[55,16],[70,7]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1205,1]]" target="120204"  />
+    <ItemSpec id="110301" quality="11" tier="1" type="3" position="1" icon="equipicon_110301" att="[[46,22600],[55,29]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1206,1]]" target="120301"  />
+    <ItemSpec id="110302" quality="11" tier="1" type="3" position="2" icon="equipicon_110302" att="[[43,42300],[46,12100],[49,2100],[52,3100]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1206,1]]" target="120302"  />
+    <ItemSpec id="110303" quality="11" tier="1" type="3" position="3" icon="equipicon_110303" att="[[43,38800],[46,3300],[49,7300],[52,11000]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1206,1]]" target="120303"  />
+    <ItemSpec id="110304" quality="11" tier="1" type="3" position="4" icon="equipicon_110304" att="[[43,95100],[46,3000],[61,100],[70,11]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1206,1]]" target="120304"  />
+    <ItemSpec id="120101" quality="11" tier="2" type="1" position="1" icon="equipicon_120101" att="[[46,28700],[49,7800],[52,5200],[58,230]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1207,1]]" target="130101"  />
+    <ItemSpec id="120102" quality="11" tier="2" type="1" position="2" icon="equipicon_120102" att="[[43,91000],[46,19800],[49,1600],[52,1000],[55,6]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1207,1]]" target="130102"  />
+    <ItemSpec id="120103" quality="11" tier="2" type="1" position="3" icon="equipicon_120103" att="[[43,91000],[49,12500],[52,8300]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1207,1]]" target="130103"  />
+    <ItemSpec id="120104" quality="11" tier="2" type="1" position="4" icon="equipicon_120104" att="[[43,181900],[61,50],[70,6]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1207,1]]" target="130104"  />
+    <ItemSpec id="120201" quality="11" tier="2" type="2" position="1" icon="equipicon_120201" att="[[46,29900],[49,4700],[52,4700],[58,280]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1208,1]]" target="130201"  />
+    <ItemSpec id="120202" quality="11" tier="2" type="2" position="2" icon="equipicon_120202" att="[[43,51500],[46,24900],[49,2200],[52,2200],[61,160]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1208,1]]" target="130202"  />
+    <ItemSpec id="120203" quality="11" tier="2" type="2" position="3" icon="equipicon_120203" att="[[43,85000],[49,11300],[52,11300]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1208,1]]" target="130203"  />
+    <ItemSpec id="120204" quality="11" tier="2" type="2" position="4" icon="equipicon_120204" att="[[43,121100],[46,11900],[61,150],[55,16],[70,8]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1208,1]]" target="130204"  />
+    <ItemSpec id="120301" quality="11" tier="2" type="3" position="1" icon="equipicon_120301" att="[[46,35200],[61,50],[55,29]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1209,1]]" target="130301"  />
+    <ItemSpec id="120302" quality="11" tier="2" type="3" position="2" icon="equipicon_120302" att="[[43,65500],[46,18700],[49,3200],[52,4800]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1209,1]]" target="130302"  />
+    <ItemSpec id="120303" quality="11" tier="2" type="3" position="3" icon="equipicon_120303" att="[[43,60000],[46,5100],[49,11300],[52,17000]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1209,1]]" target="130303"  />
+    <ItemSpec id="120304" quality="11" tier="2" type="3" position="4" icon="equipicon_120304" att="[[43,147300],[46,4700],[61,160],[70,13]]" upExp="3000" upLimit="5" raceRate="2500" need="[[1,1209,1]]" target="130304"  />
+    <ItemSpec id="130101" quality="11" tier="3" type="1" position="1" icon="equipicon_130101" att="[[46,44600],[49,12100],[52,8100],[58,300]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130102" quality="11" tier="3" type="1" position="2" icon="equipicon_130102" att="[[43,141400],[46,30900],[49,2400],[52,1600],[55,7]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130103" quality="11" tier="3" type="1" position="3" icon="equipicon_130103" att="[[43,141400],[49,19400],[52,12900]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130104" quality="11" tier="3" type="1" position="4" icon="equipicon_130104" att="[[43,282900],[61,50],[70,7]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130201" quality="11" tier="3" type="2" position="1" icon="equipicon_130201" att="[[46,46400],[49,7300],[52,7300],[58,360]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130202" quality="11" tier="3" type="2" position="2" icon="equipicon_130202" att="[[43,80100],[46,38700],[49,3400],[52,3400],[61,210]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130203" quality="11" tier="3" type="2" position="3" icon="equipicon_130203" att="[[43,132200],[49,17500],[52,17500]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130204" quality="11" tier="3" type="2" position="4" icon="equipicon_130204" att="[[43,188300],[46,18600],[61,180],[55,18],[70,8]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130301" quality="11" tier="3" type="3" position="1" icon="equipicon_130301" att="[[46,54500],[61,90],[55,29]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130302" quality="11" tier="3" type="3" position="2" icon="equipicon_130302" att="[[43,101800],[46,29100],[49,5000],[52,7500]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130303" quality="11" tier="3" type="3" position="3" icon="equipicon_130303" att="[[43,93300],[46,8200],[49,17600],[52,26400]]" upExp="3000" upLimit="5" raceRate="2500"  />
+    <ItemSpec id="130304" quality="11" tier="3" type="3" position="4" icon="equipicon_130304" att="[[43,229100],[46,7300],[61,210],[70,14]]" upExp="3000" upLimit="5" raceRate="2500"  />
+
+</tns:database>

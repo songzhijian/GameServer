@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" lv="1" attRate="0.23" load="10" destroy="0.5" cost="[[2,103,36],[2,101,50]]" time="60" healCost="[[2,103,12],[2,101,70]]" healTime="20" power="40" rankPoint="1"  />
+    <ItemSpec id="2" lv="2" attRate="0.26" load="12" destroy="0.6" cost="[[2,103,72],[2,101,200]]" time="120" healCost="[[2,103,24],[2,101,140]]" healTime="40" power="45" rankPoint="1"  />
+    <ItemSpec id="3" lv="3" attRate="0.3" load="12" destroy="0.65" cost="[[2,103,108],[2,101,630]]" time="180" healCost="[[2,103,36],[2,101,210]]" healTime="60" power="50" rankPoint="1"  />
+    <ItemSpec id="4" lv="4" attRate="0.35" load="13" destroy="0.7" cost="[[2,103,144],[2,101,840]]" time="240" healCost="[[2,103,48],[2,101,280]]" healTime="80" power="60" rankPoint="2"  />
+    <ItemSpec id="5" lv="5" attRate="0.4" load="14" destroy="0.75" cost="[[2,103,180],[2,101,1050]]" time="300" healCost="[[2,103,60],[2,101,350]]" healTime="100" power="70" rankPoint="2"  />
+    <ItemSpec id="6" lv="6" attRate="0.46" load="15" destroy="0.8" cost="[[2,103,216],[2,101,1260]]" time="360" healCost="[[2,103,72],[2,101,420]]" healTime="120" power="80" rankPoint="2"  />
+    <ItemSpec id="7" lv="7" attRate="0.53" load="16" destroy="0.85" cost="[[2,103,288],[2,101,1680]]" time="480" healCost="[[2,103,96],[2,101,560]]" healTime="160" power="95" rankPoint="3"  />
+    <ItemSpec id="8" lv="8" attRate="0.61" load="17" destroy="0.9" cost="[[2,103,360],[2,101,2100]]" time="600" healCost="[[2,103,120],[2,101,700]]" healTime="200" power="110" rankPoint="3"  />
+    <ItemSpec id="9" lv="9" attRate="0.7" load="18" destroy="0.95" cost="[[2,103,432],[2,101,2520]]" time="720" healCost="[[2,103,144],[2,101,840]]" healTime="240" power="125" rankPoint="3"  />
+    <ItemSpec id="10" lv="10" attRate="0.81" load="20" destroy="1" cost="[[2,103,540],[2,101,3150]]" time="900" healCost="[[2,103,180],[2,101,1050]]" healTime="300" power="145" rankPoint="3"  />
+
+</tns:database>

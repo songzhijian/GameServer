@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" careerCount="[3,4]" cheatP="10000"  />
+    <ItemSpec id="2" careerCount="[6,7]" cheatP="10000"  />
+    <ItemSpec id="3" careerCount="[10,11]" cheatP="10000"  />
+    <ItemSpec id="4" careerCount="[11,21]" cheatP="7000"  />
+    <ItemSpec id="5" careerCount="[21,31]" cheatP="5000"  />
+    <ItemSpec id="6" careerCount="[31,101]" cheatP="2000"  />
+    <ItemSpec id="7" careerCount="[101,-1]" cheatP="500"  />
+
+</tns:database>

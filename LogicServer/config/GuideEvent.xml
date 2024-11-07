@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1000" guideActionType="[0,1]" guideActionParams="[[[6,5105,0,1,1000]],[[2,101,100]]]"  />
+    <ItemSpec id="2000" guideActionType="[1,0]" guideActionParams="[[[6,5105,0,1,1000]],[[2,101,10000]]]"  />
+    <ItemSpec id="1000000" guideActionType="[0,2]" guideActionParams="[[[2,101,1000],[2,102,100],[2,103,100],[2,110,60]],[[101400]]]"  />
+    <ItemSpec id="2000000" guideActionType="[0,2]" guideActionParams="[[[2,101,1000],[2,102,100],[2,103,100],[2,110,60]],[[101500]]]"  />
+    <ItemSpec id="3000000" guideActionType="[0,2]" guideActionParams="[[[2,101,1000],[2,102,100],[2,103,100],[2,110,60]],[[101600]]]"  />
+    <ItemSpec id="4000000" guideActionType="[0,2]" guideActionParams="[[[2,101,1000],[2,102,100],[2,103,100],[2,110,60]],[[101700]]]"  />
+    <ItemSpec id="5000000" guideActionType="[0,2]" guideActionParams="[[[2,101,1000],[2,102,100],[2,103,100],[2,110,60]],[[101800]]]"  />
+    <ItemSpec id="6000000" guideActionType="[0]" guideActionParams="[[[1,1121,5]]]"  />
+    <ItemSpec id="6000001" guideActionType="[0]" guideActionParams="[[[3,102,5,1,5]]]"  />
+    <ItemSpec id="6000002" guideActionType="[0]" guideActionParams="[[[2,101,5000]]]"  />
+
+</tns:database>

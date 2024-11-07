@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1001" refreshTime="[2,2024-01-01 00:00:00,2,1,0,-1]" levelRule="[100101,100103,100104,100105,100106,100107,100108,100109,100110,100111,100112]" isRandProd="1" prodList="[100113,100101,100102,100103,100104,100105,100106,100107,100108,100109,100110,100111,100112]" dispResList="[101,102,103,104,100]" businessType="40" showCondition="214"  />
+    <ItemSpec id="1002" refreshTime="[2,2024-01-15 00:00:00,3,1,0,-1]" levelRule="[100201,100202,100203,100204]" isRandProd="0" prodList="[201,202,205,207,210,212,206,203,208,209,214,204,211,213,215]" dispResList="[205]" businessType="77" showCondition="105"  />
+    <ItemSpec id="1003" type="1" refreshTime="[2,2024-01-01 00:00:00,2,1,0,-1]" levelRule="[100301]" dispResList="[201]" businessType="78" showCondition="105"  />
+    <ItemSpec id="1004" refreshTime="[2,2024-01-15 00:00:00,3,1,0,-1]" levelRule="[100401,100402,100403,100404,100405,100406,100407]" isRandProd="0" prodList="[100401,100402,100403,100404,100405,100406,100407,100408,100409,100410,100411,100412,100413,100414,100415]" dispResList="[102,103,104,101,100]" businessType="67"  />
+    <ItemSpec id="1005" refreshTime="[2,2024-01-01 00:00:00,4,1,0,-1]" levelRule="[100501]" isRandProd="0" prodList="[501,502,503,504,505,506,507,508,509,510,511,512,513,514,515,516]" dispResList="[108]" businessType="91" showCondition="214"  />
+    <ItemSpec id="1006" type="1" refreshTime="[2,2024-01-01 00:00:00,2,1,0,-1]" levelRule="[100301]" dispResList="[201]" businessType="78" showCondition="1024"  />
+
+</tns:database>

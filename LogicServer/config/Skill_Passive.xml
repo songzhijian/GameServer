@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="104" triggerTime="[1]" triggerCon="[21]" triggerBuff="[104]"  />
+    <ItemSpec id="101303" triggerTime="[1]" triggerLimit="1" triggerSkill="101303"  />
+    <ItemSpec id="102503" triggerTime="[1]" triggerLimit="1" triggerSkill="102503"  />
+    <ItemSpec id="110103" triggerTime="[3,0]" triggerCon="[1,5,50]" triggerLimit="1" ani="Battle_UltraSkill" triggerSkill="110103"  />
+    <ItemSpec id="1303" triggerTime="[1]" triggerLimit="1" triggerBuff="[1303]"  />
+    <ItemSpec id="1313" triggerTime="[1]" triggerLimit="1" triggerBuff="[1313]"  />
+    <ItemSpec id="1403" triggerTime="[1]" triggerLimit="1" triggerBuff="[1403]"  />
+    <ItemSpec id="1413" triggerTime="[1]" triggerLimit="1" triggerBuff="[1413]"  />
+    <ItemSpec id="1503" triggerTime="[13]" triggerCon="[1,4,66]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[1503]"  />
+    <ItemSpec id="1513" triggerTime="[13]" triggerCon="[1,4,66]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[1513]"  />
+    <ItemSpec id="2303" triggerTime="[14]" triggerLimit="-1" triggerSkill="2303"  />
+    <ItemSpec id="2313" triggerTime="[14]" triggerLimit="-1" triggerSkill="2313"  />
+    <ItemSpec id="2403" triggerTime="[1]" triggerLimit="1" triggerBuff="[2403]"  />
+    <ItemSpec id="2413" triggerTime="[1]" triggerLimit="1" triggerBuff="[2413]"  />
+    <ItemSpec id="2503" triggerTime="[11,2]" triggerLimit="4" triggerSkill="2503"  />
+    <ItemSpec id="2513" triggerTime="[11,2]" triggerLimit="4" triggerSkill="2513"  />
+    <ItemSpec id="3303" triggerTime="[1]" triggerLimit="1" triggerBuff="[3303]"  />
+    <ItemSpec id="3313" triggerTime="[1]" triggerLimit="1" triggerBuff="[3313]"  />
+    <ItemSpec id="3403" triggerTime="[13]" triggerCon="[1,3,100]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[3403]"  />
+    <ItemSpec id="3413" triggerTime="[13]" triggerCon="[1,3,100]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[3413]"  />
+    <ItemSpec id="3503" triggerTime="[15]" triggerCon="[2,2,2,5]" triggerLogicFalse="1" triggerLimit="-1" triggerBuffFalse="[3503]"  />
+    <ItemSpec id="3513" triggerTime="[15]" triggerCon="[2,2,2,5]" triggerLogicFalse="1" triggerLimit="-1" triggerBuffFalse="[3513]"  />
+    <ItemSpec id="4303" triggerTime="[13]" triggerCon="[1,2,50]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[4303]"  />
+    <ItemSpec id="4313" triggerTime="[13]" triggerCon="[1,2,50]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[4313]"  />
+    <ItemSpec id="4403" triggerTime="[1]" triggerLimit="1" triggerBuff="[4403]"  />
+    <ItemSpec id="4413" triggerTime="[1]" triggerLimit="1" triggerBuff="[4413]"  />
+    <ItemSpec id="4503" triggerTime="[15]" triggerCon="[2,1,2,5]" triggerLimit="1" triggerBuff="[4503]"  />
+    <ItemSpec id="4513" triggerTime="[15]" triggerCon="[2,1,2,5]" triggerLimit="1" triggerBuff="[4513]"  />
+    <ItemSpec id="10103" triggerTime="[1]" triggerLimit="1" triggerBuff="[10103]"  />
+    <ItemSpec id="10113" triggerTime="[1]" triggerLimit="1" triggerBuff="[10113]"  />
+    <ItemSpec id="10123" triggerTime="[1]" triggerLimit="1" triggerBuff="[10123]"  />
+    <ItemSpec id="10104" triggerTime="[1]" triggerLimit="1" triggerSkill="10104"  />
+    <ItemSpec id="10114" triggerTime="[1]" triggerLimit="1" triggerSkill="10114"  />
+    <ItemSpec id="10124" triggerTime="[1]" triggerLimit="1" triggerSkill="10124"  />
+    <ItemSpec id="10203" triggerTime="[1]" triggerLimit="1" triggerBuff="[10203]"  />
+    <ItemSpec id="10213" triggerTime="[1]" triggerLimit="1" triggerBuff="[10213]"  />
+    <ItemSpec id="10223" triggerTime="[1]" triggerLimit="1" triggerBuff="[10223]"  />
+    <ItemSpec id="10204" triggerTime="[1]" triggerLimit="1" triggerSkill="10204"  />
+    <ItemSpec id="10214" triggerTime="[1]" triggerLimit="1" triggerSkill="10214"  />
+    <ItemSpec id="10224" triggerTime="[1]" triggerLimit="1" triggerSkill="10224"  />
+    <ItemSpec id="10403" triggerTime="[1]" triggerLimit="1" triggerBuff="[10403]"  />
+    <ItemSpec id="10413" triggerTime="[1]" triggerLimit="1" triggerBuff="[10413]"  />
+    <ItemSpec id="10423" triggerTime="[1]" triggerLimit="1" triggerBuff="[10423]"  />
+    <ItemSpec id="10404" triggerTime="[1]" triggerLimit="1" triggerSkill="10404"  />
+    <ItemSpec id="10414" triggerTime="[1]" triggerLimit="1" triggerSkill="10414"  />
+    <ItemSpec id="10424" triggerTime="[1]" triggerLimit="1" triggerSkill="10424"  />
+    <ItemSpec id="10503" triggerTime="[16]" triggerCon="[3,2,1]" triggerLimit="1" triggerBuff="[10503]"  />
+    <ItemSpec id="10513" triggerTime="[16]" triggerCon="[3,2,1]" triggerLimit="1" triggerBuff="[10513]"  />
+    <ItemSpec id="10523" triggerTime="[16]" triggerCon="[3,2,1]" triggerLimit="1" triggerBuff="[10523]"  />
+    <ItemSpec id="10504" triggerTime="[1]" triggerLimit="1" triggerSkill="10504"  />
+    <ItemSpec id="10514" triggerTime="[1]" triggerLimit="1" triggerSkill="10514"  />
+    <ItemSpec id="10524" triggerTime="[1]" triggerLimit="1" triggerSkill="10524"  />
+    <ItemSpec id="20103" triggerTime="[1]" triggerLimit="1" triggerSkill="20103"  />
+    <ItemSpec id="20113" triggerTime="[1]" triggerLimit="1" triggerSkill="20113"  />
+    <ItemSpec id="20123" triggerTime="[1]" triggerLimit="1" triggerSkill="20123"  />
+    <ItemSpec id="20104" triggerTime="[1]" triggerLimit="1" triggerSkill="20104"  />
+    <ItemSpec id="20114" triggerTime="[1]" triggerLimit="1" triggerSkill="20114"  />
+    <ItemSpec id="20124" triggerTime="[1]" triggerLimit="1" triggerSkill="20124"  />
+    <ItemSpec id="20403" triggerTime="[6,2]" triggerLimit="1" triggerBuff="[20403]"  />
+    <ItemSpec id="20413" triggerTime="[6,2]" triggerLimit="1" triggerBuff="[20413]"  />
+    <ItemSpec id="20423" triggerTime="[6,2]" triggerLimit="1" triggerBuff="[20423]"  />
+    <ItemSpec id="20404" triggerTime="[1]" triggerLimit="1" triggerSkill="20404"  />
+    <ItemSpec id="20414" triggerTime="[1]" triggerLimit="1" triggerSkill="20414"  />
+    <ItemSpec id="20424" triggerTime="[1]" triggerLimit="1" triggerSkill="20424"  />
+    <ItemSpec id="20503" triggerTime="[1]" triggerLimit="1" triggerBuff="[20503]"  />
+    <ItemSpec id="20513" triggerTime="[1]" triggerLimit="1" triggerBuff="[20513]"  />
+    <ItemSpec id="20523" triggerTime="[1]" triggerLimit="1" triggerBuff="[20523]"  />
+    <ItemSpec id="20504" triggerTime="[1]" triggerLimit="1" triggerSkill="20504"  />
+    <ItemSpec id="20514" triggerTime="[1]" triggerLimit="1" triggerSkill="20514"  />
+    <ItemSpec id="20524" triggerTime="[1]" triggerLimit="1" triggerSkill="20524"  />
+    <ItemSpec id="20603" triggerTime="[1]" triggerLimit="1"  />
+    <ItemSpec id="20613" triggerTime="[1]" triggerLimit="1"  />
+    <ItemSpec id="20623" triggerTime="[1]" triggerLimit="1"  />
+    <ItemSpec id="20604" triggerTime="[11,0]" triggerLimit="-1" triggerSkill="20604"  />
+    <ItemSpec id="20614" triggerTime="[11,0]" triggerLimit="-1" triggerSkill="20614"  />
+    <ItemSpec id="20624" triggerTime="[11,0]" triggerLimit="-1" triggerSkill="20624"  />
+    <ItemSpec id="30103" triggerTime="[3,0]" triggerCon="[1,2,40]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[30103]"  />
+    <ItemSpec id="30113" triggerTime="[3,0]" triggerCon="[1,2,40]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[30113]"  />
+    <ItemSpec id="30123" triggerTime="[3,0]" triggerCon="[1,2,40]" triggerLogicFalse="1" triggerLimit="-1" triggerBuff="[30123]"  />
+    <ItemSpec id="30104" triggerTime="[1]" triggerLimit="1" triggerSkill="30104"  />
+    <ItemSpec id="30114" triggerTime="[1]" triggerLimit="1" triggerSkill="30114"  />
+    <ItemSpec id="30124" triggerTime="[1]" triggerLimit="1" triggerSkill="30124"  />
+    <ItemSpec id="30203" triggerTime="[3,0]" triggerLimit="1" triggerBuff="[30203]"  />
+    <ItemSpec id="30213" triggerTime="[3,0]" triggerLimit="1" triggerBuff="[30213]"  />
+    <ItemSpec id="30223" triggerTime="[3,0]" triggerLimit="1" triggerBuff="[30223]"  />
+    <ItemSpec id="30204" triggerTime="[1]" triggerLimit="1" triggerSkill="30204"  />
+    <ItemSpec id="30214" triggerTime="[1]" triggerLimit="1" triggerSkill="30214"  />
+    <ItemSpec id="30224" triggerTime="[1]" triggerLimit="1" triggerSkill="30224"  />
+    <ItemSpec id="30403" triggerTime="[16]" triggerCon="[4,1,1]" triggerLimit="1" triggerBuff="[30403]"  />
+    <ItemSpec id="30413" triggerTime="[16]" triggerCon="[4,1,1]" triggerLimit="1" triggerBuff="[30413]"  />
+    <ItemSpec id="30423" triggerTime="[16]" triggerCon="[4,1,1]" triggerLimit="1" triggerBuff="[30423]"  />
+    <ItemSpec id="30404" triggerTime="[2]" triggerLimit="10" triggerBuff="[30404]"  />
+    <ItemSpec id="30414" triggerTime="[2]" triggerLimit="20" triggerBuff="[30414]"  />
+    <ItemSpec id="30424" triggerTime="[2]" triggerLimit="30" triggerBuff="[30424]"  />
+    <ItemSpec id="30503" triggerTime="[1]" triggerLimit="1" triggerBuff="[30503]"  />
+    <ItemSpec id="30513" triggerTime="[1]" triggerLimit="1" triggerBuff="[30513]"  />
+    <ItemSpec id="30523" triggerTime="[1]" triggerLimit="1" triggerBuff="[30523]"  />
+    <ItemSpec id="30504" triggerTime="[1]" triggerLimit="1" triggerSkill="30504"  />
+    <ItemSpec id="30514" triggerTime="[1]" triggerLimit="1" triggerSkill="30514"  />
+    <ItemSpec id="30524" triggerTime="[1]" triggerLimit="1" triggerSkill="30524"  />
+    <ItemSpec id="40103" triggerTime="[8]" triggerLimit="1" triggerBuff="[40103]"  />
+    <ItemSpec id="40113" triggerTime="[8]" triggerLimit="1" triggerBuff="[40113]"  />
+    <ItemSpec id="40123" triggerTime="[8]" triggerLimit="1" triggerBuff="[40123]"  />
+    <ItemSpec id="40104" triggerTime="[1]" triggerLimit="1" triggerSkill="40104"  />
+    <ItemSpec id="40114" triggerTime="[1]" triggerLimit="1" triggerSkill="40114"  />
+    <ItemSpec id="40124" triggerTime="[1]" triggerLimit="1" triggerSkill="40124"  />
+    <ItemSpec id="40303" triggerTime="[11,1]" triggerLimit="4" triggerBuff="[40303]"  />
+    <ItemSpec id="40313" triggerTime="[11,1]" triggerLimit="4" triggerBuff="[40313]"  />
+    <ItemSpec id="40323" triggerTime="[11,1]" triggerLimit="4" triggerBuff="[40323]"  />
+    <ItemSpec id="40304" triggerTime="[1]" triggerLimit="1" triggerSkill="40304"  />
+    <ItemSpec id="40314" triggerTime="[1]" triggerLimit="1" triggerSkill="40314"  />
+    <ItemSpec id="40324" triggerTime="[1]" triggerLimit="1" triggerSkill="40324"  />
+    <ItemSpec id="40403" triggerTime="[1]" triggerLimit="1"  />
+    <ItemSpec id="40413" triggerTime="[1]" triggerLimit="1"  />
+    <ItemSpec id="40423" triggerTime="[1]" triggerLimit="1"  />
+    <ItemSpec id="40404" triggerTime="[1]" triggerLimit="1" triggerSkill="40404"  />
+    <ItemSpec id="40414" triggerTime="[1]" triggerLimit="1" triggerSkill="40414"  />
+    <ItemSpec id="40424" triggerTime="[1]" triggerLimit="1" triggerSkill="40424"  />
+    <ItemSpec id="40603" triggerTime="[1]" triggerLimit="1" triggerSkill="40603"  />
+    <ItemSpec id="40613" triggerTime="[1]" triggerLimit="1" triggerSkill="40613"  />
+    <ItemSpec id="40623" triggerTime="[1]" triggerLimit="1" triggerSkill="40623"  />
+    <ItemSpec id="40604" triggerTime="[1]" triggerLimit="1" triggerSkill="40604"  />
+    <ItemSpec id="40614" triggerTime="[1]" triggerLimit="1" triggerSkill="40614"  />
+    <ItemSpec id="40624" triggerTime="[1]" triggerLimit="1" triggerSkill="40624"  />
+    <ItemSpec id="50103" triggerTime="[1]" triggerLimit="1" triggerBuff="[50103]"  />
+    <ItemSpec id="50113" triggerTime="[1]" triggerLimit="1" triggerBuff="[50113]"  />
+    <ItemSpec id="50123" triggerTime="[1]" triggerLimit="1" triggerBuff="[50123]"  />
+    <ItemSpec id="50106" triggerTime="[1]" triggerLimit="1" triggerSkill="50106"  />
+    <ItemSpec id="50116" triggerTime="[1]" triggerLimit="1" triggerSkill="50116"  />
+    <ItemSpec id="50126" triggerTime="[1]" triggerLimit="1" triggerSkill="50126"  />
+    <ItemSpec id="50104" triggerTime="[18,15]" triggerLimit="-1" triggerSkill="50104"  />
+    <ItemSpec id="50114" triggerTime="[18,15]" triggerLimit="-1" triggerSkill="50114"  />
+    <ItemSpec id="50124" triggerTime="[18,15]" triggerLimit="-1" triggerSkill="50124"  />
+    <ItemSpec id="60103" triggerTime="[1]" triggerLimit="1" triggerBuff="[60103]"  />
+    <ItemSpec id="60113" triggerTime="[1]" triggerLimit="1" triggerBuff="[60113]"  />
+    <ItemSpec id="60123" triggerTime="[1]" triggerLimit="1" triggerBuff="[60123]"  />
+    <ItemSpec id="60106" triggerTime="[17]" triggerCon="[5,1,5]" triggerLimit="-1" triggerBuff="[60106,60106de2]"  />
+    <ItemSpec id="60116" triggerTime="[17]" triggerCon="[5,1,5]" triggerLimit="-1" triggerBuff="[60116,60106de2]"  />
+    <ItemSpec id="60126" triggerTime="[17]" triggerCon="[5,1,5]" triggerLimit="-1" triggerBuff="[60126,60106de2]"  />
+    <ItemSpec id="60104" triggerTime="[1]" triggerLimit="1" triggerSkill="60104"  />
+    <ItemSpec id="60114" triggerTime="[1]" triggerLimit="1" triggerSkill="60114"  />
+    <ItemSpec id="60124" triggerTime="[1]" triggerLimit="1" triggerSkill="60124"  />
+    <ItemSpec id="8001001" triggerTime="[1]" triggerLimit="1" triggerSkill="8001001"  />
+    <ItemSpec id="8001002" triggerTime="[1]" triggerLimit="1" triggerSkill="8001002"  />
+    <ItemSpec id="8001003" triggerTime="[1]" triggerLimit="1" triggerSkill="8001003"  />
+    <ItemSpec id="8001011" triggerTime="[1]" triggerLimit="1" triggerSkill="8001011"  />
+    <ItemSpec id="8001012" triggerTime="[1]" triggerLimit="1" triggerSkill="8001012"  />
+    <ItemSpec id="8001013" triggerTime="[1]" triggerLimit="1" triggerSkill="8001013"  />
+    <ItemSpec id="8001021" triggerTime="[1]" triggerLimit="1" triggerSkill="8001021"  />
+    <ItemSpec id="8001022" triggerTime="[1]" triggerLimit="1" triggerSkill="8001022"  />
+    <ItemSpec id="8001023" triggerTime="[1]" triggerLimit="1" triggerSkill="8001023"  />
+    <ItemSpec id="8002001" triggerTime="[1]" triggerLimit="1" triggerSkill="8002001"  />
+    <ItemSpec id="8002002" triggerTime="[1]" triggerLimit="1" triggerSkill="8002002"  />
+    <ItemSpec id="8002003" triggerTime="[1]" triggerLimit="1" triggerSkill="8002003"  />
+    <ItemSpec id="8002011" triggerTime="[1]" triggerLimit="1" triggerSkill="8002011"  />
+    <ItemSpec id="8002012" triggerTime="[1]" triggerLimit="1" triggerSkill="8002012"  />
+    <ItemSpec id="8002013" triggerTime="[1]" triggerLimit="1" triggerSkill="8002013"  />
+    <ItemSpec id="8002021" triggerTime="[1]" triggerLimit="1" triggerSkill="8002021"  />
+    <ItemSpec id="8002022" triggerTime="[1]" triggerLimit="1" triggerSkill="8002022"  />
+    <ItemSpec id="8002023" triggerTime="[1]" triggerLimit="1" triggerSkill="8002023"  />
+    <ItemSpec id="8002031" triggerTime="[19]" triggerLimit="1" triggerSkill="8002031"  />
+    <ItemSpec id="8002032" triggerTime="[19]" triggerLimit="1" triggerSkill="8002032"  />
+    <ItemSpec id="8002033" triggerTime="[19]" triggerLimit="1" triggerSkill="8002033"  />
+    <ItemSpec id="8003001" triggerTime="[1]" triggerLimit="1" triggerSkill="8003001"  />
+    <ItemSpec id="8003002" triggerTime="[1]" triggerLimit="1" triggerSkill="8003002"  />
+    <ItemSpec id="8003003" triggerTime="[1]" triggerLimit="1" triggerSkill="8003003"  />
+    <ItemSpec id="8003011" triggerTime="[1]" triggerLimit="1" triggerSkill="8003011"  />
+    <ItemSpec id="8003012" triggerTime="[1]" triggerLimit="1" triggerSkill="8003012"  />
+    <ItemSpec id="8003013" triggerTime="[1]" triggerLimit="1" triggerSkill="8003013"  />
+    <ItemSpec id="8003021" triggerTime="[1]" triggerLimit="1" triggerSkill="8003021"  />
+    <ItemSpec id="8003022" triggerTime="[1]" triggerLimit="1" triggerSkill="8003022"  />
+    <ItemSpec id="8003023" triggerTime="[1]" triggerLimit="1" triggerSkill="8003023"  />
+    <ItemSpec id="8003031" triggerTime="[1]" triggerLimit="1" triggerSkill="8003031"  />
+    <ItemSpec id="8003032" triggerTime="[1]" triggerLimit="1" triggerSkill="8003032"  />
+    <ItemSpec id="8003033" triggerTime="[1]" triggerLimit="1" triggerSkill="8003033"  />
+    <ItemSpec id="8003041" triggerTime="[1]" triggerLimit="1" triggerSkill="8003041"  />
+    <ItemSpec id="8003042" triggerTime="[1]" triggerLimit="1" triggerSkill="8003042"  />
+    <ItemSpec id="8003043" triggerTime="[1]" triggerLimit="1" triggerSkill="8003043"  />
+    <ItemSpec id="8003051" triggerTime="[1]" triggerLimit="1" triggerSkill="8003051"  />
+    <ItemSpec id="8003052" triggerTime="[1]" triggerLimit="1" triggerSkill="8003052"  />
+    <ItemSpec id="8003053" triggerTime="[1]" triggerLimit="1" triggerSkill="8003053"  />
+    <ItemSpec id="8003061" triggerTime="[1]" triggerLimit="1" triggerSkill="8003061"  />
+    <ItemSpec id="8003062" triggerTime="[1]" triggerLimit="1" triggerSkill="8003062"  />
+    <ItemSpec id="8003063" triggerTime="[1]" triggerLimit="1" triggerSkill="8003063"  />
+    <ItemSpec id="8003071" triggerTime="[1]" triggerLimit="1" triggerSkill="8003071"  />
+    <ItemSpec id="8003072" triggerTime="[1]" triggerLimit="1" triggerSkill="8003072"  />
+    <ItemSpec id="8003073" triggerTime="[1]" triggerLimit="1" triggerSkill="8003073"  />
+    <ItemSpec id="8004001" triggerTime="[1]" triggerLimit="1" triggerSkill="8004001"  />
+    <ItemSpec id="8004002" triggerTime="[1]" triggerLimit="1" triggerSkill="8004002"  />
+    <ItemSpec id="8004003" triggerTime="[1]" triggerLimit="1" triggerSkill="8004003"  />
+    <ItemSpec id="8004011" triggerTime="[1]" triggerLimit="1" triggerSkill="8004011"  />
+    <ItemSpec id="8004012" triggerTime="[1]" triggerLimit="1" triggerSkill="8004012"  />
+    <ItemSpec id="8004013" triggerTime="[1]" triggerLimit="1" triggerSkill="8004013"  />
+    <ItemSpec id="8001031" triggerTime="[1]" triggerLimit="1" triggerSkill="8001031"  />
+    <ItemSpec id="8001032" triggerTime="[1]" triggerLimit="1" triggerSkill="8001032"  />
+    <ItemSpec id="8001033" triggerTime="[1]" triggerLimit="1" triggerSkill="8001033"  />
+    <ItemSpec id="8005001" triggerTime="[1]" triggerLimit="1" triggerSkill="8005001"  />
+    <ItemSpec id="8005002" triggerTime="[1]" triggerLimit="1" triggerSkill="8005002"  />
+    <ItemSpec id="8005003" triggerTime="[1]" triggerLimit="1" triggerSkill="8005003"  />
+    <ItemSpec id="8005011" triggerTime="[1]" triggerLimit="1" triggerSkill="8005011"  />
+    <ItemSpec id="8005012" triggerTime="[1]" triggerLimit="1" triggerSkill="8005012"  />
+    <ItemSpec id="8005013" triggerTime="[1]" triggerLimit="1" triggerSkill="8005013"  />
+    <ItemSpec id="8005021" triggerTime="[1]" triggerLimit="1" triggerSkill="8005021"  />
+    <ItemSpec id="8005022" triggerTime="[1]" triggerLimit="1" triggerSkill="8005022"  />
+    <ItemSpec id="8005023" triggerTime="[1]" triggerLimit="1" triggerSkill="8005023"  />
+    <ItemSpec id="8005031" triggerTime="[1]" triggerLimit="1" triggerSkill="8005031"  />
+    <ItemSpec id="8005032" triggerTime="[1]" triggerLimit="1" triggerSkill="8005032"  />
+    <ItemSpec id="8005033" triggerTime="[1]" triggerLimit="1" triggerSkill="8005033"  />
+    <ItemSpec id="8005041" triggerTime="[1]" triggerLimit="1" triggerSkill="8005041"  />
+    <ItemSpec id="8005042" triggerTime="[1]" triggerLimit="1" triggerSkill="8005042"  />
+    <ItemSpec id="8005043" triggerTime="[1]" triggerLimit="1" triggerSkill="8005043"  />
+    <ItemSpec id="8005051" triggerTime="[1]" triggerLimit="1" triggerSkill="8005051"  />
+    <ItemSpec id="8005052" triggerTime="[1]" triggerLimit="1" triggerSkill="8005052"  />
+    <ItemSpec id="8005053" triggerTime="[1]" triggerLimit="1" triggerSkill="8005053"  />
+    <ItemSpec id="8005061" triggerTime="[1]" triggerLimit="1" triggerSkill="8005061"  />
+    <ItemSpec id="8005062" triggerTime="[1]" triggerLimit="1" triggerSkill="8005062"  />
+    <ItemSpec id="8005063" triggerTime="[1]" triggerLimit="1" triggerSkill="8005063"  />
+
+</tns:database>

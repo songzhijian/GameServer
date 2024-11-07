@@ -1,8 +1,8 @@
 package ${template.entityPackageName};
 
 import ${template.loaderPackageName}.${template.loaderName};
-import com.im30.esg.config.util.gen.old.support.AbstractConfig;
-import com.im30.esg.config.util.gen.old.support.IConfig;
+import com.jx.config.util.gen.support.AbstractConfig;
+import com.jx.config.util.gen.support.IConfig;
 <#list template.packages as package>
 <#if package != "">
 import ${package};

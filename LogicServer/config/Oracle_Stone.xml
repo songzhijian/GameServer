@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1100" lv="0" powerRecover="900"  />
+    <ItemSpec id="1101" lv="1" powerRecover="900"  />
+    <ItemSpec id="1102" lv="2" powerRecover="900"  />
+    <ItemSpec id="1103" lv="3" powerRecover="900"  />
+    <ItemSpec id="1104" lv="4" powerRecover="900"  />
+    <ItemSpec id="1105" lv="5" powerRecover="900"  />
+    <ItemSpec id="1106" lv="6" powerRecover="900"  />
+    <ItemSpec id="1107" lv="7" powerRecover="900"  />
+    <ItemSpec id="1108" lv="8" powerRecover="900"  />
+    <ItemSpec id="1109" lv="9" powerRecover="900"  />
+    <ItemSpec id="1110" lv="10" powerRecover="900"  />
+    <ItemSpec id="1111" lv="11" powerRecover="900"  />
+    <ItemSpec id="1112" lv="12" powerRecover="900"  />
+    <ItemSpec id="1113" lv="13" powerRecover="900"  />
+    <ItemSpec id="1114" lv="14" powerRecover="900"  />
+    <ItemSpec id="1115" lv="15" powerRecover="900"  />
+    <ItemSpec id="1116" lv="16" powerRecover="900"  />
+    <ItemSpec id="1117" lv="17" powerRecover="900"  />
+    <ItemSpec id="1118" lv="18" powerRecover="900"  />
+    <ItemSpec id="1119" lv="19" powerRecover="900"  />
+    <ItemSpec id="1120" lv="20" powerRecover="900"  />
+    <ItemSpec id="1121" lv="21" powerRecover="900"  />
+    <ItemSpec id="1122" lv="22" powerRecover="900"  />
+    <ItemSpec id="1123" lv="23" powerRecover="900"  />
+    <ItemSpec id="1124" lv="24" powerRecover="900"  />
+    <ItemSpec id="1125" lv="25" powerRecover="900"  />
+    <ItemSpec id="1126" lv="26" powerRecover="900"  />
+    <ItemSpec id="1127" lv="27" powerRecover="900"  />
+    <ItemSpec id="1128" lv="28" powerRecover="900"  />
+    <ItemSpec id="1129" lv="29" powerRecover="900"  />
+    <ItemSpec id="1130" lv="30" powerRecover="900"  />
+
+</tns:database>

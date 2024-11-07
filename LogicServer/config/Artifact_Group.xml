@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" fun="[1011,1012,1013]"  />
+    <ItemSpec id="102" fun="[1021,1022,1023]"  />
+    <ItemSpec id="103" fun="[1031,1032,1033]"  />
+    <ItemSpec id="104" fun="[1041,1042,1043]"  />
+
+</tns:database>

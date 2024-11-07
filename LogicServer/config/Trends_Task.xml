@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" taskType="9" taskValue="[250,6]"  />
+    <ItemSpec id="2" taskType="1" taskValue="[20000,0]"  />
+    <ItemSpec id="3" taskType="2" taskValue="[100,4025]"  />
+    <ItemSpec id="4" taskType="3" taskValue="[100,10]"  />
+    <ItemSpec id="5" taskType="4" taskValue="[800,0]"  />
+    <ItemSpec id="6" taskType="7" taskValue="[1,0]"  />
+    <ItemSpec id="7" taskType="11" taskValue="[2000]"  />
+    <ItemSpec id="8" taskType="6" taskValue="[20,0]"  />
+    <ItemSpec id="9" taskType="7" taskValue="[1,4]"  />
+    <ItemSpec id="10" taskType="7" taskValue="[5,0]"  />
+    <ItemSpec id="11" taskType="8" taskValue="[100,500000]"  />
+    <ItemSpec id="12" taskType="3" taskValue="[100,15]"  />
+    <ItemSpec id="13" taskType="9" taskValue="[1000,12]"  />
+    <ItemSpec id="14" taskType="7" taskValue="[1,5]"  />
+    <ItemSpec id="15" taskType="8" taskValue="[100,1000000]"  />
+    <ItemSpec id="16" taskType="7" taskValue="[1,6]"  />
+    <ItemSpec id="17" taskType="7" taskValue="[1,7]"  />
+    <ItemSpec id="18" taskType="2" taskValue="[100,6025]"  />
+
+</tns:database>

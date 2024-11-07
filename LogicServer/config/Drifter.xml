@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="100011" speed="[80,180]" randWeight="15" reward="[[2,102,10],[2,103,4]]" type="1"  />
+    <ItemSpec id="100012" speed="[80,180]" randWeight="15" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="100013" speed="[80,180]" randWeight="15" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="100021" speed="[50,150]" randWeight="40" reward="[[2,102,4]]" type="1"  />
+    <ItemSpec id="100022" speed="[50,150]" randWeight="30" reward="[[2,102,4]]" type="1"  />
+    <ItemSpec id="100023" speed="[50,150]" randWeight="30" reward="[[2,102,4]]" type="1"  />
+    <ItemSpec id="100031" speed="[150,300]" randWeight="15" reward="[[2,102,10],[2,103,10]]" type="1"  />
+    <ItemSpec id="100032" speed="[150,300]" randWeight="15" reward="[[2,102,10],[2,103,10]]" type="1"  />
+    <ItemSpec id="100041" speed="[50,150]" randWeight="25" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="100042" speed="[50,150]" randWeight="25" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="100043" speed="[50,150]" randWeight="15" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="100044" speed="[50,150]" randWeight="15" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="100051" speed="[80,180]" randWeight="20" reward="[[2,102,4],[2,103,4]]" type="1"  />
+    <ItemSpec id="100052" speed="[80,180]" randWeight="20" reward="[[2,102,4],[2,103,4]]" type="1"  />
+    <ItemSpec id="100061" speed="[80,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="100062" speed="[80,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="100063" speed="[80,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="100081" speed="[0,0]" randWeight="0" reward="[[2,102,10]]" type="1"  />
+    <ItemSpec id="100091" speed="[0,0]" randWeight="40" reward="[[2,102,10]]" type="1"  />
+    <ItemSpec id="100092" speed="[0,0]" randWeight="30" reward="[[2,102,10]]" type="1"  />
+    <ItemSpec id="100093" speed="[0,0]" randWeight="30" reward="[[2,102,10]]" type="1"  />
+    <ItemSpec id="100101" speed="[0,0]" randWeight="0" reward="[[2,102,10]]" type="4" param="[13]"  />
+    <ItemSpec id="100102" speed="[0,0]" randWeight="0" reward="[[2,102,10]]" type="4" param="[25]"  />
+    <ItemSpec id="100103" speed="[0,0]" randWeight="0" reward="[[2,102,1]]" type="5" param="[13]"  />
+    <ItemSpec id="100104" speed="[0,0]" randWeight="0" reward="[[2,102,10]]" type="6" param="[25]"  />
+    <ItemSpec id="200011" speed="[130,180]" randWeight="15" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="200012" speed="[130,180]" randWeight="15" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="200013" speed="[130,180]" randWeight="15" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="200021" speed="[100,150]" randWeight="40" reward="[[2,102,4]]" type="1"  />
+    <ItemSpec id="200022" speed="[100,150]" randWeight="30" reward="[[2,102,4]]" type="1"  />
+    <ItemSpec id="200023" speed="[100,150]" randWeight="30" reward="[[2,102,4]]" type="1"  />
+    <ItemSpec id="200031" speed="[150,300]" randWeight="15" reward="[[2,102,10],[2,103,10]]" type="1"  />
+    <ItemSpec id="200032" speed="[150,300]" randWeight="15" reward="[[2,102,10],[2,103,10]]" type="1"  />
+    <ItemSpec id="200041" speed="[100,150]" randWeight="25" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="200042" speed="[100,150]" randWeight="25" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="200043" speed="[100,150]" randWeight="15" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="200044" speed="[100,150]" randWeight="15" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="200051" speed="[130,180]" randWeight="20" reward="[[2,102,4],[2,103,4]]" type="1"  />
+    <ItemSpec id="200052" speed="[130,180]" randWeight="20" reward="[[2,102,4],[2,103,4]]" type="1"  />
+    <ItemSpec id="200061" speed="[130,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="200062" speed="[130,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="200063" speed="[130,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="300011" speed="[80,180]" randWeight="15" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="300012" speed="[80,180]" randWeight="15" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="300013" speed="[80,180]" randWeight="15" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="300021" speed="[50,150]" randWeight="40" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="300022" speed="[50,150]" randWeight="30" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="300023" speed="[50,150]" randWeight="30" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="300031" speed="[150,300]" randWeight="15" reward="[[2,102,10],[2,103,10]]" type="1"  />
+    <ItemSpec id="300032" speed="[150,300]" randWeight="15" reward="[[2,102,10],[2,103,10]]" type="1"  />
+    <ItemSpec id="300041" speed="[50,150]" randWeight="25" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="300042" speed="[50,150]" randWeight="25" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="300043" speed="[50,150]" randWeight="15" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="300044" speed="[50,150]" randWeight="15" reward="[[2,103,4]]" type="1"  />
+    <ItemSpec id="300051" speed="[80,180]" randWeight="20" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="300052" speed="[80,180]" randWeight="20" reward="[[2,102,8],[2,103,4]]" type="1"  />
+    <ItemSpec id="300061" speed="[80,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="300062" speed="[80,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="300063" speed="[80,180]" randWeight="20" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="400001" speed="[150,300]" randWeight="15" reward="[[2,102,10],[2,100,10]]" type="1"  />
+    <ItemSpec id="400002" speed="[150,300]" randWeight="15" reward="[[2,102,10],[2,100,10]]" type="1"  />
+    <ItemSpec id="500001" speed="[80,180]" reward="[[2,102,10]]" type="1"  />
+    <ItemSpec id="500002" speed="[80,180]" reward="[[2,102,10]]" type="1"  />
+    <ItemSpec id="500003" speed="[80,180]" reward="[[2,102,10]]" type="1"  />
+    <ItemSpec id="500011" speed="[50,150]" reward="[[2,102,6]]" type="1"  />
+    <ItemSpec id="500012" speed="[50,150]" reward="[[2,102,6]]" type="1"  />
+    <ItemSpec id="500013" speed="[50,150]" reward="[[2,102,6]]" type="1"  />
+    <ItemSpec id="500041" speed="[80,180]" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="500042" speed="[80,180]" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="500043" speed="[80,180]" reward="[[2,102,8]]" type="1"  />
+    <ItemSpec id="500051" speed="[120,270]" reward="[[0,200001]]" type="1"  />
+    <ItemSpec id="500052" speed="[120,270]" reward="[[0,200001]]" type="1"  />
+    <ItemSpec id="500061" speed="[120,150]" reward="[[0,200002]]" type="7"  />
+    <ItemSpec id="500062" speed="[120,150]" reward="[[0,200003]]" type="7"  />
+    <ItemSpec id="500063" speed="[120,150]" reward="[[0,200004]]" type="7"  />
+    <ItemSpec id="500064" speed="[120,150]" reward="[[0,200005]]" type="7"  />
+
+</tns:database>

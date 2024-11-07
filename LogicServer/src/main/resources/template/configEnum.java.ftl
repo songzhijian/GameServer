@@ -1,6 +1,6 @@
-package com.im30.esg.config.type;
+package com.jx.config.type;
 
-import com.im30.esg.common.utils.LogUtils;
+import com.gameengine.system.utils.LogUtils;
 
 /**
  * 工具生成${name}

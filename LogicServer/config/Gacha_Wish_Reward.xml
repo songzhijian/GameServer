@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" cost1="20" reward1="[[2,105,10000]]" cost2="30" reward2="[[1,1001,40]]" cost3="30" reward3="[[2,105,10000]]" cost4="20" reward4="[[1,2059,1]]"  />
+
+</tns:database>

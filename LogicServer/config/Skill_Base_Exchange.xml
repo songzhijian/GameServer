@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1303" hero="13" position="3" stage="1" type="6"  />
+    <ItemSpec id="1313" hero="13" position="3" stage="2" type="6"  />
+    <ItemSpec id="2502" hero="25" position="2" stage="1" type="2" rangeType="0" range="[0]" targetType="4" cd1="6" cd2="18" gcd="0.5" addPower="90" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="58"  />
+    <ItemSpec id="2512" hero="25" position="2" stage="2" type="2" rangeType="0" range="[0]" targetType="4" cd1="6" cd2="18" gcd="0.5" addPower="90" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="58"  />
+    <ItemSpec id="2522" hero="25" position="2" stage="3" type="2" rangeType="0" range="[0]" targetType="4" cd1="6" cd2="18" gcd="0.5" addPower="90" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="58"  />
+    <ItemSpec id="3401" hero="34" position="1" stage="1" type="5" cost="[1,1000]" rangeType="1" range="[0]" targetType="1" cd1="2" cd2="2" frontHalf="30" behindHalf="60" endFrame="90"  />
+    <ItemSpec id="3411" hero="34" position="1" stage="2" type="5" cost="[1,1000]" rangeType="1" range="[0]" targetType="1" cd1="2" cd2="2" frontHalf="30" behindHalf="60" endFrame="90"  />
+    <ItemSpec id="3421" hero="34" position="1" stage="3" type="5" cost="[1,1000]" rangeType="1" range="[0]" targetType="1" cd1="2" cd2="2" frontHalf="30" behindHalf="60" endFrame="90"  />
+    <ItemSpec id="3431" hero="34" position="1" stage="4" type="5" cost="[1,1000]" rangeType="1" range="[0]" targetType="1" cd1="2" cd2="2" frontHalf="30" behindHalf="60" endFrame="90"  />
+    <ItemSpec id="10102" hero="101" position="2" stage="1" type="2" rangeType="0" range="[0]" targetType="4" cd1="4" cd2="20" gcd="0.5" addPower="100" frontHalf="25" behindHalf="60" canBreak1="1" canBreak2="1" endFrame="75"  />
+    <ItemSpec id="10112" hero="101" position="2" stage="2" type="2" rangeType="0" range="[0]" targetType="4" cd1="4" cd2="20" gcd="0.5" addPower="100" frontHalf="25" behindHalf="60" canBreak1="1" canBreak2="1" endFrame="75"  />
+    <ItemSpec id="10122" hero="101" position="2" stage="3" type="2" rangeType="0" range="[0]" targetType="4" cd1="4" cd2="20" gcd="0.5" addPower="100" frontHalf="25" behindHalf="60" canBreak1="1" canBreak2="1" endFrame="75"  />
+    <ItemSpec id="10203" hero="102" position="3" stage="1" type="6"  />
+    <ItemSpec id="10213" hero="102" position="3" stage="2" type="6"  />
+    <ItemSpec id="10223" hero="102" position="3" stage="3" type="6"  />
+    <ItemSpec id="20501" hero="205" position="1" stage="1" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="30" behindHalf="60" endFrame="90"  />
+    <ItemSpec id="20511" hero="205" position="1" stage="2" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="30" behindHalf="60" endFrame="90"  />
+    <ItemSpec id="20521" hero="205" position="1" stage="3" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="30" behindHalf="60" endFrame="90"  />
+    <ItemSpec id="20531" hero="205" position="1" stage="4" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="30" behindHalf="60" endFrame="90"  />
+    <ItemSpec id="20601" hero="206" position="1" stage="1" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="25" behindHalf="58" endFrame="85"  />
+    <ItemSpec id="20611" hero="206" position="1" stage="2" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="25" behindHalf="58" endFrame="85"  />
+    <ItemSpec id="20621" hero="206" position="1" stage="3" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="25" behindHalf="58" endFrame="85"  />
+    <ItemSpec id="20631" hero="206" position="1" stage="4" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="25" behindHalf="58" endFrame="85"  />
+    <ItemSpec id="30102" hero="301" position="2" stage="1" type="2" rangeType="0" range="[0]" targetType="2" cd1="4" cd2="999" gcd="0.5" addPower="120" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="30112" hero="301" position="2" stage="2" type="2" rangeType="0" range="[0]" targetType="2" cd1="4" cd2="999" gcd="0.5" addPower="120" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="30122" hero="301" position="2" stage="3" type="2" rangeType="0" range="[0]" targetType="4" cd1="4" cd2="999" gcd="0.5" addPower="120" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="30502" hero="305" position="2" stage="1" type="2" rangeType="0" range="[0]" targetType="4" cd1="8" cd2="15" gcd="0.5" addPower="140" frontHalf="25" behindHalf="45" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="30512" hero="305" position="2" stage="2" type="2" rangeType="0" range="[0]" targetType="4" cd1="8" cd2="15" gcd="0.5" addPower="140" frontHalf="25" behindHalf="45" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="30522" hero="305" position="2" stage="3" type="2" rangeType="0" range="[0]" targetType="4" cd1="8" cd2="15" gcd="0.5" addPower="140" frontHalf="25" behindHalf="45" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="40301" hero="403" position="1" stage="1" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="20" behindHalf="70" endFrame="90"  />
+    <ItemSpec id="40311" hero="403" position="1" stage="2" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="20" behindHalf="70" endFrame="90"  />
+    <ItemSpec id="40321" hero="403" position="1" stage="3" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="20" behindHalf="70" endFrame="90"  />
+    <ItemSpec id="40331" hero="403" position="1" stage="4" type="5" cost="[1,1000]" rangeType="2" range="[6]" targetType="1" cd1="2" cd2="2" frontHalf="20" behindHalf="70" endFrame="90"  />
+    <ItemSpec id="40401" hero="404" position="1" stage="1" type="5" cost="[1,1000]" rangeType="1" range="[0]" targetType="1" cd1="2" cd2="2" frontHalf="40" behindHalf="80" endFrame="130"  />
+    <ItemSpec id="40411" hero="404" position="1" stage="2" type="5" cost="[1,1000]" rangeType="1" range="[0]" targetType="1" cd1="2" cd2="2" frontHalf="40" behindHalf="80" endFrame="130"  />
+    <ItemSpec id="40421" hero="404" position="1" stage="3" type="5" cost="[1,1000]" rangeType="1" range="[0]" targetType="1" cd1="2" cd2="2" frontHalf="40" behindHalf="80" endFrame="130"  />
+    <ItemSpec id="40431" hero="404" position="1" stage="4" type="5" cost="[1,1000]" rangeType="1" range="[0]" targetType="1" cd1="2" cd2="2" frontHalf="40" behindHalf="80" endFrame="130"  />
+    <ItemSpec id="40402" hero="404" position="2" stage="1" type="2" rangeType="1" range="[0]" targetType="1" targetParam="[8,1]" cd1="6" cd2="15" gcd="0.5" addPower="105" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="40412" hero="404" position="2" stage="2" type="2" rangeType="1" range="[0]" targetType="1" targetParam="[8,1]" cd1="6" cd2="15" gcd="0.5" addPower="105" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="40422" hero="404" position="2" stage="3" type="2" rangeType="1" range="[0]" targetType="1" targetParam="[8,1]" cd1="6" cd2="15" gcd="0.5" addPower="105" frontHalf="20" behindHalf="40" canBreak1="1" canBreak2="1" endFrame="60"  />
+    <ItemSpec id="40403" hero="404" position="3" stage="1" type="6"  />
+    <ItemSpec id="40413" hero="404" position="3" stage="2" type="6"  />
+    <ItemSpec id="40423" hero="404" position="3" stage="3" type="6"  />
+
+</tns:database>

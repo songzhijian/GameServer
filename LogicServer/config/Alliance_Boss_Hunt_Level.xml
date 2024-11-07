@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" level="1" bossId="2001" bossAtkNum="100" damToScore="20" monsterId="2101" monsterAtkNum="10" allianceReward="[16,15,14,13,12,11]" perReward="[1001,1002,1003]" rank="501" rankCondition="12" initialStage="[1,1,21]"  />
+    <ItemSpec id="2" level="2" bossId="2002" bossAtkNum="100" damToScore="20" monsterId="2102" monsterAtkNum="10" allianceReward="[26,25,24,23,22,21]" perReward="[2001,2002,2003]" rank="502" rankCondition="22" initialStage="[1,21,52]"  />
+    <ItemSpec id="3" level="3" bossId="2003" bossAtkNum="100" damToScore="20" monsterId="2103" monsterAtkNum="10" allianceReward="[36,35,34,33,32,31]" perReward="[3001,3002,3003]" rank="503" rankCondition="32" initialStage="[1,52,60]"  />
+
+</tns:database>

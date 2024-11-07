@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" cost="[[1,8001,1]]" purchaseId="1001" exclusionEffects="[6055]"  />
+    <ItemSpec id="2" cd="43200" exclusionEffects="[6055]"  />
+    <ItemSpec id="3" cost="[[2,100,100]]" storageTime="2" param="[20,100,120,20]" exclusionEffects="[6055]"  />
+    <ItemSpec id="4" storageTime="100" exclusionEffects="[6055]"  />
+
+</tns:database>

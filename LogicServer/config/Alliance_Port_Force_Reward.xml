@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" portForce="200" dailyReward="[[2,101,200]]"  />
+    <ItemSpec id="2" portForce="500" dailyReward="[[2,101,220]]"  />
+    <ItemSpec id="3" portForce="1000" dailyReward="[[2,101,240]]"  />
+    <ItemSpec id="4" portForce="2000" dailyReward="[[2,101,260]]"  />
+    <ItemSpec id="5" portForce="3000" dailyReward="[[2,101,280]]"  />
+    <ItemSpec id="6" portForce="4000" dailyReward="[[2,101,300]]"  />
+    <ItemSpec id="7" portForce="5000" dailyReward="[[2,101,320]]"  />
+    <ItemSpec id="8" portForce="6000" dailyReward="[[2,101,340]]"  />
+    <ItemSpec id="9" portForce="7000" dailyReward="[[2,101,360]]"  />
+    <ItemSpec id="10" portForce="8000" dailyReward="[[2,101,380]]"  />
+
+</tns:database>

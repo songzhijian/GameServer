@@ -71,8 +71,6 @@ public class ClientParams {
     private String installVersion = "";//7天内免安装体验
     /**
      * AppStore market_global 渠道类型枚举
-     * {@link com.im30.esg.custom.platform.PlayerPlatformEnum } //手写的 以此为准
-     * {@link com.im30.esg.common.utils.LogUtils.PlatformType } //根据配置文件生产的 两个通过code关联
      */
     private String platformType = "";
 

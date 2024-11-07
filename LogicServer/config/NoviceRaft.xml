@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" type="3" param="[[0,600,100011]]" condition="[[1,0,0]]" next="2001"  />
+    <ItemSpec id="201" type="1" param="[[-600,75,100011],[600,75,100011],[0,-600,100011]]" condition="[[2,1001,1]]" next="251"  />
+    <ItemSpec id="251" type="2" param="[[1,2]]" next="255"  />
+    <ItemSpec id="255" type="1" param="[[-75,-900,100101],[900,75,100102]]" condition="[[1,0,0]]" next="301"  />
+    <ItemSpec id="301" type="2" param="[[101,102]]" condition="[[2,1001,1]]" next="401"  />
+    <ItemSpec id="401" type="2" param="[[103]]" condition="[[3,100081,2]]" next="501"  />
+    <ItemSpec id="501" type="2" param="[[1,2,3]]" next="701"  />
+    <ItemSpec id="601" type="2" param="[[2]]"  />
+    <ItemSpec id="1001" type="1" param="[[0,600,100011]]" next="2001"  />
+    <ItemSpec id="2001" type="2" param="[[1,2,3]]" next="3001"  />
+    <ItemSpec id="3001" type="3" param="[[0,0,100103]]" condition="[[1,0,0]]" next="4001"  />
+    <ItemSpec id="4001" type="2" param="[[501,502]]" condition="[[2,1001,1]]" next="5001"  />
+    <ItemSpec id="5001" type="2" param="[[501,502]]" condition="[[3,100081,2]]" next="6001"  />
+    <ItemSpec id="6001" type="2" param="[[103]]" condition="[[3,100081,2]]" next="10001"  />
+    <ItemSpec id="7001" type="2" param="[[201,202]]" condition="[[3,100081,2]]"  />
+    <ItemSpec id="9001" type="2" param="[[103]]" condition="[[3,100081,2]]"  />
+    <ItemSpec id="10001" type="2" param="[[1005,1006,1004]]" next="10002"  />
+    <ItemSpec id="10002" type="2" param="[[1001]]" next="10003"  />
+    <ItemSpec id="10003" type="2" param="[[1005,1006,1004]]" next="10004"  />
+    <ItemSpec id="10004" type="2" param="[[1007]]" next="10006"  />
+    <ItemSpec id="10005" type="2" param="[[1005,1006,1004]]" next="10006"  />
+    <ItemSpec id="10006" type="2" param="[[1005,1006,1008]]" next="8001"  />
+    <ItemSpec id="8001" type="2" param="[[103]]" condition="[[3,100081,2]]"  />
+
+</tns:database>

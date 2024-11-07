@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" order="1" name="620271" img="bigworld_harbor_rebuild" des="620416" checkTime="1" checkType="1" Param="[0,0,0,0,0,0,0]" isForce="1" time="4" affectClass="24" trend="[1,30]" trendTurn="0"  />
+    <ItemSpec id="2" order="2" name="620272" img="bigworld_harbor_plague" des="620417" checkTime="1" checkType="2" Param="[0,0,0,0,0,0,0]" isForce="1" time="4" affectClass="21" trend="[1,30]" trendTurn="0"  />
+    <ItemSpec id="3" order="3" name="620273" img="bigworld_harbor_war" des="620418" checkTime="1" checkType="2" Param="[0,0,0,0,0,0,0]" isForce="1" time="4" affectClass="26" trend="[1,30]" trendTurn="0"  />
+    <ItemSpec id="4" order="4" name="620274" img="bigworld_harbor_excess" des="620419" checkTime="1" checkType="3" Param="[1000000,1000000,10000000,10000000,10000000,1000000,1000000]" isForce="0" time="4" affectClass="-1" trend="[2,50]" trendTurn="-1"  />
+    <ItemSpec id="5" order="5" name="620275" img="bigworld_harbor_famine" des="620420" checkTime="24" checkType="4" Param="[0,0,0,0,0,0,0]" isForce="0" time="4" affectClass="11" trend="[1,30]" trendTurn="0"  />
+    <ItemSpec id="6" order="6" name="620276" img="bigworld_harbor_stagnancy" des="620421" checkTime="24" checkType="4" Param="[0,0,0,0,0,0,0]" isForce="0" time="4" affectClass="-1" trend="[1,-15]" trendTurn="1"  />
+    <ItemSpec id="7" order="7" name="620277" img="bigworld_harbor_boom" des="620422" checkTime="24" checkType="4" Param="[0,0,0,0,0,0,0]" isForce="0" time="4" affectClass="-1" trend="[1,15]" trendTurn="0"  />
+
+</tns:database>

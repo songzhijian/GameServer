@@ -1,12 +1,12 @@
 package com.jx.config.type;
 
-import com.gameengine.system.utils.GameLoggerFactory;
-import org.slf4j.Logger;
+import com.gameengine.system.utils.LogUtils;
 
 /**
  * 工具生成ErrorCode
  */
 public enum ErrorCode {
+
     /**
      * 未定义的服务器内部错误
      */
@@ -623,6 +623,16 @@ public enum ErrorCode {
     ALLIANCE_RANK_HAS_CHANGE(100648),
 
     /**
+     * 联盟BOSS活动期间不可以解散联盟
+     */
+    ALLIANCE_BOSS_TIME_CANT_DISBAND(100649),
+
+    /**
+     * 联盟BOSS攻击次数用尽
+     */
+    ALLIANCE_BOSS_ATTACK_TIME_NOT_ENOUGH(100650),
+
+    /**
      * 船名超过长度上线
      */
     SHIP_NAME_LEN_ERROR(100701),
@@ -1048,6 +1058,31 @@ public enum ErrorCode {
     HOME_SHIP_IS_ON_THE_MARCH(500028),
 
     /**
+     * mail rewardOverCapLogic：贸易品货舱已满
+     */
+    MAIL_REWARD_OVER_CAP_TRADEGOODS(500029),
+
+    /**
+     * mail rewardOverCapLogic：金币已达上限
+     */
+    MAIL_REWARD_OVER_CAP_GOLD(500030),
+
+    /**
+     * mail rewardOverCapLogic：木材已达上限
+     */
+    MAIL_REWARD_OVER_CAP_WOOD(500031),
+
+    /**
+     * mail rewardOverCapLogic：金属已达上限
+     */
+    MAIL_REWARD_OVER_CAP_FABRIC(500032),
+
+    /**
+     * mail rewardOverCapLogic：织物已达上限
+     */
+    MAIL_REWARD_OVER_CAP_METAL(500033),
+
+    /**
      * 客户端参数错误，校验非法
      */
     ILLEGAL_PARAMETER(900001),
@@ -1075,7 +1110,6 @@ public enum ErrorCode {
     ;
     private int value;
 
-    private static final Logger logger = GameLoggerFactory.getLogger(ErrorCode.class);
     public static ErrorCode[] ARRAY = {
             SERVER_ERROR,
             PLATFORM_ID_OCCUPY,
@@ -1200,6 +1234,8 @@ public enum ErrorCode {
             ALLIANCE_APPLY_CANCEL,
             ALLIANCE_INVITE_HANDLE_FAIL_MAIL_NULL,
             ALLIANCE_RANK_HAS_CHANGE,
+            ALLIANCE_BOSS_TIME_CANT_DISBAND,
+            ALLIANCE_BOSS_ATTACK_TIME_NOT_ENOUGH,
             SHIP_NAME_LEN_ERROR,
             BUY_SHIP_ITEM_NOT_ENOUGH,
             CHANGE_SHIP_ERROR,
@@ -1285,6 +1321,11 @@ public enum ErrorCode {
             GIVE_UP_PORY_COUNT_LIMIT,
             FUEL_COST_NOT_ENOUGH,
             HOME_SHIP_IS_ON_THE_MARCH,
+            MAIL_REWARD_OVER_CAP_TRADEGOODS,
+            MAIL_REWARD_OVER_CAP_GOLD,
+            MAIL_REWARD_OVER_CAP_WOOD,
+            MAIL_REWARD_OVER_CAP_FABRIC,
+            MAIL_REWARD_OVER_CAP_METAL,
             ILLEGAL_PARAMETER,
             COOLDOWN_TIME_IS_NOT_UP,
             FLAG_FORBID,
@@ -1425,6 +1466,8 @@ public enum ErrorCode {
             case 100646 -> ALLIANCE_APPLY_CANCEL;
             case 100647 -> ALLIANCE_INVITE_HANDLE_FAIL_MAIL_NULL;
             case 100648 -> ALLIANCE_RANK_HAS_CHANGE;
+            case 100649 -> ALLIANCE_BOSS_TIME_CANT_DISBAND;
+            case 100650 -> ALLIANCE_BOSS_ATTACK_TIME_NOT_ENOUGH;
             case 100701 -> SHIP_NAME_LEN_ERROR;
             case 100702 -> BUY_SHIP_ITEM_NOT_ENOUGH;
             case 100703 -> CHANGE_SHIP_ERROR;
@@ -1510,13 +1553,18 @@ public enum ErrorCode {
             case 500026 -> GIVE_UP_PORY_COUNT_LIMIT;
             case 500027 -> FUEL_COST_NOT_ENOUGH;
             case 500028 -> HOME_SHIP_IS_ON_THE_MARCH;
+            case 500029 -> MAIL_REWARD_OVER_CAP_TRADEGOODS;
+            case 500030 -> MAIL_REWARD_OVER_CAP_GOLD;
+            case 500031 -> MAIL_REWARD_OVER_CAP_WOOD;
+            case 500032 -> MAIL_REWARD_OVER_CAP_FABRIC;
+            case 500033 -> MAIL_REWARD_OVER_CAP_METAL;
             case 900001 -> ILLEGAL_PARAMETER;
             case 900002 -> COOLDOWN_TIME_IS_NOT_UP;
             case 900003 -> FLAG_FORBID;
             case 1000001 -> JOIN_ALLIANCE_TOAST;
             case 1000002 -> KICK_MEMBER_TOAST;
             default -> {
-                logger.error("ErrorCode is not find value:{}",value);
+                LogUtils.logger.error("ErrorCode is not find value:{}",value);
                 yield null;
             }
         };

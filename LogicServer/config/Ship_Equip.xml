@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" quality="3" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="102" quality="5" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="103" quality="3" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="104" quality="5" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="105" quality="3" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="106" quality="5" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="107" quality="5" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="108" quality="7" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="109" quality="5" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="110" quality="7" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="111" quality="5" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="112" quality="7" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="113" quality="5" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="114" quality="7" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="115" quality="7" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="116" quality="9" group="21" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="201" quality="3" group="22" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="202" quality="5" group="22" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="203" quality="5" group="22" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="204" quality="7" group="22" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="205" quality="7" group="22" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="206" quality="9" group="22" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="301" quality="3" group="23" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="302" quality="5" group="23" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="303" quality="5" group="23" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="304" quality="7" group="23" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="305" quality="7" group="23" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="306" quality="9" group="23" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="401" quality="3" group="24" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="402" quality="5" group="24" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="403" quality="5" group="24" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="404" quality="7" group="24" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="405" quality="7" group="24" eff="[[601,100],[602,200]]"  />
+    <ItemSpec id="406" quality="9" group="24" eff="[[601,100],[602,200]]"  />
+
+</tns:database>

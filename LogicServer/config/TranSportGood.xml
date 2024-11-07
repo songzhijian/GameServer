@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" startPos="[748,954]" endPortId="195" startPosPoint="[749,956]" endPortPoint="[335,978]"  />
+    <ItemSpec id="102" startPos="[673,559]" endPortId="206" startPosPoint="[674,562]" endPortPoint="[217,553]"  />
+    <ItemSpec id="103" startPos="[595,82]" endPortId="360" startPosPoint="[596,85]" endPortPoint="[200,164]"  />
+    <ItemSpec id="104" startPos="[2178,899]" endPortId="292" startPosPoint="[2179,901]" endPortPoint="[1865,1075]"  />
+    <ItemSpec id="105" startPos="[1648,623]" endPortId="257" startPosPoint="[1649,625]" endPortPoint="[2192,563]"  />
+    <ItemSpec id="106" startPos="[1850,321]" endPortId="284" startPosPoint="[1851,323]" endPortPoint="[1901,63]"  />
+    <ItemSpec id="107" startPos="[1009,457]" endPortId="138" startPosPoint="[1010,460]" endPortPoint="[1103,137]"  />
+    <ItemSpec id="108" startPos="[1508,516]" endPortId="159" startPosPoint="[1509,518]" endPortPoint="[1285,213]"  />
+    <ItemSpec id="109" startPos="[1151,1065]" endPortId="156" startPosPoint="[1152,1068]" endPortPoint="[942,783]"  />
+    <ItemSpec id="110" startPos="[1402,1116]" endPortId="326" startPosPoint="[1403,1118]" endPortPoint="[1589,770]"  />
+
+</tns:database>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" displayLevel="1" exp="100" tax="-100"  />
+    <ItemSpec id="2" displayLevel="2" exp="200" tax="-200"  />
+    <ItemSpec id="3" displayLevel="3" exp="300" tax="-300"  />
+    <ItemSpec id="4" displayLevel="4" exp="400" tax="-400"  />
+    <ItemSpec id="5" displayLevel="5" exp="500" tax="-500"  />
+    <ItemSpec id="6" displayLevel="6" exp="600" tax="-600"  />
+    <ItemSpec id="7" displayLevel="7" exp="700" tax="-700"  />
+    <ItemSpec id="8" displayLevel="8" exp="800" tax="-800"  />
+    <ItemSpec id="9" displayLevel="9" exp="900" tax="-900"  />
+    <ItemSpec id="10" displayLevel="10" exp="1000" tax="-1000"  />
+
+</tns:database>

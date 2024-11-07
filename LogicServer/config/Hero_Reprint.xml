@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1011" hero="101" unlockSeason="2" unlockCon="8" cost="[2,100,100]"  />
+    <ItemSpec id="1012" hero="101" unlockSeason="3" unlockCon="12" cost="[2,100,100]"  />
+
+</tns:database>

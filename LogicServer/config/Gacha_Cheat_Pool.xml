@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" behavior="[1,1000]" cheatP="1001"  />
+    <ItemSpec id="2" behavior="[1,2000]" cheatP="1002"  />
+    <ItemSpec id="3" behavior="[1,3000]" cheatP="1003"  />
+    <ItemSpec id="4" behavior="[1,4000]" cheatP="1003"  />
+    <ItemSpec id="5" behavior="[1,5000]" cheatP="1003"  />
+    <ItemSpec id="6" behavior="[1,6000]" cheatP="1003"  />
+    <ItemSpec id="7" behavior="[1,7000]" cheatP="1003"  />
+
+</tns:database>

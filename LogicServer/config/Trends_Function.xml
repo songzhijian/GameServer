@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" type="1" para="15"  />
+    <ItemSpec id="2" type="4" para="3"  />
+    <ItemSpec id="3" type="3" para="8"  />
+    <ItemSpec id="4" type="4" para="5"  />
+    <ItemSpec id="5" type="1" para="20"  />
+    <ItemSpec id="6" type="2" para="5"  />
+    <ItemSpec id="7" type="5" para="20"  />
+    <ItemSpec id="8" type="3" para="12"  />
+    <ItemSpec id="9" type="4" para="6"  />
+    <ItemSpec id="10" type="1" para="25"  />
+    <ItemSpec id="11" type="4" para="7"  />
+    <ItemSpec id="12" type="12" para="5"  />
+    <ItemSpec id="13" type="11" para="60"  />
+    <ItemSpec id="14" type="8" para="7"  />
+    <ItemSpec id="15" type="8" para="3"  />
+    <ItemSpec id="16" type="8" para="4"  />
+    <ItemSpec id="17" type="8" para="5"  />
+    <ItemSpec id="18" type="8" para="1"  />
+    <ItemSpec id="19" type="8" para="2"  />
+    <ItemSpec id="20" type="8" para="6"  />
+    <ItemSpec id="21" type="4" para="4"  />
+
+</tns:database>

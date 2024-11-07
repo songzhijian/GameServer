@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1"  />
+    <ItemSpec id="2"  />
+    <ItemSpec id="3"  />
+    <ItemSpec id="4"  />
+    <ItemSpec id="5" des="CN" status="1"  />
+    <ItemSpec id="6" des="MY"  />
+    <ItemSpec id="7" des="AU"  />
+    <ItemSpec id="8" des="KR"  />
+    <ItemSpec id="9" des="US"  />
+    <ItemSpec id="10" des="SG"  />
+    <ItemSpec id="11" des="BR"  />
+    <ItemSpec id="12" des="AR"  />
+    <ItemSpec id="13" des="AE"  />
+    <ItemSpec id="14" des="PS"  />
+    <ItemSpec id="15" des="AT"  />
+    <ItemSpec id="16" des="BY"  />
+    <ItemSpec id="17" des="IS"  />
+    <ItemSpec id="18" des="DK"  />
+    <ItemSpec id="19" des="PL"  />
+    <ItemSpec id="20" des="BO"  />
+    <ItemSpec id="21" des="DE"  />
+    <ItemSpec id="22" des="DO"  />
+    <ItemSpec id="23" des="RU"  />
+    <ItemSpec id="24" des="PH"  />
+    <ItemSpec id="25" des="FI"  />
+    <ItemSpec id="26" des="CO"  />
+    <ItemSpec id="27" des="KZ"  />
+    <ItemSpec id="28" des="NL"  />
+    <ItemSpec id="29" des="CA"  />
+    <ItemSpec id="30" des="CZ"  />
+    <ItemSpec id="31" des="HR"  />
+    <ItemSpec id="32" des="LV"  />
+    <ItemSpec id="33" des="LT"  />
+    <ItemSpec id="34" des="BE"  />
+    <ItemSpec id="35" des="RO"  />
+    <ItemSpec id="36" des="FR"  />
+    <ItemSpec id="37" des="PE"  />
+    <ItemSpec id="38" des="MX"  />
+    <ItemSpec id="39" des="IE"  />
+    <ItemSpec id="40" des="IT"  />
+    <ItemSpec id="41" des="ZA"  />
+    <ItemSpec id="42" des="NO"  />
+    <ItemSpec id="43" des="PT"  />
+    <ItemSpec id="44" des="JP"  />
+    <ItemSpec id="45" des="SE"  />
+    <ItemSpec id="46" des="CH"  />
+    <ItemSpec id="47" des="SA"  />
+    <ItemSpec id="48" des="TH"  />
+    <ItemSpec id="49" des="TR"  />
+    <ItemSpec id="50" des="UA"  />
+    <ItemSpec id="51" des="UZ"  />
+    <ItemSpec id="52" des="ES"  />
+    <ItemSpec id="53" des="GR"  />
+    <ItemSpec id="54" des="HU"  />
+    <ItemSpec id="55" des="IN"  />
+    <ItemSpec id="56" des="AM"  />
+    <ItemSpec id="57" des="IR"  />
+    <ItemSpec id="58" des="IL"  />
+    <ItemSpec id="59" des="ID"  />
+    <ItemSpec id="60" des="CL"  />
+    <ItemSpec id="61" des="GB"  />
+    <ItemSpec id="62" des="NZ"  />
+
+</tns:database>

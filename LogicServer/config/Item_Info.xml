@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="100" type="1" color="5"  />
+    <ItemSpec id="101" type="1" color="3" weight="1"  />
+    <ItemSpec id="102" type="1" color="3" weight="1"  />
+    <ItemSpec id="103" type="1" color="3" weight="1"  />
+    <ItemSpec id="104" type="1" color="3" weight="1"  />
+    <ItemSpec id="105" type="1" color="3"  />
+    <ItemSpec id="106" type="1" color="5"  />
+    <ItemSpec id="107" type="1" color="3"  />
+    <ItemSpec id="108" type="1" color="3"  />
+    <ItemSpec id="109" type="1" color="3"  />
+    <ItemSpec id="110" type="1" color="3"  />
+    <ItemSpec id="111" type="1" color="3"  />
+    <ItemSpec id="112" type="1" color="3"  />
+    <ItemSpec id="113" type="1" color="3"  />
+    <ItemSpec id="114" type="1" color="3"  />
+    <ItemSpec id="115" type="1" color="3"  />
+    <ItemSpec id="116" type="1" color="3"  />
+    <ItemSpec id="117" type="1" color="3"  />
+    <ItemSpec id="201" type="1" color="3"  />
+    <ItemSpec id="202" type="1" color="3"  />
+    <ItemSpec id="203" type="1" color="3"  />
+    <ItemSpec id="204" type="1" color="3"  />
+    <ItemSpec id="205" type="1" color="3"  />
+    <ItemSpec id="206" type="1" color="3"  />
+    <ItemSpec id="901" type="0" color="3" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="902" type="0" color="3" groupNum="999999" canUse="1" useCD="500" useNeed="1" useCount="1" useType="1" useParam="[[102,40]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="903" type="0" color="3" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="904" type="0" color="3" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1001" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1002" type="23" color="7" groupNum="999999"  />
+    <ItemSpec id="1003" type="2" color="7" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1004" type="23" color="7" groupNum="999999"  />
+    <ItemSpec id="1005" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1006" type="0" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1007" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1011" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1012" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1021" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1022" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1031" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1032" type="2" color="7" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1101" type="21" color="3" groupNum="999999" promptNew="0" timeLogic="60"  />
+    <ItemSpec id="1102" type="21" color="3" groupNum="999999" promptNew="0" timeLogic="300"  />
+    <ItemSpec id="1103" type="21" color="5" groupNum="999999" promptNew="0" timeLogic="900"  />
+    <ItemSpec id="1104" type="21" color="5" groupNum="999999" promptNew="0" timeLogic="3600"  />
+    <ItemSpec id="1105" type="21" color="7" groupNum="999999" promptNew="0" timeLogic="7200"  />
+    <ItemSpec id="1121" type="22" color="3" groupNum="999999" promptNew="0" timeLogic="60"  />
+    <ItemSpec id="1122" type="22" color="3" groupNum="999999" promptNew="0" timeLogic="300"  />
+    <ItemSpec id="1123" type="22" color="5" groupNum="999999" promptNew="0" timeLogic="900"  />
+    <ItemSpec id="1124" type="22" color="5" groupNum="999999" promptNew="0" timeLogic="3600"  />
+    <ItemSpec id="1125" type="22" color="7" groupNum="999999" promptNew="0" timeLogic="7200"  />
+    <ItemSpec id="1141" type="23" color="3" groupNum="999999" promptNew="0" timeLogic="60"  />
+    <ItemSpec id="1142" type="23" color="3" groupNum="999999" promptNew="0" timeLogic="300"  />
+    <ItemSpec id="1143" type="23" color="5" groupNum="999999" promptNew="0" timeLogic="900"  />
+    <ItemSpec id="1144" type="23" color="5" groupNum="999999" promptNew="0" timeLogic="3600"  />
+    <ItemSpec id="1145" type="23" color="7" groupNum="999999" promptNew="0" timeLogic="7200"  />
+    <ItemSpec id="1161" type="24" color="3" groupNum="999999" promptNew="0" timeLogic="60"  />
+    <ItemSpec id="1162" type="24" color="3" groupNum="999999" promptNew="0" timeLogic="300"  />
+    <ItemSpec id="1163" type="24" color="5" groupNum="999999" promptNew="0" timeLogic="900"  />
+    <ItemSpec id="1164" type="24" color="5" groupNum="999999" promptNew="0" timeLogic="3600"  />
+    <ItemSpec id="1165" type="24" color="7" groupNum="999999" promptNew="0" timeLogic="7200"  />
+    <ItemSpec id="1201" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1202" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1203" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1204" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1205" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1206" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1207" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1208" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1209" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1301" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1302" type="2" color="7" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1303" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1304" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1305" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1306" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1307" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1308" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1309" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1401" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1402" type="2" color="3" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1403" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1411" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1412" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1501" type="2" color="5" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1502" type="2" color="7" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1503" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="1504" type="2" color="9" groupNum="999999" promptNew="0"  />
+    <ItemSpec id="2001" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,202]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2002" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,302]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2003" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,402]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2004" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,502]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2011" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,203]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2012" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,303]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2013" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,403]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2014" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,503]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2051" type="3" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[0,102]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2052" type="3" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[0,104]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2059" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="0" useType="4" useParam="[[0,204],[0,304],[0,404],[0,504]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2061" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,5]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2062" type="3" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="0" useType="8" useParam="[[1,1301,1],[1,1302,1],[1,1303,1],[1,1304,1],[1,1305,1],[1,1306,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2063" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,104]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2064" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="0" useType="8" useParam="[[1,3101,60],[1,3102,60],[1,3105,60],[1,3201,60],[1,3204,60],[1,3205,60],[1,3206,60],[1,3301,60],[1,3304,60],[1,3305,60],[1,3401,60],[1,3403,60],[1,3404,60]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2071" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,5]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2072" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,5]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2073" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[2,202,100]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2074" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,112,10]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2101" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10001]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2201" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10002]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2301" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10101]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2302" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10102]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2303" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10103]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2304" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10104]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2305" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10105]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2306" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10106]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2307" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10107]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2308" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="2" useParam="[[0,10108]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2501" type="37" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[1,7200]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2502" type="37" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[1,21600]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2503" type="37" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[1,43200]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2504" type="37" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[1,86400]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2521" type="37" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[2,7200]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2522" type="37" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[2,21600]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2523" type="37" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[2,43200]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2524" type="37" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[2,86400]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2541" type="37" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[3,7200]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2542" type="37" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[3,21600]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2543" type="37" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[3,43200]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2544" type="37" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="7" useParam="[[3,86400]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2561" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,100,10]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2562" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,100,30]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2563" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,100,100]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2564" type="3" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,100,300]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2565" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,100,20]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2566" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,100,50]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2581" type="31" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,101,1000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2582" type="31" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,101,5000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2583" type="31" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,101,20000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2584" type="31" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,101,50000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2601" type="32" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,102,100]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2602" type="32" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,102,500]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2603" type="32" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,102,2000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2604" type="32" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,102,5000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2621" type="33" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,103,100]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2622" type="33" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,103,500]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2623" type="33" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,103,2000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2624" type="33" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,103,5000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2641" type="34" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,104,100]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2642" type="34" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,104,500]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2643" type="34" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,104,2000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2644" type="34" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,104,5000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2645" type="34" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,104,50]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2646" type="34" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,104,250]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2647" type="34" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,104,1000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2648" type="34" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,104,2500]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2661" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,102,100],[2,103,50],[2,104,50]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2662" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,102,500],[2,103,250],[2,104,250]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2663" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,102,2000],[2,103,1000],[2,104,1000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2664" type="3" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,102,5000],[2,103,2500],[2,104,2500]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2681" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,110,200]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2682" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="2" useType="1" useParam="[[2,110,880]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="2701" type="36" color="2" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[20,100]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2702" type="36" color="2" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[20,200]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2703" type="36" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[20,500]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2704" type="36" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[20,1000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2705" type="36" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[20,2000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2706" type="36" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[20,5000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2707" type="36" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[20,10000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2708" type="36" color="1" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[20,5]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2721" type="36" color="1" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[2,117,100]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2722" type="36" color="1" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[2,117,1000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2723" type="36" color="2" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[2,117,5000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2724" type="36" color="2" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[2,117,20000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2725" type="36" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[2,117,100000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2726" type="36" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[2,117,300000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2727" type="36" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="1" useParam="[[2,117,1000000]]" useConclusion="0" promptNew="1"  />
+    <ItemSpec id="2901" type="35" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,101]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2902" type="35" color="7" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,102]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2903" type="35" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,201]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2904" type="35" color="7" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,202]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2905" type="35" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,301]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2906" type="35" color="7" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,302]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2907" type="35" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,401]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2908" type="35" color="7" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,402]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2909" type="35" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,501]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2910" type="35" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,601]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2911" type="35" color="7" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,602]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2912" type="35" color="7" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="5" useParam="[[201,701]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2994" type="4" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="1" useParam="[[1,1001,10],[2,101,5500],[2,102,100],[2,103,100],[2,105,2400],[2,110,1500],[3,25,3,1],[3,102,5,1],[4,10301,0,0,1],[4,10302,0,0,1],[4,10102,0,0,1],[4,10103,0,0,1],[4,10104,0,0,1],[4,10201,0,0,1],[4,10202,0,0,1],[4,10203,0,0,1],[4,10204,0,0,1],[4,20101,0,0,1],[6,5104,0,1]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2995" type="4" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="1" useParam="[[2,100,500000],[12,101,1],[12,102,1],[12,108,1],[12,202,1],[12,205,1],[12,302,1],[12,305,1],[12,402,1],[12,405,1],[14,101],[14,102],[14,103],[14,104],[14,105],[14,201],[14,202],[14,203],[14,301],[14,302],[14,303],[14,401],[14,402],[14,403]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2996" type="4" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="1" useParam="[[3,63,2,1],[3,62,2,1],[3,61,2,1],[3,64,2,1],[3,104,5,1],[3,25,3,1]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2997" type="4" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="1" useParam="[[1,1011,1],[1,1012,1],[1,1013,1],[1,1014,1],[1,1015,1],[1,1016,1],[1,1017,1],[1,1018,1],[1,1019,1],[1,1020,500],[1,1021,500],[1,1022,500],[1,1023,500],[1,1024,500],[1,1025,500],[1,1026,500],[1,1027,500],[1,1028,500],[1,1029,500],[4,10101,0,0,1],[4,10102,0,0,1],[4,10103,0,0,1],[4,10104,0,0,1],[4,10201,0,0,1],[4,10202,0,0,1],[4,10203,0,0,1],[4,10204,0,0,1],[4,10301,0,0,1],[4,10302,0,0,1],[4,10303,0,0,1],[4,10304,0,0,1],[4,20101,0,0,1],[4,20102,0,0,1],[4,20103,0,0,1],[4,20104,0,0,1],[4,20201,0,0,1],[4,20202,0,0,1],[4,20203,0,0,1],[4,20204,0,0,1],[4,20301,0,0,1],[4,20302,0,0,1],[4,20303,0,0,1],[4,20304,0,0,1],[4,30101,0,0,1],[4,30102,0,0,1],[4,30103,0,0,1],[4,30104,0,0,1],[4,30201,0,0,1],[4,30202,0,0,1],[4,30203,0,0,1],[4,30204,0,0,1],[4,30301,0,0,1],[4,30302,0,0,1],[4,30303,0,0,1],[4,30304,0,0,1],[4,40101,0,0,1],[4,40102,0,0,1],[4,40103,0,0,1],[4,40104,0,0,1],[4,40201,0,0,1],[4,40202,0,0,1],[4,40203,0,0,1],[4,40204,0,0,1],[4,40301,0,0,1],[4,40302,0,0,1],[4,40303,0,0,1],[4,40304,0,0,1],[4,50101,0,0,1],[4,50102,0,0,1],[4,50103,0,0,1],[4,50104,0,0,1],[4,50201,0,0,1],[4,50202,0,0,1],[4,50203,0,0,1],[4,50204,0,0,1],[4,50301,0,0,1],[4,50302,0,0,1],[4,50303,0,0,1],[4,50304,0,0,1],[4,60101,0,0,1],[4,60102,0,0,1],[4,60103,0,0,1],[4,60104,0,0,1],[4,60201,0,0,1],[4,60202,0,0,1],[4,60203,0,0,1],[4,60204,0,0,1],[4,60301,0,0,1],[4,60302,0,0,1],[4,60303,0,0,1],[4,60304,0,0,1],[4,70101,0,0,1],[4,70102,0,0,1],[4,70103,0,0,1],[4,70104,0,0,1],[4,70201,0,0,1],[4,70202,0,0,1],[4,70203,0,0,1],[4,70204,0,0,1],[4,70301,0,0,1],[4,70302,0,0,1],[4,70303,0,0,1],[4,70304,0,0,1],[4,80101,0,0,1],[4,80102,0,0,1],[4,80103,0,0,1],[4,80104,0,0,1],[4,80201,0,0,1],[4,80202,0,0,1],[4,80203,0,0,1],[4,80204,0,0,1],[4,80301,0,0,1],[4,80302,0,0,1],[4,80303,0,0,1],[4,80304,0,0,1],[4,90101,0,0,1],[4,90102,0,0,1],[4,90103,0,0,1],[4,90104,0,0,1],[4,90201,0,0,1],[4,90202,0,0,1],[4,90203,0,0,1],[4,90204,0,0,1],[4,90301,0,0,1],[4,90302,0,0,1],[4,90303,0,0,1],[4,90304,0,0,1],[4,100103,1,1,1],[4,110103,1,1,1],[4,120103,1,1,1],[4,130103,1,1,1]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2998" type="4" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="1" useParam="[[3,101,5,1],[3,101,6,1],[3,101,7,1],[3,101,8,1],[3,101,9,1],[3,101,10,1],[3,101,11,1],[3,101,12,1],[3,101,13,1],[3,101,14,1],[3,101,15,1],[3,101,16,1],[3,101,17,1],[3,101,18,1],[3,101,19,1],[3,101,20,1],[3,101,21,1],[3,101,22,1],[3,101,23,1]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="2999" type="4" color="5" groupNum="999999" canUse="1" useCD="5000" useNeed="1" useCount="0" useType="1" useParam="[[1,1001,10000],[1,1006,100],[1,1007,100],[1,1030,500],[1,2301,100],[1,117,50000],[2,100,500],[2,101,5000000],[2,102,5000000],[2,103,5000000],[2,104,5000000],[2,105,5000000],[2,110,5000000],[2,111,1000],[2,112,900],[2,117,5000000],[2,1101,100],[2,1102,100],[2,1103,100],[2,1104,100],[2,1105,100],[2,1121,100],[2,1122,100],[2,1123,100],[2,1124,100],[2,1125,100],[2,1141,100],[2,1142,100],[2,1143,100],[2,1144,100],[2,1145,100],[2,1161,100],[2,1162,100],[2,1163,100],[2,1164,100],[2,1165,100],[3,11,2,1],[3,12,2,1],[3,21,2,1],[3,22,2,1],[3,25,3,1],[3,31,2,1],[3,32,2,1],[3,41,2,1],[3,42,2,1],[3,101,5,1],[3,301,5,1],[3,24,3,1],[3,15,3,1],[3,102,5,1],[3,23,3,1],[3,33,3,1],[3,45,3,1],[3,14,3,1],[3,43,3,1],[3,44,3,1],[3,305,5,1],[3,204,5,1],[3,403,5,1],[3,34,3,1],[3,35,3,1],[3,206,5,1],[3,105,5,1],[3,201,5,1],[3,205,5,1],[3,304,5,1],[3,401,5,1],[3,404,5,1],[3,406,5,1],[3,501,5,1],[3,601,5,1],[4,30101,0,0,1],[4,30102,0,0,1],[4,30103,0,0,1],[4,30104,0,0,1],[4,30201,0,0,1],[4,30202,0,0,1],[4,30203,0,0,1],[4,30204,0,0,1],[4,30301,0,0,1],[4,30302,0,0,1],[4,30303,0,0,1],[4,30304,0,0,1],[6,5102,1,10],[6,5207,2,100],[6,5208,3,100],[1,6201,10],[1,6202,10],[1,6203,10],[1,6101,10],[1,6102,10],[1,6001,10],[1,6002,10],[1,9301,1],[1,9302,1],[1,9303,1],[1,9304,1],[1,9305,1],[1,9306,1],[1,9307,1],[1,9308,1],[1,9309,1],[1,9310,1],[1,9311,1],[1,9312,1],[1,9313,1],[1,9314,1],[1,9315,1],[1,9316,1],[1,9317,1],[1,9318,1],[1,9319,1],[1,9320,1],[1,9321,1],[1,9322,1],[1,9323,1],[1,9324,1],[1,9325,1],[1,9326,1],[1,9327,1],[1,9328,1],[1,9329,1],[1,9330,1],[1,9331,1]]" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="3011" type="4" color="2" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,11,2,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3012" type="4" color="2" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,12,2,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3021" type="4" color="2" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,21,2,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3022" type="4" color="2" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,22,2,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3031" type="4" color="2" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,31,2,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3032" type="4" color="2" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,32,2,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3041" type="4" color="2" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,41,2,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3042" type="4" color="2" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,42,2,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3013" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,13,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3014" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,14,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3015" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,15,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3023" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,23,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3024" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,24,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3025" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,25,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3033" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,33,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3034" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,34,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3035" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,35,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3043" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,43,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3044" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,44,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3045" type="4" color="3" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,45,3,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3101" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,101,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3102" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,102,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3103" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,103,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3104" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,104,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3105" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,105,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3106" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,106,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3107" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,107,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3108" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,108,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3109" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,109,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3110" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,110,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3111" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,111,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3112" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,112,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3201" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,201,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3202" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,202,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3203" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,203,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3204" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,204,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3205" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,205,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3206" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,206,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3207" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,207,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3208" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,208,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3209" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,209,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3210" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,210,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3211" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,211,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3212" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,212,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3301" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,301,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3302" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,302,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3303" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,303,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3304" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,304,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3305" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,305,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3306" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,306,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3307" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,307,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3308" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,308,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3309" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,309,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3310" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,310,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3311" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,311,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3312" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,312,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3401" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,401,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3402" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,402,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3403" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,403,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3404" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,404,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3405" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,405,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3406" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,406,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3407" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,407,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3408" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,408,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3409" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,409,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3410" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,410,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3411" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,411,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3412" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,412,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3501" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,501,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3502" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,502,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3503" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,503,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3504" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,504,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3505" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,505,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3506" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,506,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3507" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,507,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3508" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,508,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3509" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,509,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3601" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,601,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3602" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,602,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3603" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,603,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3604" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,604,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3605" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,605,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3606" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,606,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3607" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,607,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3701" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,701,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3702" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,702,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3703" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,703,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="3704" type="4" color="5" groupNum="999999" canUse="1" useNeed="60" useCount="2" useType="6" useParam="[[3,704,5,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="4001" type="6" color="3" groupNum="999999"  />
+    <ItemSpec id="4101" type="6" color="5" groupNum="999999"  />
+    <ItemSpec id="4201" type="6" color="7" groupNum="999999"  />
+    <ItemSpec id="4301" type="6" color="9" groupNum="999999"  />
+    <ItemSpec id="5001" type="5" color="1" groupNum="999999"  />
+    <ItemSpec id="5002" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5003" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5004" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5005" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5006" type="5" color="9" groupNum="999999"  />
+    <ItemSpec id="5101" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5102" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5103" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5104" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5105" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5106" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5107" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5108" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5109" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5110" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5111" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5112" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5113" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5114" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5115" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5116" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5117" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5118" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5119" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5120" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5121" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="5201" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5202" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5203" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5204" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5205" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5206" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5207" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5208" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5209" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5210" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5211" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5212" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5213" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5214" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5215" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5216" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5217" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5218" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5219" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5220" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5221" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5222" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5223" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5224" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5225" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5226" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5227" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5228" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5229" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5230" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5231" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5232" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5233" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5234" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5235" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5236" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5237" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5238" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5239" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5301" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5302" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5303" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5304" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5305" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5306" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5307" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5308" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5309" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5310" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5311" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5312" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5313" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5314" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5315" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5316" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5317" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5318" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5319" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5320" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5321" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5322" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5323" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5324" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5325" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5326" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5327" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5328" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5329" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5330" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5331" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5332" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5333" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5334" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5335" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5336" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5337" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5338" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5339" type="5" color="5" groupNum="999999"  />
+    <ItemSpec id="5401" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5402" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5403" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5404" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5405" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5406" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5407" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5408" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5409" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5410" type="5" color="7" groupNum="999999"  />
+    <ItemSpec id="5501" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5502" type="5" color="3" groupNum="999999"  />
+    <ItemSpec id="5901" type="5" color="2" groupNum="999999"  />
+    <ItemSpec id="6001" type="61" color="3" groupNum="999999"  />
+    <ItemSpec id="6002" type="61" color="3" groupNum="999999"  />
+    <ItemSpec id="6003" type="61" color="3" groupNum="999999"  />
+    <ItemSpec id="6004" type="61" color="5" groupNum="999999"  />
+    <ItemSpec id="6005" type="61" color="5" groupNum="999999"  />
+    <ItemSpec id="6006" type="61" color="5" groupNum="999999"  />
+    <ItemSpec id="6007" type="61" color="7" groupNum="999999"  />
+    <ItemSpec id="6008" type="61" color="7" groupNum="999999"  />
+    <ItemSpec id="6101" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6102" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6103" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6104" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6105" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6106" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6107" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6108" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6109" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6110" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6111" type="62" color="3" groupNum="999999"  />
+    <ItemSpec id="6201" type="63" color="5" groupNum="999999" timeLogic="60"  />
+    <ItemSpec id="6202" type="63" color="5" groupNum="999999" timeLogic="300"  />
+    <ItemSpec id="6203" type="63" color="5" groupNum="999999" timeLogic="600"  />
+    <ItemSpec id="6204" type="63" color="5" groupNum="999999" timeLogic="1200"  />
+    <ItemSpec id="6205" type="63" color="5" groupNum="999999" timeLogic="1800"  />
+    <ItemSpec id="6206" type="63" color="5" groupNum="999999" timeLogic="2700"  />
+    <ItemSpec id="6207" type="63" color="5" groupNum="999999" timeLogic="3600"  />
+    <ItemSpec id="6301" type="64" color="3" groupNum="999999"  />
+    <ItemSpec id="6401" type="65" color="3" groupNum="999999"  />
+    <ItemSpec id="6402" type="65" color="3" groupNum="999999"  />
+    <ItemSpec id="6403" type="65" color="3" groupNum="999999"  />
+    <ItemSpec id="6404" type="65" color="5" groupNum="999999"  />
+    <ItemSpec id="6405" type="65" color="5" groupNum="999999"  />
+    <ItemSpec id="6406" type="65" color="5" groupNum="999999"  />
+    <ItemSpec id="6407" type="65" color="7" groupNum="999999"  />
+    <ItemSpec id="8001" type="2" color="7" groupNum="999999" canUse="0" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="8002" type="2" color="5" groupNum="999999" canUse="0" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="8003" type="2" color="3" groupNum="999999" canUse="0" useConclusion="0" promptNew="0"  />
+    <ItemSpec id="8011" type="3" color="3" groupNum="999999" canUse="1" useType="2" useParam="[[0,30001]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="8012" type="3" color="5" groupNum="999999" canUse="1" useType="2" useParam="[[0,30002]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9001" type="3" color="2" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10101]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9002" type="3" color="2" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10102]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9003" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10103]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9004" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10104]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9005" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10105]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9006" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10106]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9007" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10107]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9008" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10108]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9101" type="3" color="2" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10201]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9102" type="3" color="3" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10202]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9103" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10203]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9104" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10204]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9105" type="3" color="7" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10205]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9106" type="3" color="9" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[0,10206]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9107" type="501" color="5"  />
+    <ItemSpec id="9201" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[2,104,50000],[2,102,50000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9202" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[1,2521,15],[1,2501,30]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9203" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[2,117,30000],[1,1164,4]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9204" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[4,50101,0,0,1],[4,50102,0,0,1],[4,50103,0,0,1],[4,50104,0,0,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9211" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[1,1001,100],[2,105,20000]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9212" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[4,50301,0,0,1],[4,50302,0,0,1],[4,50303,0,0,1],[4,50304,0,0,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9221" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="0" useType="8" useParam="[[1,9222,1],[1,9223,1],[1,9224,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9222" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[4,50101,0,0,1],[4,50102,0,0,1],[4,50103,0,0,1],[4,50104,0,0,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9223" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[4,50201,0,0,1],[4,50202,0,0,1],[4,50203,0,0,1],[4,50204,0,0,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9224" type="3" color="5" groupNum="999999" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[4,50301,0,0,1],[4,50302,0,0,1],[4,50303,0,0,1],[4,50304,0,0,1]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9301" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9302" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9303" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9304" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9305" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9306" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9307" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9308" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9309" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9310" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9311" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9312" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9313" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9314" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9315" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9316" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9317" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9318" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9319" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9320" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9321" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9322" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9323" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9324" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9325" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9326" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9327" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9328" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9329" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9330" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9331" type="2" color="5" groupNum="1" promptNew="0"  />
+    <ItemSpec id="9401" type="3" color="7" groupNum="1" canUse="1" useNeed="1" useCount="1" useType="2" useParam="[[1,1006,1],[5,1,20],[1,6401,100],[2,100,160],[2,110,2500],[2,105,20000],[2,102,8000],[2,103,8000],[2,101,57000],[2,117,4000],[1,1101,90],[1,1141,70],[1,1121,70],[1,1161,70],[23,9500,6600]]" useConclusion="0" promptNew="2"  />
+    <ItemSpec id="9500" type="1" color="7"  />
+    <ItemSpec id="9501" type="1" color="7"  />
+    <ItemSpec id="10001" type="2" color="3"  />
+    <ItemSpec id="10002" type="2" color="5"  />
+
+</tns:database>

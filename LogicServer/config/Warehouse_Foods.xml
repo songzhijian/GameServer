@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="6001" lv="1" cost="[[1,6401,2]]" time="5" satiety="2" itemLink="6001"  />
+    <ItemSpec id="6002" lv="2" cost="[[1,6402,4]]" time="10" satiety="10" itemLink="6002"  />
+    <ItemSpec id="6003" lv="3" cost="[[1,6403,6]]" time="20" satiety="50" itemLink="6003"  />
+    <ItemSpec id="6004" lv="4" cost="[[1,6404,8]]" time="40" satiety="100" itemLink="6004"  />
+    <ItemSpec id="6005" lv="5" cost="[[1,6405,10]]" time="60" satiety="150" itemLink="6005"  />
+    <ItemSpec id="6006" lv="6" cost="[[1,6406,12]]" time="90" satiety="200" itemLink="6006"  />
+    <ItemSpec id="6007" lv="7" cost="[[1,6407,14]]" time="120" satiety="300" itemLink="6007"  />
+
+</tns:database>

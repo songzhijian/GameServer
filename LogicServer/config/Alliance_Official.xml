@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="0"  />
+    <ItemSpec id="1" buffID="102300"  />
+    <ItemSpec id="2" buffID="102301"  />
+    <ItemSpec id="3" buffID="102302"  />
+    <ItemSpec id="4" buffID="102303"  />
+
+</tns:database>

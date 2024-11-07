@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" supplyItemList="[2581,2582,2583,2584]" supplyPrice="[[2,100,1],[2,100,5],[2,100,20],[2,100,50]]" diamondPrince="1000"  />
+    <ItemSpec id="102" supplyItemList="[2601,2602,2603,2604]" supplyPrice="[[2,100,1],[2,100,5],[2,100,20],[2,100,50]]" diamondPrince="100"  />
+    <ItemSpec id="103" supplyItemList="[2621,2622,2623,2624]" supplyPrice="[[2,100,1],[2,100,5],[2,100,20],[2,100,50]]" diamondPrince="100"  />
+    <ItemSpec id="104" supplyItemList="[2641,2642,2643,2644]" supplyPrice="[[2,100,2],[2,100,10],[2,100,40],[2,100,100]]" diamondPrince="50"  />
+    <ItemSpec id="106" supplyItemList="[2701,2702,2703,2704,2705,2706,2707]" supplyPrice="[[2,100,100],[2,100,200],[2,100,500],[2,100,1000],[2,100,2000],[2,100,5000],[2,100,10000]]" diamondPrince="1"  />
+    <ItemSpec id="117" supplyItemList="[2721,2722,2723,2724,2725]" supplyPrice="[[2,100,4],[2,100,34],[2,100,167],[2,100,667],[2,100,3334]]" diamondPrince="30"  />
+
+</tns:database>

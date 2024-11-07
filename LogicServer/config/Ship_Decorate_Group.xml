@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="11" cost="[[1,1001,100]]"  />
+    <ItemSpec id="12"  />
+    <ItemSpec id="13" cost="[[1,1001,100]]"  />
+    <ItemSpec id="14"  />
+
+</tns:database>

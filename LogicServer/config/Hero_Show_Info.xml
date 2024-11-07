@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="11" name="20011" title="21011"  />
+    <ItemSpec id="12" name="20012" title="21012"  />
+    <ItemSpec id="21" name="20021" title="21021"  />
+    <ItemSpec id="22" name="20022" title="21022"  />
+    <ItemSpec id="31" name="20031" title="21031"  />
+    <ItemSpec id="32" name="20032" title="21032"  />
+    <ItemSpec id="41" name="20041" title="21041"  />
+    <ItemSpec id="42" name="20042" title="21042"  />
+    <ItemSpec id="61" name="20061" title="21061"  />
+    <ItemSpec id="62" name="20062" title="21062"  />
+    <ItemSpec id="63" name="20063" title="21063"  />
+    <ItemSpec id="64" name="20061" title="21061"  />
+    <ItemSpec id="13" name="20013" title="21013"  />
+    <ItemSpec id="14" name="20014" title="21014"  />
+    <ItemSpec id="15" name="20015" title="21015"  />
+    <ItemSpec id="23" name="20023" title="21023"  />
+    <ItemSpec id="24" name="20024" title="21024"  />
+    <ItemSpec id="25" name="20025" title="21025"  />
+    <ItemSpec id="33" name="20033" title="21033"  />
+    <ItemSpec id="34" name="20034" title="21034"  />
+    <ItemSpec id="35" name="20035" title="21035"  />
+    <ItemSpec id="43" name="20043" title="21043"  />
+    <ItemSpec id="44" name="20044" title="21044"  />
+    <ItemSpec id="45" name="20045" title="21045"  />
+    <ItemSpec id="101" name="20101" title="21101"  />
+    <ItemSpec id="102" name="20102" title="21102"  />
+    <ItemSpec id="103" name="20103" title="21103"  />
+    <ItemSpec id="104" name="20104" title="21104"  />
+    <ItemSpec id="105" name="20105" title="21105"  />
+    <ItemSpec id="106" name="20106" title="21106"  />
+    <ItemSpec id="107" name="20107" title="21107"  />
+    <ItemSpec id="108" name="20108" title="21108"  />
+    <ItemSpec id="109" name="20109" title="21109"  />
+    <ItemSpec id="110" name="20110" title="21110"  />
+    <ItemSpec id="111" name="20111" title="21111"  />
+    <ItemSpec id="112" name="20112" title="21112"  />
+    <ItemSpec id="201" name="20201" title="21201"  />
+    <ItemSpec id="202" name="20202" title="21202"  />
+    <ItemSpec id="203" name="20203" title="21203"  />
+    <ItemSpec id="204" name="20204" title="21204"  />
+    <ItemSpec id="205" name="20205" title="21205"  />
+    <ItemSpec id="206" name="20206" title="21206"  />
+    <ItemSpec id="207" name="20207" title="21207"  />
+    <ItemSpec id="208" name="20208" title="21208"  />
+    <ItemSpec id="209" name="20209" title="21209"  />
+    <ItemSpec id="210" name="20210" title="21210"  />
+    <ItemSpec id="211" name="20211" title="21211"  />
+    <ItemSpec id="212" name="20212" title="21212"  />
+    <ItemSpec id="301" name="20301" title="21301"  />
+    <ItemSpec id="302" name="20302" title="21302"  />
+    <ItemSpec id="303" name="20303" title="21303"  />
+    <ItemSpec id="304" name="20304" title="21304"  />
+    <ItemSpec id="305" name="20305" title="21305"  />
+    <ItemSpec id="306" name="20306" title="21306"  />
+    <ItemSpec id="307" name="20307" title="21307"  />
+    <ItemSpec id="308" name="20308" title="21308"  />
+    <ItemSpec id="309" name="20309" title="21309"  />
+    <ItemSpec id="310" name="20310" title="21310"  />
+    <ItemSpec id="311" name="20311" title="21311"  />
+    <ItemSpec id="312" name="20312" title="21312"  />
+    <ItemSpec id="401" name="20401" title="21401"  />
+    <ItemSpec id="402" name="20402" title="21402"  />
+    <ItemSpec id="403" name="20403" title="21403"  />
+    <ItemSpec id="404" name="20404" title="21404"  />
+    <ItemSpec id="405" name="20405" title="21405"  />
+    <ItemSpec id="406" name="20406" title="21406"  />
+    <ItemSpec id="407" name="20407" title="21407"  />
+    <ItemSpec id="408" name="20408" title="21408"  />
+    <ItemSpec id="409" name="20409" title="21409"  />
+    <ItemSpec id="410" name="20410" title="21410"  />
+    <ItemSpec id="411" name="20411" title="21411"  />
+    <ItemSpec id="412" name="20412" title="21412"  />
+    <ItemSpec id="501" name="20501" title="21501"  />
+    <ItemSpec id="502" name="20502" title="21502"  />
+    <ItemSpec id="503" name="20503" title="21503"  />
+    <ItemSpec id="504" name="20504" title="21504"  />
+    <ItemSpec id="505" name="20505" title="21505"  />
+    <ItemSpec id="506" name="20506" title="21506"  />
+    <ItemSpec id="507" name="20507" title="21507"  />
+    <ItemSpec id="508" name="20508" title="21508"  />
+    <ItemSpec id="509" name="20509" title="21509"  />
+    <ItemSpec id="601" name="20601" title="21601"  />
+    <ItemSpec id="602" name="20602" title="21602"  />
+    <ItemSpec id="603" name="20603" title="21603"  />
+    <ItemSpec id="604" name="20604" title="21604"  />
+    <ItemSpec id="605" name="20605" title="21605"  />
+    <ItemSpec id="606" name="20606" title="21606"  />
+    <ItemSpec id="607" name="20607" title="21607"  />
+    <ItemSpec id="701" name="20701" title="21701"  />
+    <ItemSpec id="702" name="20702" title="21702"  />
+    <ItemSpec id="703" name="20703" title="21703"  />
+    <ItemSpec id="704" name="20704" title="21704"  />
+    <ItemSpec id="9001" name="29001"  />
+    <ItemSpec id="9002" name="29002"  />
+    <ItemSpec id="9003" name="29003"  />
+    <ItemSpec id="9004" name="29004"  />
+    <ItemSpec id="10001" name="20011" title="21011"  />
+    <ItemSpec id="40603" name="20011"  />
+    <ItemSpec id="40613" name="20011"  />
+    <ItemSpec id="40623" name="20011"  />
+    <ItemSpec id="40633" name="20011"  />
+
+</tns:database>

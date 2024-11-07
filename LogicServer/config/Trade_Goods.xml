@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="5101" type="1" subcategory="11" itemLink="5101"  />
+    <ItemSpec id="5102" type="1" subcategory="11" itemLink="5102"  />
+    <ItemSpec id="5103" type="1" subcategory="11" itemLink="5103"  />
+    <ItemSpec id="5104" type="1" subcategory="11" itemLink="5104"  />
+    <ItemSpec id="5105" type="1" subcategory="11" itemLink="5105"  />
+    <ItemSpec id="5106" type="1" subcategory="11" itemLink="5106"  />
+    <ItemSpec id="5107" type="1" subcategory="11" itemLink="5107"  />
+    <ItemSpec id="5108" type="1" subcategory="11" itemLink="5108"  />
+    <ItemSpec id="5109" type="1" subcategory="11" itemLink="5109"  />
+    <ItemSpec id="5110" type="1" subcategory="11" itemLink="5110"  />
+    <ItemSpec id="5111" type="1" subcategory="12" itemLink="5111"  />
+    <ItemSpec id="5112" type="1" subcategory="12" itemLink="5112"  />
+    <ItemSpec id="5113" type="1" subcategory="12" itemLink="5113"  />
+    <ItemSpec id="5114" type="1" subcategory="12" itemLink="5114"  />
+    <ItemSpec id="5115" type="1" subcategory="12" itemLink="5115"  />
+    <ItemSpec id="5116" type="1" subcategory="13" itemLink="5116"  />
+    <ItemSpec id="5117" type="1" subcategory="13" itemLink="5117"  />
+    <ItemSpec id="5118" type="1" subcategory="13" itemLink="5118"  />
+    <ItemSpec id="5119" type="1" subcategory="13" itemLink="5119"  />
+    <ItemSpec id="5120" type="1" subcategory="13" itemLink="5120"  />
+    <ItemSpec id="5121" type="1" subcategory="14" itemLink="5121"  />
+    <ItemSpec id="5201" type="2" subcategory="21" itemLink="5201"  />
+    <ItemSpec id="5202" type="2" subcategory="21" itemLink="5202"  />
+    <ItemSpec id="5203" type="2" subcategory="21" itemLink="5203"  />
+    <ItemSpec id="5204" type="2" subcategory="21" itemLink="5204"  />
+    <ItemSpec id="5205" type="2" subcategory="21" itemLink="5205"  />
+    <ItemSpec id="5206" type="2" subcategory="21" itemLink="5206"  />
+    <ItemSpec id="5207" type="2" subcategory="22" waterCount="2" waterId="6102" itemLink="5207"  />
+    <ItemSpec id="5208" type="2" subcategory="22" waterCount="3" waterId="6103" itemLink="5208"  />
+    <ItemSpec id="5209" type="2" subcategory="22" waterCount="4" waterId="6104" itemLink="5209"  />
+    <ItemSpec id="5210" type="2" subcategory="22" waterCount="5" waterId="6105" itemLink="5210"  />
+    <ItemSpec id="5211" type="2" subcategory="22" waterCount="6" waterId="6106" itemLink="5211"  />
+    <ItemSpec id="5212" type="2" subcategory="22" waterCount="7" waterId="6107" itemLink="5212"  />
+    <ItemSpec id="5213" type="2" subcategory="22" waterCount="8" waterId="6108" itemLink="5213"  />
+    <ItemSpec id="5214" type="2" subcategory="22" waterCount="9" waterId="6109" itemLink="5214"  />
+    <ItemSpec id="5215" type="2" subcategory="23" itemLink="5215"  />
+    <ItemSpec id="5216" type="2" subcategory="23" itemLink="5216"  />
+    <ItemSpec id="5217" type="2" subcategory="23" itemLink="5217"  />
+    <ItemSpec id="5218" type="2" subcategory="23" itemLink="5218"  />
+    <ItemSpec id="5219" type="2" subcategory="23" itemLink="5219"  />
+    <ItemSpec id="5220" type="2" subcategory="23" itemLink="5220"  />
+    <ItemSpec id="5221" type="2" subcategory="24" itemLink="5221"  />
+    <ItemSpec id="5222" type="2" subcategory="24" itemLink="5222"  />
+    <ItemSpec id="5223" type="2" subcategory="24" itemLink="5223"  />
+    <ItemSpec id="5224" type="2" subcategory="24" itemLink="5224"  />
+    <ItemSpec id="5225" type="2" subcategory="24" itemLink="5225"  />
+    <ItemSpec id="5226" type="2" subcategory="24" itemLink="5226"  />
+    <ItemSpec id="5227" type="2" subcategory="25" itemLink="5227"  />
+    <ItemSpec id="5228" type="2" subcategory="25" itemLink="5228"  />
+    <ItemSpec id="5229" type="2" subcategory="25" itemLink="5229"  />
+    <ItemSpec id="5230" type="2" subcategory="25" itemLink="5230"  />
+    <ItemSpec id="5231" type="2" subcategory="25" itemLink="5231"  />
+    <ItemSpec id="5232" type="2" subcategory="25" itemLink="5232"  />
+    <ItemSpec id="5233" type="2" subcategory="26" itemLink="5233"  />
+    <ItemSpec id="5234" type="2" subcategory="26" itemLink="5234"  />
+    <ItemSpec id="5235" type="2" subcategory="26" itemLink="5235"  />
+    <ItemSpec id="5236" type="2" subcategory="26" itemLink="5236"  />
+    <ItemSpec id="5237" type="2" subcategory="26" itemLink="5237"  />
+    <ItemSpec id="5238" type="2" subcategory="26" itemLink="5238"  />
+    <ItemSpec id="5239" type="2" subcategory="26" itemLink="5239"  />
+    <ItemSpec id="5301" type="3" subcategory="31" itemLink="5301"  />
+    <ItemSpec id="5302" type="3" subcategory="31" itemLink="5302"  />
+    <ItemSpec id="5303" type="3" subcategory="31" itemLink="5303"  />
+    <ItemSpec id="5304" type="3" subcategory="31" itemLink="5304"  />
+    <ItemSpec id="5305" type="3" subcategory="31" itemLink="5305"  />
+    <ItemSpec id="5306" type="3" subcategory="31" itemLink="5306"  />
+    <ItemSpec id="5307" type="3" subcategory="31" itemLink="5307"  />
+    <ItemSpec id="5308" type="3" subcategory="31" itemLink="5308"  />
+    <ItemSpec id="5309" type="3" subcategory="32" gradingAdventureLv="[[30,12]]" itemLink="5309"  />
+    <ItemSpec id="5310" type="3" subcategory="32" gradingAdventureLv="[[30,12]]" itemLink="5310"  />
+    <ItemSpec id="5311" type="3" subcategory="32" gradingAdventureLv="[[30,12]]" itemLink="5311"  />
+    <ItemSpec id="5312" type="3" subcategory="32" gradingAdventureLv="[[30,12]]" itemLink="5312"  />
+    <ItemSpec id="5313" type="3" subcategory="32" gradingAdventureLv="[[30,12]]" itemLink="5313"  />
+    <ItemSpec id="5314" type="3" subcategory="32" gradingAdventureLv="[[30,12]]" itemLink="5314"  />
+    <ItemSpec id="5315" type="3" subcategory="32" gradingAdventureLv="[[30,12]]" itemLink="5315"  />
+    <ItemSpec id="5316" type="3" subcategory="32" gradingAdventureLv="[[30,12]]" itemLink="5316"  />
+    <ItemSpec id="5317" type="3" subcategory="33" gradingAdventureLv="[[30,12]]" itemLink="5317"  />
+    <ItemSpec id="5318" type="3" subcategory="33" gradingAdventureLv="[[30,12]]" itemLink="5318"  />
+    <ItemSpec id="5319" type="3" subcategory="33" gradingAdventureLv="[[30,12]]" itemLink="5319"  />
+    <ItemSpec id="5320" type="3" subcategory="33" gradingAdventureLv="[[30,12]]" itemLink="5320"  />
+    <ItemSpec id="5321" type="3" subcategory="33" gradingAdventureLv="[[30,12]]" itemLink="5321"  />
+    <ItemSpec id="5322" type="3" subcategory="33" gradingAdventureLv="[[30,12]]" itemLink="5322"  />
+    <ItemSpec id="5323" type="3" subcategory="33" gradingAdventureLv="[[30,12]]" itemLink="5323"  />
+    <ItemSpec id="5324" type="3" subcategory="34" gradingAdventureLv="[[30,12]]" itemLink="5324"  />
+    <ItemSpec id="5325" type="3" subcategory="34" gradingAdventureLv="[[30,12]]" itemLink="5325"  />
+    <ItemSpec id="5326" type="3" subcategory="34" gradingAdventureLv="[[30,12]]" itemLink="5326"  />
+    <ItemSpec id="5327" type="3" subcategory="34" gradingAdventureLv="[[30,12]]" itemLink="5327"  />
+    <ItemSpec id="5328" type="3" subcategory="34" gradingAdventureLv="[[30,12]]" itemLink="5328"  />
+    <ItemSpec id="5329" type="3" subcategory="34" gradingAdventureLv="[[30,12]]" itemLink="5329"  />
+    <ItemSpec id="5330" type="3" subcategory="34" gradingAdventureLv="[[30,12]]" itemLink="5330"  />
+    <ItemSpec id="5331" type="3" subcategory="35" gradingAdventureLv="[[30,20]]" itemLink="5331"  />
+    <ItemSpec id="5332" type="3" subcategory="35" gradingAdventureLv="[[30,20]]" itemLink="5332"  />
+    <ItemSpec id="5333" type="3" subcategory="35" gradingAdventureLv="[[30,20]]" itemLink="5333"  />
+    <ItemSpec id="5334" type="3" subcategory="35" gradingAdventureLv="[[30,20]]" itemLink="5334"  />
+    <ItemSpec id="5335" type="3" subcategory="35" gradingAdventureLv="[[30,20]]" itemLink="5335"  />
+    <ItemSpec id="5336" type="3" subcategory="36" gradingAdventureLv="[[30,20]]" itemLink="5336"  />
+    <ItemSpec id="5337" type="3" subcategory="36" gradingAdventureLv="[[30,20]]" itemLink="5337"  />
+    <ItemSpec id="5338" type="3" subcategory="36" gradingAdventureLv="[[30,20]]" itemLink="5338"  />
+    <ItemSpec id="5339" type="3" subcategory="36" gradingAdventureLv="[[30,20]]" itemLink="5339"  />
+    <ItemSpec id="5401" type="4" subcategory="41" gradingAdventureLv="[[30,30]]" itemLink="5401"  />
+    <ItemSpec id="5402" type="4" subcategory="41" gradingAdventureLv="[[30,30]]" itemLink="5402"  />
+    <ItemSpec id="5403" type="4" subcategory="41" gradingAdventureLv="[[30,30]]" itemLink="5403"  />
+    <ItemSpec id="5404" type="4" subcategory="42" gradingAdventureLv="[[30,30]]" itemLink="5404"  />
+    <ItemSpec id="5405" type="4" subcategory="42" gradingAdventureLv="[[30,30]]" itemLink="5405"  />
+    <ItemSpec id="5406" type="4" subcategory="42" gradingAdventureLv="[[30,30]]" itemLink="5406"  />
+    <ItemSpec id="5407" type="4" subcategory="42" gradingAdventureLv="[[30,30]]" itemLink="5407"  />
+    <ItemSpec id="5408" type="4" subcategory="42" gradingAdventureLv="[[30,30]]" itemLink="5408"  />
+    <ItemSpec id="5409" type="4" subcategory="42" gradingAdventureLv="[[30,30]]" itemLink="5409"  />
+    <ItemSpec id="5410" type="4" subcategory="42" gradingAdventureLv="[[30,30]]" itemLink="5410"  />
+    <ItemSpec id="5501" type="2" subcategory="22" waterCount="10" waterId="6110" itemLink="5213"  />
+    <ItemSpec id="5502" type="2" subcategory="22" waterCount="11" waterId="6111" itemLink="5214"  />
+    <ItemSpec id="5901" type="1" subcategory="11" itemLink="5901"  />
+    <ItemSpec id="5001" type="1" subcategory="13" itemLink="5001"  />
+    <ItemSpec id="5002" type="1" subcategory="13" itemLink="5002"  />
+    <ItemSpec id="5003" type="1" subcategory="13" itemLink="5003"  />
+    <ItemSpec id="5004" type="1" subcategory="13" itemLink="5004"  />
+    <ItemSpec id="5005" type="1" subcategory="13" itemLink="5005"  />
+    <ItemSpec id="5006" type="1" subcategory="13" itemLink="5006"  />
+
+</tns:database>

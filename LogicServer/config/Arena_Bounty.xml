@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" integral="6" reward="[[2,100,50],[1,1101,5]]"  />
+    <ItemSpec id="2" integral="15" reward="[[2,100,100],[1,1101,10]]"  />
+    <ItemSpec id="3" integral="30" reward="[[2,100,100],[1,1101,10]]"  />
+    <ItemSpec id="4" integral="50" reward="[[2,100,150],[1,1101,15]]"  />
+    <ItemSpec id="5" integral="67" reward="[[2,100,150],[1,1101,15]]"  />
+    <ItemSpec id="6" integral="84" reward="[[2,100,150],[1,1101,15]]"  />
+
+</tns:database>

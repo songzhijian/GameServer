@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" type="1" reward="[[1,1101,5],[1,1102,5]]" allianceGiftExp="10" allianceGiftKey="10" duration="120"  />
+    <ItemSpec id="2" type="1" reward="[[1,1101,5],[1,1102,5]]" allianceGiftExp="20" allianceGiftKey="10" duration="120"  />
+    <ItemSpec id="3" type="1" reward="[[1,2109,5],[1,2110,5]]" allianceGiftExp="30" allianceGiftKey="10" showName="0" duration="120"  />
+    <ItemSpec id="4" type="2" reward="[[2,100,500]]" allianceGiftExp="40" allianceGiftKey="10" showName="1" duration="120"  />
+    <ItemSpec id="5" type="2" reward="[[2,101,1000]]" allianceGiftExp="50" allianceGiftKey="10" showName="1" duration="120"  />
+    <ItemSpec id="11" type="1" reward="[[1,9001,1]]" allianceGiftExp="20" allianceGiftKey="20" duration="86400"  />
+    <ItemSpec id="12" type="1" reward="[[1,9002,1]]" allianceGiftExp="20" allianceGiftKey="20" duration="86400"  />
+    <ItemSpec id="13" type="1" reward="[[1,9003,1]]" allianceGiftExp="20" allianceGiftKey="20" duration="86400"  />
+    <ItemSpec id="14" type="1" reward="[[1,9004,1]]" allianceGiftExp="20" allianceGiftKey="20" duration="86400"  />
+    <ItemSpec id="15" type="1" reward="[[1,9005,1]]" allianceGiftExp="20" allianceGiftKey="20" duration="86400"  />
+    <ItemSpec id="16" type="1" reward="[[1,9006,1]]" allianceGiftExp="20" allianceGiftKey="20" duration="86400"  />
+    <ItemSpec id="17" type="1" reward="[[1,9007,1]]" allianceGiftExp="20" allianceGiftKey="20" duration="86400"  />
+    <ItemSpec id="18" type="1" reward="[[1,9008,1]]" allianceGiftExp="20" allianceGiftKey="20" duration="86400"  />
+    <ItemSpec id="101" type="2" reward="[[1,9101,1]]" allianceGiftExp="20" allianceGiftKey="20" showName="1" duration="86400"  />
+    <ItemSpec id="102" type="2" reward="[[1,9102,1]]" allianceGiftExp="50" allianceGiftKey="50" showName="1" duration="86400"  />
+    <ItemSpec id="103" type="2" reward="[[1,9103,1]]" allianceGiftExp="100" allianceGiftKey="100" showName="1" duration="86400"  />
+    <ItemSpec id="104" type="2" reward="[[1,9104,1]]" allianceGiftExp="200" allianceGiftKey="200" showName="1" duration="86400"  />
+    <ItemSpec id="105" type="2" reward="[[1,9105,1]]" allianceGiftExp="500" allianceGiftKey="500" showName="1" duration="86400"  />
+    <ItemSpec id="106" type="2" reward="[[1,9106,1]]" allianceGiftExp="1000" allianceGiftKey="1000" showName="1" duration="86400"  />
+
+</tns:database>

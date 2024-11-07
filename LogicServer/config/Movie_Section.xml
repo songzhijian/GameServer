@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec startSectionId="2000" nextStartSectionId="2012" param_6="8|4"  />
+    <ItemSpec startSectionId="2012" nextStartSectionId="2017" lastSectionId="2000" param_6="8|4"  />
+    <ItemSpec startSectionId="2017" nextStartSectionId="2020" lastSectionId="2012" param_6="8|4"  />
+    <ItemSpec startSectionId="2020" nextStartSectionId="2022101" lastSectionId="2017" param_6="8|6"  />
+    <ItemSpec startSectionId="2022101" nextStartSectionId="2023" lastSectionId="2020" param_6="8|6"  />
+    <ItemSpec startSectionId="2023" nextStartSectionId="2027" lastSectionId="2020" param_6="8|6"  />
+    <ItemSpec startSectionId="2027" nextStartSectionId="2028" lastSectionId="2023" param_6="8|6"  />
+    <ItemSpec startSectionId="2028" nextStartSectionId="2033" lastSectionId="2027" param_6="8|6"  />
+    <ItemSpec startSectionId="2033" nextStartSectionId="2039" lastSectionId="2028" param_6="8|6"  />
+    <ItemSpec startSectionId="2039" nextStartSectionId="2040101" lastSectionId="2033" param_6="8|6"  />
+    <ItemSpec startSectionId="2040101" nextStartSectionId="2041" lastSectionId="2039" param_6="8|6"  />
+    <ItemSpec startSectionId="2041" nextStartSectionId="2044" lastSectionId="2040101" param_6="8|6"  />
+    <ItemSpec startSectionId="2044" nextStartSectionId="2046" lastSectionId="2041" param_6="8|9"  />
+    <ItemSpec startSectionId="2046" nextStartSectionId="2051" lastSectionId="2044" param_6="8|9"  />
+    <ItemSpec startSectionId="2051" nextStartSectionId="2055" lastSectionId="2046" param_6="8|9"  />
+    <ItemSpec startSectionId="2055" nextStartSectionId="2057" lastSectionId="2051" param_6="8|9"  />
+    <ItemSpec startSectionId="2057" nextStartSectionId="2059" lastSectionId="2055" param_6="8|9"  />
+    <ItemSpec startSectionId="2059" nextStartSectionId="2066" lastSectionId="2057" param_6="8|9"  />
+    <ItemSpec startSectionId="2066" nextStartSectionId="2069" lastSectionId="2059" param_6="8|9"  />
+    <ItemSpec startSectionId="2069" nextStartSectionId="2072" lastSectionId="2066" param_6="8|9"  />
+    <ItemSpec startSectionId="2072" nextStartSectionId="2079" lastSectionId="2069" param_6="8|9"  />
+    <ItemSpec startSectionId="2079" nextStartSectionId="2082" lastSectionId="2072" param_6="8|9"  />
+    <ItemSpec startSectionId="2082" nextStartSectionId="2086" lastSectionId="2079" param_6="8|9"  />
+    <ItemSpec startSectionId="2086" nextStartSectionId="3000" lastSectionId="2082" param_6="8|9"  />
+    <ItemSpec startSectionId="3000" nextStartSectionId="3016" lastSectionId="2086"  />
+    <ItemSpec startSectionId="3016" nextStartSectionId="3020" lastSectionId="3000"  />
+    <ItemSpec startSectionId="3020" nextStartSectionId="3030" lastSectionId="3016"  />
+    <ItemSpec startSectionId="3030" nextStartSectionId="3034" lastSectionId="3020"  />
+    <ItemSpec startSectionId="3034" nextStartSectionId="3046" lastSectionId="3030" param_5="[76,76]"  />
+    <ItemSpec startSectionId="3046" nextStartSectionId="3064" lastSectionId="3034" param_5="[76,71]"  />
+    <ItemSpec startSectionId="3064" nextStartSectionId="3074" lastSectionId="3046" param_5="[88,66]"  />
+    <ItemSpec startSectionId="3074" nextStartSectionId="3089" lastSectionId="3064" param_5="[74,67]"  />
+    <ItemSpec startSectionId="3089" nextStartSectionId="3106" lastSectionId="3074" param_5="[74,67]"  />
+    <ItemSpec startSectionId="3106" nextStartSectionId="3127" lastSectionId="3089" param_5="[74,67]"  />
+    <ItemSpec startSectionId="3127" nextStartSectionId="3146" lastSectionId="3106"  />
+    <ItemSpec startSectionId="3146" nextStartSectionId="3150" lastSectionId="3127"  />
+    <ItemSpec startSectionId="3150" nextStartSectionId="3158" lastSectionId="3146"  />
+    <ItemSpec startSectionId="3158" nextStartSectionId="4000" lastSectionId="3150"  />
+    <ItemSpec startSectionId="4000" nextStartSectionId="4008101" lastSectionId="3158" param_5="[76,76]" param_6="7|NewbiesNavigation1"  />
+    <ItemSpec startSectionId="4008101" nextStartSectionId="4008201" lastSectionId="4000" param_5="[65,69]" param_6="7|NewbiesNavigation1"  />
+    <ItemSpec startSectionId="4008201" nextStartSectionId="4008301" lastSectionId="4008101" param_5="[65,69]" param_6="7|NewbiesNavigation1"  />
+    <ItemSpec startSectionId="4008301" nextStartSectionId="4009" lastSectionId="4008201" param_5="[55,76]" param_6="7|NewbiesNavigation1"  />
+    <ItemSpec startSectionId="4009" nextStartSectionId="4019" lastSectionId="4008301" param_5="[52,79]" param_6="7|NewbiesNavigation1"  />
+    <ItemSpec startSectionId="4019" nextStartSectionId="4088" lastSectionId="4009" param_5="[42,71]"  />
+    <ItemSpec startSectionId="4088" nextStartSectionId="4095" lastSectionId="4019" param_5="[39,57]"  />
+    <ItemSpec startSectionId="4095" nextStartSectionId="4120" lastSectionId="4088" param_5="[63,53]"  />
+    <ItemSpec startSectionId="4120" nextStartSectionId="5000" lastSectionId="4095" param_5="[39,57]"  />
+    <ItemSpec startSectionId="5000" nextStartSectionId="5100" lastSectionId="4120" param_5="[39,57]"  />
+    <ItemSpec startSectionId="5100" nextStartSectionId="5123" lastSectionId="5000" param_5="[86,17]"  />
+    <ItemSpec startSectionId="5123" nextStartSectionId="6000" lastSectionId="5100" param_5="[86,17]"  />
+    <ItemSpec startSectionId="6000" nextStartSectionId="6018" lastSectionId="5123" param_5="[86,17]"  />
+    <ItemSpec startSectionId="6018" nextStartSectionId="6034" lastSectionId="6000" param_5="[124,54]"  />
+    <ItemSpec startSectionId="6034" nextStartSectionId="6053" lastSectionId="6018"  />
+    <ItemSpec startSectionId="6053" nextStartSectionId="6080" lastSectionId="6034"  />
+    <ItemSpec startSectionId="6080" nextStartSectionId="6095" lastSectionId="6053"  />
+    <ItemSpec startSectionId="6095" nextStartSectionId="6106" lastSectionId="6080"  />
+    <ItemSpec startSectionId="6106" nextStartSectionId="9999" lastSectionId="6095"  />
+    <ItemSpec startSectionId="9999" lastSectionId="6095"  />
+
+</tns:database>

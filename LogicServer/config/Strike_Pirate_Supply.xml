@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" time="7200" consume="[[2,100,0]]" isFree="1"  />
+    <ItemSpec id="2" time="7200" consume="[[2,100,50]]" isFree="0"  />
+    <ItemSpec id="3" time="7200" consume="[[2,100,80]]" isFree="0"  />
+    <ItemSpec id="4" time="7200" consume="[[2,100,100]]" isFree="0"  />
+    <ItemSpec id="5" time="7200" consume="[[2,100,100]]" isFree="0"  />
+    <ItemSpec id="6" time="7200" consume="[[2,100,200]]" isFree="0"  />
+    <ItemSpec id="7" time="7200" consume="[[2,100,300]]" isFree="0"  />
+    <ItemSpec id="8" time="7200" consume="[[2,100,300]]" isFree="0"  />
+    <ItemSpec id="9" time="7200" consume="[[2,100,400]]" isFree="0"  />
+    <ItemSpec id="10" time="7200" consume="[[2,100,400]]" isFree="0"  />
+    <ItemSpec id="11" time="7200" consume="[[2,100,500]]" isFree="0"  />
+
+</tns:database>

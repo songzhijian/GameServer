@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="101" questList="[10102,10103,10104,10105]" nextID="102"  />
+    <ItemSpec id="102" questList="[10201,10202,10405,11103]" nextID="112"  />
+    <ItemSpec id="112" questList="[11203,11204,11205,11206,11207,11208,1120810,1120811]" nextID="113"  />
+    <ItemSpec id="113" questList="[11301,11302,1130201,1130202,11303,11304,11309,11310]" nextID="114"  />
+    <ItemSpec id="114" questList="[11401,11405]" nextID="115"  />
+    <ItemSpec id="115" questList="[11501,11502,11504,11506,11507,11509]"  />
+
+</tns:database>

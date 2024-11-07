@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" outlineColor="e0a743"  />
+    <ItemSpec id="2" outlineColor="a366cc"  />
+    <ItemSpec id="3" outlineColor="bf5143"  />
+    <ItemSpec id="4" outlineColor="64b3b1"  />
+    <ItemSpec id="5" outlineColor="c2be4e"  />
+    <ItemSpec id="6" outlineColor="996b48"  />
+    <ItemSpec id="7" outlineColor="cc683d"  />
+    <ItemSpec id="8" outlineColor="649dd1"  />
+    <ItemSpec id="9" outlineColor="82bf6f"  />
+    <ItemSpec id="10" outlineColor="55ad94"  />
+    <ItemSpec id="11" outlineColor="806cd9"  />
+    <ItemSpec id="12" outlineColor="b865b6"  />
+
+</tns:database>

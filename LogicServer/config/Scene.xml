@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" name="10000" size="[2401,1201]" relevanceMap="map001" mapRecurrence="1" cameraLock="0" cameraLockBoat="0" mapDataId="UWmap_server" sailLineDataId="uwSailLine_connect" logicType="[[0,14]]" ring="1" numOfBirth="[15,30,40]" birthArea="[2,5]" numOfArea="[[1,6],[7,10],[11,11]]" speed="1" zoom="22"  />
+    <ItemSpec id="2" name="10000" size="[2401,1201]" relevanceMap="mapnewbie" mapRecurrence="0" cameraLock="1" cameraLockBoat="1" mapDataId="map_newbie_server" position="[0,76,76]" sailLineDataId="map_newbieSailLine_connect" logicType="[[0,13],[6,10,11,12]]" ring="0" destroy="[2,3]" speed="3" zoom="25"  />
+
+</tns:database>

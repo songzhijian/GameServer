@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" langSimpleName="zh_CN"  />
+    <ItemSpec id="2" langSimpleName="en" majorLanguage="1"  />
+    <ItemSpec id="3" langSimpleName="de"  />
+    <ItemSpec id="4" langSimpleName="ar"  />
+    <ItemSpec id="5" langSimpleName="fr"  />
+    <ItemSpec id="6" langSimpleName="ja"  />
+    <ItemSpec id="7" langSimpleName="nl"  />
+    <ItemSpec id="8" langSimpleName="it"  />
+    <ItemSpec id="9" langSimpleName="es" majorLanguage="1"  />
+    <ItemSpec id="10" langSimpleName="ko"  />
+    <ItemSpec id="11" langSimpleName="pt"  />
+    <ItemSpec id="12" langSimpleName="ru" majorLanguage="1"  />
+    <ItemSpec id="13" langSimpleName="pl"  />
+    <ItemSpec id="14" langSimpleName="tr"  />
+    <ItemSpec id="15" langSimpleName="ro"  />
+    <ItemSpec id="16" langSimpleName="th"  />
+    <ItemSpec id="17" langSimpleName="id"  />
+    <ItemSpec id="18" langSimpleName="zh_TW"  />
+    <ItemSpec id="19" langSimpleName="vi"  />
+
+</tns:database>

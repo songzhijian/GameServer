@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1010000" shipId="101" xCoor="0" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="1010100" shipId="101" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="1010200" shipId="101" xCoor="2" yCoor="0" type="1" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="1010300" shipId="101" xCoor="3" yCoor="0" type="2" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="1010400" shipId="101" xCoor="4" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="1010500" shipId="101" xCoor="5" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="1010001" shipId="101" xCoor="0" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="1010101" shipId="101" xCoor="1" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="1010201" shipId="101" xCoor="2" yCoor="1" type="1" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="1010301" shipId="101" xCoor="3" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="1010401" shipId="101" xCoor="4" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="1010501" shipId="101" xCoor="5" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="1010002" shipId="101" xCoor="0" yCoor="2" type="0" onBoard="1"  />
+    <ItemSpec id="1010102" shipId="101" xCoor="1" yCoor="2" type="0" onBoard="1"  />
+    <ItemSpec id="1010202" shipId="101" xCoor="2" yCoor="2" type="0" onBoard="1"  />
+    <ItemSpec id="1010302" shipId="101" xCoor="3" yCoor="2" type="2" onBoard="1"  />
+    <ItemSpec id="1010402" shipId="101" xCoor="4" yCoor="2" type="2" onBoard="1"  />
+    <ItemSpec id="1010502" shipId="101" xCoor="5" yCoor="2" type="2" onBoard="1"  />
+    <ItemSpec id="2010000" shipId="201" xCoor="0" yCoor="0" type="1" onBoard="0" initBuilding="6100"  />
+    <ItemSpec id="2010100" shipId="201" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2010200" shipId="201" xCoor="2" yCoor="0" type="1" onBoard="0" initBuilding="8100"  />
+    <ItemSpec id="2010300" shipId="201" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2010400" shipId="201" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2010500" shipId="201" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2010600" shipId="201" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2010700" shipId="201" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2010800" shipId="201" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2010900" shipId="201" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2011000" shipId="201" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2011100" shipId="201" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2011200" shipId="201" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="2011300" shipId="201" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="2011400" shipId="201" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="2011500" shipId="201" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="2011600" shipId="201" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="2011700" shipId="201" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="2010001" shipId="201" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010101" shipId="201" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010201" shipId="201" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010301" shipId="201" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010401" shipId="201" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010501" shipId="201" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010601" shipId="201" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010701" shipId="201" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010801" shipId="201" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2010901" shipId="201" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="2011001" shipId="201" xCoor="10" yCoor="1" type="2" onBoard="0" initBuilding="6"  />
+    <ItemSpec id="2011101" shipId="201" xCoor="11" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="2011201" shipId="201" xCoor="12" yCoor="1" type="2" onBoard="0" initBuilding="4"  />
+    <ItemSpec id="2011301" shipId="201" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="2011401" shipId="201" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="2011501" shipId="201" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="2011601" shipId="201" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="2011701" shipId="201" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010000" shipId="301" xCoor="0" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="3010100" shipId="301" xCoor="1" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="3010200" shipId="301" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3010300" shipId="301" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3010400" shipId="301" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3010500" shipId="301" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3010600" shipId="301" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3010700" shipId="301" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3010800" shipId="301" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3010900" shipId="301" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3011000" shipId="301" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3011100" shipId="301" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3011200" shipId="301" xCoor="12" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3011300" shipId="301" xCoor="13" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3011400" shipId="301" xCoor="14" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="3011500" shipId="301" xCoor="15" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="3011600" shipId="301" xCoor="16" yCoor="0" type="1" onBoard="0" initBuilding="6100"  />
+    <ItemSpec id="3011700" shipId="301" xCoor="17" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="3011800" shipId="301" xCoor="18" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="3011900" shipId="301" xCoor="19" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="3010001" shipId="301" xCoor="0" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010101" shipId="301" xCoor="1" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010201" shipId="301" xCoor="2" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010301" shipId="301" xCoor="3" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010401" shipId="301" xCoor="4" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010501" shipId="301" xCoor="5" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010601" shipId="301" xCoor="6" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010701" shipId="301" xCoor="7" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010801" shipId="301" xCoor="8" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3010901" shipId="301" xCoor="9" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3011001" shipId="301" xCoor="10" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3011101" shipId="301" xCoor="11" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3011201" shipId="301" xCoor="12" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3011301" shipId="301" xCoor="13" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3011401" shipId="301" xCoor="14" yCoor="1" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="3011501" shipId="301" xCoor="15" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="3011601" shipId="301" xCoor="16" yCoor="1" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="3011701" shipId="301" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="3011801" shipId="301" xCoor="18" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="3011901" shipId="301" xCoor="19" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="3010002" shipId="301" xCoor="0" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010102" shipId="301" xCoor="1" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010202" shipId="301" xCoor="2" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010302" shipId="301" xCoor="3" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010402" shipId="301" xCoor="4" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010502" shipId="301" xCoor="5" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010602" shipId="301" xCoor="6" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010702" shipId="301" xCoor="7" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010802" shipId="301" xCoor="8" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010902" shipId="301" xCoor="9" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3011002" shipId="301" xCoor="10" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3011102" shipId="301" xCoor="11" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3011202" shipId="301" xCoor="12" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3011302" shipId="301" xCoor="13" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3011402" shipId="301" xCoor="14" yCoor="2" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="3011502" shipId="301" xCoor="15" yCoor="2" type="2" onBoard="0"  />
+    <ItemSpec id="3011602" shipId="301" xCoor="16" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3011702" shipId="301" xCoor="17" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3011802" shipId="301" xCoor="18" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3011902" shipId="301" xCoor="19" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="3010003" shipId="301" xCoor="0" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010103" shipId="301" xCoor="1" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010203" shipId="301" xCoor="2" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010303" shipId="301" xCoor="3" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010403" shipId="301" xCoor="4" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010503" shipId="301" xCoor="5" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010603" shipId="301" xCoor="6" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010703" shipId="301" xCoor="7" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010803" shipId="301" xCoor="8" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3010903" shipId="301" xCoor="9" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3011003" shipId="301" xCoor="10" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3011103" shipId="301" xCoor="11" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="3011203" shipId="301" xCoor="12" yCoor="3" type="2" onBoard="0" initBuilding="6"  />
+    <ItemSpec id="3011303" shipId="301" xCoor="13" yCoor="3" type="2" onBoard="0"  />
+    <ItemSpec id="3011403" shipId="301" xCoor="14" yCoor="3" type="2" onBoard="0" initBuilding="4"  />
+    <ItemSpec id="3011503" shipId="301" xCoor="15" yCoor="3" type="2" onBoard="0"  />
+    <ItemSpec id="3011603" shipId="301" xCoor="16" yCoor="3" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="3011703" shipId="301" xCoor="17" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="3011803" shipId="301" xCoor="18" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="3011903" shipId="301" xCoor="19" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="4010000" shipId="401" xCoor="0" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="4010100" shipId="401" xCoor="1" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="4010200" shipId="401" xCoor="2" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="4010300" shipId="401" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4010400" shipId="401" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4010500" shipId="401" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4010600" shipId="401" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4010700" shipId="401" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4010800" shipId="401" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4010900" shipId="401" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4011000" shipId="401" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4011100" shipId="401" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4011200" shipId="401" xCoor="12" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4011300" shipId="401" xCoor="13" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4011400" shipId="401" xCoor="14" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4011500" shipId="401" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4011600" shipId="401" xCoor="16" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="4011700" shipId="401" xCoor="17" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="4011800" shipId="401" xCoor="18" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4011900" shipId="401" xCoor="19" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4012000" shipId="401" xCoor="20" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4012100" shipId="401" xCoor="21" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4012200" shipId="401" xCoor="22" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="4012300" shipId="401" xCoor="23" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="4010001" shipId="401" xCoor="0" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010101" shipId="401" xCoor="1" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010201" shipId="401" xCoor="2" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010301" shipId="401" xCoor="3" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010401" shipId="401" xCoor="4" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010501" shipId="401" xCoor="5" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010601" shipId="401" xCoor="6" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010701" shipId="401" xCoor="7" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010801" shipId="401" xCoor="8" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4010901" shipId="401" xCoor="9" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4011001" shipId="401" xCoor="10" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4011101" shipId="401" xCoor="11" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4011201" shipId="401" xCoor="12" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4011301" shipId="401" xCoor="13" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4011401" shipId="401" xCoor="14" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4011501" shipId="401" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4011601" shipId="401" xCoor="16" yCoor="1" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="4011701" shipId="401" xCoor="17" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="4011801" shipId="401" xCoor="18" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4011901" shipId="401" xCoor="19" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4012001" shipId="401" xCoor="20" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4012101" shipId="401" xCoor="21" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4012201" shipId="401" xCoor="22" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="4012301" shipId="401" xCoor="23" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="4010002" shipId="401" xCoor="0" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010102" shipId="401" xCoor="1" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010202" shipId="401" xCoor="2" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010302" shipId="401" xCoor="3" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010402" shipId="401" xCoor="4" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010502" shipId="401" xCoor="5" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010602" shipId="401" xCoor="6" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010702" shipId="401" xCoor="7" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010802" shipId="401" xCoor="8" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010902" shipId="401" xCoor="9" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4011002" shipId="401" xCoor="10" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4011102" shipId="401" xCoor="11" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4011202" shipId="401" xCoor="12" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4011302" shipId="401" xCoor="13" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4011402" shipId="401" xCoor="14" yCoor="2" type="1" onBoard="0" initBuilding="6100"  />
+    <ItemSpec id="4011502" shipId="401" xCoor="15" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4011602" shipId="401" xCoor="16" yCoor="2" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="4011702" shipId="401" xCoor="17" yCoor="2" type="2" onBoard="0"  />
+    <ItemSpec id="4011802" shipId="401" xCoor="18" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4011902" shipId="401" xCoor="19" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4012002" shipId="401" xCoor="20" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4012102" shipId="401" xCoor="21" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4012202" shipId="401" xCoor="22" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4012302" shipId="401" xCoor="23" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4010003" shipId="401" xCoor="0" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010103" shipId="401" xCoor="1" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010203" shipId="401" xCoor="2" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010303" shipId="401" xCoor="3" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010403" shipId="401" xCoor="4" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010503" shipId="401" xCoor="5" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010603" shipId="401" xCoor="6" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010703" shipId="401" xCoor="7" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010803" shipId="401" xCoor="8" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4010903" shipId="401" xCoor="9" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4011003" shipId="401" xCoor="10" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4011103" shipId="401" xCoor="11" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4011203" shipId="401" xCoor="12" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4011303" shipId="401" xCoor="13" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4011403" shipId="401" xCoor="14" yCoor="3" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="4011503" shipId="401" xCoor="15" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4011603" shipId="401" xCoor="16" yCoor="3" type="2" onBoard="0" initBuilding="4"  />
+    <ItemSpec id="4011703" shipId="401" xCoor="17" yCoor="3" type="2" onBoard="0"  />
+    <ItemSpec id="4011803" shipId="401" xCoor="18" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="4011903" shipId="401" xCoor="19" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="4012003" shipId="401" xCoor="20" yCoor="3" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="4012103" shipId="401" xCoor="21" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="4012203" shipId="401" xCoor="22" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="4012303" shipId="401" xCoor="23" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="4020000" shipId="402" xCoor="0" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="4020100" shipId="402" xCoor="1" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="4020200" shipId="402" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4020300" shipId="402" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4020400" shipId="402" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4020500" shipId="402" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4020600" shipId="402" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4020700" shipId="402" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4020800" shipId="402" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4020900" shipId="402" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4021000" shipId="402" xCoor="10" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="4021100" shipId="402" xCoor="11" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="4021200" shipId="402" xCoor="12" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4021300" shipId="402" xCoor="13" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4021400" shipId="402" xCoor="14" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4021500" shipId="402" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4021600" shipId="402" xCoor="16" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4021700" shipId="402" xCoor="17" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4021800" shipId="402" xCoor="18" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4021900" shipId="402" xCoor="19" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4022000" shipId="402" xCoor="20" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4022100" shipId="402" xCoor="21" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4022200" shipId="402" xCoor="22" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4022300" shipId="402" xCoor="23" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4022400" shipId="402" xCoor="24" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4022500" shipId="402" xCoor="25" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="4022600" shipId="402" xCoor="26" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="4022700" shipId="402" xCoor="27" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="4020001" shipId="402" xCoor="0" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020101" shipId="402" xCoor="1" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020201" shipId="402" xCoor="2" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020301" shipId="402" xCoor="3" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020401" shipId="402" xCoor="4" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020501" shipId="402" xCoor="5" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020601" shipId="402" xCoor="6" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020701" shipId="402" xCoor="7" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020801" shipId="402" xCoor="8" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4020901" shipId="402" xCoor="9" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4021001" shipId="402" xCoor="10" yCoor="1" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="4021101" shipId="402" xCoor="11" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="4021201" shipId="402" xCoor="12" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4021301" shipId="402" xCoor="13" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4021401" shipId="402" xCoor="14" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4021501" shipId="402" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4021601" shipId="402" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4021701" shipId="402" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4021801" shipId="402" xCoor="18" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4021901" shipId="402" xCoor="19" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4022001" shipId="402" xCoor="20" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4022101" shipId="402" xCoor="21" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4022201" shipId="402" xCoor="22" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4022301" shipId="402" xCoor="23" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4022401" shipId="402" xCoor="24" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4022501" shipId="402" xCoor="25" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="4022601" shipId="402" xCoor="26" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="4022701" shipId="402" xCoor="27" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="4020002" shipId="402" xCoor="0" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4020102" shipId="402" xCoor="1" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4020202" shipId="402" xCoor="2" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4020302" shipId="402" xCoor="3" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4020402" shipId="402" xCoor="4" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4020502" shipId="402" xCoor="5" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4020602" shipId="402" xCoor="6" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4020702" shipId="402" xCoor="7" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4020802" shipId="402" xCoor="8" yCoor="2" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="4020902" shipId="402" xCoor="9" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4021002" shipId="402" xCoor="10" yCoor="2" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="4021102" shipId="402" xCoor="11" yCoor="2" type="2" onBoard="0"  />
+    <ItemSpec id="4021202" shipId="402" xCoor="12" yCoor="2" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="4021302" shipId="402" xCoor="13" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4021402" shipId="402" xCoor="14" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4021502" shipId="402" xCoor="15" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4021602" shipId="402" xCoor="16" yCoor="2" type="1" onBoard="0" initBuilding="6100"  />
+    <ItemSpec id="4021702" shipId="402" xCoor="17" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4021802" shipId="402" xCoor="18" yCoor="2" type="1" onBoard="0" initBuilding="5200"  />
+    <ItemSpec id="4021902" shipId="402" xCoor="19" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4022002" shipId="402" xCoor="20" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4022102" shipId="402" xCoor="21" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4022202" shipId="402" xCoor="22" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4022302" shipId="402" xCoor="23" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4022402" shipId="402" xCoor="24" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4022502" shipId="402" xCoor="25" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="4022602" shipId="402" xCoor="26" yCoor="2" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="4022702" shipId="402" xCoor="27" yCoor="2" type="2" onBoard="0"  />
+    <ItemSpec id="4020003" shipId="402" xCoor="0" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020103" shipId="402" xCoor="1" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020203" shipId="402" xCoor="2" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020303" shipId="402" xCoor="3" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020403" shipId="402" xCoor="4" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020503" shipId="402" xCoor="5" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020603" shipId="402" xCoor="6" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020703" shipId="402" xCoor="7" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020803" shipId="402" xCoor="8" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4020903" shipId="402" xCoor="9" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4021003" shipId="402" xCoor="10" yCoor="3" type="2" onBoard="0" initBuilding="7"  />
+    <ItemSpec id="4021103" shipId="402" xCoor="11" yCoor="3" type="2" onBoard="0"  />
+    <ItemSpec id="4021203" shipId="402" xCoor="12" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4021303" shipId="402" xCoor="13" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4021403" shipId="402" xCoor="14" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4021503" shipId="402" xCoor="15" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4021603" shipId="402" xCoor="16" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4021703" shipId="402" xCoor="17" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4021803" shipId="402" xCoor="18" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4021903" shipId="402" xCoor="19" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4022003" shipId="402" xCoor="20" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4022103" shipId="402" xCoor="21" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4022203" shipId="402" xCoor="22" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4022303" shipId="402" xCoor="23" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4022403" shipId="402" xCoor="24" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4022503" shipId="402" xCoor="25" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="4022603" shipId="402" xCoor="26" yCoor="3" type="2" onBoard="0" initBuilding="7"  />
+    <ItemSpec id="4022703" shipId="402" xCoor="27" yCoor="3" type="2" onBoard="0"  />
+    <ItemSpec id="5010000" shipId="501" xCoor="0" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="5010100" shipId="501" xCoor="1" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="5010200" shipId="501" xCoor="2" yCoor="0" type="1" onBoard="0" initBuilding="5200"  />
+    <ItemSpec id="5010300" shipId="501" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5010400" shipId="501" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5010500" shipId="501" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5010600" shipId="501" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5010700" shipId="501" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5010800" shipId="501" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5010900" shipId="501" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011000" shipId="501" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011100" shipId="501" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011200" shipId="501" xCoor="12" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011300" shipId="501" xCoor="13" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011400" shipId="501" xCoor="14" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011500" shipId="501" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011600" shipId="501" xCoor="16" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011700" shipId="501" xCoor="17" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011800" shipId="501" xCoor="18" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5011900" shipId="501" xCoor="19" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5012000" shipId="501" xCoor="20" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="5012100" shipId="501" xCoor="21" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="5012200" shipId="501" xCoor="22" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5012300" shipId="501" xCoor="23" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5012400" shipId="501" xCoor="24" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5012500" shipId="501" xCoor="25" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5012600" shipId="501" xCoor="26" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5012700" shipId="501" xCoor="27" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5012800" shipId="501" xCoor="28" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="5012900" shipId="501" xCoor="29" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="5010001" shipId="501" xCoor="0" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="5010101" shipId="501" xCoor="1" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="5010201" shipId="501" xCoor="2" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5010301" shipId="501" xCoor="3" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5010401" shipId="501" xCoor="4" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5010501" shipId="501" xCoor="5" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5010601" shipId="501" xCoor="6" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5010701" shipId="501" xCoor="7" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5010801" shipId="501" xCoor="8" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5010901" shipId="501" xCoor="9" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011001" shipId="501" xCoor="10" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011101" shipId="501" xCoor="11" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011201" shipId="501" xCoor="12" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011301" shipId="501" xCoor="13" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011401" shipId="501" xCoor="14" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011501" shipId="501" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011601" shipId="501" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011701" shipId="501" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011801" shipId="501" xCoor="18" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5011901" shipId="501" xCoor="19" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5012001" shipId="501" xCoor="20" yCoor="1" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="5012101" shipId="501" xCoor="21" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="5012201" shipId="501" xCoor="22" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5012301" shipId="501" xCoor="23" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5012401" shipId="501" xCoor="24" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5012501" shipId="501" xCoor="25" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5012601" shipId="501" xCoor="26" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5012701" shipId="501" xCoor="27" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5012801" shipId="501" xCoor="28" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="5012901" shipId="501" xCoor="29" yCoor="1" type="0" onBoard="0"  />
+    <ItemSpec id="5010002" shipId="501" xCoor="0" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010102" shipId="501" xCoor="1" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010202" shipId="501" xCoor="2" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010302" shipId="501" xCoor="3" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010402" shipId="501" xCoor="4" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010502" shipId="501" xCoor="5" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010602" shipId="501" xCoor="6" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010702" shipId="501" xCoor="7" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010802" shipId="501" xCoor="8" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5010902" shipId="501" xCoor="9" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011002" shipId="501" xCoor="10" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011102" shipId="501" xCoor="11" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011202" shipId="501" xCoor="12" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011302" shipId="501" xCoor="13" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011402" shipId="501" xCoor="14" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011502" shipId="501" xCoor="15" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011602" shipId="501" xCoor="16" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011702" shipId="501" xCoor="17" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5011802" shipId="501" xCoor="18" yCoor="2" type="1" onBoard="0" initBuilding="6100"  />
+    <ItemSpec id="5011902" shipId="501" xCoor="19" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5012002" shipId="501" xCoor="20" yCoor="2" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="5012102" shipId="501" xCoor="21" yCoor="2" type="2" onBoard="0"  />
+    <ItemSpec id="5012202" shipId="501" xCoor="22" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5012302" shipId="501" xCoor="23" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5012402" shipId="501" xCoor="24" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5012502" shipId="501" xCoor="25" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5012602" shipId="501" xCoor="26" yCoor="2" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="5012702" shipId="501" xCoor="27" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5012802" shipId="501" xCoor="28" yCoor="2" type="0" onBoard="0"  />
+    <ItemSpec id="5012902" shipId="501" xCoor="29" yCoor="2" type="0" onBoard="0"  />
+    <ItemSpec id="5010003" shipId="501" xCoor="0" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010103" shipId="501" xCoor="1" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010203" shipId="501" xCoor="2" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010303" shipId="501" xCoor="3" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010403" shipId="501" xCoor="4" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010503" shipId="501" xCoor="5" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010603" shipId="501" xCoor="6" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010703" shipId="501" xCoor="7" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010803" shipId="501" xCoor="8" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5010903" shipId="501" xCoor="9" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011003" shipId="501" xCoor="10" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011103" shipId="501" xCoor="11" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011203" shipId="501" xCoor="12" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011303" shipId="501" xCoor="13" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011403" shipId="501" xCoor="14" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011503" shipId="501" xCoor="15" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011603" shipId="501" xCoor="16" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011703" shipId="501" xCoor="17" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5011803" shipId="501" xCoor="18" yCoor="3" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="5011903" shipId="501" xCoor="19" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5012003" shipId="501" xCoor="20" yCoor="3" type="2" onBoard="0" initBuilding="4"  />
+    <ItemSpec id="5012103" shipId="501" xCoor="21" yCoor="3" type="2" onBoard="0"  />
+    <ItemSpec id="5012203" shipId="501" xCoor="22" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="5012303" shipId="501" xCoor="23" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="5012403" shipId="501" xCoor="24" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="5012503" shipId="501" xCoor="25" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="5012603" shipId="501" xCoor="26" yCoor="3" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="5012703" shipId="501" xCoor="27" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="5012803" shipId="501" xCoor="28" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="5012903" shipId="501" xCoor="29" yCoor="3" type="1" onBoard="0"  />
+    <ItemSpec id="5020000" shipId="502" xCoor="0" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="5020100" shipId="502" xCoor="1" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="5020200" shipId="502" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5020300" shipId="502" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5020400" shipId="502" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5020500" shipId="502" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5020600" shipId="502" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5020700" shipId="502" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5020800" shipId="502" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5020900" shipId="502" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5021000" shipId="502" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5021100" shipId="502" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5021200" shipId="502" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="5021300" shipId="502" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="5021400" shipId="502" xCoor="14" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5021500" shipId="502" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5021600" shipId="502" xCoor="16" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5021700" shipId="502" xCoor="17" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5021800" shipId="502" xCoor="18" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5021900" shipId="502" xCoor="19" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022000" shipId="502" xCoor="20" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022100" shipId="502" xCoor="21" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022200" shipId="502" xCoor="22" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022300" shipId="502" xCoor="23" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022400" shipId="502" xCoor="24" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022500" shipId="502" xCoor="25" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022600" shipId="502" xCoor="26" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022700" shipId="502" xCoor="27" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022800" shipId="502" xCoor="28" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5022900" shipId="502" xCoor="29" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="5023000" shipId="502" xCoor="30" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="5023100" shipId="502" xCoor="31" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="5020001" shipId="502" xCoor="0" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020101" shipId="502" xCoor="1" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020201" shipId="502" xCoor="2" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020301" shipId="502" xCoor="3" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020401" shipId="502" xCoor="4" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020501" shipId="502" xCoor="5" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020601" shipId="502" xCoor="6" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020701" shipId="502" xCoor="7" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020801" shipId="502" xCoor="8" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020901" shipId="502" xCoor="9" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5021001" shipId="502" xCoor="10" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5021101" shipId="502" xCoor="11" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5021201" shipId="502" xCoor="12" yCoor="1" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="5021301" shipId="502" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="5021401" shipId="502" xCoor="14" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5021501" shipId="502" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5021601" shipId="502" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5021701" shipId="502" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5021801" shipId="502" xCoor="18" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5021901" shipId="502" xCoor="19" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022001" shipId="502" xCoor="20" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022101" shipId="502" xCoor="21" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022201" shipId="502" xCoor="22" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022301" shipId="502" xCoor="23" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022401" shipId="502" xCoor="24" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022501" shipId="502" xCoor="25" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022601" shipId="502" xCoor="26" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022701" shipId="502" xCoor="27" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022801" shipId="502" xCoor="28" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5022901" shipId="502" xCoor="29" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5023001" shipId="502" xCoor="30" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5023101" shipId="502" xCoor="31" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="5020002" shipId="502" xCoor="0" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020102" shipId="502" xCoor="1" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020202" shipId="502" xCoor="2" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020302" shipId="502" xCoor="3" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020402" shipId="502" xCoor="4" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020502" shipId="502" xCoor="5" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020602" shipId="502" xCoor="6" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020702" shipId="502" xCoor="7" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020802" shipId="502" xCoor="8" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020902" shipId="502" xCoor="9" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5021002" shipId="502" xCoor="10" yCoor="2" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="5021102" shipId="502" xCoor="11" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5021202" shipId="502" xCoor="12" yCoor="2" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="5021302" shipId="502" xCoor="13" yCoor="2" type="2" onBoard="0"  />
+    <ItemSpec id="5021402" shipId="502" xCoor="14" yCoor="2" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="5021502" shipId="502" xCoor="15" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5021602" shipId="502" xCoor="16" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5021702" shipId="502" xCoor="17" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5021802" shipId="502" xCoor="18" yCoor="2" type="1" onBoard="0" initBuilding="6100"  />
+    <ItemSpec id="5021902" shipId="502" xCoor="19" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022002" shipId="502" xCoor="20" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022102" shipId="502" xCoor="21" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022202" shipId="502" xCoor="22" yCoor="2" type="1" onBoard="0" initBuilding="8300"  />
+    <ItemSpec id="5022302" shipId="502" xCoor="23" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022402" shipId="502" xCoor="24" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022502" shipId="502" xCoor="25" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022602" shipId="502" xCoor="26" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022702" shipId="502" xCoor="27" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022802" shipId="502" xCoor="28" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5022902" shipId="502" xCoor="29" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5023002" shipId="502" xCoor="30" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5023102" shipId="502" xCoor="31" yCoor="2" type="1" onBoard="0"  />
+    <ItemSpec id="5020003" shipId="502" xCoor="0" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020103" shipId="502" xCoor="1" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020203" shipId="502" xCoor="2" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020303" shipId="502" xCoor="3" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020403" shipId="502" xCoor="4" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020503" shipId="502" xCoor="5" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020603" shipId="502" xCoor="6" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020703" shipId="502" xCoor="7" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020803" shipId="502" xCoor="8" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5020903" shipId="502" xCoor="9" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5021003" shipId="502" xCoor="10" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5021103" shipId="502" xCoor="11" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5021203" shipId="502" xCoor="12" yCoor="3" type="2" onBoard="0" initBuilding="7"  />
+    <ItemSpec id="5021303" shipId="502" xCoor="13" yCoor="3" type="2" onBoard="0"  />
+    <ItemSpec id="5021403" shipId="502" xCoor="14" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5021503" shipId="502" xCoor="15" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5021603" shipId="502" xCoor="16" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5021703" shipId="502" xCoor="17" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5021803" shipId="502" xCoor="18" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5021903" shipId="502" xCoor="19" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022003" shipId="502" xCoor="20" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022103" shipId="502" xCoor="21" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022203" shipId="502" xCoor="22" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022303" shipId="502" xCoor="23" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022403" shipId="502" xCoor="24" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022503" shipId="502" xCoor="25" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022603" shipId="502" xCoor="26" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022703" shipId="502" xCoor="27" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022803" shipId="502" xCoor="28" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5022903" shipId="502" xCoor="29" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5023003" shipId="502" xCoor="30" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="5023103" shipId="502" xCoor="31" yCoor="3" type="0" onBoard="1"  />
+    <ItemSpec id="6010000" shipId="601" xCoor="0" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010100" shipId="601" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010200" shipId="601" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010300" shipId="601" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010400" shipId="601" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010500" shipId="601" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010600" shipId="601" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010700" shipId="601" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010800" shipId="601" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6010900" shipId="601" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6011000" shipId="601" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6011100" shipId="601" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6011200" shipId="601" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="6011300" shipId="601" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="6011400" shipId="601" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="6011500" shipId="601" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6011600" shipId="601" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="6011700" shipId="601" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="6010001" shipId="601" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010101" shipId="601" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010201" shipId="601" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010301" shipId="601" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010401" shipId="601" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010501" shipId="601" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010601" shipId="601" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010701" shipId="601" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010801" shipId="601" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6010901" shipId="601" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6011001" shipId="601" xCoor="10" yCoor="1" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="6011101" shipId="601" xCoor="11" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6011201" shipId="601" xCoor="12" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="6011301" shipId="601" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="6011401" shipId="601" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="6011501" shipId="601" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="6011601" shipId="601" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="6011701" shipId="601" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="6020000" shipId="602" xCoor="0" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020100" shipId="602" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020200" shipId="602" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020300" shipId="602" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020400" shipId="602" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020500" shipId="602" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020600" shipId="602" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020700" shipId="602" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020800" shipId="602" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6020900" shipId="602" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6021000" shipId="602" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6021100" shipId="602" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6021200" shipId="602" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="6021300" shipId="602" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="6021400" shipId="602" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="6021500" shipId="602" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="6021600" shipId="602" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="6021700" shipId="602" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="6020001" shipId="602" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020101" shipId="602" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020201" shipId="602" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020301" shipId="602" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020401" shipId="602" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020501" shipId="602" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020601" shipId="602" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020701" shipId="602" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020801" shipId="602" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6020901" shipId="602" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6021001" shipId="602" xCoor="10" yCoor="1" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="6021101" shipId="602" xCoor="11" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="6021201" shipId="602" xCoor="12" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="6021301" shipId="602" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="6021401" shipId="602" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="6021501" shipId="602" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="6021601" shipId="602" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="6021701" shipId="602" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="7010000" shipId="701" xCoor="0" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010100" shipId="701" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010200" shipId="701" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010300" shipId="701" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010400" shipId="701" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010500" shipId="701" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010600" shipId="701" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010700" shipId="701" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010800" shipId="701" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7010900" shipId="701" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7011000" shipId="701" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7011100" shipId="701" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7011200" shipId="701" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="7011300" shipId="701" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="7011400" shipId="701" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="7011500" shipId="701" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7011600" shipId="701" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="7011700" shipId="701" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="7010001" shipId="701" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010101" shipId="701" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010201" shipId="701" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010301" shipId="701" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010401" shipId="701" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010501" shipId="701" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010601" shipId="701" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010701" shipId="701" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010801" shipId="701" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7010901" shipId="701" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7011001" shipId="701" xCoor="10" yCoor="1" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="7011101" shipId="701" xCoor="11" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7011201" shipId="701" xCoor="12" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="7011301" shipId="701" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="7011401" shipId="701" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="7011501" shipId="701" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="7011601" shipId="701" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="7011701" shipId="701" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="7020000" shipId="702" xCoor="0" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020100" shipId="702" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020200" shipId="702" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020300" shipId="702" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020400" shipId="702" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020500" shipId="702" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020600" shipId="702" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020700" shipId="702" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020800" shipId="702" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7020900" shipId="702" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7021000" shipId="702" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7021100" shipId="702" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7021200" shipId="702" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="7021300" shipId="702" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="7021400" shipId="702" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="7021500" shipId="702" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="7021600" shipId="702" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="7021700" shipId="702" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="7020001" shipId="702" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020101" shipId="702" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020201" shipId="702" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020301" shipId="702" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020401" shipId="702" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020501" shipId="702" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020601" shipId="702" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020701" shipId="702" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020801" shipId="702" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7020901" shipId="702" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7021001" shipId="702" xCoor="10" yCoor="1" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="7021101" shipId="702" xCoor="11" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="7021201" shipId="702" xCoor="12" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="7021301" shipId="702" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="7021401" shipId="702" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="7021501" shipId="702" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="7021601" shipId="702" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="7021701" shipId="702" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="8010000" shipId="801" xCoor="0" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010100" shipId="801" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010200" shipId="801" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010300" shipId="801" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010400" shipId="801" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010500" shipId="801" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010600" shipId="801" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010700" shipId="801" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010800" shipId="801" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8010900" shipId="801" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8011000" shipId="801" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8011100" shipId="801" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8011200" shipId="801" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="8011300" shipId="801" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="8011400" shipId="801" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="8011500" shipId="801" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8011600" shipId="801" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="8011700" shipId="801" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="8010001" shipId="801" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010101" shipId="801" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010201" shipId="801" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010301" shipId="801" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010401" shipId="801" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010501" shipId="801" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010601" shipId="801" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010701" shipId="801" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010801" shipId="801" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8010901" shipId="801" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8011001" shipId="801" xCoor="10" yCoor="1" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="8011101" shipId="801" xCoor="11" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8011201" shipId="801" xCoor="12" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="8011301" shipId="801" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="8011401" shipId="801" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="8011501" shipId="801" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="8011601" shipId="801" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="8011701" shipId="801" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="8020000" shipId="802" xCoor="0" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020100" shipId="802" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020200" shipId="802" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020300" shipId="802" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020400" shipId="802" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020500" shipId="802" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020600" shipId="802" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020700" shipId="802" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020800" shipId="802" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8020900" shipId="802" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8021000" shipId="802" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8021100" shipId="802" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8021200" shipId="802" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="8021300" shipId="802" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="8021400" shipId="802" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="8021500" shipId="802" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="8021600" shipId="802" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="8021700" shipId="802" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="8020001" shipId="802" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020101" shipId="802" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020201" shipId="802" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020301" shipId="802" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020401" shipId="802" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020501" shipId="802" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020601" shipId="802" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020701" shipId="802" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020801" shipId="802" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8020901" shipId="802" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8021001" shipId="802" xCoor="10" yCoor="1" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="8021101" shipId="802" xCoor="11" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="8021201" shipId="802" xCoor="12" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="8021301" shipId="802" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="8021401" shipId="802" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="8021501" shipId="802" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="8021601" shipId="802" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="8021701" shipId="802" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="9010000" shipId="901" xCoor="0" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010100" shipId="901" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010200" shipId="901" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010300" shipId="901" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010400" shipId="901" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010500" shipId="901" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010600" shipId="901" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010700" shipId="901" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010800" shipId="901" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9010900" shipId="901" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9011000" shipId="901" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9011100" shipId="901" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9011200" shipId="901" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="9011300" shipId="901" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="9011400" shipId="901" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="9011500" shipId="901" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9011600" shipId="901" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="9011700" shipId="901" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="9010001" shipId="901" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010101" shipId="901" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010201" shipId="901" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010301" shipId="901" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010401" shipId="901" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010501" shipId="901" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010601" shipId="901" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010701" shipId="901" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010801" shipId="901" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9010901" shipId="901" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9011001" shipId="901" xCoor="10" yCoor="1" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="9011101" shipId="901" xCoor="11" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9011201" shipId="901" xCoor="12" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="9011301" shipId="901" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="9011401" shipId="901" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="9011501" shipId="901" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="9011601" shipId="901" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="9011701" shipId="901" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="9020000" shipId="902" xCoor="0" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020100" shipId="902" xCoor="1" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020200" shipId="902" xCoor="2" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020300" shipId="902" xCoor="3" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020400" shipId="902" xCoor="4" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020500" shipId="902" xCoor="5" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020600" shipId="902" xCoor="6" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020700" shipId="902" xCoor="7" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020800" shipId="902" xCoor="8" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9020900" shipId="902" xCoor="9" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9021000" shipId="902" xCoor="10" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9021100" shipId="902" xCoor="11" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9021200" shipId="902" xCoor="12" yCoor="0" type="2" onBoard="0" initBuilding="3"  />
+    <ItemSpec id="9021300" shipId="902" xCoor="13" yCoor="0" type="2" onBoard="0"  />
+    <ItemSpec id="9021400" shipId="902" xCoor="14" yCoor="0" type="1" onBoard="0" initBuilding="2100"  />
+    <ItemSpec id="9021500" shipId="902" xCoor="15" yCoor="0" type="1" onBoard="0"  />
+    <ItemSpec id="9021600" shipId="902" xCoor="16" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="9021700" shipId="902" xCoor="17" yCoor="0" type="0" onBoard="0"  />
+    <ItemSpec id="9020001" shipId="902" xCoor="0" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020101" shipId="902" xCoor="1" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020201" shipId="902" xCoor="2" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020301" shipId="902" xCoor="3" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020401" shipId="902" xCoor="4" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020501" shipId="902" xCoor="5" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020601" shipId="902" xCoor="6" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020701" shipId="902" xCoor="7" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020801" shipId="902" xCoor="8" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9020901" shipId="902" xCoor="9" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9021001" shipId="902" xCoor="10" yCoor="1" type="0" onBoard="1" initBuilding="6"  />
+    <ItemSpec id="9021101" shipId="902" xCoor="11" yCoor="1" type="0" onBoard="1"  />
+    <ItemSpec id="9021201" shipId="902" xCoor="12" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="9021301" shipId="902" xCoor="13" yCoor="1" type="2" onBoard="0"  />
+    <ItemSpec id="9021401" shipId="902" xCoor="14" yCoor="1" type="1" onBoard="0" initBuilding="1100"  />
+    <ItemSpec id="9021501" shipId="902" xCoor="15" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="9021601" shipId="902" xCoor="16" yCoor="1" type="1" onBoard="0"  />
+    <ItemSpec id="9021701" shipId="902" xCoor="17" yCoor="1" type="1" onBoard="0"  />
+
+</tns:database>

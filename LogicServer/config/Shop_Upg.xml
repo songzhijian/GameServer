@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="100101" lvl="1" cond="[[10,3]]" prodQty="3" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100103" lvl="2" cond="[[10,9]]" prodQty="4" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100104" lvl="3" cond="[[10,18]]" prodQty="5" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100105" lvl="4" cond="[[10,30]]" prodQty="6" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100106" lvl="5" cond="[[10,45]]" prodQty="7" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100107" lvl="6" cond="[[10,63]]" prodQty="8" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100108" lvl="7" cond="[[10,84]]" prodQty="9" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100109" lvl="8" cond="[[10,108]]" prodQty="10" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100110" lvl="9" cond="[[1,1115]]" prodQty="11" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100111" lvl="10" cond="[[1,1120]]" prodQty="12" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100112" lvl="11" prodQty="13" refreshCnt="1" refreshCost="[[2,100,50],[2,100,100],[2,100,150],[2,100,200],[2,100,200],[2,100,200],[2,100,200],[2,100,200]]"  />
+    <ItemSpec id="100201" lvl="1" cond="[[17,2]]" prodQty="6" refreshCnt="0"  />
+    <ItemSpec id="100202" lvl="2" cond="[[17,3]]" prodQty="11" refreshCnt="0"  />
+    <ItemSpec id="100203" lvl="3" cond="[[17,4]]" prodQty="14" refreshCnt="0"  />
+    <ItemSpec id="100204" lvl="4" prodQty="15" refreshCnt="0"  />
+    <ItemSpec id="100301" lvl="1" prodQty="15" refreshCnt="0" prodRefreshRandom="[100301,100302,100303,100304,100305,100306,100307,100308,100309,100310,100311,100312,100313,100314,100315]"  />
+    <ItemSpec id="100401" prodQty="3" refreshCnt="0"  />
+    <ItemSpec id="100402" prodQty="5" refreshCnt="0"  />
+    <ItemSpec id="100403" prodQty="6" refreshCnt="0"  />
+    <ItemSpec id="100404" prodQty="9" refreshCnt="0"  />
+    <ItemSpec id="100405" prodQty="11" refreshCnt="0"  />
+    <ItemSpec id="100406" prodQty="13" refreshCnt="0"  />
+    <ItemSpec id="100407" prodQty="15" refreshCnt="0"  />
+    <ItemSpec id="100501" lvl="1" prodQty="16" refreshCnt="0"  />
+
+</tns:database>

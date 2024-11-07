@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="111001" stageBattle="111001" reward="[[3,25,3,1]]"  />
+    <ItemSpec id="111002" stageBattle="111002" reward="[[2,105,300]]"  />
+    <ItemSpec id="111003" stageBattle="111003" reward="[[2,105,300]]"  />
+    <ItemSpec id="111004" stageBattle="111004" reward="[[2,105,300],[4,10103,0,0,1]]"  />
+    <ItemSpec id="111005" stageBattle="111005" reward="[[2,105,300],[4,10104,0,0,1]]"  />
+    <ItemSpec id="111006" stageBattle="111006" reward="[[2,105,300],[4,10201,0,0,1]]" transferLocation="[95,40]"  />
+    <ItemSpec id="111007" stageBattle="111007" reward="[[2,105,300],[4,10202,0,0,1]]" transferLocation="[95,40]"  />
+    <ItemSpec id="111008" stageBattle="111008" reward="[[2,105,300],[4,10203,0,0,1]]" transferLocation="[95,40]"  />
+    <ItemSpec id="111009" stageBattle="111009" reward="[[2,105,300],[4,10204,0,0,1]]" transferLocation="[95,40]"  />
+    <ItemSpec id="111010" stageBattle="111010" reward="[[2,105,300],[6,5104,0,1],[4,20101,0,0,1]]"  />
+    <ItemSpec id="1110011" stageBattle="1110011" reward="[[2,105,300],[4,10301,0,0,1],[4,10302,0,0,1]]"  />
+    <ItemSpec id="111012" stageBattle="111012" reward="[[2,105,300]]"  />
+    <ItemSpec id="111013" stageBattle="111013" reward="[[2,105,300]]"  />
+    <ItemSpec id="111014" stageBattle="111014" reward="[[2,105,300]]"  />
+    <ItemSpec id="111015" stageBattle="111015" reward="[[2,105,300]]"  />
+    <ItemSpec id="111016" stageBattle="111016" reward="[[2,105,300]]"  />
+    <ItemSpec id="111017" stageBattle="111017" reward="[[2,105,300]]"  />
+    <ItemSpec id="111018" stageBattle="111018" reward="[[2,105,300]]"  />
+    <ItemSpec id="111019" stageBattle="111019" reward="[[2,105,300]]"  />
+    <ItemSpec id="111020" stageBattle="111020" reward="[[2,105,300]]"  />
+    <ItemSpec id="111021" stageBattle="111021" reward="[[2,105,300]]"  />
+    <ItemSpec id="111022" stageBattle="111022" reward="[[2,105,300]]"  />
+    <ItemSpec id="111023" stageBattle="111023" reward="[[2,105,300]]"  />
+    <ItemSpec id="111024" stageBattle="111024" reward="[[2,105,300]]"  />
+    <ItemSpec id="111025" stageBattle="111025" reward="[[2,105,300]]"  />
+    <ItemSpec id="111026" stageBattle="111026" reward="[[2,105,300]]"  />
+
+</tns:database>

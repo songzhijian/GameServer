@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tns:database xmlns:tns="http://www.iw.com/sns/platform/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ItemSpec id="1" onlineValue="60" reward="[[2,100,10]]"  />
+    <ItemSpec id="2" onlineValue="180" reward="[[2,102,100]]"  />
+    <ItemSpec id="3" onlineValue="360" reward="[[2,105,2000]]"  />
+    <ItemSpec id="4" onlineValue="600" reward="[[2,110,300]]"  />
+    <ItemSpec id="5" onlineValue="900" reward="[[1,1102,3]]"  />
+    <ItemSpec id="6" onlineValue="1260" reward="[[1,2051,50]]"  />
+    <ItemSpec id="7" onlineValue="1800" reward="[[4,30101,0,0,1]]"  />
+    <ItemSpec id="8" onlineValue="2520" reward="[[2,104,200]]"  />
+    <ItemSpec id="9" onlineValue="3420" reward="[[1,1001,20]]"  />
+    <ItemSpec id="10" onlineValue="4620" reward="[[2,101,10000]]"  />
+    <ItemSpec id="11" onlineValue="6420" reward="[[2,100,100]]"  />
+    <ItemSpec id="12" onlineValue="9120" reward="[[4,50201,0,0,1]]"  />
+    <ItemSpec id="13" onlineValue="12720" reward="[[1,2052,50]]"  />
+    <ItemSpec id="14" onlineValue="18120" reward="[[2,100,500]]"  />
+    <ItemSpec id="15" onlineValue="25320" reward="[[1,8001,1]]"  />
+    <ItemSpec id="16" onlineValue="39720" reward="[[2,110,1500]]"  />
+    <ItemSpec id="101" onlineValue="60" reward="[[2,105,1700]]" upgradeCondition="[[1,1102]]" nextId="201"  />
+    <ItemSpec id="102" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1102]]" nextId="202"  />
+    <ItemSpec id="103" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1102]]" nextId="203"  />
+    <ItemSpec id="104" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1102]]" nextId="204"  />
+    <ItemSpec id="201" onlineValue="60" reward="[[2,105,1700]]" upgradeCondition="[[1,1103]]" nextId="301"  />
+    <ItemSpec id="202" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1103]]" nextId="302"  />
+    <ItemSpec id="203" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1103]]" nextId="303"  />
+    <ItemSpec id="204" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1103]]" nextId="304"  />
+    <ItemSpec id="301" onlineValue="60" reward="[[2,105,1700]]" upgradeCondition="[[1,1104]]" nextId="401"  />
+    <ItemSpec id="302" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1104]]" nextId="402"  />
+    <ItemSpec id="303" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1104]]" nextId="403"  />
+    <ItemSpec id="304" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1104]]" nextId="404"  />
+    <ItemSpec id="401" onlineValue="60" reward="[[2,105,1700]]" upgradeCondition="[[1,1105]]" nextId="501"  />
+    <ItemSpec id="402" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1105]]" nextId="502"  />
+    <ItemSpec id="403" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1105]]" nextId="503"  />
+    <ItemSpec id="404" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1105]]" nextId="504"  />
+    <ItemSpec id="501" onlineValue="60" reward="[[2,105,1700]]" upgradeCondition="[[1,1106]]" nextId="601"  />
+    <ItemSpec id="502" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1106]]" nextId="602"  />
+    <ItemSpec id="503" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1106]]" nextId="603"  />
+    <ItemSpec id="504" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1106]]" nextId="604"  />
+    <ItemSpec id="601" onlineValue="60" reward="[[2,105,2700]]" upgradeCondition="[[1,1107]]" nextId="701"  />
+    <ItemSpec id="602" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1107]]" nextId="702"  />
+    <ItemSpec id="603" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1107]]" nextId="703"  />
+    <ItemSpec id="604" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1107]]" nextId="704"  />
+    <ItemSpec id="701" onlineValue="60" reward="[[2,105,2700]]" upgradeCondition="[[1,1108]]" nextId="801"  />
+    <ItemSpec id="702" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1108]]" nextId="802"  />
+    <ItemSpec id="703" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1108]]" nextId="803"  />
+    <ItemSpec id="704" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1108]]" nextId="804"  />
+    <ItemSpec id="801" onlineValue="60" reward="[[2,105,3800]]" upgradeCondition="[[1,1109]]" nextId="901"  />
+    <ItemSpec id="802" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1109]]" nextId="902"  />
+    <ItemSpec id="803" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1109]]" nextId="903"  />
+    <ItemSpec id="804" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1109]]" nextId="904"  />
+    <ItemSpec id="901" onlineValue="60" reward="[[2,105,5300]]" upgradeCondition="[[1,1110]]" nextId="1001"  />
+    <ItemSpec id="902" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1110]]" nextId="1002"  />
+    <ItemSpec id="903" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1110]]" nextId="1003"  />
+    <ItemSpec id="904" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1110]]" nextId="1004"  />
+    <ItemSpec id="1001" onlineValue="60" reward="[[2,105,8100]]" upgradeCondition="[[1,1111]]" nextId="1101"  />
+    <ItemSpec id="1002" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1111]]" nextId="1102"  />
+    <ItemSpec id="1003" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1111]]" nextId="1103"  />
+    <ItemSpec id="1004" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1111]]" nextId="1104"  />
+    <ItemSpec id="1101" onlineValue="60" reward="[[2,105,14000]]" upgradeCondition="[[1,1112]]" nextId="1201"  />
+    <ItemSpec id="1102" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1112]]" nextId="1202"  />
+    <ItemSpec id="1103" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1112]]" nextId="1203"  />
+    <ItemSpec id="1104" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1112]]" nextId="1204"  />
+    <ItemSpec id="1201" onlineValue="60" reward="[[2,105,23000]]" upgradeCondition="[[1,1113]]" nextId="1301"  />
+    <ItemSpec id="1202" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1113]]" nextId="1302"  />
+    <ItemSpec id="1203" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1113]]" nextId="1303"  />
+    <ItemSpec id="1204" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1113]]" nextId="1304"  />
+    <ItemSpec id="1301" onlineValue="60" reward="[[2,105,30000]]" upgradeCondition="[[1,1114]]" nextId="1401"  />
+    <ItemSpec id="1302" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1114]]" nextId="1402"  />
+    <ItemSpec id="1303" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1114]]" nextId="1403"  />
+    <ItemSpec id="1304" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1114]]" nextId="1404"  />
+    <ItemSpec id="1401" onlineValue="60" reward="[[2,105,39000]]" upgradeCondition="[[1,1115]]" nextId="1501"  />
+    <ItemSpec id="1402" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1115]]" nextId="1502"  />
+    <ItemSpec id="1403" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1115]]" nextId="1503"  />
+    <ItemSpec id="1404" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1115]]" nextId="1504"  />
+    <ItemSpec id="1501" onlineValue="60" reward="[[2,105,48000]]" upgradeCondition="[[1,1116]]" nextId="1601"  />
+    <ItemSpec id="1502" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1116]]" nextId="1602"  />
+    <ItemSpec id="1503" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1116]]" nextId="1603"  />
+    <ItemSpec id="1504" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1116]]" nextId="1604"  />
+    <ItemSpec id="1601" onlineValue="60" reward="[[2,105,59000]]" upgradeCondition="[[1,1117]]" nextId="1701"  />
+    <ItemSpec id="1602" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1117]]" nextId="1702"  />
+    <ItemSpec id="1603" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1117]]" nextId="1703"  />
+    <ItemSpec id="1604" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1117]]" nextId="1704"  />
+    <ItemSpec id="1701" onlineValue="60" reward="[[2,105,70000]]" upgradeCondition="[[1,1118]]" nextId="1801"  />
+    <ItemSpec id="1702" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1118]]" nextId="1802"  />
+    <ItemSpec id="1703" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1118]]" nextId="1803"  />
+    <ItemSpec id="1704" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1118]]" nextId="1804"  />
+    <ItemSpec id="1801" onlineValue="60" reward="[[2,105,81000]]" upgradeCondition="[[1,1119]]" nextId="1901"  />
+    <ItemSpec id="1802" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1119]]" nextId="1902"  />
+    <ItemSpec id="1803" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1119]]" nextId="1903"  />
+    <ItemSpec id="1804" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1119]]" nextId="1904"  />
+    <ItemSpec id="1901" onlineValue="60" reward="[[2,105,95000]]" upgradeCondition="[[1,1120]]" nextId="2001"  />
+    <ItemSpec id="1902" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1120]]" nextId="2002"  />
+    <ItemSpec id="1903" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1120]]" nextId="2003"  />
+    <ItemSpec id="1904" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1120]]" nextId="2004"  />
+    <ItemSpec id="2001" onlineValue="60" reward="[[2,105,110000]]" upgradeCondition="[[1,1121]]" nextId="2101"  />
+    <ItemSpec id="2002" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1121]]" nextId="2102"  />
+    <ItemSpec id="2003" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1121]]" nextId="2103"  />
+    <ItemSpec id="2004" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1121]]" nextId="2104"  />
+    <ItemSpec id="2101" onlineValue="60" reward="[[2,105,130000]]" upgradeCondition="[[1,1122]]" nextId="2201"  />
+    <ItemSpec id="2102" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1122]]" nextId="2202"  />
+    <ItemSpec id="2103" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1122]]" nextId="2203"  />
+    <ItemSpec id="2104" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1122]]" nextId="2204"  />
+    <ItemSpec id="2201" onlineValue="60" reward="[[2,105,140000]]" upgradeCondition="[[1,1123]]" nextId="2301"  />
+    <ItemSpec id="2202" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1123]]" nextId="2302"  />
+    <ItemSpec id="2203" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1123]]" nextId="2303"  />
+    <ItemSpec id="2204" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1123]]" nextId="2304"  />
+    <ItemSpec id="2301" onlineValue="60" reward="[[2,105,160000]]" upgradeCondition="[[1,1124]]" nextId="2401"  />
+    <ItemSpec id="2302" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1124]]" nextId="2402"  />
+    <ItemSpec id="2303" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1124]]" nextId="2403"  />
+    <ItemSpec id="2304" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1124]]" nextId="2404"  />
+    <ItemSpec id="2401" onlineValue="60" reward="[[2,105,180000]]" upgradeCondition="[[1,1125]]" nextId="2501"  />
+    <ItemSpec id="2402" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1125]]" nextId="2502"  />
+    <ItemSpec id="2403" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1125]]" nextId="2503"  />
+    <ItemSpec id="2404" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1125]]" nextId="2504"  />
+    <ItemSpec id="2501" onlineValue="60" reward="[[2,105,210000]]" upgradeCondition="[[1,1126]]" nextId="2601"  />
+    <ItemSpec id="2502" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1126]]" nextId="2602"  />
+    <ItemSpec id="2503" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1126]]" nextId="2603"  />
+    <ItemSpec id="2504" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1126]]" nextId="2604"  />
+    <ItemSpec id="2601" onlineValue="60" reward="[[2,105,250000]]" upgradeCondition="[[1,1127]]" nextId="2701"  />
+    <ItemSpec id="2602" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1127]]" nextId="2702"  />
+    <ItemSpec id="2603" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1127]]" nextId="2703"  />
+    <ItemSpec id="2604" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1127]]" nextId="2704"  />
+    <ItemSpec id="2701" onlineValue="60" reward="[[2,105,280000]]" upgradeCondition="[[1,1128]]" nextId="2801"  />
+    <ItemSpec id="2702" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1128]]" nextId="2802"  />
+    <ItemSpec id="2703" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1128]]" nextId="2803"  />
+    <ItemSpec id="2704" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1128]]" nextId="2804"  />
+    <ItemSpec id="2801" onlineValue="60" reward="[[2,105,320000]]" upgradeCondition="[[1,1129]]" nextId="2901"  />
+    <ItemSpec id="2802" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1129]]" nextId="2902"  />
+    <ItemSpec id="2803" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1129]]" nextId="2903"  />
+    <ItemSpec id="2804" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1129]]" nextId="2904"  />
+    <ItemSpec id="2901" onlineValue="60" reward="[[2,105,370000]]" upgradeCondition="[[1,1130]]" nextId="3001"  />
+    <ItemSpec id="2902" onlineValue="300" reward="[[1,1141,5]]" upgradeCondition="[[1,1130]]" nextId="3002"  />
+    <ItemSpec id="2903" onlineValue="900" reward="[[1,1102,2]]" upgradeCondition="[[1,1130]]" nextId="3003"  />
+    <ItemSpec id="2904" onlineValue="1800" reward="[[2,100,30]]" upgradeCondition="[[1,1130]]" nextId="3004"  />
+    <ItemSpec id="3001" onlineValue="60" reward="[[2,105,420000]]"  />
+    <ItemSpec id="3002" onlineValue="300" reward="[[1,1141,5]]"  />
+    <ItemSpec id="3003" onlineValue="900" reward="[[1,1102,2]]"  />
+    <ItemSpec id="3004" onlineValue="1800" reward="[[2,100,30]]"  />
+
+</tns:database>
